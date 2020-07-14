@@ -12,11 +12,17 @@ At Quicklook.com, Ladies and Gentlemen can trade and share exciting stories to b
 We are excited about…
 
  • Getting more ambitious things done.
+
  • Taking the long-term view.
+
  • Empowering great entrepreneurs and companies to flourish.
+
  • Investing at the scale of the opportunities and resources we see.
+
  • Improving the transparency and oversight of what we’re doing.
+
  • Making Quicklook even better through greater focus.
+
  • And hopefully… as a result of all this, improving the lives of as many people as we can.
 
 What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
