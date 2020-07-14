@@ -1168,8 +1168,9 @@ label.srs-toggle {
 }
 
 #copyright-notice {
-    font-size: 0.7rem;
-    font-weight: 700;
+    font-size: 10px;
+    font-weight: 400;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* IE-SPECIFIC STYLING */
