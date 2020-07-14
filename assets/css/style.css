@@ -5,8 +5,25 @@ layout: stylesheet
 /******************************************************
  *             PREDEFINE TAGS CSS                     *
 *******************************************************/
+@font-face {
+    font-family: 'UntitledTTF';
+    src: url('/fonts/UntitledTTF.woff2') format('woff2'),
+        url('fonts/UntitledTTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@font-face {
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv';
+    src: url('/fonts/Cmgunyhpukpuuockazuaznxkkqv.woff2') format('woff2'),
+        url('/fonts/Cmgunyhpukpuuockazuaznxkkqv.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 @import "/assets/css/highlight.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
@@ -83,15 +100,15 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #555555;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: #292929;
+    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
-    color: #555555;
-    font-family:  'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 16px;  /* Let's set the font-size to something old-man friendly */
+    color: rgba(0, 0, 0, 0.75);
+    font-family:  serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 18px;  /* Let's set the font-size to something old-man friendly */
 }
 
 p a,
@@ -151,7 +168,7 @@ code {
     background-color: #f7f7f7;
     border-radius: 5px;
     border: none;
-    font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 }
 
 .serif code {
@@ -159,7 +176,7 @@ code {
     background-color: #f7f7f7;
     border-radius: 5px;
     border: none;
-    font-family: 'EB Garamond', Georgia, serif !important;
+    font-family: 'Old Standard TT', Georgia, serif !important;
 }
 
 
@@ -262,8 +279,8 @@ hr {
 }
 
 .site-heading h4 {
-    color: #555555;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: #757575;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
@@ -290,7 +307,7 @@ hr {
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 .avatar-img {
@@ -343,9 +360,9 @@ hr {
 }
 
 .link-to-notes a {
-    color: #4183c4;
+    color: #4183C4;
     text-decoration: none;
-    font-family: 'IBM Plex Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', 'IBM Plex Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
     margin-left: -3px;
 }
@@ -393,16 +410,16 @@ hr {
    margin-top: auto;
    margin-left: auto;
    text-align: center;
-   font-weight: 600;
+   font-weight: 500;
    font-size: 0.7rem; 
-   font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-   color: #555555; 
+   font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+   color: #757575; 
 }
 
 .icon-home, .icon-category, .icon-projects, .icon-rss {
     margin-top: 7px;
     justify-content: center;
-    stroke: #555555;
+    stroke: #757575;
 }
 
 
@@ -431,7 +448,7 @@ hr {
 
 .notes-page-site-heading a {
     text-decoration: none;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
     font-size: 13px;
     font-stretch: ultra-condensed;
@@ -441,16 +458,16 @@ hr {
 .notes-page-main-heading {
     margin-top: -25px;
     padding-left: 5px;
-    font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 
 .notes-page-heading {
-    color: #555555;
+    color: #757575;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 500;
     padding-top: 15px;
-    font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 .notes-page-heading a {
@@ -521,11 +538,11 @@ hr {
 }
 
 .title-sans {
-    font-family: Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 }
 
 .regular-sans {
-    font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 }
 
 .bold {
@@ -606,7 +623,7 @@ hr {
     width: 100%;
     height: 40px;
     border: 0px;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
     border-bottom: 1px solid #f7f7f7;
@@ -616,7 +633,7 @@ hr {
 ::placeholder {
     color: #999;
     font-size: 18px;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
 }
 .searchbar i {
     position: absolute;
@@ -652,6 +669,7 @@ hr {
 }
 
 .search_res:hover > a {
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
 }
 
@@ -662,7 +680,7 @@ hr {
 .back-icon {
     background-color: white;
     fill: currentColor;
-    color: #555555;
+    color: #757575;
     margin-top: 5px;
     padding-left: 5px; 
     fill: currentColor;
@@ -676,10 +694,11 @@ hr {
 }
 
 .back-p {
-    color: #555555;
+    color: #;
     text-decoration: none;
     cursor: pointer;
-    font-weight: 600;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-weight: 500;
 }
 
 
@@ -715,21 +734,21 @@ hr {
 }
 
 .feed-title {
-    color: #555555;
+    color: rgba(0, 0, 0, 0.84);
     margin-left: 20px;
     margin-right: 50px;
-    font-size: 16px;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 18px;
+    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }
 
 .feed-excerpt{
-    color: #555555;
+    color: rgba(0, 0, 0, 0.54);
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
-    font-family:  'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 15px;
+    font-family:  'Segoe UI', 'IBM Plex Sans', Inter, Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px;
 }
 
 .tags {
@@ -752,13 +771,13 @@ hr {
     border-radius: 32px;
     height: auto;
     vertical-align: middle;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: normal !important;
     font-size: 13px;
 }
 
 .content a {
-    color: #4183c4;
+    color: #4183C4;
     text-decoration: none;
 }
 
@@ -770,7 +789,7 @@ hr {
 .mn-right {
     float: right;
     clear: right;
-    font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     font-size: 14px;
     margin-right: -45%;
     width: 40%;
@@ -785,7 +804,7 @@ hr {
 .mn-left {
     float: left;
     clear: left;
-    font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     font-size: 14px;
     margin-left: -45%;
     width: 40%;
@@ -803,7 +822,7 @@ hr {
 .sidenote-number:after,
 .sn-left:before,
 .sn-right:before {
-    font-family: 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     position: relative;
     vertical-align: baseline; 
 }
@@ -1015,7 +1034,7 @@ label.srs-toggle {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 12px !important;
-    font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
 }
 
@@ -1033,6 +1052,8 @@ label.srs-toggle {
     padding-left: 10px;
     padding-right: 5px;
     font-size: 12px !important;
+    font-family:  'Segoe UI', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-weight: 400;
 }
 
 .scroll-to-top {
@@ -1128,7 +1149,7 @@ label.srs-toggle {
   color: #555;
   text-decoration: none;
   font-size: 12px;
-  font-family: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 .context-menu__link:hover {
@@ -1146,8 +1167,9 @@ label.srs-toggle {
 }
 
 #copyright-notice {
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     font-size: 0.7rem;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 /* IE-SPECIFIC STYLING */
@@ -1417,4 +1439,5 @@ label.margin-toggle:not(.sidenote-number) {
     border: none !important;
 }
 }
+
 
