@@ -11,19 +11,13 @@ At Quicklook.com, Ladies and Gentlemen can trade and share exciting stories to b
 
 We are excited about…
 
- • Getting more ambitious things done.
-
- • Taking the long-term view.
-
- • Empowering great entrepreneurs and companies to flourish.
-
- • Investing at the scale of the opportunities and resources we see.
-
- • Improving the transparency and oversight of what we’re doing.
-
- • Making Quicklook even better through greater focus.
-
- • And hopefully… as a result of all this, improving the lives of as many people as we can.
+- Getting more ambitious things done.
+- Taking the long-term view.
+- Empowering great entrepreneurs and companies to flourish.
+- Investing at the scale of the opportunities and resources we see.
+- Improving the transparency and oversight of what we’re doing.
+- Making Quicklook even better through greater focus.
+- And hopefully… as a result of all this, improving the lives of as many people as we can.
 
 What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
 
@@ -33,7 +27,7 @@ What could be better? No wonder we are excited to get to work with everyone anyw
 
 [[Twitter::https://twitter.com/Quicklook102]] – Shoot me a dm or just tweet ***@Quicklook102***. I am not really into professional social media circle but anyway here is my [[linkedin::https://www.linkedin.com/in/quicklook-inc-586967173/]] just in case.
     
-Ho Chi Minh is pretty large, so I can’t promise but If you happen to be in Bangalore by chance and want to chat, drop an email([[ndan.hcmc@gmail.com::mailto:ndan.hcmc@gmail.com]]) and include [Coffee] in the subject line, and we can work something out.
+Ho Chi Minh is pretty large, so I can’t promise but If you happen to be in Bangalore by chance and want to chat, drop an email ([[ndan.hcmc@gmail.com::mailto:ndan.hcmc@gmail.com]]) and include [Coffee] in the subject line, and we can work something out.
 
 If you like anything about who I am or what I do, please do follow me or reach out to me. Don’t hesitate.
 
