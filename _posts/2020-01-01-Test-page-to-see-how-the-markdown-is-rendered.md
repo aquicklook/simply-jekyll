@@ -22,6 +22,7 @@ This is intended as a quick reference and showcase.
 ### Headings 
 ---
 
+$e=mc^2$
 {:.regular-sans}
 ```
 # H1 
