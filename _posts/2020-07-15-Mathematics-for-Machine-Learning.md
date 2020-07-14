@@ -4,7 +4,7 @@ tags: sci
 status: processing
 ---
 
-### Abouts
+### About
 
 ___
 
@@ -12,7 +12,7 @@ Machine learning uses tools from a variety of mathematical fields. This document
 
 Note that this document concerns math background for machine learning, not machine learning itself. We will not discuss specific machine learning models or algorithms except possibly in passing  to highlight the relevance of a mathematical concept.
 
-### Notations
+### Notation
 
 ___
 
