@@ -477,10 +477,11 @@ hr {
 
 .notes-page-tagline {
     color: #888888;
-    margin-top: -17px; 
+    margin-top: -14px; 
     color: #888888;
     font-size: 15px; 
-    font-weight: 400; 
+    font-weight: 400;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 .notes-page-tagline a {
