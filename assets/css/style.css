@@ -451,7 +451,7 @@ hr {
     text-decoration: none;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
-    font-size: 13px;
+    font-size: 16px;
     font-stretch: ultra-condensed;
     padding-left: 5px;
 }
@@ -466,7 +466,7 @@ hr {
 .notes-page-heading {
     color: #555555;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 400;
     padding-top: 15px;
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
@@ -479,13 +479,13 @@ hr {
     color: #888888;
     margin-top: -17px; 
     color: #888888;
-    font-size: 0.7rem; 
+    font-size: 15px; 
     font-weight: 400; 
 }
 
 .notes-page-tagline a {
     text-decoration: none;
-    font-style: oblique;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* Utilities: Disable Selection, Kramdown TOC */
