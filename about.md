@@ -5,49 +5,33 @@ permalink: /about/
 content-type: eg
 ---
 
-As of now, I am a programmer with expertise in System Programming (especially C++), who is also interested in Computer Graphics, Compiler Design, and Some Embedded Systems. [[Here::https://github.com/raghuveerdotnet]] is my coding scratchpad if you are interested.
+The Internet has changed business, education, government, healthcare, and even the ways in which we interact with our loved ones—it has become one of the key drivers of social evolution. By creating a space for people to share, expressly improve, and seek opportunities to promote brand value.
 
-Over the course of time, I have developed interest in many things including cognitive science, mathematics, and philosophy; and my personal penchant is to one day create a software system that I call the CogShell (Short for the  Cognitive Shell[[See my writeup on it: [here](/posts/cogshell)::rsn]]): A highly interconnnected software toolkit with all the essential tools to support thought continuity through tacit object permanance.
+At Quicklook.com, Ladies and Gentlemen can trade and share exciting stories to build a civilized community, thus bringing their brand to overcome the barriers of geography and times. We always believe Quicklook will bring the best values to people.
 
+We are excited about…
 
-I have a podcast by the same name called the "[[Knowledge Continuum::https://open.spotify.com/show/5zR7IUdCZAtP0m4Ef8bMgs]]".
+ • Getting more ambitious things done.
+ • Taking the long-term view.
+ • Empowering great entrepreneurs and companies to flourish.
+ • Investing at the scale of the opportunities and resources we see.
+ • Improving the transparency and oversight of what we’re doing.
+ • Making Quicklook even better through greater focus.
+ • And hopefully… as a result of all this, improving the lives of as many people as we can.
+
+What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
 
 ---
 
 ## Reach out to me
 
-[[Twitter::https://twitter.com/raghuveerdotnet]] – Shoot me a dm or just tweet ***@raghuveerdotnet***. I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[linkedin::https://www.linkedin.com/in/sraghuveer/]] just in case.
+[[Twitter::https://twitter.com/Quicklook102]] – Shoot me a dm or just tweet ***@Quicklook102***. I am not really into professional social media circle but anyway here is my [[linkedin::https://www.linkedin.com/in/quicklook-inc-586967173/]] just in case.
     
-Bangalore is pretty large, so I can’t promise but If you happen to be in Bangalore by chance and want to chat, drop an email([[raghu@raghuveer.net::mailto:raghu@raghuveer.net]]) and include [Coffee] in the subject line, and we can work something out.
+Ho Chi Minh is pretty large, so I can’t promise but If you happen to be in Bangalore by chance and want to chat, drop an email([[ndan.hcmc@gmail.com::mailto:ndan.hcmc@gmail.com]]) and include [Coffee] in the subject line, and we can work something out.
 
 If you like anything about who I am or what I do, please do follow me or reach out to me. Don’t hesitate.
 
 ---
-
-## About the website
-
-Features:
-
-- **Page preview** (Move your mouse over the link): [[Test note to verify features on this website]] 
-- **Transclusion**: Allows you to see a partial view of the contents of the website to the right or the left of the margin.
-- **Sidenotes** (Changelog you see on the left is an example of this).
-- **Wiki-style link:** Usually wikis allow you to specify links using double bracket, I added it here using liquid. Also added bad-link highlighting
-   - Good link: [[Test note to verify features on this website]]
-   - Bad link: [[Title of a page that doesn't exist]]
-
-
-Some Less know features:
-
-- Go back to the blog home or to the notes page, and try to right click on any of the entry. [Hint: Zettelkasten]
-
-- Click this card[[Memorize me so that you do well in your exams::srs]] looking thing to know how I use my notes. [Hint: SRS]
-
-Other Details:
-
-- Domain is registered with Google Domains
-- The site lives on [[Github::https://github.com/raghuveerdotnet/raghuveerdotnet.github.io]].
-- This website is statically generated using Jekyll from a set of Markdown files.
-
 
 ### FAQ
 
