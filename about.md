@@ -5,6 +5,8 @@ permalink: /about/
 content-type: eg
 ---
 
+---
+
 The Internet has changed business, education, government, healthcare, and even the ways in which we interact with our loved ones—it has become one of the key drivers of social evolution. By creating a space for people to share, expressly improve, and seek opportunities to promote brand value.
 
 At Quicklook.com, Ladies and Gentlemen can trade and share exciting stories to build a civilized community, thus bringing their brand to overcome the barriers of geography and times. We always believe Quicklook will bring the best values to people.
@@ -37,9 +39,5 @@ If you like anything about who I am or what I do, please do follow me or reach o
 
 {:.regular-sans}
 ```
-Quicklook’s corporate mission is “to organize the world’s product infomation and make it symmetric and useful.”
-***
-Our business philosophy is “continuous improvement to survive and develop”.
-***
-Our goal is “to global brand”.
+Quicklook’s corporate mission is “to organize the world’s product infomation and make it symmetric and useful.” Our business philosophy is “continuous improvement to survive and develop”. Our goal is “to global brand”.
 ```
