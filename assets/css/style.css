@@ -466,7 +466,7 @@ hr {
 .notes-page-heading {
     color: #555555;
     font-size: 15px;
-    font-weight: 600;
+    font-weight: 500;
     padding-top: 15px;
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
@@ -480,7 +480,7 @@ hr {
     margin-top: -17px; 
     color: #888888;
     font-size: 0.7rem; 
-    font-weight: 550; 
+    font-weight: 400; 
 }
 
 .notes-page-tagline a {
