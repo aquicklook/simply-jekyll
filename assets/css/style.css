@@ -240,7 +240,7 @@ cite {
 
 blockquote p {
     font-family: inherit;
-    font-size: inherit;
+    font-size: 21px;
 }
 
 table {
@@ -256,7 +256,7 @@ th, td {
 }
 
 td {
-   font-size: 14px;
+   font-size: 13px;
 }
 
 td a {
