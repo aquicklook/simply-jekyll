@@ -8,8 +8,8 @@ Toán học là một ngành đặc thù bởi tính trừu tượng của nó, 
 
 - **Quy tắc ba bước**. Bạn không thể đọc toán giống như cách bạn đọc báo hay tiểu thuyết.
 
-    - Bước 1: Trả lời câu hỏi: "Ý tưởng chủ đạo của chương này là gì?". 
-    - Bước 2: Tìm hiểu các định nghĩa, định lý và công thức mà bạn gặp phải.
-    - Bước 3: Nghiên cứu các ví dụ, hình ảnh và tìm hiểu thêm ở phần *index* và *phụ lục* đi kèm với từng vấn đề cụ thể (nếu có).
-    - **Note**: Lặp lại các bước ở trên[[Bên cạnh đó, bạn nên dùng giấy và bút để ghi chú hoặc kiểm tra lại bất kỳ thông tin nào mà bạn đang cảm thấy nghi ngờ, đưa ra các ví dụ hoặc tự hỏi về các trường hợp đặc biệt của các định lý.<br/>::lsn]] cho đến khi bạn nắm được toàn bộ nội dung của nó.
+...*_Bước 1_: Trả lời câu hỏi: "Ý tưởng chủ đạo của chương này là gì?". 
+...*_Bước 2_: Tìm hiểu các định nghĩa, định lý và công thức mà bạn gặp phải.
+...*_Bước 3_: Nghiên cứu các ví dụ, hình ảnh và tìm hiểu thêm ở phần *index* và *phụ lục* đi kèm với từng vấn đề cụ thể (nếu có).
+...*_Note_: Lặp lại các bước ở trên[[Bên cạnh đó, bạn nên dùng giấy và bút để ghi chú hoặc kiểm tra lại bất kỳ thông tin nào mà bạn đang cảm thấy nghi ngờ, đưa ra các ví dụ hoặc tự hỏi về các trường hợp đặc biệt của các định lý.<br/>::lsn]] cho đến khi bạn nắm được toàn bộ nội dung của nó.
 
