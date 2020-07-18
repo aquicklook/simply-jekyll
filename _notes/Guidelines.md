@@ -1,13 +1,8 @@
 ---
-tags: reading
+tags: guidelines
 ---
 
-Fractalize your mental patterns instead of reading as a whole (i.e., one single pattern, where the mood of the act is associated with the ego), that way you will be able to selectively associate yourself with a book instead of the act of reading. Most people stop reading when they are bored of reading, but by fractalizing your mental patterns you will be able to dissociate yourself from that particular book and move on to another book instead of stopping reading altogether.
+Toán học là một ngành đặc thù bởi tính trừu tượng của nó, vì vậy nên cách đọc nó cũng khác  so với những cách đọc thông thường. Dưới đây là một số lời khuyên hữu ích để giúp bạn đọc toán hiệu quả hơn. 
 
-{:.serif .medium}
-> "Be bored with a book, not with the act of reading"<br/>
-> <cite>—Nassim Nicholas Taleb, Antifragile</cite>
+- **Tập trung vào khái niệm**. Chủ đề của toán rất đa dạng, vì vậy mà không có cách nào để học mọi kỹ thuật nhằm giải quyết vấn đề của chúng. Toán học là về ý tưởng. Các vấn đề toán học mà bạn tìm hiểu chính là biểu hiện của những ý tưởng này. Nếu bạn tập trung vào các khái niệm cơ bản của nó, bạn có thể giải quyết bất kỳ loại vấn đề nào (bao gồm cả những vấn đề bạn chưa từng thấy trước đây) liên quan đến các khái niệm đó.
 
-## References
-
-Taleb, Nicholas Nassim. (2015). _Antifragile_.
