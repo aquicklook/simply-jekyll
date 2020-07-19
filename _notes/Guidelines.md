@@ -2,10 +2,10 @@
 tags: guidelines
 ---
 
-##Notion
+Kết cấu của một định lý toán học gồm hai phần: phần tuyên bố[[Statement - Mô tả ý tưởng hay trình bày các điều kiện và kết luận đúng trong trường hợp của các điều kiện đã nêu<br/>::lsn]] và phần chứng minh. Việc nghiên cứu toán học chủ yếu xoay quanh 2 kết cấu cơ bản này. 
 
 
-Toán học là một ngành đặc thù bởi tính trừu tượng của nó, vì vậy nên cách đọc nó cũng khác so với cách đọc thông thường. Dưới đây là một số lời khuyên hữu ích giúp bạn đọc toán hiệu quả hơn. 
+## Reference
 
 **Tập trung vào khái niệm**.[[Toán học là ý tưởng. Các chủ đề toán học mà bạn tìm hiểu chính là biểu hiện của những ý tưởng này.<br/>::lsn]] Chủ đề của toán rất đa dạng, vì vậy mà không có cách nào để học tất cả các kỹ thuật nhằm giải quyết vấn đề của chúng. Nếu bạn tập trung vào khái niệm, bạn có thể giải quyết bất kỳ vấn đề nào (bao gồm cả những vấn đề bạn chưa từng thấy trước đây) liên quan đến các khái niệm đó.
 
