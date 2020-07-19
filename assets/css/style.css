@@ -717,9 +717,10 @@ hr {
 }
 
 .back-icon,
+    display: -webkit-inline-box;
 .back-p {
     vertical-align: middle;
-    display: -webkit-inline-box;
+    display: none;
 }
 
 .back-p {
