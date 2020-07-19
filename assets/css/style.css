@@ -719,7 +719,7 @@ hr {
 .back-icon,
 .back-p {
     vertical-align: middle;
-    display: none;
+    display: block;
 }
 
 .back-p {
