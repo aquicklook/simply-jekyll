@@ -128,9 +128,9 @@ h6 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #333333;
+    color: #121212;
     font-family:  'Exchange Book', 'Cmgunyhpukpuuockazuaznxkkqv', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-weight: 600;
+    font-weight: 700;
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
