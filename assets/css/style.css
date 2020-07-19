@@ -717,10 +717,9 @@ hr {
 }
 
 .back-icon,
-    display: -webkit-inline-box;
 .back-p {
     vertical-align: middle;
-    display: none;
+    display: -webkit-inline-box;
 }
 
 .back-p {
@@ -728,7 +727,7 @@ hr {
     text-decoration: none;
     cursor: pointer;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
-    font-weight: 00;
+    font-weight: 600;
 }
 
 
