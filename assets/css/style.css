@@ -104,15 +104,15 @@ main {
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
 
 h1 {
-    font-size: 27px;
+    font-size: 25px;
 }
 
 h2 {
-    font-size: 23px;
+    font-size: 19px;
 }
 
 h3 {
-    font-size: 19px;
+    font-size: 17px;
 }
 
 h4 {
