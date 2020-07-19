@@ -2,9 +2,7 @@
 tags: guidelines
 ---
 
-##Notiondas
-
-
+##Notion
 
 
 Toán học là một ngành đặc thù bởi tính trừu tượng của nó, vì vậy nên cách đọc nó cũng khác so với cách đọc thông thường. Dưới đây là một số lời khuyên hữu ích giúp bạn đọc toán hiệu quả hơn. 
