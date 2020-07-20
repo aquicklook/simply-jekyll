@@ -247,12 +247,15 @@ table {
     width: 100%;
     border-radius: 5px;
     border-collapse: collapse;
+    caption-side: top;
 }
 th, td {
     color: rgba(0, 0, 0, 0.75);
     padding: 8px;
     text-align: left;
     font-size: 18px;
+    border-top:1px solid gray;
+    border-bottom: 1px solid gray;
 }
 
 td {
