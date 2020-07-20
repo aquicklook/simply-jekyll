@@ -246,6 +246,7 @@ blockquote p {
 
 table {
     width: auto  !important;
+    margin: 0 auto;
     border-radius: 5px;
     border-collapse: collapse;
     caption-side: top;
