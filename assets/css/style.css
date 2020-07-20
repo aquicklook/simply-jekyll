@@ -252,7 +252,7 @@ table {
     border-bottom:1px solid gray;
 }
 
-<table style="float:center">
+<table style="float:center"></table>
 
 th {
     color: rgba(0, 0, 0, 0.75);
