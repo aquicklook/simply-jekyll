@@ -248,13 +248,14 @@ table {
     border-radius: 5px;
     border-collapse: collapse;
     caption-side: top;
+    border-top:1px solid gray;
+    border-bottom:1px solid gray;
 }
 th {
     color: rgba(0, 0, 0, 0.75);
     padding: 8px;
     text-align: left;
     font-size: 18px;
-    border-top:1px solid gray;
     border-bottom:1px solid gray;
 }
 
