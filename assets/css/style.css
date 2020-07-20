@@ -242,7 +242,8 @@ blockquote p {
     font-family: inherit;
     font-size: 15px;
 }
-<table style="float:center">
+
+
 table {
     width: auto  !important;
     border-radius: 5px;
@@ -277,7 +278,10 @@ td a {
     text-decoration: none;
 }
 
-</table>
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .item-title {
     color: #555;
