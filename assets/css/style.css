@@ -246,6 +246,7 @@ blockquote p {
 
 table {
     width: auto  !important;
+    float: center;
     border-radius: 5px;
     border-collapse: collapse;
     caption-side: top;
@@ -278,9 +279,6 @@ td a {
     text-decoration: none;
 }
 
-table.center {
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .item-title {
