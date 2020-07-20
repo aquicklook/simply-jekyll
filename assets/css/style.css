@@ -244,9 +244,9 @@ blockquote p {
 }
 
 table {
-    width: 90%;
+    width: 100%;
     border-radius: 5px;
-    border-collapse: collapse;
+    border-collapse: separate;
 }
 th, td {
     color: rgba(0, 0, 0, 0.75);
