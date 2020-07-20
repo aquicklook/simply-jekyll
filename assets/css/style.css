@@ -246,7 +246,7 @@ blockquote p {
 table {
     width: 100%;
     border-radius: 5px;
-    border-collapse: separate;
+    border-collapse: collapse;
 }
 th, td {
     color: rgba(0, 0, 0, 0.75);
@@ -284,7 +284,7 @@ tr {
 }
 
 thead tr:nth-child(odd) {
-    background-color: #f7f7f7; 
+    background-color: #000000; 
 }
 
 tbody tr:nth-child(even) {
