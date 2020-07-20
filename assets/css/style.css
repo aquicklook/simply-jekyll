@@ -284,11 +284,11 @@ tr {
 }
 
 thead tr:nth-child(odd) {
-    background-color: #000000; 
+    background-color: #ffffff; 
 }
 
 tbody tr:nth-child(even) {
-    background-color: #f7f7f7;
+    background-color: #fffffff;
 }
 
 hr {
