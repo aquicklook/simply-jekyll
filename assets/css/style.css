@@ -104,32 +104,32 @@ main {
 /* Phrasing Style: H1, H2, H3, H4, H5, H6, P, A, UL, LI */
 
 h1 {
-    font-size: 21px;
+    font-size: 32px;
 }
 
 h2 {
-    font-size: 19px;
+    font-size: 26px;
 }
 
 h3 {
-    font-size: 17px;
+    font-size: 22px;
 }
 
 h4 {
-    font-size: 15px;
+    font-size: 18px;
 }
 
 h5 {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 h6 {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: rgba(0, 0, 0, 0.9);
-    font-family:  serif, 'Cmgunyhpukpuuockazuaznxkkqv', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 700;
 }  
 
