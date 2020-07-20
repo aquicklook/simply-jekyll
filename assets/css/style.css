@@ -246,13 +246,14 @@ blockquote p {
 
 table {
     width: auto  !important;
-    margin: auto  !important;
     border-radius: 5px;
     border-collapse: collapse;
     caption-side: top;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
 }
+
+<table style="text-align:center;">
 
 th {
     color: rgba(0, 0, 0, 0.75);
