@@ -108,15 +108,15 @@ h1 {
 }
 
 h2 {
-    font-size: 26px;
+    font-size: 28px;
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 24px;
 }
 
 h4 {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h5 {
@@ -124,7 +124,7 @@ h5 {
 }
 
 h6 {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: rgba(0, 0, 0, 0.75);
-    font-family:  serif, 'Exchange Book', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 18px;  /* Let's set the font-size to something old-man friendly */
     line-height: 28px;
 }
