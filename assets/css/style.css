@@ -819,7 +819,7 @@ hr {
     float: right;
     clear: right;
     font-family: 'Exchange Book', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
-    font-size: 13px;
+    font-size: 16px;
     margin-right: -45%;
     width: 40%;
     margin-top: 0;
@@ -834,7 +834,7 @@ hr {
     float: left;
     clear: left;
     font-family: serif, 'Exchange Book', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
-    font-size: 13px;
+    font-size: 16px;
     margin-left: -45%;
     width: 40%;
     margin-top: 0;
