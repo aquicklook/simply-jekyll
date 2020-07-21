@@ -6,7 +6,7 @@ tags: Basic_Math
 
 ## Sets
 
-# Mapping
+## Mapping
 
 ## Funtions
 
