@@ -15,10 +15,20 @@ layout: stylesheet
     font-display: swap;
 }
 
+
 @font-face {
     font-family: 'milizon-content';
     src: url('/fonts/milizon-content-title-font.woff2') format('woff2'),
         url('/fonts/milizon-content-title-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Charter ITC';
+    src: url('/fonts/CharterITC-Regu.woff2') format('woff2'),
+        url('/fonts/CharterITC-Regu.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -156,7 +166,7 @@ h1, h2, h3 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: rgba(0, 0, 0, 0.75);
-    font-family:  Times, 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Charter ITC', Times, 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;  /* Let's set the font-size to something old-man friendly */
     line-height: 26px;
 }
