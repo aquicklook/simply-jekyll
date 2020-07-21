@@ -139,21 +139,25 @@ main {
 /* Phrasing Style: H1, H2, H3, P, A, UL, LI */
 
 h1 {
-    font-size: 22px;
+    font-size: 40px;
+    line-height: 44px;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 30px;
+    line-height: 33px;
 }
 
 h3 {
-    font-size: 18px;
+    font-size: 20px;
+    line-height: 22px;
 }
 
 h1, h2, h3 {
     color: rgba(0, 0, 0, 0.75);
     font-family:  'milizon-content', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
+    
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
