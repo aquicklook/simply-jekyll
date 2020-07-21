@@ -2,14 +2,14 @@
 tags: Basic_Math
 ---
 
-# Logicial
+## Logicial
 
-# Sets
+## Sets
 
 # Mapping
 
-# Funtions
+## Funtions
 
-# Vector
+## Vector
 
-# Matrix
+## Matrix
