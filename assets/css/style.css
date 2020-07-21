@@ -15,7 +15,14 @@ layout: stylesheet
     font-display: swap;
 }
 
-
+@font-face {
+    font-family: 'milizon-content';
+    src: url('/fonts/milizon-content-title-font.woff2') format('woff2'),
+        url('/fonts/milizon-content-title-font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 @font-face {
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv';
@@ -142,8 +149,8 @@ h3 {
 }
 
 h1, h2, h3 {
-    color: rgba(0, 0, 0, 0.9);
-    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.75);
+    font-family:  'milizon-content', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }  
 
