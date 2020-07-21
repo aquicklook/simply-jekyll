@@ -2,16 +2,14 @@
 tags: Basic_Math
 ---
 
-# 1 Preliminaries
+# Logicial
 
-## 1.1 Logicial
+# Sets
 
-## 1.2 Sets
+# Mapping
 
-## 1.3 Mapping
+# Funtions
 
-## 1.4 Funtions
+# Vector
 
-## 1.5 Vector
-
-## 1.6 Matrix
+# Matrix
