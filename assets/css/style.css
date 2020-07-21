@@ -15,11 +15,37 @@ layout: stylesheet
     font-display: swap;
 }
 
+
+
 @font-face {
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv';
     src: url('/fonts/Cmgunyhpukpuuockazuaznxkkqv.woff2') format('woff2'),
         url('/fonts/Cmgunyhpukpuuockazuaznxkkqv.woff') format('woff');
     font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/fonts/GoogleSans-Regular.ttf') format('ttf'),
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/fonts/GoogleSans-Medium.ttf') format('ttf'),
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/fonts/GoogleSans-Bold.ttf') format('ttf'),
+    font-weight: Bold;
     font-style: normal;
     font-display: swap;
 }
@@ -117,7 +143,7 @@ h3 {
 
 h1, h2, h3 {
     color: rgba(0, 0, 0, 0.9);
-    font-family:  Google Sans, 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Google Sans', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
 }  
 
