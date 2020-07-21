@@ -28,7 +28,7 @@ layout: stylesheet
 
 @font-face {
     font-family: 'Google Sans';
-    src: url('/fonts/GoogleSans-Regular.ttf') format('ttf'),
+    src: url('/fonts/GoogleSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -36,18 +36,19 @@ layout: stylesheet
 
 @font-face {
     font-family: 'Google Sans';
-    src: url('/fonts/GoogleSans-Medium.ttf') format('ttf'),
-    font-weight: 500;
+    src: url('/fonts/GoogleSans-Bold.ttf') format('truetype');
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Google Sans';
-    src: url('/fonts/GoogleSans-Bold.ttf') format('ttf'),
-    font-weight: Bold;
+    src: url('/fonts/GoogleSans-Medium.ttf') format('truetype');
+    font-weight: 500;
     font-style: normal;
     font-display: swap;
+}
 }
 
 @font-face {
