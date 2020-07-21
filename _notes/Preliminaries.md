@@ -1,5 +1,5 @@
 ---
-tags: Basic_Math
+tags: basic_math
 ---
 
 ## Logicial
