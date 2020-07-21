@@ -138,7 +138,7 @@ main {
 
 h1 {
     font-size: 22px;
-    vertical-align:100px;
+    vertical-align:super;
 }
 
 h2 {
