@@ -140,7 +140,7 @@ main {
 
 h1 {
     font-size: 30px;
-    line-height: 38px;
+    line-height: 100px;
 }
 
 h2 {
@@ -156,7 +156,7 @@ h3 {
 h1, h2, h3 {
     color: rgba(0, 0, 0, 0.9);
     font-family:  'milizon-content', 'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-weight: 700;
+    font-weight: 600;
     
 }  
 
