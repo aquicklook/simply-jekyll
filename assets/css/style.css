@@ -131,6 +131,7 @@ cite a {
     font-size: inherit;
     font-family: inherit;
     color: inherit;
+    line-height: 32px;
 }
 
 ul ul {
