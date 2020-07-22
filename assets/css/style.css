@@ -109,12 +109,6 @@ h1, h2, h3 {
     
 }  
 
-a {
-    color: #292929;
-    font-family:  'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 18px;  /* Let's set the font-size to something old-man friendly */
-}
-
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -122,9 +116,7 @@ a, p, ul, li, ol, table, span, blockquote {
     line-height: 32px;
 }
 
-p a {
-    line-height: 0px;
-}
+p a,
 ul a,
 li a,
 td a,
@@ -443,13 +435,14 @@ hr {
    font-weight: 600;
    font-size: 0.7rem; 
    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-   color: #555555; 
+   color: #292929; 
+   font-height: 11px;
 }
 
 .icon-home, .icon-category, .icon-projects, .icon-rss {
     margin-top: 7px;
     justify-content: center;
-    stroke: #555555;
+    stroke: #292929;
 }
 
 
