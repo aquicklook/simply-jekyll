@@ -19,7 +19,7 @@ layout: stylesheet
     font-family: '.';
     src: url('/fonts/74df0ef3abc5460ab15b23831be67827.woff2') format('woff2'),
         url('/fonts/74df0ef3abc5460ab15b23831be67827.woff') format('woff');
-    font-weight: normal;
+    font-weight: bolder;
     font-style: normal;
     font-display: swap;
 }
@@ -173,7 +173,7 @@ a, p, ul, li, ol, table, span, blockquote {
     font-family:  '.', 'Lora', 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 21px;  /* Let's set the font-size to something old-man friendly */
     line-height: 1.8em;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 p a,
