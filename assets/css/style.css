@@ -433,16 +433,17 @@ hr {
    margin-left: auto;
    text-align: center;
    font-weight: 600;
+   font-height: 11px;
    font-size: 0.7rem; 
    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-   color: #292929; 
-   font-height: 11px;
+   color: #555555; 
+
 }
 
 .icon-home, .icon-category, .icon-projects, .icon-rss {
     margin-top: 7px;
     justify-content: center;
-    stroke: #292929;
+    stroke: #555555;
 }
 
 
