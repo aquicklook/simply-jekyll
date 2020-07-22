@@ -4,11 +4,3 @@
 </a>
 
 Preview the template here: https://quicklook.netlify.app/about/
-
-- Based on Jekyll, a static website generator
-- Creates backlinks to other notes automatically
-- Context menu on feed to instantly see related posts and backlinks
-- Supports Roam-style double bracket link syntax to other notes
-- On hover page previews
-- Features a simple and responsive design
-- Supports Markdown or HTML notes
