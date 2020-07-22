@@ -15,6 +15,14 @@ layout: stylesheet
     font-display: swap;
 }
 
+@font-face {
+    font-family: '.';
+    src: url('/fonts/74df0ef3abc5460ab15b23831be67827.woff2') format('woff2'),
+        url('/fonts/74df0ef3abc5460ab15b23831be67827.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 @font-face {
     font-family: 'milizon-content';
@@ -162,7 +170,7 @@ h1, h2, h3 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: rgba(0, 0, 0, 0.8);
-    font-family:  'Lora', 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  '74df0ef3abc5460ab15b23831be67827', 'Lora', 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 20px;  /* Let's set the font-size to something old-man friendly */
     line-height: 36px;
     font-weight: 600;
