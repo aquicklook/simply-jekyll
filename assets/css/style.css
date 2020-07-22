@@ -115,14 +115,16 @@ a {
     font-size: 18px;  /* Let's set the font-size to something old-man friendly */
 }
 
-p, ul, li, ol, table, span, blockquote {
+a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 18px;  /* Let's set the font-size to something old-man friendly */
     line-height: 32px;
 }
 
-p a,
+p a {
+    line-height: 0px;
+}
 ul a,
 li a,
 td a,
