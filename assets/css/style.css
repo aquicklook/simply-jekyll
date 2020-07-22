@@ -132,7 +132,7 @@ cite a {
     font-size: inherit;
     font-family: inherit;
     color: inherit;
-    line-height: 18px;
+    line-height: inherit;
 }
 
 ul ul {
