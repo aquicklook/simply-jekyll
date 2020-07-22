@@ -174,7 +174,7 @@ a, p, ul, li, ol, table, span, blockquote {
     font-family:  'Merriweather', '.', 'Lora', 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 21px;  /* Let's set the font-size to something old-man friendly */
     line-height: 1.8em;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 p a,
