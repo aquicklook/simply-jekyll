@@ -115,10 +115,10 @@ html {
 }
 
 body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     counter-reset: sidenote-counter; 
 }
-
--webkit-font-smoothing: antialiased;
 
 .container {
     display: flex;    
