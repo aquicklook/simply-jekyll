@@ -171,7 +171,7 @@ h1, h2, h3 {
 a, p, ul, li, ol, table, span, blockquote {
     color: rgba(0, 0, 0, 0.8);
     font-family:  '.', 'Lora', 'Exchange Book', serif, 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 22px;  /* Let's set the font-size to something old-man friendly */
+    font-size: 19px;  /* Let's set the font-size to something old-man friendly */
     line-height: 1.5em;
     font-weight: bold;
 }
