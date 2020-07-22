@@ -426,8 +426,18 @@ hr {
 
 .home {
     padding-right: 14px;
+    font-height: 11px;
 }
 
+.home-p, .categories-p, .rss-p, .projects-p {
+   margin-top: auto;
+   margin-left: auto;
+   text-align: center;
+   font-weight: 600;
+   font-size: 0.7rem; 
+   font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+   color: #555555; 
+}
 
 .icon-home, .icon-category, .icon-projects, .icon-rss {
     margin-top: 7px;
