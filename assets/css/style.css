@@ -1291,6 +1291,7 @@ width: 30% !important;
         width:24px;
         height:12px;
         overflow:hidden;
+        display:none;
     }
     
     .tooltip .bottom i::after {
@@ -1302,6 +1303,7 @@ width: 30% !important;
         transform:translate(-50%,50%) rotate(45deg);
         background-color:#fff;
         box-shadow:0 1px 8px #ddd;
+        display:none;
     }
     
     .bottom .tooltip-title {
@@ -1317,6 +1319,7 @@ width: 30% !important;
 
     .bottom .tooltip-excerpt a {
         font-size: 12px;
+        display:none;
     }  
 }
 
