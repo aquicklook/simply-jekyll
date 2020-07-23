@@ -402,14 +402,14 @@ hr {
 }
 
 .main-site-subheader {
-    border-bottom: 1px solid #f7f7f7;
+    border-bottom: 1px solid #E6ECF0;
     padding-left: 15px;
 }
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
 
 .notes-page-subheader {
-    border-bottom: 0px solid #f7f7f7;
+    border-bottom: 0px solid #E6ECF0;
     padding-left: 15px;
 }
 
