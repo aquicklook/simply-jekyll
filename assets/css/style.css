@@ -682,7 +682,6 @@ hr {
 }
 
 .feed-title-excerpt-block:hover {
-    text-decoration: underline;
     background-color: #0000;
 }
 
@@ -714,6 +713,10 @@ hr {
     font-family:  'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
     line-height: 32px
+}
+
+.feed-title:hover {
+    text-decoration: underline;
 }
 
 .feed-excerpt{
