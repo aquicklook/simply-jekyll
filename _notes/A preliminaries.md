@@ -8,6 +8,8 @@ Mệnh đề toán học là một **khẳng định toán học** chỉ có th�
 
 Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng theo thì ta nói mệnh đề $$A$$ **suy ra** mệnh đề $$B$$ hay mệnh đề $$A$$ **kéo theo** mệnh đề $$B$$. Ký hiệu là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$.
 
+Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ **tương đương** mệnh đề $$B$$. Ký hiệu là $$A \LeftRightarrow B$$.
+
 ## Sets
 
 ## Mapping
