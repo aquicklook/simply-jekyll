@@ -402,7 +402,7 @@ hr {
 }
 
 .main-site-subheader {
-    border-bottom: 1px solid #E6ECF0;
+    border-bottom: 0px solid #E6ECF0;
     padding-left: 15px;
 }
 
@@ -595,7 +595,7 @@ hr {
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
-    border: 1px solid #E6ECF0;
+    border: 1px solid rgba(223,225,229,0);
     border-radius: 4px;
 }
 
