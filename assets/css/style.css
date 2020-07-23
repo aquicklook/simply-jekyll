@@ -708,9 +708,10 @@ hr {
     color: #4183c4;
     margin-left: 20px;
     margin-right: 50px;
-    font-size: 18px;
+    font-size: 16px;
     font-family:  'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
+    line-height: 28px
 }
 
 .feed-excerpt{
@@ -719,7 +720,8 @@ hr {
     margin-left: 20px !important;
     margin-right: 30px;
     font-family:  'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
+    line-height: 28px;
 }
 
 .tags {
