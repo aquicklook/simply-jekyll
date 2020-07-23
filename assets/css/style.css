@@ -595,6 +595,7 @@ hr {
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
+    border-top: 1px solid #E6ECF0;
     border-bottom: 1px solid #E6ECF0;
     background-color: #E6ECF0;
 }
