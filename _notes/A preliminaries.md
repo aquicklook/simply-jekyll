@@ -9,7 +9,3 @@ tags: preliminaries
 ## Mapping
 
 ## Funtions
-
-## Vector
-
-## Matrix 
