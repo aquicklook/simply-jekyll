@@ -301,7 +301,7 @@ hr {
 }
 
 .site-heading h4 {
-    color: #657786;
+    color: #292929;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
     float: right;
@@ -362,7 +362,7 @@ hr {
 
 .username:hover {
     text-decoration: underline;
-    color: #657786;
+    color: #292929;
 }
 
 .userdesc {
@@ -421,7 +421,7 @@ hr {
     font-weight: 600;
     font-size: 18px;
     padding-left: 5px;
-    color: #657786;
+    color: #292929;
 }
 
 .notes-page-main-heading {
@@ -432,7 +432,7 @@ hr {
 
 
 .notes-page-heading {
-    color: #657786;
+    color: #292929;
     font-size: 15px;
     line-height: 15px;
     font-weight: 400;
@@ -510,7 +510,7 @@ hr {
 .title-sans {
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     line-height: 10px;
-    color: #657786 !important;
+    color: #292929 !important;
 }
 
 .regular-sans {
@@ -612,7 +612,7 @@ hr {
     vertical-align: middle;
     margin-top: -2px;
     padding-left: 20px;
-    color: #657786; 
+    color: #b3b3b3; 
     padding-top: 12.5px;
     z-index: 1;
 }
@@ -652,7 +652,7 @@ hr {
 .back-icon {
     background-color: white;
     fill: currentColor;
-    color: #657786;
+    color: #292929;
     margin-top: 5px;
     padding-left: 5px;
     fill: currentColor;
@@ -666,7 +666,7 @@ hr {
 }
 
 .back-p {
-    color: #657786;
+    color: #292929;
     text-decoration: none;
     cursor: pointer;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
@@ -1147,7 +1147,7 @@ label.srs-toggle {
 #copyright-notice {
     font-size: 10px;
     font-weight: 400;
-    color: #657786;
+    color: #292929;
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
