@@ -915,7 +915,7 @@ li .mn-right {
 .right .tooltip-title {
     font-size: 15px;
     font-weight: 600;
-    display: inline-block;
+    display: none;
 }
 
 .right .tooltip-excerpt {
