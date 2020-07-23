@@ -677,10 +677,11 @@ hr {
     cursor: pointer;
     border-top: 0px solid #E6ECF0;
     border-bottom: 0px solid #E6ECF0;
+    text-decoration: underline;
 }
 
 .feed-title-excerpt-block:hover {
-    background-color: #F5F8FA;
+    background-color: #0000;
 }
 
 .srccode {
@@ -704,7 +705,7 @@ hr {
 }
 
 .feed-title {
-    color: #292929;
+    color: #4183c4;
     margin-left: 20px;
     margin-right: 50px;
     font-size: 18px;
@@ -713,7 +714,7 @@ hr {
 }
 
 .feed-excerpt{
-    color: #292929;
+    color: #657786;
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
