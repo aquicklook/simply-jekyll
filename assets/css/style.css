@@ -25,6 +25,30 @@ layout: stylesheet
 }
 
 @font-face {
+    font-family: 'Google Sans';
+    src: url('/fonts/GoogleSans-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/fonts/GoogleSans-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Google Sans';
+    src: url('/fonts/GoogleSans-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Lora';
     src: url('/fonts/Lora-Regular.woff2') format('woff2'),
         url('/fonts/Lora-Regular.woff') format('woff');
@@ -710,7 +734,7 @@ hr {
     margin-left: 20px;
     margin-right: 50px;
     font-size: 18px;
-    font-family:  'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Google Sans', 'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
     line-height: 32px
 }
@@ -724,7 +748,7 @@ hr {
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
-    font-family:  'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Google Sans', 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 15px;
     line-height: 26px;
 }
