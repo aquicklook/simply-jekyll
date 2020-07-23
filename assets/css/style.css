@@ -302,12 +302,12 @@ hr {
 
 .site-heading h4 {
     color: #292929;
-    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'Segoe UI', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
     margin-right: 20px;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .site-heading a {
