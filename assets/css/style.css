@@ -615,8 +615,8 @@ hr {
 }
   
 .searchbar input[type="text"]:focus {
-    border-color: #E6ECF0;
-    box-shadow: 0 0 8px 0 #A7D0EB;
+    border-color: rgba(223,225,229,0);
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
 }
   
 .searchbar input[type=text]:hover {
@@ -634,7 +634,7 @@ hr {
 }
 
 .search_res:hover {
- background-color: #E6ECF0;
+ background-color: rgba(223,225,229,0);
 }
 
 .search_res:hover > a {
@@ -649,7 +649,7 @@ hr {
 .back-icon {
     background-color: white;
     fill: currentColor;
-    color: #555555;
+    color: #657786;
     margin-top: 5px;
     padding-left: 5px; 
     fill: currentColor;
@@ -663,7 +663,7 @@ hr {
 }
 
 .back-p {
-    color: #555555;
+    color: #657786;
     text-decoration: none;
     cursor: pointer;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
@@ -674,8 +674,8 @@ hr {
 .feed-title-excerpt-block {
     width: 100%;
     cursor: pointer;
-    border-top: 0px solid #E6ECF0;
-    border-bottom: 1px solid #E6ECF0;
+    border-top: 0px solid rgba(223,225,229,0);
+    border-bottom: 1px solid rgba(223,225,229,0);
 }
 
 .feed-title-excerpt-block:hover {
@@ -720,7 +720,7 @@ hr {
     margin-right: 30px;
     font-family:  'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 16px;
-    line-height: 28px;
+    line-height: 29px;
 }
 
 .tags {
