@@ -1012,7 +1012,7 @@ label.srs-toggle {
     padding-left: 10px;
     padding-right: 10px;
     font-size: 12px !important;
-    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 600;
 }
 
@@ -1030,6 +1030,7 @@ label.srs-toggle {
     padding-left: 10px;
     padding-right: 5px;
     font-size: 12px !important;
+    line-height: 22px !important;
     font-family:  'Lora', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 400;
 }
