@@ -65,9 +65,9 @@ body {
 }
 
 .box {
-    border-left: 1px solid #f7f7f7;
-    border-right: 1px solid #f7f7f7;
-    border-bottom: 1px solid #f7f7f7;
+    border-left: 1px solid #E6ECF0;
+    border-right: 1px solid #E6ECF0;
+    border-bottom: 1px solid #E6ECF0;
     width: 60%;
     position: absolute;
     top: 0px;
@@ -595,7 +595,7 @@ hr {
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     color: #555;
     font-size: 18px;
-    border-bottom: 1px solid #f7f7f7;
+    border-bottom: 1px solid #E6ECF0;
     background-color: #E6ECF0;
 }
 
@@ -615,7 +615,7 @@ hr {
 }
   
 .searchbar input[type="text"]:focus {
-    border-color: #f7f7f7;
+    border-color: #E6ECF0;
     box-shadow: 0 0 8px 0 #A7D0EB;
 }
   
@@ -634,7 +634,7 @@ hr {
 }
 
 .search_res:hover {
- background-color: #f4f4f4;
+ background-color: #E6ECF0;
 }
 
 .search_res:hover > a {
