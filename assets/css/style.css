@@ -678,7 +678,7 @@ hr {
     width: 100%;
     cursor: pointer;
     border-top: 0px solid rgba(223,225,229,0);
-    border-bottom: 1px solid #b3b3b3;
+    border-bottom: 0px solid #b3b3b3;
 }
 
 .feed-title-excerpt-block:hover {
