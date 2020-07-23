@@ -433,10 +433,10 @@ hr {
 
 
 .notes-page-heading {
-    color: #555555;
+    color: #657786;
     font-size: 16px;
     font-weight: 400;
-    padding-top: 15px;
+    padding-top: 0px;
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -446,7 +446,7 @@ hr {
 
 .notes-page-tagline {
     color: #888888;
-    margin-top: -17px; 
+    margin-top: -25px; 
     color: #888888;
     font-size: 15px; 
     font-weight: 400;
