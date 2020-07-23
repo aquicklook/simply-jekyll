@@ -1280,7 +1280,7 @@ width: 30% !important;
     }
     
     .tooltip:hover .bottom {
-        display:block;
+        display:none;
     }
 
     .tooltip .bottom i {
@@ -1307,12 +1307,12 @@ width: 30% !important;
     .bottom .tooltip-title {
         font-size: 15px;
         font-weight: 500;
-        display: inline-block;
+        display: none;
     }
     
     .bottom .tooltip-excerpt {
         font-size: 12px;
-        display: inline-block;
+        display: none;
     }    
 
     .bottom .tooltip-excerpt a {
