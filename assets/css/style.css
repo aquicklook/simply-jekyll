@@ -16,6 +16,14 @@ layout: stylesheet
 }
 
 @font-face {
+    font-family: 'UntitledTTF';
+    src: url('/fonts/UntitledTTF.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv';
     src: url('/fonts/Cmgunyhpukpuuockazuaznxkkqv.woff2') format('woff2'),
         url('/fonts/Cmgunyhpukpuuockazuaznxkkqv.woff') format('woff');
@@ -709,10 +717,10 @@ hr {
     color: #4183c4;
     margin-left: 20px;
     margin-right: 50px;
-    font-size: 15px;
-    font-family:  Roboto, Ubuntu, "Helvetica Neue", sans-serif;
-    font-weight: 700;
-    line-height: 20px
+    font-size: 22px;
+    font-family:  'UntitledTTF', Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-weight: 600;
+    line-height: 24px
 }
 
 .feed-title:hover {
@@ -724,7 +732,7 @@ hr {
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
-    font-family:  Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+    font-family:  'UntitledTTF', Roboto, Ubuntu, "Helvetica Neue", sans-serif;
     font-size: 15px;
     line-height: 20px;
 }
