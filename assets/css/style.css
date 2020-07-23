@@ -302,7 +302,7 @@ hr {
 
 .site-heading h4 {
     color: #292929;
-    font-family:  'Segoe UI', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
@@ -383,7 +383,7 @@ hr {
 .link-to-notes a {
     color: #4183c4;
     text-decoration: none;
-    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', 'IBM Plex Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-size: 15px;
     margin-left: -3px;
 }
@@ -508,7 +508,7 @@ hr {
 }
 
 .title-sans {
-    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
     line-height: 10px;
     color: #292929 !important;
 }
