@@ -15,3 +15,6 @@ Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh 
 ## Mapping
 
 ## Funtions
+
+## Notions
+
