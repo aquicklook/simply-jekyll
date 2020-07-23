@@ -301,13 +301,13 @@ hr {
 }
 
 .site-heading h4 {
-    color: #555555;
+    color: #657786;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
     margin-right: 20px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .site-heading a {
