@@ -438,28 +438,7 @@ hr {
    color: #657786; 
 }
 
-.icon-home, .icon-category, .icon-projects, .icon-rss {
-    margin-top: 7px;
-    justify-content: center;
-    stroke: #657786;
-}
 
-
-.icon-home {
-    margin-left: 21%;
-}
-
-.icon-category {
-    margin-left: 21%;
-}
-
-.icon-projects {
-    margin-left: 30%;
-}
-
-.icon-rss {
-    margin-left: 10%;
-}
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
 
