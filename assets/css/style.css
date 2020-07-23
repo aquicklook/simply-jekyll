@@ -419,9 +419,10 @@ hr {
     text-decoration: none;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 18px;
     font-stretch: ultra-condensed;
     padding-left: 5px;
+    color: #657786;
 }
 
 .notes-page-main-heading {
