@@ -417,7 +417,7 @@ hr {
 
 .notes-page-site-heading a {
     text-decoration: none;
-    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  'milizon-content', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 600;
     font-size: 18px;
     padding-left: 5px;
@@ -427,7 +427,7 @@ hr {
 .notes-page-main-heading {
     margin-top: -25px;
     padding-left: 5px;
-    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 
@@ -437,7 +437,7 @@ hr {
     line-height: 15px;
     font-weight: 400;
     padding-top: 0px;
-    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 .notes-page-heading a {
@@ -454,7 +454,7 @@ hr {
 
 .notes-page-tagline a {
     text-decoration: none;
-    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* Utilities: Disable Selection, Kramdown TOC */
