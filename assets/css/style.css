@@ -887,7 +887,7 @@ li .mn-right {
 }
 
 .tooltip:hover .right {
-    display:block;
+    display:none;
 }
 
 .tooltip .right i {
