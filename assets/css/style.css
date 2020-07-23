@@ -342,7 +342,7 @@ hr {
 }
 
 .dashboard {
-    border-bottom: 2px solid #f7f7f7;
+    border-bottom: 0px solid #0000;
     width: 100%;
     display: flex;
     flex-direction: column;
