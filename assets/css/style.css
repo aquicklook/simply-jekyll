@@ -710,7 +710,7 @@ hr {
     margin-left: 20px;
     margin-right: 50px;
     font-size: 15px;
-    font-family:  'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
     font-weight: 700;
     line-height: 20px
 }
@@ -724,7 +724,7 @@ hr {
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
-    font-family:  'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
     font-size: 15px;
     line-height: 20px;
 }
