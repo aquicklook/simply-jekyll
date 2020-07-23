@@ -432,7 +432,8 @@ hr {
    margin-left: auto;
    text-align: center;
    font-weight: 600;
-   font-size: 0.7rem; 
+   font-size: 0.7rem;
+   line-height: 0.7rem;
    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
    color: #555555; 
 }
