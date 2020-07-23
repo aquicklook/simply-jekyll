@@ -674,7 +674,7 @@ hr {
 .feed-title-excerpt-block {
     width: 100%;
     cursor: pointer;
-    border-top: 1px solid #E6ECF0;
+    border-top: 0px solid #E6ECF0;
     border-bottom: 1px solid #E6ECF0;
 }
 
@@ -1138,6 +1138,7 @@ label.srs-toggle {
 #copyright-notice {
     font-size: 10px;
     font-weight: 400;
+    color: #657786;
     font-family: 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
