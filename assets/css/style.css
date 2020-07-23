@@ -920,7 +920,7 @@ li .mn-right {
 
 .right .tooltip-excerpt {
     font-size: 12px;
-    display: inline-block;
+    display: none;
 }
 
 .right .tooltip-excerpt a {
