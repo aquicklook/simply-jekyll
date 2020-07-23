@@ -709,10 +709,10 @@ hr {
     color: #4183c4;
     margin-left: 20px;
     margin-right: 50px;
-    font-size: 18px;
+    font-size: 15px;
     font-family:  'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 700;
-    line-height: 32px
+    line-height: 20px
 }
 
 .feed-title:hover {
@@ -726,7 +726,7 @@ hr {
     margin-right: 30px;
     font-family:  'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-size: 15px;
-    line-height: 26px;
+    line-height: 20px;
 }
 
 .tags {
