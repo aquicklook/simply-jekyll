@@ -302,7 +302,7 @@ hr {
 
 .site-heading h4 {
     color: #292929;
-    font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
@@ -508,7 +508,7 @@ hr {
 }
 
 .title-sans {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
+    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif !important;
     line-height: 10px;
     color: #292929 !important;
 }
