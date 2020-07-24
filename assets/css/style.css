@@ -166,7 +166,13 @@ b, strong {
 p.drop-cap:first-letter {
     font-size: 66px;
     line-height: 55px;
+    padding-top: 0px;
+    margin-right: 12px;
+    position: relative;
     float: left;
+    display: block;
+    box-sizing: inherit;
+    word-break: break-word;
     margin-top: .15em;
 }
 
