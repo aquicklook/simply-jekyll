@@ -154,7 +154,7 @@ img {
 code {
     font-family: monospace, Courier;
     font-family: monospace, Courier;
-    display: inline-block;
+    display: contents;
     overflow: auto !important;
     white-space: pre-line !important;       
     word-wrap: break-word !important;       
