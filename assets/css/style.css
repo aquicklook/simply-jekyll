@@ -731,7 +731,6 @@ hr {
     border-bottom: 0px solid #b3b3b3;
     margin-top: 28px;
     margin-bottom: 28px;
-    overflow: auto;
 }
 
 .feed-title-excerpt-block:hover {
@@ -781,6 +780,7 @@ hr {
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
+    overflow: auto;
 }
 }
 
