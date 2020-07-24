@@ -163,11 +163,10 @@ b, strong {
 }
 
 
-p::first-letter {
-  color: #c69c6d;
-  float: left;
-  font-size: 5em;
-  margin: 0 .2em 0 0;
+p.drop-cap:first-letter {
+    font-size: 4.5em;
+    float: left;
+    margin-top: .15em;
 }
 
 
