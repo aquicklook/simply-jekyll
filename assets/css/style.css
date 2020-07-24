@@ -18,6 +18,7 @@ layout: stylesheet
 @font-face {
     font-family: 'UntitledTTF';
     src: url('/fonts/UntitledTTF.woff2') format('woff2');
+    src: url('/fonts/UntitledTTF1.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
