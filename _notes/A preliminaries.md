@@ -14,8 +14,9 @@ $$ \neg $$ | `\neg` | Không
 $$ \land $$ | `\land` | Và
 $$ \lor $$ | `\lor` | Hoặc
 $$ \Rightarrow $$ | `\Rightarrow` | Suy ra
-$$ 	\Leftrightarrow $$ | `	\Leftrightarrow` | Tương đương
-
+$$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
+$$ \rightarrow $$ | `\rightarrow` | Kéo theo
+$$ \leftrightarrow $$ | `\leftrightarrow` | Kéo theo 2 chiều
 
 ## Sets
 
