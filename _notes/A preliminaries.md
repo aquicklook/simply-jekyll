@@ -2,7 +2,7 @@
 tags: preliminaries
 ---
 
-Có hai phần cần làm hiểu về một định lý toán học: hiểu về tuyên bố 
+Có hai phần cần làm hiểu về một định lý toán học: hiểu về tuyên bố[[statement::sns]] và hiểu về bằng chứng. 
 
 Symbol | LaTeX | Comment
 --- | --- | ---
