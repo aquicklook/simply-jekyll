@@ -2,7 +2,7 @@
 tags: preliminaries
 ---
 
-## Logicial
+Có hai phần cần làm hiểu về một định lý toán học: hiểu về tuyên bố 
 
 Symbol | LaTeX | Comment
 --- | --- | ---
@@ -17,8 +17,6 @@ $$ \Rightarrow $$ | `\Rightarrow` | Suy ra
 $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Kéo theo 2 chiều
-
-$$e=mc^2$$
 
 ## Sets
 
