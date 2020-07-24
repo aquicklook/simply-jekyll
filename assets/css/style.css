@@ -780,6 +780,12 @@ hr {
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 3.6em;
+    line-height: 1.8em;
+}
 }
 
 .tags {
