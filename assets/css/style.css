@@ -699,7 +699,6 @@ hr {
     cursor: pointer;
     border-top: 0px solid rgba(223,225,229,0);
     border-bottom: 0px solid #b3b3b3;
-    margin-top: 0px;
 
 }
 
@@ -735,6 +734,7 @@ hr {
     font-family:  'Lora', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
     font-weight: 700;
     line-height: 22px
+    margin-top: 0px;
 }
 
 .feed-title:hover {
