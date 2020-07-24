@@ -121,11 +121,16 @@ h3 {
     line-height: 30px;
 }
 
-h1, h2, h3 {
+h1 {
     color: #292929;
     font-family:  'milizon-content', 'Lora', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-weight: 400;
-    
+}  
+
+h2, h3 {
+    color: #292929;
+    font-family:  'UntitledTTF', 'Lora', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 600;
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
