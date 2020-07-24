@@ -218,7 +218,7 @@ blockquote p {
 
 
 table {
-    width: auto  !important;
+    width: 100%  !important;
     margin: 0 auto;
     border-radius: 5px;
     border-collapse: collapse;
