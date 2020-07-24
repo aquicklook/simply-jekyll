@@ -1,7 +1,7 @@
 ---
 tags: preliminaries
 ---
-Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và chứng minh.[[There are two parts to understanding a theorem: understanding the statement, and understanding the proof. The first is more important than the second.::srs]] Tạm thời bỏ qua những điều trên, với hầu hết mọi người, việc đọc toán cũng không dễ dàng và điều này thường khiến họ nản lòng. Thật không may là không tồn tại một công thức tốt nhất cho việc này. 
+Có hai phần cần hiểu về một định lý: [[tuyên bố::highlight]] và chứng minh.[[There are two parts to understanding a theorem: understanding the statement, and understanding the proof. The first is more important than the second.::srs]] Tạm thời bỏ qua hai phần ở trên, với hầu hết mọi người, việc đọc toán cũng không dễ dàng và vì vậy thường khiến họ nản lòng. Thật không may, một công thức tốt nhất để đọc toán lại không tồn tại.
 
 Symbol | LaTeX | Comment
 --- | --- | ---
