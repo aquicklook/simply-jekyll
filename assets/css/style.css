@@ -246,7 +246,7 @@ th {
     color: #292929;
     padding: 5px;
     text-align: left;
-    font-size: 18px;
+    font-size: 21px;
     border-bottom:1px solid gray;
 }
 
@@ -254,12 +254,12 @@ td {
     color: #292929;
     padding: 5px;
     text-align: left;
-    font-size: 18px;
+    font-size: 21px;
     line-height: 22px;
 }
 
 td {
-   font-size: 18px;
+   font-size: 21px;
 }
 
 td a {
