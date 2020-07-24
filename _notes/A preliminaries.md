@@ -24,5 +24,3 @@ $$e=mc^2$$
 
 ## Mapping
 
-## Funtions
-
