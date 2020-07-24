@@ -4,16 +4,13 @@ tags: preliminaries
 
 ## Logicial
 
-Symbol | Comment
+Symbol | LaTeX | Comment
 --- | --- | ---
-$$ \Rightarrow $$ | Suy ra
-$$ \Leftrightarrow $$ | Tương đương
-$$ := $$ | Định nghĩa bởi
-$$ \forall $$ | Với mọi
-$$ \exists $$ | Tồn tại ít nhất một
-$$ \exists! $$ | Tồn tại một và chỉ một
-$$ \nexists $$ | không có
-$$ \in $$ | Thuộc
+$$ \exists $$ | \exists | Tồn tại ít nhất một
+$$ \exists $$! | \exists! | Tồn tại một và chỉ một
+$$ \nexists $$ | \nexists | Không có
+$$ \forall $$ | \forall | Với mọi
+$$ \neg $$ | \neg | Không
 
 
 
