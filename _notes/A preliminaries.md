@@ -1,7 +1,7 @@
 ---
 tags: preliminaries
 ---
-Mục đích của việc đọc một tài liệu toán học là hiểu về các định lý và ý nghĩa của chúng. Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và hiểu cách chứng minh. Để hiểu hai điều này cần có sự thông hiểu về *ngôn ngữ toán học* bao gồm các ký hiệu, các quy tắc về cách các ký hiệu này được sử dụng, ý nghĩa và cách đọc-viết chúng.
+Mục đích của việc đọc một tài liệu toán học là hiểu về các định lý. Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và hiểu cách chứng minh. Để hiểu hai điều này cần có sự thông hiểu về *ngôn ngữ toán học* bao gồm các ký hiệu, các quy tắc về cách các ký hiệu này được sử dụng, ý nghĩa và cách đọc-viết chúng. 
 
 
 Symbol | LaTeX | Comment
