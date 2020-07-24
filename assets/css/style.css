@@ -163,6 +163,15 @@ b, strong {
 }
 
 
+p::first-letter {
+  color: #c69c6d;
+  float: left;
+  font-size: 5em;
+  margin: 0 .2em 0 0;
+}
+
+
+
 /* Figures, Images, Code, Blockquotes, Tables */
 
 img {
