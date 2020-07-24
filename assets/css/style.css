@@ -166,14 +166,21 @@ b, strong {
 p.drop-cap:first-letter {
     font-size: 66px;
     line-height: 55px;
+    text-transform: uppercase;
     padding-top: 0px;
-    margin-right: 12px;
+    padding-right: 0.32rem;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-top: 0.8rem;
+    margin-bottom: 0.37rem;
+    margin-left: 0px;
     position: relative;
     float: left;
     display: block;
     box-sizing: inherit;
     word-break: break-word;
-    margin-top: 0em;
+    
 }
 
 
