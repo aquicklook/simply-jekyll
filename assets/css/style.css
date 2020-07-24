@@ -563,14 +563,18 @@ hr {
 
 .boxit {
 
-    padding: 20px;
-    background-color: #f7f7f7;
-    border-radius: 5px;
+    padding: 0px;
+    background-color: #ffffff;
+    border-radius: 0px;
+    font-family: 'UntitledTTF', 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    color: #757575;
+    font-size: 24px;
+    line-height: 32px;
 }
 
 #boxit {
     padding-left: 20px;
-    border-radius: 5px;
+    border-radius: 0px;
 }
 
 
