@@ -24,7 +24,7 @@ We are excited about…
 
 What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
 
-# Reach out to me
+## Reach out to me
 
 ---
 
