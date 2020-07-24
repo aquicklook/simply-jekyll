@@ -4,7 +4,7 @@ tags: preliminaries
 
 ## Logicial
 
-Ký hiệu | Ý nghĩa
+Symbol | Comment
 --- | --- | ---
 $$ \Rightarrow $$ | Suy ra
 $$ \Leftrightarrow $$ | Tương đương
