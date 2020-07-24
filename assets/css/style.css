@@ -781,19 +781,16 @@ hr {
     font-size: 20px;
     line-height: 24px;
     
-     display: block;
      display: -webkit-box;
      max-width: 100%;
      margin: 0 auto;
-     white-space: nowrap; 
+     white-space: inherit; 
      -webkit-line-clamp: 2;
      /* autoprefixer: off */
      -webkit-box-orient: vertical;
      /* autoprefixer: on */
      overflow: hidden;
      text-overflow: ellipsis;
-    
-
 }
 
 .tags {
