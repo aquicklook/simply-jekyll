@@ -732,10 +732,6 @@ hr {
     margin-top: 28px;
     margin-bottom: 28px;
     text-overflow: ellipsis;
-    word-wrap: break-word;
-    overflow: hidden;
-    max-height: 3.6em;
-    line-height: 1.8em;
 }
 
 .feed-title-excerpt-block:hover {
