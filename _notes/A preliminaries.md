@@ -26,5 +26,3 @@ $$e=mc^2$$
 
 ## Funtions
 
-## Notions
-
