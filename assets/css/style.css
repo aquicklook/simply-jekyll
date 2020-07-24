@@ -173,7 +173,7 @@ p.drop-cap:first-letter {
     display: block;
     box-sizing: inherit;
     word-break: break-word;
-    margin-top: .08em;
+    margin-top: 0em;
 }
 
 
