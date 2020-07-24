@@ -2,7 +2,7 @@
 tags: preliminaries
 ---
 
-Có hai phần để hiểu một định lý toán học: hiểu về tuyên bố[[statement::srs]] và hiểu về bằng chứng[[proof::srs]]. Cái thứ nhất quan trọng hơn cái thứ hai.  
+Có hai phần để hiểu một định lý toán học: hiểu về tuyên bố[[statement::srs]] và hiểu cách chứng minh[[proof::srs]]. Cái thứ nhất quan trọng hơn cái thứ hai.  
 
 Symbol | LaTeX | Comment
 --- | --- | ---
