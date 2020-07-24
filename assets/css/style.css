@@ -98,6 +98,7 @@ main {
 h1 {
     font-size: 40px;
     line-height: 48px;
+    margin-top: 0px;
 }
 
 h2 {
