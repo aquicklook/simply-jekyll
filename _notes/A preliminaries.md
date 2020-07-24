@@ -1,7 +1,8 @@
 ---
 tags: preliminaries
 ---
-Có hai phần cần hiểu về một định lý: [[tuyên bố::highlight]] và chứng minh.[[There are two parts to understanding a theorem: understanding the statement, and understanding the proof. The first is more important than the second.::srs]] Tạm thời bỏ qua hai phần ở trên, với hầu hết mọi người, việc đọc toán cũng không dễ dàng và vì vậy thường khiến họ nản lòng. Thật không may, một công thức tốt nhất để đọc toán lại không tồn tại.
+Mục đích của việc đọc một tài liệu toán học là hiểu về các định lý và ý nghĩa của chúng. Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và hiểu cách chứng minh. Để hiểu hai điều này cần có sự thông hiểu về *ngôn ngữ toán học* bao gồm các ký hiệu, các quy tắc về cách các ký hiệu này được sử dụng, ý nghĩa và cách đọc-viết chúng.
+
 
 Symbol | LaTeX | Comment
 --- | --- | ---
@@ -17,7 +18,6 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
-
 
 ## Sets
 
