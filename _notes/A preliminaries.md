@@ -10,8 +10,7 @@ $$ \exists $$ | `\exists` | Tồn tại ít nhất một
 $$ \exists $$! | `\exists!` | Tồn tại một và chỉ một
 $$ \nexists $$ | `\nexists` | Không có
 $$ \forall $$ | `\forall` | Với mọi
-$$ \neg $$ | `\neg` | Không
-
+$$ \neg P $$ hoặc $$ \bar{P} $$ | `\neg` | Không hay phủ định của $$P%$$
 
 
 ## Sets
