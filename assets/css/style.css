@@ -661,7 +661,7 @@ hr {
 ::placeholder {
     color: #999;
     font-size: 18px;
-    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  Arial, sans-serif !important;
 }
 .searchbar i {
     position: absolute;
