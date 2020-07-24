@@ -18,8 +18,15 @@ layout: stylesheet
 @font-face {
     font-family: 'UntitledTTF';
     src: url('/fonts/UntitledTTF.woff2') format('woff2');
-    src: url('/fonts/UntitledTTF1.ttf') format('truetype');
     font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UntitledTTF';
+    src: url('/fonts/UntitledTTF1.ttf') format('truetype');
+    font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
@@ -748,6 +755,7 @@ hr {
     margin-left: 20px !important;
     margin-right: 30px;
     font-family:  'UntitledTTF', 'Lora', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-weight: 400;
     font-size: 20px;
     line-height: 24px;
 }
