@@ -750,7 +750,7 @@ hr {
 }
 
 .feed-excerpt{
-    color: #292929;
+    color: rgba(0, 0, 0, 0.54);
     margin-top: -12px;
     margin-left: 20px !important;
     margin-right: 30px;
