@@ -731,10 +731,7 @@ hr {
     border-bottom: 0px solid #b3b3b3;
     margin-top: 28px;
     margin-bottom: 28px;
-}
-
-.overflow-ellipsis {
-  text-overflow: ellipsis;
+    text-overflow: ellipsis;
 }
 
 .feed-title-excerpt-block:hover {
