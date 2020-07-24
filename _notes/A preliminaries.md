@@ -18,6 +18,8 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Kéo theo 2 chiều
 
+$$e=mc^2$$
+
 ## Sets
 
 ## Mapping
