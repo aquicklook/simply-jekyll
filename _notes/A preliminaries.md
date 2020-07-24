@@ -13,6 +13,9 @@ $$ \forall $$ | `\forall` | Với mọi
 $$ \neg $$ | `\neg` | Không
 $$ \land $$ | `\land` | Và
 $$ \lor $$ | `\lor` | Hoặc
+$$ \Rightarrow $$ | `\Rightarrow` | Suy ra
+$$ 	\Leftrightarrow $$ | `	\Leftrightarrow` | Tương đương
+
 
 ## Sets
 
