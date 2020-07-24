@@ -2,7 +2,7 @@
 tags: preliminaries
 ---
 
-Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và chứng minh[[There are two parts to understanding a theorem: understanding the statement, and understanding the proof. The first is more important than the second.::srs]].  
+Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và chứng minh.[[There are two parts to understanding a theorem: understanding the statement, and understanding the proof. The first is more important than the second.::srs]] Để hiểu một văn bản toán học  
 
 Symbol | LaTeX | Comment
 --- | --- | ---
