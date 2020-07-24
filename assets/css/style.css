@@ -660,7 +660,7 @@ hr {
 
 ::placeholder {
     color: #999;
-    font-size: 18px;
+    font-size: 16px;
     font-family:  Arial, sans-serif !important;
 }
 .searchbar i {
@@ -704,8 +704,8 @@ hr {
 
 #results-container {
     display: none;
-    font-size: 16px;
     font-family:  'UntitledTTF', Arial, sans-serif !important;
+    font-size: 16px;
 }
 
 .back-icon {
