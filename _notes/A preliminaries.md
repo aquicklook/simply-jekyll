@@ -10,7 +10,7 @@ $$ \exists $$ | `\exists` | Tồn tại ít nhất một
 $$ \exists $$! | `\exists!` | Tồn tại một và chỉ một
 $$ \nexists $$ | `\nexists` | Không có
 $$ \forall $$ | `\forall` | Với mọi
-$$ \neg $$ $$ | `\neg` | Không
+$$ \neg $$ | `\neg` | Không
 $$ \land $$ | `\land` | Và
 $$ \lor $$ | `\lor` | Hoặc
 
