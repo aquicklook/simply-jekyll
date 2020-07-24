@@ -216,6 +216,7 @@ blockquote p {
     font-size: 15px;
 }
 
+<div style = "overflow-x: auto;">
 
 table {
     width: auto  !important;
@@ -226,7 +227,6 @@ table {
     border-top:1px solid gray;
     border-bottom:1px solid gray;
     vertical-align: middle;
-    overflow: auto;
 }
 
 table.center {
@@ -295,6 +295,7 @@ hr {
     height: 1px;
 }
 
+</div>
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
 
 .site-heading {
