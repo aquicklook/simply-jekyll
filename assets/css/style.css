@@ -1136,7 +1136,7 @@ label.srs-toggle {
     position: absolute;
     z-index: 10;
     padding: 4px 0;
-    width: 120px;
+    width: auto;
     background-color: #fff;
     border: solid 0px #dfdfdf;
     border-radius: 4px;
@@ -1150,6 +1150,7 @@ label.srs-toggle {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
     font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    line-height: 19px;
 }
 
 .context-menu-res--active {
@@ -1164,7 +1165,7 @@ label.srs-toggle {
 
 .context-menu-res li:hover >  .context-menu-res__link {
     text-decoration: underline;
-    font-weight: bold;
+
 }
 
 .context-menu-res__link {
