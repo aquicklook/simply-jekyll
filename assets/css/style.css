@@ -1158,7 +1158,8 @@ label.srs-toggle {
 
 .context-menu-res li:hover {
     color: #555;
-    background-color: #f4f4f4;
+    background-color: #0000;
+    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
 }
 
 .context-menu-res li:hover >  .context-menu-res__link {
