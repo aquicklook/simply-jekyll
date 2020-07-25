@@ -1136,11 +1136,13 @@ label.srs-toggle {
     position: absolute;
     z-index: 10;
     padding: 12px 0;
-    width: 240px;
+    width: 0 auto;
+    height: 0 auto;
     background-color: #fff;
-    border: solid 1px #dfdfdf;
+    border: solid 0px #dfdfdf;
     border-radius: 5px;
     box-shadow: 1px 1px 15px #cfcfcf;
+    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
 }
 
 .context-menu-res li {
