@@ -61,50 +61,7 @@
          <script async src = "https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_CHTML"> </script>
          <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
          <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    
-      <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/startup.js"></script>
-  <script>
-    function convert() {
-      //
-      //  Get the TeX input
-      //
-      var input = document.getElementById("input").value.trim();
-      //
-      //  Disable the display and render buttons until MathJax is done
-      //
-      var display = document.getElementById("display");
-      var button = document.getElementById("render");
-      button.disabled = display.disabled = true;
-      //
-      //  Clear the old output
-      //
-      output = document.getElementById('output');
-      output.innerHTML = '<pre></pre>';
-      //
-      //  Reset the tex labels (and automatic equation numbers, though there aren't any here).
-      //  Convert the input to CommonHTML output and use a promise to wait for it to be ready
-      //    (in case an extension needs to be loaded dynamically).
-      //
-      MathJax.texReset();
-      MathJax.tex2mmlPromise(input, {display: display.checked}).then(function (mml) {
-        //
-        //  The promise returns the serialized MathML, and we add that
-        //  to the <pre> element in the output.
-        //
-        output.firstChild.appendChild(document.createTextNode(mml));
-      }).catch(function (err) {
-        //
-        //  If there was an error, put the message into the output instead
-        //
-        output.firstChild.appendChild(document.createTextNode(err.message));
-      }).then(function () {
-        //
-        //  Error or not, re-enable the display and render buttons
-        //
-        button.disabled = display.disabled = false;
-      });
-    }
-  </script>
+
       
     
         
