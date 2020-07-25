@@ -6,7 +6,7 @@ tags: preliminaries
 
 ![alt text](https://images.unsplash.com/photo-1590402494756-10c265b9d736?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 "Reading mathematics")
 
-Có hai giai đoạn khi tìm hiểu về một định lý: [[hiểu về tuyên bố::highlight]] và hiểu cách chứng minh. Giai đoạn một quan trọng hơn giai đoạn hai. Để làm được điều này mọi người cần thông hiểu ngôn ngữ toán học, trong đó bao gồm hệ thống các ký hiệu và quy tắc về cách các ký hiệu này được sử dụng[[Được hiểu giống như hệ thống từ vựng và ngữ pháp trong tiếng anh.::rsn]].
+Có hai giai đoạn khi tìm hiểu về một định lý: [[hiểu về tuyên bố::highlight]] và hiểu cách chứng minh. Giai đoạn một quan trọng hơn giai đoạn hai. Để làm được điều này mọi người cần thông hiểu ngôn ngữ toán học, trong đó bao gồm hệ thống các ký hiệu và quy tắc về cách các ký hiệu này được sử dụng[[Giống như hệ thống từ vựng và ngữ pháp của tiếng anh.::rsn]].
 
 
 Symbol | LaTeX | Comment
