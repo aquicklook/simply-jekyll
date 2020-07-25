@@ -1147,9 +1147,10 @@ label.srs-toggle {
 
 .context-menu-res li {
     line-height: 0.8rem;
-    padding-left: 0.2rem;
+    padding-left: 0rem;
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
+    font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
 }
 
 .context-menu-res--active {
