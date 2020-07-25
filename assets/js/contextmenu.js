@@ -160,9 +160,10 @@ function showRelated(dataAction, dataUrl) {
     var relatedItemHTMLTitle = document.createElement("p");
     relatedItemHTMLTitle.setAttribute("class", "feed-relatedItems");
     relatedItemHTMLTitle.style.fontSize = "14px";
-    relatedItemHTMLTitle.style.color = "#777";
+    relatedItemHTMLTitle.style.fontSize = "14px";
+    relatedItemHTMLTitle.style.color = "#888";
     relatedItemHTMLTitle.style.fontWeight = "600";
-    relatedItemHTMLTitle.style.fontFamily = "Inter";
+    relatedItemHTMLTitle.style.fontFamily = "UntitledTTF";
     var relatedItemHTML = document.createElement("ul");
 
     if (relatedItems == null) {
