@@ -42,3 +42,12 @@ Chúng ta đọc là tổng của $$a_{i,k}$$ nhân với $$b_{k,j}$$ với $$k$
 Lúc đầu, chúng ta có thể đọc biểu thức này thành một biểu thức tuyến tính như sau:
 
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+a_{i,2}b_{2,j}+ \cdots +a_{i,n}b_{n,j}$$
+
+
+$$
+\begin{eqnarray} 
+y &=& x^4 + 4      \nonumber \\
+  &=& (x^2+2)^2 -4x^2 \nonumber \\
+  &\le&(x^2+2)^2    \nonumber
+\end{eqnarray} 
+$$
