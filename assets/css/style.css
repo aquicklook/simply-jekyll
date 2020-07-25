@@ -348,6 +348,7 @@ hr {
     flex: 0 0 20px;
     align-self: stretch;
     align-content: flex-end;
+    display: none;
 }
 
 .site-heading h4 {
