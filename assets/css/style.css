@@ -1142,6 +1142,9 @@ label.srs-toggle {
     border-radius: 4px;
     box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
     font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    line-height: 0.8rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
 }
 
 .context-menu-res li {
@@ -1150,7 +1153,6 @@ label.srs-toggle {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
     font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
-    line-height: 19px;
 }
 
 .context-menu-res--active {
@@ -1161,6 +1163,7 @@ label.srs-toggle {
     color: #555;
     background-color: #0000;
     font-family:  'UntitledTTF', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    text-decoration: underline;
 }
 
 .context-menu-res li:hover >  .context-menu-res__link {
