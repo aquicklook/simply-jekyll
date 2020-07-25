@@ -2,7 +2,7 @@
 tags: preliminaries
 ---
 {:.boxit}
-"The most efficient logical order for a subject is usually different from  the best psychological order in which to learn it. Much mathematical writing is based too closely on the logical order of deduction in a  subject, with too many definitions without, or before, the examples which motivate them, and too many answers before, or without, the questions they address"— William Thurston 
+I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
 ![alt text](https://images.unsplash.com/photo-1590402494756-10c265b9d736?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 "Reading mathematics")
 
