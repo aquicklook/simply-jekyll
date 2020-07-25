@@ -1475,6 +1475,27 @@ label.margin-toggle:not(.sidenote-number) {
 .related-wrapper {
     grid-template-columns: repeat(1, 1fr);
 }
+.feed-excerpt{
+    color: #757575;
+    margin-top: 10px !important;
+    margin-left: 20px !important;
+    margin-right: 30px;
+    font-family:  'UntitledTTF', 'Lora', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    
+     display: -webkit-box;
+     max-width: 100%;
+     margin: 0 auto;
+     white-space: inherit; 
+     -webkit-line-clamp: 1;
+     /* autoprefixer: off */
+     -webkit-box-orient: vertical;
+     /* autoprefixer: on */
+     overflow: hidden;
+     text-overflow: ellipsis;
+}
 }
 
 @media print {
