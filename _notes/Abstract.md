@@ -26,7 +26,7 @@ $$ \land $$ | `\land` | Và
 $$ \lor $$ | `\lor` | Hoặc
 $$ \Rightarrow $$ | `\Rightarrow` | Suy ra
 $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
-$$ \rightarrow $$ | `\rightarrow` | Kéo theo
-$$ \leftrightarrow $$ | `\leftrightarrow` | Kéo theo 2 chiều
+$$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
+$$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
