@@ -661,7 +661,7 @@ hr {
 ::placeholder {
     color: #999;
     font-size: 16px;
-    font-family:  'UntitledTTF', Arial, sans-serif !important;
+    font-family:  'UntitledTTF', sans-serif !important;
 }
 .searchbar i {
     position: absolute;
@@ -697,11 +697,9 @@ hr {
 }
 
 .search_res:hover > a {
-    font-family:  'UntitledTTF', Arial, sans-serif !important;
+    font-family:  'UntitledTTF', sans-serif !important;
     font-size: 16px;
     font-weight: 600;
-    margin-top: 6px;
-    margin-bottom: 6px;
 }
 
 #results-container {
@@ -709,8 +707,6 @@ hr {
     font-family:  'UntitledTTF', Arial, sans-serif !important;
     font-size: 16px;
     font-weight: 400;
-    margin-top: 6px;
-    margin-bottom: 6px;
 }
 
 .back-icon {
@@ -1493,17 +1489,16 @@ label.margin-toggle:not(.sidenote-number) {
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
-    
-     display: -webkit-box;
-     max-width: 100%;
-     margin: 0 auto;
-     white-space: inherit; 
-     -webkit-line-clamp: 1;
-     /* autoprefixer: off */
-     -webkit-box-orient: vertical;
-     /* autoprefixer: on */
-     overflow: hidden;
-     text-overflow: ellipsis;
+    display: -webkit-box;
+    max-width: 100%;
+    margin: 0 auto;
+    white-space: inherit; 
+    -webkit-line-clamp: 1;
+    /* autoprefixer: off */
+    -webkit-box-orient: vertical;
+    /* autoprefixer: on */
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 }
 
