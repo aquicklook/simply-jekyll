@@ -1135,9 +1135,9 @@ label.srs-toggle {
     display: none;
     position: absolute;
     z-index: 10;
-    padding: 12px 0;
-    width: 0 auto;
-    height: 0 auto;
+    padding: 4px 0;
+    width: auto;
+    height: auto;
     background-color: #fff;
     border: solid 0px #dfdfdf;
     border-radius: 5px;
