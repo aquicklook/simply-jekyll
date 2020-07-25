@@ -381,6 +381,7 @@ hr {
     padding: 1px;
     vertical-align: bottom;
     font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    display: none;
 }
 
 .avatar-img {
@@ -390,6 +391,7 @@ hr {
     box-sizing: border-box;
     height: 80px;
     width: 80px;
+    display: none;
 }
 
 .dashboard {
