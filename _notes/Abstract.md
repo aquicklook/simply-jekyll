@@ -30,3 +30,8 @@ $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
+## Tips reading mathematics
+
+Chúng ta đã quen với việc đọc văn bản theo một chiều từ trái sang phải, nhưng toán lại khác, một vài trường hợp đòi hỏi chúng ta cần phải đọc 2 chiều, thậm chí là 3 chiều. Ví dụ như
+
+$$\sum_{k=1}^{n}a_i,kb_i,k$$
