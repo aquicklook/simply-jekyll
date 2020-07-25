@@ -31,7 +31,10 @@ $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
 ## Tips reading mathematics
+___
 
 Chúng ta đã quen với việc đọc văn bản theo một chiều từ trái sang phải, nhưng toán lại khác, một vài trường hợp đòi hỏi chúng ta cần phải đọc 2 chiều, thậm chí là 3 chiều. Ví dụ như
 
 $$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$
+
+Chúng ta có thể đọc là tổng của $$a_{i,k}$$ nhân với $$b_{k,j} với k chạy từ $$1$$ đến $$n$$ 
