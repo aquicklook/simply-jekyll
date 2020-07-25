@@ -34,4 +34,4 @@ $$ := $$ | `:=` | Định nghĩa bởi
 
 Chúng ta đã quen với việc đọc văn bản theo một chiều từ trái sang phải, nhưng toán lại khác, một vài trường hợp đòi hỏi chúng ta cần phải đọc 2 chiều, thậm chí là 3 chiều. Ví dụ như
 
-$$\sum_{k=1}^{n}a_i,kb_i,k$$
+$$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$
