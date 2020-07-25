@@ -80,7 +80,7 @@
         {%- elsif url contains "github.com" or url contains "github.io" -%}
             {%- assign link_text = '<a href="' | append: url | append: '">' | append: title | append: '<sup ><i class="fa fa-github"></i></sup></a>' -%}
         {%- elsif url == "highlight" -%}
-            {%- assign link_text = '<span style="background-color: rgba(12, 242, 143, 0.2); color: #292929;">' | append: title | append: '</span>' -%}
+            {%- assign link_text = '<span style="background-color: rgba(12, 235, 160, 0.9); color: #292929;">' | append: title | append: '</span>' -%}
         {%- elsif url == "wrap" -%}
             {%- assign link_text = '<div class="boxit">' | append: title | append: '</div>' -%}
         {%- elsif url == "img" -%}
