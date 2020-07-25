@@ -693,7 +693,7 @@ hr {
 }
 
 .search_res:hover {
- background-color: rgba(223,225,229,0);
+ background-color: #000000;
 }
 
 .search_res:hover > a {
