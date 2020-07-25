@@ -7,10 +7,11 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 ![alt text](https://images.unsplash.com/photo-1590402494756-10c265b9d736?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 "Reading mathematics")
 
 <p class="drop-cap">
-Có hai giai đoạn khi tìm hiểu về một định lý: [[hiểu về tuyên bố::highlight]] và hiểu cách chứng minh. Giai đoạn một quan trọng hơn giai đoạn hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
+Có hai phần khi tìm hiểu về một định lý: [[hiểu về tuyên bố::highlight]] và hiểu cách chứng minh. Phần thứ nhất quan trọng hơn phần thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
 </p>
 
-Thật may, giống như hầu hết việc học các ngôn ngữ khác, ngôn ngữ toán học cũng có một số ký hiệu và quy tắc chung được sử dụng thường xuyên, ví dụ như các chủ đề về tập hợp, logic, ánh xạ... Mục tiêu của phần này là giới thiệu một số khái niệm cơ bản và trình bày một số lời khuyên về việc đọc toán để mọi người học toán hiệu quả và hứng thú hơn trong việc tìm hiểu các phần còn lại. 
+Thật may, giống như hầu hết việc học các ngôn ngữ khác, ngôn ngữ toán học cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. 
+Mục tiêu của phần này là giới thiệu một số khái niệm cơ bản và đưa ra một số hướng dẫn về việc đọc toán để mọi người học toán hiệu quả và hứng thú hơn trong việc tìm hiểu các vấn đề toán học sau này. 
 
 Tương tự như việc học tiếng anh, bên cạnh củng cố ngữ pháp, việc đều đặn trau dồi vốn từ vựng cũng vô cùng cần thiết. Do đó, công thức để học toán hiệu quả thực sự không tồn tại cho những ai lười biếng tìm hiểu.
 
