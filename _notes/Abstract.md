@@ -37,4 +37,4 @@ Chúng ta đã quen với việc đọc văn bản theo một chiều từ trái
 
 $$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$
 
-Chúng ta có thể đọc là tổng của $$a_{i,k}$$ nhân với $$b_{k,j} với k chạy từ $$1$$ đến $$n$$ 
+Chúng ta có thể đọc là tổng của $$a_{i,k}$$ nhân với $$b_{k,j}$$ với $$k$$ chạy từ $$1$$ đến $$n$$ 
