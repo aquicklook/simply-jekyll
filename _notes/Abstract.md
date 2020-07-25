@@ -4,7 +4,7 @@ tags: preliminaries
 {:.boxit}
 "The most efficient logical order for a subject is usually different from  the best psychological order in which to learn it. Much mathematical writing is based too closely on the logical order of deduction in a  subject, with too many definitions without, or before, the examples which motivate them, and too many answers before, or without, the questions they address"— William Thurston 
 
-![alt text](https://unsplash.com/photos/f2C59x5uvn8 "Reading mathematics")
+![alt text](https://images.unsplash.com/photo-1590402494756-10c265b9d736?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80 "Reading mathematics")
 
 Mục đích của việc đọc một tài liệu toán học là hiểu về các định lý. Có hai phần để hiểu một định lý: [[hiểu tuyên bố::highlight]] và hiểu cách chứng minh. Để hiểu hai điều này cần có sự thông hiểu về *ngôn ngữ toán học* bao gồm các ký hiệu, các quy tắc về cách các ký hiệu này được sử dụng, ý nghĩa và cách đọc-viết chúng. 
 
