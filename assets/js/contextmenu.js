@@ -160,12 +160,12 @@ function showRelated(dataAction, dataUrl) {
     var relatedItemHTMLTitle = document.createElement("p");
     relatedItemHTMLTitle.setAttribute("class", "feed-relatedItems");
     relatedItemHTMLTitle.style.fontSize = "14px";
-    relatedItemHTMLTitle.style.fontSize = "14px";
+    relatedItemHTMLTitle.style.lineHeight = "14px";
     relatedItemHTMLTitle.style.color = "#888";
     relatedItemHTMLTitle.style.fontWeight = "600";
     relatedItemHTMLTitle.style.fontFamily = "UntitledTTF";
-    relatedItemHTMLTitle.style.marginTop = "0px";
-    relatedItemHTMLTitle.style.marginBottom = "0px";
+    relatedItemHTMLTitle.style.marginTop = "-25px";
+    relatedItemHTMLTitle.style.marginBottom = "-25px";
      
      
     var relatedItemHTML = document.createElement("ul");
