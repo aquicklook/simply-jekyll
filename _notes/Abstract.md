@@ -12,7 +12,7 @@ Có hai giai đoạn khi tìm hiểu về một định lý: [[hiểu về tuyê
 
 Thật may, giống như hầu hết việc học các ngôn ngữ khác, ngôn ngữ toán học cũng có một số ký hiệu và quy tắc chung được sử dụng thường xuyên, ví dụ như các chủ đề về tập hợp, logic, ánh xạ... Mục tiêu của phần này là giới thiệu một số khái niệm cơ bản và trình bày một số lời khuyên về việc đọc toán để mọi người học toán hiệu quả và hứng thú hơn trong việc tìm hiểu các phần còn lại. 
 
-Tương tự như việc học tiếng anh, bên cạnh việc củng cố ngữ pháp, việc đều đặn trau dồi vốn từ vựng cũng vô cùng cần thiết. Do đó, công thức để học toán hiệu quả thực sự không tồn tại cho những ai lười biếng tìm hiểu.
+Tương tự như việc học tiếng anh, bên cạnh củng cố ngữ pháp, việc đều đặn trau dồi vốn từ vựng cũng vô cùng cần thiết. Do đó, công thức để học toán hiệu quả thực sự không tồn tại cho những ai lười biếng tìm hiểu.
 
 
 Symbol | LaTeX | Comment
