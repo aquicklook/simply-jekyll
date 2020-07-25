@@ -44,10 +44,8 @@ Lúc đầu, chúng ta có thể đọc biểu thức này thành một biểu t
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+a_{i,2}b_{2,j}+ \cdots +a_{i,n}b_{n,j}$$
 
 
-$$
-\begin{eqnarray} 
-y &=& x^4 + 4      \nonumber \\
-  &=& (x^2+2)^2 -4x^2 \nonumber \\
-  &\le&(x^2+2)^2    \nonumber
-\end{eqnarray} 
-$$
+$$\begin{align}
+\int^\pi_0x^2\cos(nx)\cot\left(\frac{x}{2}\right)\ {\rm d}x
+&=-{\rm Re}\int_C\frac{z+1}{z-1}z^{n-1}\ln^2{z}\ {\rm d}z\\
+&=(-1)^{n}\int^1_0\frac{1-x}{1+x}x^{n-1}(\ln^2{x}-\pi^2)\ {\rm d}x-\int^1_0\frac{1+x}{1-x}x^{n-1}\ln^2{x}\ {\rm d}x\\
+\end{align}$$
