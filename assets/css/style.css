@@ -200,7 +200,7 @@ img {
 }
 
 span {
-    max-width: 100%;
+    min-width: auto;
     height: auto;
 }
 
