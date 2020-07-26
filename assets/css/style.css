@@ -62,8 +62,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     counter-reset: sidenote-counter; 
-        min-width: max-content;
-    min-width: min-content;
+    min-width: auto;
     min-width: 150px;
 }
 
