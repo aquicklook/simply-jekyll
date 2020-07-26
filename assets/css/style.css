@@ -678,7 +678,7 @@ hr {
 
 .searchbar input[type="text"] {
     position: relative;
-    padding-left: 50px;
+    padding-left: 60px;
     box-sizing : border-box;
     width: 100%;
     height: 40px;
@@ -693,6 +693,7 @@ hr {
 ::placeholder {
     color: #999;
     font-size: 16px;
+    padding-left: 60px;
     font-family:  'UntitledTTF', sans-serif !important;
 }
 .searchbar i {
@@ -721,7 +722,7 @@ hr {
 } 
 
 .search_res {
-    padding-left: 0px;
+    padding-left: 10px;
 }
     
 .search_res:hover {
@@ -734,7 +735,7 @@ hr {
 
 #results-container {
     display: none;
-    padding-left: 50px;
+    padding-left: 60px;
     font-size: 16px;
     font-weight: 400;
     font-family:  'UntitledTTF', sans-serif !important;
