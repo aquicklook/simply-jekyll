@@ -7,7 +7,7 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 ![alt text](https://www.expii.com/client/apps/solve/16/16.1.png "Reading mathematics")
 
 <p class="drop-cap">
-Có hai phần khi tìm hiểu về một định lý: [[hiểu tuyên bố::highlight]] và hiểu chứng minh. Phần thứ nhất quan trọng hơn phần thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
+Có hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu tuyên bố::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
 </p>
 
 Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn giúp bạn đọc hiệu quả.
