@@ -730,7 +730,7 @@ hr {
 
 .search_res:hover > a {
     font-weight: 400;
-    color: #4183c4;
+    text-decoration: underline;
 }
 
 #results-container {
