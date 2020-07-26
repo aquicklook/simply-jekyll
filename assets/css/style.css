@@ -56,15 +56,15 @@ layout: stylesheet
 
 html {
     scroll-behavior: smooth;
-    min-width: max-content;
-    min-width: min-content;
-    min-width: 150px;
 }
 
 body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     counter-reset: sidenote-counter; 
+        min-width: max-content;
+    min-width: min-content;
+    min-width: 150px;
 }
 
 .container {
