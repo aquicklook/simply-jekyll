@@ -199,6 +199,11 @@ img {
     height: auto;
 }
 
+span {
+    max-width: 100%;
+    height: auto;
+}
+
 
 code {
     font-family: monospace, Courier;
