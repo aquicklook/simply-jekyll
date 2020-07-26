@@ -12,7 +12,7 @@ Có hai mục tiêu cần đạt được khi tìm hiểu về một định lý
 
 Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn giúp bạn đọc hiệu quả.
 
-Tương tự như việc học tiếng anh, bên cạnh củng cố ngữ pháp, việc thường xuyên trau dồi vốn từ vựng cũng vô cùng cần thiết. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
+Tương tự như việc học tiếng anh, bên cạnh củng cố ngữ pháp, việc thường xuyên trau dồi vốn từ vựng là điều vô cùng cần thiết. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
 
 Symbol | LaTeX | Comment
