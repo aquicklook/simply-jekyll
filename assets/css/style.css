@@ -723,13 +723,9 @@ hr {
 .search_res {
     padding-left: 0px;
 }
-
-.search_res {
-    margin-top: 0px;
-}
     
 .search_res:hover {
- background-color: #0000;
+ background-color: #EEEEEE;
 }
 
 .search_res:hover > a {
