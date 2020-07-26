@@ -203,6 +203,7 @@ span {
     min-width: auto;
     max-width: 630px;
     height: auto;
+    box-sizing: border-box;
 }
 
 
