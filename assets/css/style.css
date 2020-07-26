@@ -56,7 +56,9 @@ layout: stylesheet
 
 html {
     scroll-behavior: smooth;
-    min-width: auto;
+    min-width: max-content;
+    min-width: min-content;
+    min-width: fit-content(20em);
 }
 
 body {
