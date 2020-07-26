@@ -725,11 +725,21 @@ hr {
 }
 
 
+
+.search_res output[type=text]:active,
+.search_res output[type=text]:focus {
+    background-color: white;
+    font-family:  'UntitledTTF', sans-serif !important;
+    outline: none;
+}
+    
+    
+    
 .search_res:hover {
  background-color: #0000;
 }
 
-.search_res:hover > p {
+.search_res:hover > a {
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
 }
