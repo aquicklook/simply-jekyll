@@ -729,8 +729,7 @@ hr {
 }
 
 .search_res:hover > a {
-    font-weight: 400;
-    text-decoration: underline;
+    font-weight: 600;
 }
 
 #results-container {
