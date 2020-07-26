@@ -191,26 +191,6 @@ p.drop-cap:first-letter {
     
 }
 
-p.search_res {
-    font-size: 66px;
-    line-height: 55px;
-    text-transform: uppercase;
-    padding-top: 0px;
-    padding-right: 12px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-    margin-right: 0px;
-    margin-top: 0.3rem;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    position: relative;
-    float: left;
-    display: block;
-    box-sizing: inherit;
-    word-break: break-word;
-    
-}
-
 
 /* Figures, Images, Code, Blockquotes, Tables */
 
@@ -742,8 +722,28 @@ hr {
 
 .search_res {
     padding-left: 10px;
-    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
 }
+
+p.search_res {
+    font-family:  'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-size: 66px;
+    line-height: 55px;
+    text-transform: uppercase;
+    padding-top: 0px;
+    padding-right: 12px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-top: 0.3rem;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    position: relative;
+    float: left;
+    display: block;
+    box-sizing: inherit;
+    word-break: break-word;
+}
+
 
 .search_res:hover {
  background-color: #0000;
