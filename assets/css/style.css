@@ -722,10 +722,11 @@ hr {
 
 .search_res {
     padding-left: 0px;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
+.search_res {
+    margin-top: 0px;
+}
     
 .search_res:hover {
  background-color: #0000;
@@ -741,8 +742,6 @@ hr {
     font-size: 16px;
     font-weight: 400;
     font-family:  'UntitledTTF', sans-serif !important;
-    margin-top: 0px;
-    margin-bottom: 0px;
 }
 
 .back-icon {
