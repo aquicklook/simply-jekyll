@@ -726,10 +726,9 @@ hr {
 
 
 
-.search_res > a {
-    font-family:  'UntitledTTF', sans-serif !important;
+li.search_res {
+        font-family:  'UntitledTTF', sans-serif !important;
 }
-    
     
     
 .search_res:hover {
