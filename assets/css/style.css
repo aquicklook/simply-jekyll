@@ -201,7 +201,7 @@ img {
 
 span {
     min-width: auto;
-    min-width: 630px;
+    max-width: 630px;
     height: auto;
 }
 
