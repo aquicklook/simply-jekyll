@@ -726,11 +726,8 @@ hr {
 
 
 
-.search_res output[type=text]:active,
-.search_res output[type=text]:focus {
-    background-color: white;
+.search_res > a {
     font-family:  'UntitledTTF', sans-serif !important;
-    outline: none;
 }
     
     
@@ -740,7 +737,6 @@ hr {
 }
 
 .search_res:hover > a {
-    font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
 }
 
