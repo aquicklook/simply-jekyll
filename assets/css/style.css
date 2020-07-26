@@ -722,14 +722,14 @@ hr {
 
 .search_res {
     padding-left: 10px;
-    font-family:  'UntitledTTF', sans-serif !important;
 }
+
 
 .search_res:hover {
  background-color: #0000;
 }
 
-.search_res:hover > a {
+.search_res:hover > p {
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
 }
