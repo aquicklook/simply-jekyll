@@ -191,6 +191,25 @@ p.drop-cap:first-letter {
     
 }
 
+p.results-container {
+    font-size: 66px;
+    line-height: 55px;
+    text-transform: uppercase;
+    padding-top: 0px;
+    padding-right: 12px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-top: 0.3rem;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    position: relative;
+    float: left;
+    display: block;
+    box-sizing: inherit;
+    word-break: break-word;
+    
+}
 
 
 /* Figures, Images, Code, Blockquotes, Tables */
