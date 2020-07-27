@@ -15,6 +15,13 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ## Symbols and rules
 ___
 
+<table>
+    <caption>He-Man and Skeletor facts</caption>
+    .top caption {
+  caption-side: top;
+}
+</table>
+
 Symbol | LaTeX code | Comment
 --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
@@ -29,10 +36,6 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
-
-<table>
-    <caption>He-Man and Skeletor facts</caption>
-</table>
 
 ```python
 # more python code
