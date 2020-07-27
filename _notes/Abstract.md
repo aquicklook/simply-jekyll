@@ -46,8 +46,8 @@ I_\nu(\nu^{-1},1)
 $$\begin{array} {|r|r|}
 \hline 
 \textbf{Symbol} & \textbf{LaTeX} & \textbf{Comment} \\ 
-\hline \exists & 1_1 & \textbf{Tồn tại ít nhất một} \\ 
- \exists! & 2_1 & \textbf{Tồn tại một và chỉ một} \\ 
+\hline \exists & 1_1 & \text{Tồn tại ít nhất một} \\ 
+ \exists! & 2_1 & \text{Tồn tại một và chỉ một} \\ 
 \hline 3_0 & 3_1 & 3_2 \\ 
 \hline  
 \end{array}$$
