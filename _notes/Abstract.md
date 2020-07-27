@@ -15,8 +15,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ## Symbols and rules
 ___
 
-
-<caption style="caption-side: top">Table 1. Symbols and rulers</caption>
+<caption>Table 1. Symbols and rulers</caption>
 
 Symbol | LaTeX code | Comment
 --- | --- | ---
