@@ -16,6 +16,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 <caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
+
 Symbol | LaTeX code | Comment
 --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
