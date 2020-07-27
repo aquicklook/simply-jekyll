@@ -12,8 +12,9 @@ Giống như mọi ngôn ngữ khác, ngôn ngữ của toán cũng có một s�
 
 Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ngữ pháp, việc thường xuyên trau dồi vốn từ vựng là điều vô cùng cần thiết. Do đó, công thức đọc toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
-## Some common symbols and rules
+## Symbols and rules
 ___
+
 
 Symbol | LaTeX code | Comment
 --- | --- | ---
