@@ -265,7 +265,7 @@ code {
 
 pre code {
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
-    display: inline-block;
+    display: block;
     overflow: auto !important;
     white-space: pre-line !important;       
     word-wrap: break-word !important;       
@@ -307,7 +307,7 @@ blockquote p {
 }
 
 table {
-    width: auto  !important;
+    width: 100%  !important;
     margin: 0 auto;
     border-radius: 0px;
     border-collapse: collapse;
