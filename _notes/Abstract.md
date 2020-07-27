@@ -16,10 +16,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 <table>
-    <caption>He-Man and Skeletor facts</caption>
-    .top caption {
-  caption-side: top;
-}
+<caption id="caption"><em>Caption</em></caption>
 </table>
 
 Symbol | LaTeX code | Comment
