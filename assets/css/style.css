@@ -230,7 +230,7 @@ span {
 
 
 code {
-    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
@@ -264,7 +264,7 @@ code {
 
 
 pre code {
-    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
@@ -273,7 +273,7 @@ pre code {
     vertical-align:middle;
     width: 100%;
     background-color: #F6F8FA;
-    border: 1px solid #b3b3b3;
+    border: 0px solid #b3b3b3;
     border-radius: 0px;
     color: #555;
 }
