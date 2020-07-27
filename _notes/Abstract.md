@@ -42,3 +42,13 @@ I_\nu(\nu^{-1},1)
 &=\frac{1}{8\nu}\int^\pi_0\left(x^2\cot\left(\frac{x}{2}\right)+2\sum^\infty_{n=1}\left(\frac{\nu-1}{\nu+1}\right)^nx^2\cos(nx)\cot\left(\frac{x}{2}\right)\right){\rm d}x\\
 &=\frac{\pi^2}{4\nu}\ln{2}-\frac{7\zeta(3)}{8\nu}-\frac{\xi}{4\nu}\left(\int^1_0\frac{1-x}{(1+x)(1+\xi x)}(\ln^2{x}-\pi^2)+\frac{1+x}{(1-x)(1-\xi x)}\ln^2{x}\ {\rm d}x\right)
 \end{align}$$
+
+\begin{table}[]
+\begin{tabular}{c|cc}
+\hline
+\multicolumn{1}{l|}{\textbf{Symbol}} & \multicolumn{1}{l}{\textbf{LaTeX}} & \multicolumn{1}{l}{\textbf{Coment}} \\ \hline
+$$\exits$$                           &                                    & Tồn tại ít nhất một                 \\
+                                     &                                    &                                     \\
+                                     &                                    &                                     \\ \hline
+\end{tabular}
+\end{table}
