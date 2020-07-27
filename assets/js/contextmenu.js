@@ -40,7 +40,7 @@ function getPosition(e) {
         x: posX,
         y: posY
     }
-}
+r
 
 /* Variables related to main context menu */
 var contextMenuClassName = "context-menu";
@@ -196,7 +196,7 @@ function showRelated(dataAction, dataUrl) {
     }
     relatedItemHTML.prepend(relatedItemHTMLTitle);
     relatedItemHTML.style.marginLeft = "-20px";
-    relatedItemHTML.style.paddingRight = "10px";
+    relatedItemHTML.style.paddingRight = "20px";
     toggleContextResMenuOn();
     resMenu.appendChild(relatedItemHTML);
     positionContextMenuRes();
