@@ -371,6 +371,59 @@ hr {
     height: 1px;
 }
 
+
+/* Style for table */
+.table-customize {
+  margin: 0;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 0 0 1px #ccc inset;
+}
+.table-customize > thead > tr {
+  background-color: #535353;
+  border-radius: 3px 3px 0 0;
+}
+.table-customize > thead > tr > th {
+  color: #fff;
+  border-bottom: none;
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 400;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.table-customize > thead > tr > th:first-child {
+  border-radius: 3px 0 0 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+.table-customize > thead > tr > th:last-child {
+  border-radius: 0 3px 0 0;
+}
+.table-customize > tbody > tr > td {
+  vertical-align: middle;
+  padding: 15px 14px;
+  color: #ccc;
+  font-size: 14px;
+  color: #000;
+  border: 1px solid #ccc;
+}
+.table-customize > tbody > tr > td a {
+  text-decoration: none;
+}
+
+.table-order > tbody > tr:nth-child(-n + 3) > td:first-child {
+  position: relative;
+  font-size: 10px;
+  font-weight: 700;
+}
+.table-order > tbody > tr:nth-child(-n + 3) > td:first-child span {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  top: 14px;
+}
+
+
 @media (min-width: 320px) and (max-width: 767px) {
   .table-responsive,
   .table-responsive thead,
