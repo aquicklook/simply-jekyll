@@ -266,12 +266,13 @@ code {
 pre code {
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
     display: block;
-    overflow: auto !important;
+    overflow-x: auto !important;
     white-space: pre-line !important;       
     word-wrap: break-word !important;       
     padding: 15px 15px  15px 15px;
     vertical-align:middle;
-    width: 590px  !important;
+    width-min: 590px  !important;
+    width-max: 591px  !important;
     background-color: #eaf5ff;
     border: 0px solid #b3b3b3;
     border-radius: 6px;
