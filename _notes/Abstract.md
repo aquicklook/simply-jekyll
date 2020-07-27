@@ -16,6 +16,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 \caption{A test table with its caption beside}
+
 Symbol | LaTeX code | Comment
 --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
