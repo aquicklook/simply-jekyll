@@ -19,6 +19,7 @@ ___
 <div style="overflow-x:auto;">
 <table>
 <caption style="caption-side:top">Table 1. Symbols and rulers</caption>
+
 Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
 --- | --- | --- | --- | --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
