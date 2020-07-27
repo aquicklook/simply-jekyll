@@ -308,6 +308,7 @@ table {
     vertical-align: middle;
     overflow-x: auto;
     border-spacing: 0px 0px;
+    overflow:auto;
 }
 
 table.center {
