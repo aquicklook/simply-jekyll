@@ -297,6 +297,12 @@ blockquote p {
     font-size: 15px;
 }
 
+#father{
+    border:5px solid red;
+    width:400px;
+    overflow:auto;
+       }
+
 table {
     width: auto  !important;
     margin: 0 auto;
@@ -308,7 +314,6 @@ table {
     vertical-align: middle;
     overflow-x: auto;
     border-spacing: 0px 0px;
-    overflow:auto;
 }
 
 table.center {
