@@ -17,6 +17,7 @@ ___
 
 
 <div style="overflow-x:auto;">
+<table>
 <caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
 
 Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
@@ -34,6 +35,7 @@ $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
+</table>
 </div>
 
 ## Tips reading mathematics
