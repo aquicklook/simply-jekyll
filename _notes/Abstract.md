@@ -15,6 +15,8 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ## Symbols and rules
 ___
 
+
+<div id="father">
 <caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
 
 Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
@@ -31,6 +33,8 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
+
+</div>
 
 ## Tips reading mathematics
 ___
