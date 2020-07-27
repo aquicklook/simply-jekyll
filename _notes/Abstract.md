@@ -46,9 +46,11 @@ I_\nu(\nu^{-1},1)
 $$\begin{table}[]
 \begin{tabular}{c|cc}
 \hline
-\multicolumn{1}{l|}{\textbf{Symbol}} & \multicolumn{1}{l}{\textbf{LaTeX}} & \multicolumn{1}{l}{\textbf{Comment}} \\ \hline
-\exits                           &                                    & \textbf{Tồn tại ít nhất một}                 \\
-                                     &                                    &                                     \\
-                                     &                                    &                                     \\ \hline
+\multicolumn{1}{l|}{\textbf{Symbol}} & \multicolumn{1}{l}{\textbf{LaTeX}} & \multicolumn{1}{l}{\textbf{Coment}} \\ \hline
+\textbackslash{}exits &  & Tồn tại ít nhất một \\
+ &  &  \\
+ &  &  \\ \hline
 \end{tabular}
+\caption{What are you doing?}
+\label{For example}
 \end{table}$$
