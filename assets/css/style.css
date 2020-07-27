@@ -319,7 +319,7 @@ th {
     padding: 4px;
     text-align: left;
     font-size: 16px;
-    border:1px solid gray;
+    border:0px solid gray;
 }
 
 td {
@@ -327,7 +327,7 @@ td {
     padding: 4px;
     text-align: left;
     font-size: 16px;
-    border:1px solid gray;
+    border:0px solid gray;
 }
 
 td {
