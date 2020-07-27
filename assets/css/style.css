@@ -304,6 +304,7 @@ table {
     border-bottom:1px solid gray;
     vertical-align: middle;
     overflow-x: auto;
+    border-spacing: 0px 0px;
 }
 
 table.center {
