@@ -300,8 +300,7 @@ table {
     border-radius: 5px;
     border-collapse: collapse;
     caption-side: top;
-    border-top:1px solid gray;
-    border-bottom:1px solid gray;
+    border:1px solid gray;
     vertical-align: middle;
     overflow-x: auto;
     border-spacing: 0px 0px;
