@@ -701,7 +701,7 @@ hr {
 
 ::placeholder {
     color: #999;
-    font-size: 1px;
+    font-size: 16px;
     font-family:  'UntitledTTF', sans-serif !important;
 }
 .searchbar i {
