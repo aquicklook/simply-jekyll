@@ -307,6 +307,7 @@ table {
     border-bottom:1px solid gray;
     vertical-align: middle;
     border-spacing: 0;
+    style: overflow-x:auto;
 }
 
 table.center {
