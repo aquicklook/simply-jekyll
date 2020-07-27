@@ -271,7 +271,7 @@ pre code {
     word-wrap: break-word !important;       
     padding: 15px 15px  15px 15px;
     vertical-align:middle;
-    width-min: 620px;
+    width-max: 620px;
     width: auto;
     background-color: #eaf5ff;
     border: 0px solid #b3b3b3;
