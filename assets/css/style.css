@@ -311,11 +311,16 @@ table {
     margin: 0 auto;
     border-radius: 0px;
     border-collapse: collapse;
-    caption-side: top;
     vertical-align: middle;
     border-spacing: 0;
     overflow-x:auto;
     display: block;
+}
+
+caption {
+  display: table-caption; /* default */
+  text-align: center; /* default */
+  caption-side: bottom;
 }
 
 table.center {
