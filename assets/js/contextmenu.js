@@ -152,7 +152,7 @@ function showRelated(dataAction, dataUrl) {
     var contextMenuResTitle;
     if(dataAction == "backlinks") {
         relatedItems = doc.getElementById("jekyll-seamless-backlinks");
-        contextMenuResTitle = document.createTextNode("Linked eferences");
+        contextMenuResTitle = document.createTextNode("Linked references");
     } else {
         relatedItems = doc.getElementById("jekyll-seamless-relatedposts");
         contextMenuResTitle = document.createTextNode("Related by tag");
@@ -171,7 +171,7 @@ function showRelated(dataAction, dataUrl) {
     var relatedItemHTML = document.createElement("ul");
 
     if (relatedItems == null) {
-        contextMenuResTitle = document.createTextNode("Nothing found ");
+        contextMenuResTitle = document.createTextNode("Nothing found");
         relatedItemHTMLTitle.appendChild(contextMenuResTitle);
     } else {
     var urls = relatedItems.getElementsByTagName("a");
