@@ -16,7 +16,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 
-<div id="father">
+<div style="overflow-x:auto;">
 <caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
 
 Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
