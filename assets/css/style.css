@@ -307,7 +307,8 @@ blockquote p {
 }
 
 table {
-    width: 100%  !important;
+    width: auto  !important;
+    max-width: 620px;
     margin: 0 auto;
     border-radius: 0px;
     border-collapse: collapse;
