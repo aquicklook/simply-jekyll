@@ -14,7 +14,6 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 
 ## Symbols and rules
 ___
-<table>
 
 Symbol | LaTeX code | Comment
 --- | --- | ---
@@ -32,7 +31,6 @@ $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
 <caption id="caption"><em>Caption</em></caption>
-</table>
 
 
 ```python
