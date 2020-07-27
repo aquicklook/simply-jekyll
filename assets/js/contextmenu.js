@@ -196,7 +196,7 @@ function showRelated(dataAction, dataUrl) {
     }
     relatedItemHTML.prepend(relatedItemHTMLTitle);
     relatedItemHTML.style.marginLeft = "-20px";
-    relatedItemHTML.style.paddingRight = "20px";
+    relatedItemHTML.style.paddingRight = "10px";
     toggleContextResMenuOn();
     resMenu.appendChild(relatedItemHTML);
     positionContextMenuRes();
