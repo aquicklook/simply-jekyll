@@ -271,10 +271,11 @@ pre code {
     word-wrap: break-word !important;       
     padding: 15px 15px  15px 15px;
     vertical-align:middle;
-    width: 100%;
-    background-color: #F6F8FA;
+    width-min: 620px;
+    width: auto;
+    background-color: #eaf5ff;
     border: 0px solid #b3b3b3;
-    border-radius: 0px;
+    border-radius: 6px;
     color: #555;
 }
 
