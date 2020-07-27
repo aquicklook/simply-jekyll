@@ -318,8 +318,8 @@ table {
 }
 
 caption {
-  display: table-caption; /* default */
-  text-align: center; /* default */
+  display: table-caption;
+  text-align: center;
   caption-side: top;
 }
 
