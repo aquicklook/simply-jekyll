@@ -230,7 +230,7 @@ span {
 
 
 code {
-    font-family: Monaco, 'Lora', monospace, Courier;
+    font-family: monospace, Courier;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
