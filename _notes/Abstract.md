@@ -30,6 +30,10 @@ $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
+```python
+# more python code
+```
+
 ## Tips reading mathematics
 ___
 
