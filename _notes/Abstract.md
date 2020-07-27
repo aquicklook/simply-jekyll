@@ -36,6 +36,7 @@ $$ := $$ | `:=` | Định nghĩa bởi
 ```python
 import os
 os.system('clear')
+ng có một dịch vụ gọi là Gist dùng để giúp mọi người chia sẻ dễ dàng các đoạn code/text ngắn. Điều tuyệt vời là Gist cũng hỗ trợ render trực tiếp Markdown ra văn bản HTML đẹp mắt nên bạn có thể sử dụng gist để nhanh chóng ghi lại những ý tưởng mới bùng nổ trong đầu hoặc một bài báo cáo, một bài hướng dẫn ngắn,... giống như tính năng Notes trên Facebook vậy.
 ```
 
 ## Tips reading mathematics
