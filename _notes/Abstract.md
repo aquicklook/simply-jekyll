@@ -15,8 +15,8 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ## Symbols and rules
 ___
 
-Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Symbol | LaTeX code | Comment
+--- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
 $$ \exists! $$ | `\exists!` | Tồn tại một và chỉ một
 $$ \nexists $$ | `\nexists` | Không tồn tại
