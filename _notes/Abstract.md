@@ -16,7 +16,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 <table>
-<caption id="caption"><em>Caption</em></caption>
+<caption id="caption"><em>Table 1. Symbol and rules</em></caption>
 </table>
 
 Symbol | LaTeX code | Comment
