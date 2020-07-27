@@ -316,7 +316,7 @@ th {
     padding: 5px;
     text-align: left;
     font-size: 16px;
-    border-bottom:1px solid gray;
+    border:1px solid gray;
 }
 
 td {
@@ -325,6 +325,7 @@ td {
     text-align: left;
     font-size: 16px;
     line-height: 28px;
+    border:1px solid gray;
 }
 
 td {
