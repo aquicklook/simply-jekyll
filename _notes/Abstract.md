@@ -32,6 +32,7 @@ $$ := $$ | `:=` | Định nghĩa bởi
 
 ```python
 # more python code
+Giống như mọi ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn giúp bạn đọc toán hiệu quả.
 ```
 
 ## Tips reading mathematics
