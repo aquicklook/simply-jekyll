@@ -16,8 +16,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 
-  <table>
-    <caption style="caption-side:top">Table 1. Symbols and rulers</caption>
+<caption style="caption-side: top">Table 1. Symbols and rulers</caption>
 
 Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
 --- | --- | --- | --- | --- | --- | ---
@@ -33,8 +32,6 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
-
-   </table>
 
 ## Tips reading mathematics
 ___
