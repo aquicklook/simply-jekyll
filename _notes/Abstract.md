@@ -30,8 +30,9 @@ $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
-<caption id="caption"><em>Caption</em></caption>
-
+<table>
+    <caption>He-Man and Skeletor facts</caption>
+</table>
 
 ```python
 # more python code
