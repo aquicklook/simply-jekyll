@@ -17,7 +17,7 @@ ___
 
 Symbol | LaTeX code | Comment
 --- | --- | ---
-$$ \exists $$ | `\exists` | Tồn tại ít nhất một phần tử 
+$$ \exists $$ | `\exists` | Tồn tại ít nhất một phần tử Do đó, công thức đọc toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 $$ \exists! $$ | `\exists!` | Tồn tại một và chỉ một phần tử
 $$ \nexists $$ | `\nexists` | Không tồn tại
 $$ \forall $$ | `\forall` | Với mọi
