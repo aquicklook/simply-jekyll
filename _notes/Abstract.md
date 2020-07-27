@@ -43,7 +43,5 @@ I_\nu(\nu^{-1},1)
 &=\frac{\pi^2}{4\nu}\ln{2}-\frac{7\zeta(3)}{8\nu}-\frac{\xi}{4\nu}\left(\int^1_0\frac{1-x}{(1+x)(1+\xi x)}(\ln^2{x}-\pi^2)+\frac{1+x}{(1-x)(1-\xi x)}\ln^2{x}\ {\rm d}x\right)
 \end{align}$$
 
-$$\begin{array} {|r|r|}\hline 0_0 & 0_1 & 0_2 \\ \hline 1_0 & 1_1 & 1_2 \\ \hline 2_0 & 2_1 & 2_2 \\ \hline 3_0 & 3_1 & 3_2 \\ \hline 4_0 & 4_1 & 4_2 \\ \hline 5_0 & 5_1 & 5_2 \\ \hline 6_0 & 6_1 & 6_2 \\ \hline 7_0 & 7_1 & 7_2 \\ \hline 8_0 & 8_1 & 8_2 \\ \hline 9_0 & 9_1 & 9_2 \\ \hline  
-\caption{What are you doing?}
-\label{For example}
+$$\begin{array} {|r|r|}\hline \textbf{Symbol} & 0_1 & 0_2 \\ \hline 1_0 & 1_1 & 1_2 \\ \hline 2_0 & 2_1 & 2_2 \\ \hline 3_0 & 3_1 & 3_2 \\ \hline 4_0 & 4_1 & 4_2 \\ \hline 5_0 & 5_1 & 5_2 \\ \hline 6_0 & 6_1 & 6_2 \\ \hline 7_0 & 7_1 & 7_2 \\ \hline 8_0 & 8_1 & 8_2 \\ \hline 9_0 & 9_1 & 9_2 \\ \hline  
 \end{array}$$
