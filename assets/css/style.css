@@ -1071,7 +1071,7 @@ label.srs-toggle {
 
 .srs-toggle:checked + .spaced-rep{
     display: block !important;
-    left: 1rem;
+    left: 0rem;
     clear: both;
     margin: 1rem 2.5%;
     vertical-align: baseline;
