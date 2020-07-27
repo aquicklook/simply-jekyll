@@ -15,10 +15,6 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ## Symbols and rules
 ___
 
-<table>
-<caption id="caption"><em>Table 1. Symbol and rules</em></caption>
-</table>
-
 Symbol | LaTeX code | Comment
 --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
