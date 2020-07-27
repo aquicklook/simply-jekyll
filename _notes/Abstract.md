@@ -33,6 +33,11 @@ $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
+```python
+import os
+os.system('clear')
+```
+
 ## Tips reading mathematics
 ___
 
