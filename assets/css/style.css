@@ -202,7 +202,7 @@ img {
 
 span {
     min-width: auto;
-    max-width: 630px;
+    max-width: 620px;
     height: auto;
     box-sizing: border-box;
 }
@@ -308,6 +308,7 @@ table {
     vertical-align: middle;
     overflow-x: auto;
     border-spacing: 0px 0px;
+    width:620px;
     overflow:auto;
 }
 
