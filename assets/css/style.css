@@ -1080,7 +1080,7 @@ label.srs-toggle {
     width: auto;
     background-color: #fff;
     border: solid 1px #dfdfdf;
-    border-radius: 0px;
+    border-radius: 4px;
     box-shadow: 1px 1px 15px #cfcfcf;
     word-wrap:break-word;
 }
