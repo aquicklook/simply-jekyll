@@ -16,7 +16,6 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ___
 
 
-<div style="overflow-x:auto;">
   <table>
     <caption style="caption-side:top">Table 1. Symbols and rulers</caption>
 
@@ -36,7 +35,6 @@ $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
    </table>
-</div>
 
 ## Tips reading mathematics
 ___
