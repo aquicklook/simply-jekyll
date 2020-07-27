@@ -312,7 +312,6 @@ table {
     border-radius: 0px;
     border-collapse: collapse;
     caption-side: top;
-    border-bottom:1px solid gray;
     vertical-align: middle;
     border-spacing: 0;
     overflow-x:auto;
@@ -375,6 +374,10 @@ thead tr:nth-child(odd) {
 
 tbody tr:nth-child(even) {
     background-color: #fff;
+}
+
+tbody tr:last-child {
+    border-bottom:1px solid gray;
 }
 
 hr {
