@@ -264,7 +264,7 @@ code {
 
 
 pre code {
-    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
