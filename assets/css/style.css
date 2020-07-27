@@ -308,6 +308,7 @@ table {
     vertical-align: middle;
     border-spacing: 0;
     overflow-x:auto;
+    display: block;
 }
 
 table.center {
