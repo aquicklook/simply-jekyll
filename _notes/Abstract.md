@@ -17,8 +17,8 @@ ___
 
 
 <div style="overflow-x:auto;">
-<table>
-<caption style="caption-side:top">Table 1. Symbols and rulers</caption>
+  <table>
+    <caption style="caption-side:top">Table 1. Symbols and rulers</caption>
 
 Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
 --- | --- | --- | --- | --- | --- | ---
@@ -35,7 +35,7 @@ $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
 
-</table>
+   </table>
 </div>
 
 ## Tips reading mathematics
