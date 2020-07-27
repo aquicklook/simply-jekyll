@@ -17,8 +17,8 @@ ___
 
 <caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
 
-Symbol | LaTeX code | Comment Symbol | LaTeX code | Comment 
---- | --- | --- | --- | ---
+Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
+--- | --- | --- | --- | --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
 $$ \exists! $$ | `\exists!` | Tồn tại một và chỉ một
 $$ \nexists $$ | `\nexists` | Không tồn tại
