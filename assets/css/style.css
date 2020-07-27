@@ -694,14 +694,14 @@ hr {
     border: 0px;
     font-family:  'UntitledTTF', sans-serif !important;
     color: #292929;
-    font-size: 16px;
+    font-size: 18px;
     border: 0px solid #b3b3b3;
     border-radius: 4px;
 }
 
 ::placeholder {
     color: #999;
-    font-size: 16px;
+    font-size: 18px;
     font-family:  'UntitledTTF', sans-serif !important;
 }
 .searchbar i {
@@ -737,14 +737,20 @@ hr {
  background-color: #0000;
 }
 
+.search_res a {
+    font-size: 18px;
+    font-family:  'UntitledTTF', sans-serif !important;
+}
+
 .search_res:hover > a {
     font-weight: 600;
+    font-size: 18px;
 }
 
 #results-container {
     display: none;
     padding-left: 50px;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     font-family:  'UntitledTTF', sans-serif !important;
 }
