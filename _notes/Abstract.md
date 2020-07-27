@@ -18,8 +18,8 @@ ___
 
 <caption style="caption-side: top">Table 1. Symbols and rulers</caption>
 
-Symbol | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment | LaTeX code | Comment
---- | --- | --- | --- | --- | --- | --- | --- | ---
+Symbol | LaTeX code | Comment
+--- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
 $$ \exists! $$ | `\exists!` | Tồn tại một và chỉ một
 $$ \nexists $$ | `\nexists` | Không tồn tại
@@ -32,11 +32,6 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
-
-```python
-import os
-os.system('clear')
-```
 
 ## Tips reading mathematics
 ___
