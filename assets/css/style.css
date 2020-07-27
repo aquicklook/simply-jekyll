@@ -251,7 +251,7 @@ code {
     background-color: #f7f7f7;
     border-radius: 5px;
     border: none;
-    font-family: 'Cmgunyhpukpuuockazuaznxkkqv', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family:  SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
 }
 
 .serif code {
@@ -259,19 +259,19 @@ code {
     background-color: #f7f7f7;
     border-radius: 5px;
     border: none;
-    font-family: 'Lora', Georgia, serif !important;
+    font-family:  SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
 }
 
 
 pre code {
     font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
     display: inline-block;
-    overflow-x: auto !important;
+    overflow: auto !important;
     white-space: pre-line !important;       
     word-wrap: break-word !important;       
     padding: 15px 15px  15px 15px;
     vertical-align:middle;
-    width: auto  !important;
+    width: 590px  !important;
     background-color: #eaf5ff;
     border: 0px solid #b3b3b3;
     border-radius: 6px;
@@ -282,6 +282,11 @@ pre code {
     border-spacing: 0;
 }
 
+code span {
+    font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace !important;
+    font-size: 12px;
+    line-height: 1rem;
+}
 
 blockquote:before {
     display: none;
