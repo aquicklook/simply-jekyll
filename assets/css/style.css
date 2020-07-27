@@ -312,7 +312,6 @@ table {
     border-radius: 0px;
     border-collapse: collapse;
     caption-side: top;
-    border-top:1px solid gray;
     border-bottom:1px solid gray;
     vertical-align: middle;
     border-spacing: 0;
@@ -330,6 +329,7 @@ th {
     padding: 4px;
     text-align: left;
     font-size: 16px;
+    border-top:1px solid gray;
     border-bottom:1px solid gray;
 }
 
