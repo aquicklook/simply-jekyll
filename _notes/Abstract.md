@@ -31,5 +31,5 @@ $$ := $$ | `:=` | Định nghĩa bởi
 ## Tips reading mathematics
 ___
 
-Chúng ta đã quen với việc đọc một văn bản văn học thuần túy theo chiều từ trái sang phải. Tuy nhiên, cách đọc của toán lại không hoàn toàn như vậy, một vài trường hợp đòi hỏi chúng ta cần phải đọc 2 chiều, thậm chí là 3 chiều. Ví dụ $$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$, lúc đầu, chúng ta có thể đọc biểu thức này thành một biểu thức tuyến tính như sau:
+Chúng ta đã quen với việc đọc một văn bản văn học thuần túy theo chiều từ trái sang phải. Tuy nhiên, cách đọc của toán lại không hoàn toàn như vậy, một vài trường hợp đòi hỏi chúng ta cần phải đọc 2 chiều, thậm chí là 3 chiều. Ví dụ $$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$. Lúc đầu, chúng ta có thể đọc biểu thức này thành một biểu thức tuyến tính như sau:
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+a_{i,2}b_{2,j}+ \cdots +a_{i,n}b_{n,j}$$
