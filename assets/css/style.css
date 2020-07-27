@@ -1170,6 +1170,8 @@ label.srs-toggle {
     position: absolute;
     z-index: 10;
     padding: 4px 0;
+    min-width: 120px;
+    min-hight: 54px;
     width: auto;
     hight: auto;
     background-color: #fff;
