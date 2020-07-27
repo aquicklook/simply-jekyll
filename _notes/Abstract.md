@@ -15,9 +15,7 @@ Tương tự như phương pháp học tiếng anh, bên cạnh củng cố ng�
 ## Symbols and rules
 ___
 
-<table border="1">
-    <caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
-
+<caption style="caption-side:bottom">THÔNG TIN SINH VIÊN</caption>
 Symbol | LaTeX code | Comment
 --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một
@@ -32,8 +30,6 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
-
-</table>
 
 ## Tips reading mathematics
 ___
