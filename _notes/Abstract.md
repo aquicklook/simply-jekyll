@@ -32,7 +32,7 @@ $$ := $$ | `:=` | Định nghĩa bởi
 
 ```python
 # more python code
-Giống như mọi ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn giúp bạn đọc toán hiệu quả.
+To see how any formula was written in any question or answer, including this one, right-click on the expression it and choose "Show Math As > TeX Commands". (When you do this, the '$' will not display. Make sure you add these. See the next point.)
 ```
 
 ## Tips reading mathematics
