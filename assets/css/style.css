@@ -320,7 +320,7 @@ table {
 caption {
   display: table-caption; /* default */
   text-align: center; /* default */
-  caption-side: bottom;
+  caption-side: top;
 }
 
 table.center {
