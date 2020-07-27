@@ -317,12 +317,6 @@ table {
     display: block;
 }
 
-caption {
-  display: table-caption;
-  text-align: center;
-  caption-side: top;
-}
-
 table.center {
     margin-left:auto; 
     margin-right:auto;
