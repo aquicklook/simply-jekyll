@@ -29,7 +29,18 @@ $$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
-[*A test table with its caption beside*]
+[A test table with its caption beside]
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
 
 ```python
 # more python code
