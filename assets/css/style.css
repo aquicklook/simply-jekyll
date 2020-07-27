@@ -297,7 +297,7 @@ blockquote p {
 table {
     width: auto  !important;
     margin: 0 auto;
-    border-radius: 5px;
+    border-radius: 4px;
     border-collapse: collapse;
     caption-side: top;
     border:1px solid gray;
@@ -313,8 +313,8 @@ table.center {
 
 th {
     color: #292929;
-    padding: 5px;
-    text-align: left;
+    padding: 4px;
+    text-align: center;
     font-size: 16px;
     border:1px solid gray;
 }
