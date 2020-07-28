@@ -293,7 +293,18 @@ blockquote:before {
 }
 
 blockquote {
-    padding: 10px;
+    display: block !important;
+    width: auto;
+    background-color: #fff;
+    border: solid 1px #dfdfdf;
+    border-radius: 4px;
+    box-shadow: 1px 1px 15px #cfcfcf;
+    left: 0rem;
+    clear: both;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative;
+    padding: 12px;
 }
 
 cite {
