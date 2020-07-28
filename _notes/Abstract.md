@@ -22,12 +22,12 @@ Thông thường, ta hay gặp mệnh đề được phát biểu có dạng lư
 Phủ định của mệnh đề có dạng lượng từ phổ biến là tồn tại một phần tử $$x$$ của tập hợp $$X$$ không có tính chất $$\mathcal{P}(x)$$[[$$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$::rmn-transclude]] và phủ định của mệnh đề có dạng lượng từ tồn tại là với mọi phần tử $$x$$ thuộc $$X$$ không có tính chất $$\mathcal{P}(x)$$[[$$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$::rmn-transclude]].
 
 — Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. 
+<br>
+Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$( \lvert a \rvert < b) \Leftrightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.
 
 — Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Leftrightarrow B$$.
-
-— Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$( \lvert a \rvert < b) \Leftrightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.
-
-— Khi $$A \Leftrightarrow B$$ tức $$A \Rightarrow B$$ và $$B \Rightarrow A$$, ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
+<br>
+Khi $$A \Leftrightarrow B$$ tức $$A \Rightarrow B$$ và $$B \Rightarrow A$$, ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
 
 Symbol | LaTeX code | Comment | Example
 --- | --- | --- | ---
