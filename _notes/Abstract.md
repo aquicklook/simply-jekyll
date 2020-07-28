@@ -33,7 +33,7 @@ $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\
 
 Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ hoặc $$A \cdot B$$, đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại, hay $$\left (A \land B  \right ) = \mathrm{min}\left \{A, B \right\}$$. Phép hội có tính chất giao hoán, kết hợp và phân phối.
 
-Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$\left (A \lor B  \right ) = \mathrm{max}\left \{A, B \right\}$$. Phép tuyển có tính chất giao hoãn, kết hợp và phân phối. 
+Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$\left (A \lor B  \right ) = \mathrm{max}\left \{A, B \right\}$$. Phép tuyển có tính chất giao hóan, kết hợp và phân phối. 
 
 $$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại, hay $$\left ( A\rightarrow B \right )=\textrm{max}\left \{ 1-A,B \right \}$$. Phép kéo theo có tính chất $$A\rightarrow B\Leftrightarrow \overline{A} \lor B$$.
 
