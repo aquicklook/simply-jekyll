@@ -29,7 +29,12 @@ Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh 
 
 Phép phủ định được ký hiệu là $$\overline{A}=1-A$$
 
-$$\begin{array} {|r|r|}\hline A & \overline{A} \\ \hline 1 & 0 \\ \hline 0 & 1 \\ \hline  \end{array}$$
+$$\begin{array} {|r|r|}
+\hline 
+A & \overline{A} \\ \hline 
+1 & 0 \\ \hline 
+0 & 1 \\ \hline.  
+\end{array}$$
 
 
 ### Sets
