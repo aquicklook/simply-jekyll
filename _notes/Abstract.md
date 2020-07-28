@@ -39,7 +39,7 @@ Symbol | LaTeX code | Comment | Example
 $$ \land $$ | `\land` | Và
 $$ \lor $$ | `\lor` | Hoặc
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
-$$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
+$$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều 
 $$ := $$ | `:=` | Định nghĩa bởi
 
 ```python
