@@ -35,7 +35,17 @@ Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ v
 
 Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$A \lor B = \mathrm{max}\left \{A, B \right\}$$.[[Để thiết lập mệnh đề tuyển của hai mệnh đề $$A, B$$ ta ghép hai mệnh đề đó bởi liên từ "hoặc" hay liên từ khác cùng loại.::srs]]
 
-$$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại, hay $$\left ( A\rightarrow B \right )=\textrm{max}\left \{ 1-A,B \right \}$$.
+$$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại, hay $$\left ( A\rightarrow B \right )=\textrm{max}\left \{ 1-A,B \right \}$$.[[Mệnh đề $$A$$ kéo theo $$B$$ thường được diễn đạt dưới nhiều hình thức khác nhau, chẳng hạn:
+<br>
+"Nếu $$A$$ thì $$B$$"
+<br>
+"Có $$B$$ khi có $$A$$"
+<br>
+"Từ $$A$$ suy ra $$B$$"
+<br>
+"$$A$$ là điều kiện đủ để có $$B$$"
+<br>
+"$$A$$ là điều kiện cần để có $$B$$".::srs]]
 
 
 ### Sets
