@@ -34,8 +34,7 @@ $$\begin{tabular}{|c|c|}
    A & \overline{A} \\ \hhline
    1 & 0 \\ \hline
    0 & 1 \\ \hline
-\end{tabular}
-$$
+\end{tabular}$$
 
 
 ### Sets
