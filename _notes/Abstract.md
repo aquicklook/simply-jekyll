@@ -15,7 +15,7 @@ Phương pháp học ngôn ngữ thứ hai hiệu quả là bên cạnh việc c
 ## Symbols and rules
 ___
 
-*Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. 
+* Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. 
 
 Symbol | LaTeX code | Comment | Example
 --- | --- | --- | ---
