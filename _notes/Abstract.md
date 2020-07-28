@@ -31,7 +31,7 @@ Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$
 <br>
 $$\overline{\exists x \in X, \mathcal{P}(x)}$$ là với mọi phần tử $$x$$ của tập $$X$$ không có tính chất $$\mathcal{P}(x)$$, ký hiệu là $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$.::srs]]
 
-Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ (hoặc $$A \cdot B$$), đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại.
+Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ (hoặc $$A \cdot B$$), đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại, hay $$A \land B = min{A, B}$$.
 
 ### Sets
 
