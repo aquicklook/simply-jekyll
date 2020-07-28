@@ -33,11 +33,11 @@ $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\
 
 Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ hoặc $$A \cdot B$$, đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại, hay $$\left (A \land B  \right ) = \mathrm{min}\left \{A, B \right\}$$. Tính chất của phép hội là 
 
-Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$\left (A \lor B  \right ) = \mathrm{max}\left \{A, B \right\}$$.
+Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$\left (A \lor B  \right ) = \mathrm{max}\left \{A, B \right\}$$.
 
-$$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại, hay $$\left ( A\rightarrow B \right )=\textrm{max}\left \{ 1-A,B \right \}$$.
+$$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại, hay $$\left ( A\rightarrow B \right )=\textrm{max}\left \{ 1-A,B \right \}$$. Phép kéo theo có tính chất $$A\rightarrow B\Leftrightarrow \overline{A} \lor B$$.
 
-$$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
+$$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai. Phép tương đương có tính chất $$A\leftrightarrow B\Leftrightarrow \left ( A\rightarrow B \right )\land\left ( B\rightarrow A \right )$$.
 
 > **Tính giao hoán**
 <br>
@@ -50,14 +50,6 @@ $$\left (A \land B  \right )\land C \Leftrightarrow A \land \left (B \land C  \r
 **Tính phân phối**
 <br>
 $$A \land \left ( B\lor C \right )\Leftrightarrow \left (A \land B  \right ) \lor \left (A \land C  \right )$$, $$A \lor \left ( B\land C \right )\Leftrightarrow \left (A \lor B  \right ) \land \left (A \lor C  \right )$$
-<br>
-**Tính chất của phép kéo theo**
-<br>
-$$A\rightarrow B\Leftrightarrow \overline{A} \lor B$$
-<br>
-**Tính chất của phép tương đương**
-<br> 
-$$A\leftrightarrow B\Leftrightarrow \left ( A\rightarrow B \right )\land\left ( B\rightarrow A \right )$$
 
 
 ### Sets
