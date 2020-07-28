@@ -23,6 +23,7 @@ ___
 
 — Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$( \lvert a \rvert < b) \Leftrightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.
 
+— Khi $$A \Leftrightarrow B$$ tức $$A \Rightarrow B$$ và $$B \Rightarrow A$$, ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
 
 
 Symbol | LaTeX code | Comment | Example
