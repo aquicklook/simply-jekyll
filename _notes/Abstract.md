@@ -39,13 +39,26 @@ $$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$
 
 $$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
 
-> $$A \land B \Leftrightarrow B\land A$$, $$A \lor B \Leftrightarrow B\lor A$$
+> **Các tính chất của phép hội, tuyển, kéo theo và tương đương**
+<br>
+1. Tính giao hoãn
+<br>
+$$A \land B \Leftrightarrow B\land A$$, $$A \lor B \Leftrightarrow B\lor A$$
+<br>
+2. Tính kết hợp
 <br>
 $$\left (A \land B  \right )\land C \Leftrightarrow A \land \left (B \land C  \right )$$, $$\left (A \lor B  \right )\lor C \Leftrightarrow A \lor \left (B \lor C  \right )$$
 <br>
+3. Tính phân phối
+<br>
 $$A \land \left ( B\lor C \right )\Leftrightarrow \left (A \land B  \right ) \lor \left (A \land C  \right )$$, $$A \lor \left ( B\land C \right )\Leftrightarrow \left (A \lor B  \right ) \land \left (A \lor C  \right )$$
 <br>
+4. Tính chất của phép kéo theo
+<br>
 $$A\rightarrow B\Leftrightarrow \overline{A} \lor B$$
+<br>
+5. Tính chất của phép tương đương
+<br> 
 $$A\leftrightarrow B\Leftrightarrow \left ( A\rightarrow B \right )\land\left ( B\rightarrow A \right )$$
 
 
