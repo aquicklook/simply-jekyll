@@ -25,8 +25,6 @@ Thông thường, ta hay gặp mệnh đề được phát biểu có dạng lư
 <br>
 Tồn tại một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$ được viết gọn là $$\exists x \in X, \mathcal{P}(x)$$.
 
-Phủ định của mệnh đề có dạng lượng từ phổ biến là tồn tại một phần tử $$x$$ của tập hợp $$X$$ không có tính chất $$\mathcal{P}(x)$$[[$$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$::rsn]] và phủ định của mệnh đề có dạng lượng từ tồn tại là với mọi phần tử $$x$$ thuộc $$X$$ không có tính chất $$\mathcal{P}(x)$$[[$$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$::rsn]]. 
-
 Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. Lúc này ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. 
 > $$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.
 
@@ -36,7 +34,9 @@ Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$
 <br>
 $$\begin{array} {|c|c|} \hline A & \overline{A} \\ \hline 1 & 0 \\ \hline 0 & 1 \\ \hline \end{array}$$
 
-
+> Phủ định của mệnh đề $$\forall x \in X, \mathcal{P}(x)$$ là tồn tại một phần tử $$x$$ của tập hợp $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$
+<br>
+Phủ định của mệnh đề $$\exists x \in X, \mathcal{P}(x)$$ là với mọi phần tử $$x$$ thuộc $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$. 
 
 
 ### Sets
