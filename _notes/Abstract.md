@@ -21,7 +21,7 @@ ___
 
 — Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Leftrightarrow B$$.
 
-— Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$(abs{a} < b) \Leftrightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$|a| < b $$.
+— Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$(abs(a) < b) \Leftrightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$abs(a) < b $$.
 
 
 
