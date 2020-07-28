@@ -17,6 +17,8 @@ ___
 
 — Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. Ví dụ $$2<3$$ là một mệnh đề toán học đúng và $$3>4$$ là một mệnh đề toán học sai. 
 
+— Một số mệnh đề thường được phát biểu dưới dạng lượng từ phổ biến $$\forall$$ hoặc lượng từ tồn tại $$\exits$$. Ví dụ "Mọi phần tử $$x$$ của tập hợp $$X$$ đều có tính chất $$\wp(x)$$".
+
 — Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. 
 
 — Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Leftrightarrow B$$.
@@ -24,7 +26,6 @@ ___
 — Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$( \lvert a \rvert < b) \Leftrightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.
 
 — Khi $$A \Leftrightarrow B$$ tức $$A \Rightarrow B$$ và $$B \Rightarrow A$$, ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
-
 
 Symbol | LaTeX code | Comment | Example
 --- | --- | --- | ---
