@@ -27,6 +27,17 @@ Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mện
 
 Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Leftrightarrow B$$. Lúc này ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
 
+Phép phủ định được ký hiệu là $$\overline{A}=1-A$$
+
+$$\begin{tabular}{|c|c|}
+   \hline 
+   A & \overline{A} \\ \hhline
+   1 & 0 \\ \hline
+   0 & 1 \\ \hline
+\end{tabular}
+$$
+
+
 ### Sets
 
 Symbol | LaTeX code | Comment | Example
