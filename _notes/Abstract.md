@@ -24,6 +24,7 @@ ___
 — Khi $$A \Rightarrow B$$ ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. Ví dụ $$\left(\left| a \right| < b\right) \Leftrightarrow \left( b>0 \right)$$ nhưng từ $$b>0$$ không suy ra được $$\left| a \right| <b$$.
 
 
+
 Symbol | LaTeX code | Comment | Example
 --- | --- | --- | ---
 $$ \exists $$ | `\exists` | Tồn tại ít nhất một phần tử | 
