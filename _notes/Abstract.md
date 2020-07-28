@@ -31,15 +31,8 @@ Phủ định của mệnh đề có dạng lượng từ phổ biến là tồn
 
 Symbol | LaTeX code | Comment | Example
 --- | --- | --- | ---
-$$ \exists $$ | `\exists` | Tồn tại ít nhất một phần tử | 
-$$ \exists! $$ | `\exists!` | Tồn tại một và chỉ một phần tử
-$$ \nexists $$ | `\nexists` | Không tồn tại
-$$ \forall $$ | `\forall` | Với mọi
-$$ \neg $$ | `\neg` | Không
 $$ \land $$ | `\land` | Và
 $$ \lor $$ | `\lor` | Hoặc
-$$ \Rightarrow $$ | `\Rightarrow` | Suy ra
-$$ \Leftrightarrow $$ | `\Leftrightarrow` | Tương đương
 $$ \rightarrow $$ | `\rightarrow` | Phép kéo theo
 $$ \leftrightarrow $$ | `\leftrightarrow` | Phép kéo theo 2 chiều
 $$ := $$ | `:=` | Định nghĩa bởi
