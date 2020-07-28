@@ -5,7 +5,7 @@ tags: preliminaries
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
 <p class="drop-cap">
-Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu tuyên bố::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
+Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
 </p>
 
 Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn giúp bạn đọc toán hiệu quả.
@@ -17,9 +17,10 @@ ___
 
 — Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. Ví dụ $$2<3$$ là một mệnh đề toán học đúng và $$3>4$$ là một mệnh đề toán học sai. 
 
-— Mệnh đề toán học được phát biểu bằng văn xuôi và được quy ước bằng các ký hiệu toán học. Thông thường, ta hay gặp mệnh đề được phát biểu dưới dạng lượng từ phổ biến $$\forall$$[[Ví dụ "Mọi phần tử $$x$$ của tập hợp $$X$$ đều có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\forall x \in X, \mathcal{P}(x)$$.::lsn]] và lượng từ tồn tại $$\exists$$[[Ví dụ "Tồn tại một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\exists x \in X, \mathcal{P}(x)$$ hoặc "Tồn tại duy nhất một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\exists! x \in X, \mathcal{P}(x)$$.::rsn]].
+— Mệnh đề toán học được phát biểu bằng văn xuôi và được quy ước bằng các ký hiệu toán học. Thông thường, ta hay gặp mệnh đề được phát biểu có dạng lượng từ phổ biến $$\forall$$[[Ví dụ "Mọi phần tử $$x$$ của tập hợp $$X$$ đều có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\forall x \in X, \mathcal{P}(x)$$.::lsn]] và lượng từ tồn tại $$\exists$$[[Ví dụ "Tồn tại một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\exists x \in X, \mathcal{P}(x)$$ hoặc "Tồn tại duy nhất một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\exists! x \in X, \mathcal{P}(x)$$.::rsn]].
 <br>
-đâsdasds
+Phủ định của mệnh đề có dạng lượng từ phổ biến là tồn tại hoặc tồn tại duy nhất một phần tử $$x$$ của $$X$$ không có tính chất $$\mathcal{P}(x)$$, ta viết gọn lại là 
+$$\bar{\forall x \in X, \mathcal{P}(x)}$$
 
 — Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. 
 
