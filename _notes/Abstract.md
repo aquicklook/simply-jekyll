@@ -15,9 +15,9 @@ Phương pháp học ngôn ngữ thứ hai hiệu quả là bên cạnh việc c
 ## Symbols and rules
 ___
 
-Symbol | LaTeX code | Comment
---- | --- | ---
-$$ \exists $$ | `\exists` | Tồn tại ít nhất một phần tử
+Symbol | LaTeX code | Comment | For example
+--- | --- | --- | ---
+$$ \exists $$ | `\exists` | Tồn tại ít nhất một phần tử | 
 $$ \exists! $$ | `\exists!` | Tồn tại một và chỉ một phần tử
 $$ \nexists $$ | `\nexists` | Không tồn tại
 $$ \forall $$ | `\forall` | Với mọi
