@@ -23,6 +23,7 @@ Mệnh đề toán học là một khẳng định toán học chỉ có thể �
 Thông thường, ta hay gặp mệnh đề được phát biểu có dạng lượng từ phổ biến, ký hiệu là $$\forall$$ và lượng từ tồn tại, ký hiệu là $$\exists$$ — tồn tại một phần tử hoặc $$\exists!$$ — tồn tại duy nhất một phần tử hoặc $$\nexists$$ — không tồn tại phần tử.
 > Mọi phần tử $$x$$ của tập hợp $$X$$ đều có tính chất $$\mathcal{P}(x)$$ được viết gọn là $$\forall x \in X, \mathcal{P}(x)$$.
 <br>
+<br>
 Tồn tại một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$ được viết gọn là $$\exists x \in X, \mathcal{P}(x)$$.
 
 Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. Lúc này ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. 
