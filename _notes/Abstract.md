@@ -34,7 +34,7 @@ Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$
 <br>
 $$\begin{array} {|c|c|} \hline A & \overline{A} \\ \hline 1 & 0 \\ \hline 0 & 1 \\ \hline \end{array}$$
 
-> Phủ định của mệnh đề $$\forall x \in X, \mathcal{P}(x)$$ là tồn tại một phần tử $$x$$ của tập hợp $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$
+> Phủ định của mệnh đề $$\forall x \in X, \mathcal{P}(x)$$ là tồn tại một phần tử $$x$$ của tập hợp $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$.
 <br>
 Phủ định của mệnh đề $$\exists x \in X, \mathcal{P}(x)$$ là với mọi phần tử $$x$$ thuộc $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$. 
 
