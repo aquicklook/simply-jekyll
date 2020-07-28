@@ -27,14 +27,14 @@ Phủ định của mệnh đề có dạng lượng từ phổ biến là tồn
 
 — Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Leftrightarrow B$$. Lúc này ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
 
-— Phép phủ định được ký hiệu là $$\overline{A}=1-A$$
-
-$$\begin{array} {|c|c|}
+— Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng. Để diễn đạt ý đó ta viết gọn là $$\overline{A}=1-A$$.[[$$\begin{array} {|c|c|}
 \hline 
 A & \overline{A} \\ \hline 
 1 & 0 \\ \hline 
 0 & 1 \\ \hline 
-\end{array}$$
+\end{array}$$.::rsn]] 
+
+
 
 
 ### Sets
