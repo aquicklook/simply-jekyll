@@ -30,11 +30,9 @@ Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mện
 
 Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Leftrightarrow B$$. Lúc này ta nói $$A$$ là điều kiện cần và đủ để có $$B$$, $$B$$ cũng là điều kiện cần và đủ để có $$A$$.
 
-Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng. Để diễn đạt ý đó ta viết gọn là $$\overline{A}=1-A$$. Ta có bảng giá trị chân lý của phép phủ định như sau:
-<br>
-$$\begin{array} {|c|c|} \hline A & \overline{A} \\ \hline 1 & 0 \\ \hline 0 & 1 \\ \hline \end{array}$$
-
+Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng. Để diễn đạt ý đó ta viết gọn là $$\overline{A}=1-A$$.
 > Phủ định của mệnh đề $$\forall x \in X, \mathcal{P}(x)$$ là tồn tại một phần tử $$x$$ của tập hợp $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$.
+<br>
 <br>
 Phủ định của mệnh đề $$\exists x \in X, \mathcal{P}(x)$$ là với mọi phần tử $$x$$ thuộc $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$. 
 
