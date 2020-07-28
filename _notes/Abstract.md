@@ -39,7 +39,7 @@ $$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$
 
 $$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
 
-> 1. Tính giao hoãn
+> 1. Tính giao hoán
 <br>
 $$A \land B \Leftrightarrow B\land A$$, $$A \lor B \Leftrightarrow B\lor A$$
 <br>
