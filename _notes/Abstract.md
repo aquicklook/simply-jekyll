@@ -33,7 +33,7 @@ $$\overline{\exists x \in X, \mathcal{P}(x)}$$ là với mọi phần tử $$x$$
 
 Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ hoặc $$A \cdot B$$, đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại, hay $$A \land B = \mathrm{min}\left \{A, B \right\}$$.[[Để thiết lập mệnh đề hội của hai mệnh đề $$A, B$$ ta ghép hai mệnh đề đó bởi liên từ "và" hay một liên từ khác cùng loại. Những liên từ đó là: mà, nhưng, song, đồng thời, vẫn, cùng,... hoặc dùng dấu phẩy hoặc không dùng liên từ gì.::srs]]
 
-Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A \plus B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$A \lor B = \mathrm{max}\left \{A, B \right\}$$.[[Để thiết lập mệnh đề tuyển của hai mệnh đề $$A, B$$ ta ghép hai mệnh đề đó bởi liên từ "hoặc" hay liên từ khác cùng loại.::srs]]
+Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hoặc $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại, hay $$A \lor B = \mathrm{max}\left \{A, B \right\}$$.[[Để thiết lập mệnh đề tuyển của hai mệnh đề $$A, B$$ ta ghép hai mệnh đề đó bởi liên từ "hoặc" hay liên từ khác cùng loại.::srs]]
 
 ### Sets
 
