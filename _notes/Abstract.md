@@ -45,10 +45,6 @@ Symbol | LaTeX code | Comment | Example
 --- | --- | --- | ---
 $$ := $$ | `:=` | Định nghĩa bởi
 
-```python
-# more python code
-```
-
 ## Tips reading mathematics
 ___
 
