@@ -18,7 +18,7 @@ ___
 ### Logics
 
 — Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. 
-<br>
+
 **Ví dụ 1.1**
 <br>
 $$2<3$$ là một mệnh đề toán học đúng,
