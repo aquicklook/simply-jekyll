@@ -29,6 +29,7 @@ Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh 
 
 Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$ hay $$\neg{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng. Để diễn đạt ý đó ta viết gọn là $$\overline{A}=1-A$$.[[Phủ định của mệnh đề $$\forall x \in X, \mathcal{P}(x)$$ là tồn tại một phần tử $$x$$ của tập $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$.
 <br>
+<br>
 Phủ định của mệnh đề $$\exists x \in X, \mathcal{P}(x)$$ là với mọi phần tử $$x$$ của tập $$X$$ không có tính chất $$\mathcal{P}(x)$$ ta viết gọn là $$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$.::srs]]
 
 
