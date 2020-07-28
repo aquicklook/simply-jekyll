@@ -18,7 +18,8 @@ ___
 — Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. Ví dụ $$2<3$$ là một mệnh đề toán học đúng và $$3>4$$ là một mệnh đề toán học sai. 
 
 — Mệnh đề toán học được phát biểu bằng văn xuôi và được quy ước bằng các ký hiệu toán học. Thông thường, ta hay gặp mệnh đề được phát biểu dưới dạng lượng từ phổ biến $$\forall$$[[Ví dụ "Mọi phần tử $$x$$ của tập hợp $$X$$ đều có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\forall x \in X, \mathcal{P}(x)$$.::lsn]] và lượng từ tồn tại $$\exists$$[[Ví dụ "Tồn tại một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\exists x \in X, \mathcal{P}(x)$$ hoặc "Tồn tại duy nhất một phần tử $$x$$ của tập hợp $$X$$ có tính chất $$\mathcal{P}(x)$$" được viết gọn là $$\exists! x \in X, \mathcal{P}(x)$$.::rsn]].
-  hjkh
+<br>
+đâsdasds
 
 — Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$. Để diễn đạt ý đó ta viết gọn là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. 
 
