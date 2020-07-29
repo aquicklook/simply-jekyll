@@ -41,13 +41,15 @@ $$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$
 
 $$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
 
-$$\begin{array} {rrrr|rrrr}
+$$\{center}
+\begin{array} {rrrr|rrrr}
 A & B & A\land B & A\lor B & A\rightarrow B & A\leftrightarrow B \\ \hline 
 1 & 1 & 1 & 1 & 1 & 1 \\
 1 & 0 & 0 & 1 & 0 & 0 \\
 0 & 1 & 0 & 1 & 1 & 0 \\
 0 & 0 & 0 & 0 & 0 & 1 \\ 
-\end{array}$$
+\end{array}
+\{\center}$$
 
 
 $$\begin{table}[!th]
