@@ -50,6 +50,18 @@ A & B & A\land B & A\lor B & A\rightarrow B & A\leftrightarrow B \\ \hline
 \end{array}$$
 
 
+$$\begin{table}[!th]
+\begin{tabular}{|l|c|r|}
+\hline
+thứ nhất & hàng & dữ liệu \\
+thứ hai & hàng & dữ liệu \\
+\hline
+\end{tabular}
+\caption{Đây là chú giải}
+\label{ex:table}
+\end{table}$$
+
+
 ## Tips reading mathematics
 ___
 
