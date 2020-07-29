@@ -24,6 +24,14 @@ layout: stylesheet
 }
 
 @font-face {
+    font-family: 'Font';
+    src: url('/fonts/Font.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
     font-family: 'SVN-Georgia';
     src: url('/fonts/SVN-GeorgiaItalic.woff2') format('woff2');
     font-weight: normal;
@@ -204,8 +212,8 @@ h2, h3 {
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif;
-    font-size: 18px;  /* Let's set the font-size to something old-man friendly */
-    line-height: 28px;
+    font-size: 1.1875rem;  /* Let's set the font-size to something old-man friendly */
+    line-height: 1.6;
     letter-spacing: -0.003em;
 }
 
@@ -237,23 +245,25 @@ b, strong {
 
 
 p.drop-cap:first-letter {
-    font-size: 64px;
-    line-height: .83;
+    font-family: 'Font';
+    font-size:  6.25rem;
+    line-height: .9;
     text-transform: uppercase;
     padding-top: 0px;
     padding-right: 12px;
     padding-bottom: 0px;
     padding-left: 0px;
-    margin-right: 0px;
-    margin-top: 0rem;
-    margin-bottom: 0px;
-    margin-left: 0px;
+    margin: .3rem .6rem -.6rem -.26rem;
     position: relative;
     float: left;
     display: block;
-    box-sizing: inherit;
+    box-sizing: border-box;
     word-break: break-word;
-    letter-spacing: -0.003em
+    letter-spacing: -0.003em;
+    font-kerning: normal;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
     
 }
 
@@ -379,7 +389,7 @@ cite {
 
 blockquote p {
     font-family: inherit;
-    font-size: 18px;
+    font-size: 19px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
