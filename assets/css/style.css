@@ -47,11 +47,6 @@ layout: stylesheet
     font-display: swap;
 }
 
-
-
-
-
-
 @font-face {
     font-family: 'UntitledTTF';
     src: url('/fonts/UntitledTTF.woff2') format('woff2');
@@ -610,7 +605,7 @@ hr {
 
 .notes-page-tagline a {
     text-decoration: none;
-    font-family: 'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Charis SIL', 'Lora', 'Cmgunyhpukpuuockazuaznxkkqv', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 }
 
 /* Utilities: Disable Selection, Kramdown TOC */
@@ -660,7 +655,7 @@ hr {
 }
 
 .serif {
-    font-family: 'Lora', Georgia, serif !important;
+    font-family: 'Charis SIL', 'Lora', Georgia, serif !important;
 }
 
 .title-sans {
@@ -670,7 +665,7 @@ hr {
 }
 
 .regular-sans {
-    font-family: 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Charis SIL', 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 }
 
 .bold {
@@ -954,7 +949,7 @@ hr {
 .mn-right {
     float: right;
     clear: right;
-    font-family: 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Charis SIL', 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     font-size: 18px;
     margin-right: -45%;
     width: 40%;
@@ -969,7 +964,7 @@ hr {
 .mn-left {
     float: left;
     clear: left;
-    font-family: 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Charis SIL', 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     font-size: 18px;
     margin-left: -45%;
     width: 40%;
@@ -987,7 +982,7 @@ hr {
 .sidenote-number:after,
 .sn-left:before,
 .sn-right:before {
-    font-family: 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+    font-family: 'Charis SIL', 'Lora', 'IBM Plex Sans', Inter, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
     position: relative;
     vertical-align: baseline; 
 }
@@ -1221,7 +1216,7 @@ label.srs-toggle {
     padding-right: 5px;
     font-size: 14px !important;
     line-height: 20px !important;
-    font-family:  'Lora', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    font-family:  'Charis SIL', 'Lora', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
     font-weight: 400;
 }
 
