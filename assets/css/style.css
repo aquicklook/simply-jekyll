@@ -52,7 +52,7 @@ layout: stylesheet
     src: url('/fonts/SVN-GeorgiaBoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
-    font-display: swap;
+    font-display: swa19
 }
 
 
@@ -744,7 +744,7 @@ hr {
     border-radius: 0px;
     font-family: 'UntitledTTF', sans-serif !important;
     color: #757575;
-    font-size: 18px;
+    font-size: 19px;
     line-height: 24px;
 }
 
@@ -991,7 +991,7 @@ hr {
     float: right;
     clear: right;
     font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
-    font-size: 18px;
+    font-size: 19px;
     margin-right: -45%;
     width: 40%;
     margin-top: 0;
@@ -1006,7 +1006,7 @@ hr {
     float: left;
     clear: left;
     font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
-    font-size: 18px;
+    font-size: 1px;
     margin-left: -45%;
     width: 40%;
     margin-top: 0;
@@ -1273,7 +1273,7 @@ label.srs-toggle {
     outline: none;
     border: none;
     overflow: hidden;
-    font-size: 18px;
+    font-size: 19px;
 }
 
 .context-menu-res {
