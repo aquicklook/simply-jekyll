@@ -41,11 +41,12 @@ $$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$
 
 $$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
 
-### Sets
-
-Symbol | LaTeX code | Comment | Example
+$$A$$ | $$B$$ | $$\overline{A}$$ | $$\overline{B}$$
 --- | --- | --- | ---
-$$ := $$ | `:=` | Định nghĩa bởi
+$$0$$ | $$0$$ | $$1$$ | $$1$$
+$$0$$ | $$1$$ | $$1$$ | $$0$$
+$$1$$ | $$0$$ | $$0$$ | $$1$$
+$$1$$ | $$1$$ | $$0$$ | $$0$$
 
 ## Tips reading mathematics
 ___
