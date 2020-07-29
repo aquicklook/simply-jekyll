@@ -15,7 +15,7 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 ## Symbols and rules
 ___
 
-### Logics
+### Logical and proposition
 
 Mệnh đề toán học là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.[[$$2<3$$ là một mệnh đề đúng, $$3>4$$ là một mệnh đề sai.::srs]]
 
@@ -24,6 +24,8 @@ Thông thường, ta hay gặp mệnh đề được phát biểu có dạng lư
 Tồn tại một phần tử $$x$$ của tập $$X$$ có tính chất $$\mathcal{P}(x)$$ được viết gọn là $$\exists x \in X, \mathcal{P}(x)$$.::srs]]
 
 Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mệnh đề $$B$$ cũng đúng thì ta nói mệnh đề $$A$$ suy ra hay kéo theo mệnh đề $$B$$, ký hiệu là $$A \Rightarrow B$$ hay $$B \Leftarrow A$$. Lúc này ta nói $$A$$ là điều kiện đủ để có $$B$$ và $$B$$ là điều kiện cần để có $$A$$. [[$$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.::srs]]
+
+___
 
 Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$, ký hiệu là $$A \Leftrightarrow B$$. Lúc này ta nói $$A$$, $$B$$ lần lượt là điều kiện cần và đủ để có $$B$$, $$A$$.
 
