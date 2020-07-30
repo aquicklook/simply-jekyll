@@ -57,11 +57,11 @@ $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrigh
 **Bảng chân trị của các phép tính logic**
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
-A & B & \overline{A} & A\land B & A\lor B & A\rightarrow B & A\leftrightarrow B \\ \hline 
-1 & 1 & 0 & 1 & 1 & 1 & 1 \\ \hline
-1 & 0 & 0 & 0 & 1 & 0 & 0 \\ \hline
-0 & 1 & 1 & 0 & 1 & \color{Red} 1 & 0 \\ \hline
-0 & 0 & 1 & 0 & 0 & \color{Red} 1 & 1 \\ \hline
+p &   q &   \overline{p} &  p\land q &    p\lor q &     p\rightarrow q &        p\leftrightarrow q \\ \hline 
+T &   T &   F &             T &           T &           T &                     T                   \\ \hline
+T &   F &   F &             F &           T &           F &                     F                    \\ \hline
+F &   T &   T &             F &           T &           \color{Red} T &         F                     \\ \hline
+F &   F &   T &             F &           F &           \color{Red} T &         T                      \\ \hline
 \end{array}$$
 
 
