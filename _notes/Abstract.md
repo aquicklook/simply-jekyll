@@ -54,7 +54,7 @@ $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai. Khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
-<span style="color:Blue">Bảng chân trị của các phép tính logic</span>
+**<span style="color:Blue">**Bảng chân trị của các phép tính logic**</span>**
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
 A & B & \overline{A} & A\land B & A\lor B & A\rightarrow B & A\leftrightarrow B \\ \hline 
