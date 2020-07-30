@@ -213,6 +213,7 @@ a, p, ul, li, ol, table, span, blockquote {
     font-size: 1.1875rem;  /* Let's set the font-size to something old-man friendly */
     line-height: 1.6;
     letter-spacing: -0.003em;
+    margin-top: 2em;
 }
 
 p a,
