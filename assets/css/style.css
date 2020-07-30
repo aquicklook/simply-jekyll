@@ -214,6 +214,7 @@ a, p, ul, li, ol, table, span, blockquote {
     line-height: 1.6;
     letter-spacing: -0.003em;
     margin-top: 1.2em;
+    margin-bottom: 0em;
 }
 
 p a,
