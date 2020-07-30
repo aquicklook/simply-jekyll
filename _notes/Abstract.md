@@ -66,7 +66,7 @@ F &   F &   T &             F &           F &           \color{Red} T &         
 
 Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách kéo theo 2 lần ngược chiều nhau. Đó là ý tưởng cơ bản của phép tương đương và để sử dụng đúng phép tương đương này cần phải tuân theo một số quy luật nhất định.
 
-Hằng đúng là một mệnh đề hoặc biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv T$$.
+Hằng đúng là một mệnh đề hoặc biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{true}$$.
 
 ## Tips reading mathematics
 ___
