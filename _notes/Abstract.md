@@ -76,7 +76,7 @@ Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh
 
 **Mệnh đề liên tiếp - Contingency**
 
-Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề (p\land q) \lor \neg{q} là một mệnh đề liên tiếp vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
+Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề liên tiếp vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
 
 $$\begin{array} {|c|c|c|c|c|} \hline
 p &   q &   \neg{q}     &  p\land q &    (p\land q) \lor \neg{q}     \\ \hline 
