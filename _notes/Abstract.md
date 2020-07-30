@@ -52,16 +52,16 @@ $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$
 
 **Phép tương đương — Biconditional**
 
-$$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai. Khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
+$$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
 **Bảng chân trị của các phép tính logic**
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
 p &   q &   \neg{p}     &  p\land q &    p\lor q &     p\rightarrow q &        p\leftrightarrow q \\ \hline 
-\color{Blue} T &   \color{Blue} T &   \color{Blue} F &             \color{Blue} T &           \color{Blue} T &           \color{Blue} T &       \color{Blue} T      \\ \hline
+\color{Blue} T &   \color{Blue} T &   F &              T &     T &          T &       \color{Blue} T      \\ \hline
 T &   F &   F &             F &           T &           F &                     F                    \\ \hline
 F &   T &   T &             F &           T &           \color{Red} T &         F                     \\ \hline
-F &   F &   T &             F &           F &           \color{Red} T &         T                      \\ \hline
+\color{Blue} F &   \color{Blue} F &   T &             F &           F &           \color{Red} T &        \color{Blue} T                      \\ \hline
 \end{array}$$
 
 Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách sử dụng phép kéo theo 2 lần theo chiều ngược nhau hay đảo đề của nhau. Đó là ý tưởng cơ bản của phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
@@ -96,7 +96,12 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 
 **Tương đương logic - Logical equivalence**
 
-Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu và chỉ nếu chúng có cùng chân trị.
+Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Nói cách khác, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
+
+
+
+
+
 
 ## Tips reading mathematics
 ___
