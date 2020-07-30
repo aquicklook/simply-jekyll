@@ -12,10 +12,8 @@ Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một s�
 
 Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc củng cố ngữ pháp thì phải thường xuyên trau dồi vốn từ vựng. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
-## Symbols and rules
+## Proposition and logical
 ___
-
-### Proposition
 
 **Mệnh đề toán học** là một khẳng định toán học chỉ có thể đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai. Thông thường, ta hay gặp mệnh đề được phát biểu có dạng lượng từ phổ biến, ký hiệu là $$\forall$$ và lượng từ tồn tại, ký hiệu là $$\exists$$ — tồn tại hoặc $$\exists!$$ — tồn tại duy nhất hoặc $$\nexists$$ — không tồn tại.[[Mọi phần tử $$x$$ của tập $$X$$ đều có tính chất $$\mathcal{P}(x)$$ được viết gọn là $$\forall x \in X, \mathcal{P}(x)$$.
 <br>
@@ -25,7 +23,7 @@ Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mện
 
 Khi $$A \Rightarrow B$$ đồng thời $$B \Rightarrow A$$, thì ta nói mệnh đề $$A$$ tương đương mệnh đề $$B$$, ký hiệu là $$A \Leftrightarrow B$$. Lúc này ta nói $$A$$, $$B$$ lần lượt là điều kiện cần và đủ để có $$B$$, $$A$$.
 
-### Logical
+___
 
 Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$ hay $$\neg{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng.[[$$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$.
 <br>
