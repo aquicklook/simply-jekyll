@@ -30,7 +30,7 @@ Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathb
 
 Các phép tính mệnh đề được sử dụng nhằm mục đích kết nối các mệnh đề lại với nhau tạo ra một mệnh đề mới. Các phép toán mệnh đề bao gồm: phép phủ định, phép hội, phép tuyển, phép $$XOR$$, phép kéo theo và phép tương đương.
 
-<span style="color:red">some Phép phủ định$$---$$Negation** text</span>
+<span style="color:red">Phép phủ định$$---$$Negation</span>
 
 
 
