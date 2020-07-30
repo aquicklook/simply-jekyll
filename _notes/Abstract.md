@@ -64,7 +64,7 @@ F &   T &   T &             F &           T &           \color{Red} T &         
 F &   F &   T &             F &           F &           \color{Red} T &         T                      \\ \hline
 \end{array}$$
 
-Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách kéo theo 2 lần ngược chiều nhau. Đó là ý tưởng cơ bản của phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
+Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách sử dụng phép kéo theo 2 lần theo chiều ngược nhau hay đảo đề của nhau. Đó là ý tưởng cơ bản của phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
 
 **Mệnh đề hằng đúng — Tautologie**
 
@@ -88,9 +88,7 @@ F &   F &   T &             F &           T                              \\ \hli
 
 **Mệnh đề hệ quả**
 
-Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f$$ 
-$$|$$ 
-$$\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$, chứng minh $$f$$ 
+Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f \mapsto \rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$, chứng minh $$f$$ 
 $$|$$ 
 $$\rightarrow g$$.
 
@@ -100,7 +98,7 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 
 **Tương đương logic - Logical equivalence**
 
-
+Hai mệnh đề $$p$$ và $$q$$ được gọi là tương đương logic nếu và chỉ nếu chúng có cùng chân trị.
 
 ## Tips reading mathematics
 ___
