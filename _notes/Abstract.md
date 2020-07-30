@@ -64,9 +64,32 @@ F &   T &   T &             F &           T &           \color{Red} T &         
 F &   F &   T &             F &           F &           \color{Red} T &         T                      \\ \hline
 \end{array}$$
 
-Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách kéo theo 2 lần ngược chiều nhau. Đó là ý tưởng cơ bản của phép tương đương và để sử dụng đúng phép tương đương này cần phải tuân theo một số quy luật nhất định.
+Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách kéo theo 2 lần ngược chiều nhau. Đó là ý tưởng cơ bản của phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
 
-Hằng đúng là một mệnh đề hoặc biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{true}$$.
+**Mệnh đề hằng đúng — Tautologie**
+
+Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{true}$$.
+
+**Mệnh đề hằng sai — Contradiction**
+
+Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{false}$$.
+
+**Mệnh đề liên tiếp - Contingency**
+
+Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ:
+
+$$\begin{array} {|c|c|c|c|c|} \hline
+p &   q &   \neg{q}     &  p\land q &    (p\land q) \lor \neg{q}     \\ \hline 
+T &   T &   F &             T &           T                           \\ \hline
+T &   F &   T &             F &           T                            \\ \hline
+F &   T &   F &             F &          \color{Red} F                  \\ \hline
+F &   F &   T &             F &           T                              \\ \hline
+
+**Mệnh đề hệ quả**
+
+Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu f\rightarrow g là một mệnh đề hằng đúng. Ký hiệu là $$f|\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$. Chứng minh $$f|\rightarrow g$$.
+
+
 
 ## Tips reading mathematics
 ___
