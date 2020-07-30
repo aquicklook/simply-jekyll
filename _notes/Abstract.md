@@ -94,6 +94,8 @@ $$\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$
 $$|$$ 
 $$\rightarrow g$$.
 
+$$\begin{array} {|c|c|}\hline p & q & r & p \rightarrow q & q \rightarrow r & f & g & f\rightarrow g \\ \hline T & T & T & T & T & T & T & T \\ \hline T & T & F & T & F & F & F & T \\ \hline T & F & T & F & T & F & T & T \\ \hline T & F & F & F & T & F & F & T \\ \hline F & T & T & T & T & T & T & T \\ \hline F & T & F & T & F & F & T & T \\ \hline F & F & T & T & T & T & T & T \\ \hline F & F & F & T & T & T & T & T \\ \hline  \end{array}$$
+
 ## Tips reading mathematics
 ___
 
