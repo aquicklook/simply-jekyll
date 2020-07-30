@@ -88,9 +88,7 @@ F &   F &   T &             F &           T                              \\ \hli
 
 **Mệnh đề hệ quả**
 
-Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f \mapsto \rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$, chứng minh $$f$$ 
-$$|$$ 
-$$\rightarrow g$$.
+Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f \mapsto g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$, chứng minh $$f\mapsto g$$.
 
 $$\begin{array} {|c|c|}\hline p & q & r & p \rightarrow q & q \rightarrow r & f & g & f\rightarrow g \\ \hline T & T & T & T & T & T & T & T \\ \hline T & T & F & T & F & F & F & T \\ \hline T & F & T & F & T & F & T & T \\ \hline T & F & F & F & T & F & F & T \\ \hline F & T & T & T & T & T & T & T \\ \hline F & T & F & T & F & F & T & T \\ \hline F & F & T & T & T & T & T & T \\ \hline F & F & F & T & T & T & T & T \\ \hline  \end{array}$$
 
@@ -98,7 +96,7 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 
 **Tương đương logic - Logical equivalence**
 
-Hai mệnh đề $$p$$ và $$q$$ được gọi là tương đương logic nếu và chỉ nếu chúng có cùng chân trị.
+Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu và chỉ nếu chúng có cùng chân trị.
 
 ## Tips reading mathematics
 ___
