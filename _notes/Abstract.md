@@ -56,9 +56,9 @@ $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrigh
 
 **Bảng chân trị của các phép tính logic**
 
-$$\begin{array} {|c|c||c|c|c|c|c|} \hline
+$$\begin{array} {|c|c|c|c|c|c|c|} \hline
 p &   q &   \neg{p}     &  p\land q &    p\lor q &     p\rightarrow q &        p\leftrightarrow q \\ \hline 
-T &   T &   F &             T &           T &           T &                     T                   \\ \hline
+T &   T &   F &             T &           T &           \color{Blue} T &       \color{Blue} T      \\ \hline
 T &   F &   F &             F &           T &           F &                     F                    \\ \hline
 F &   T &   T &             F &           T &           \color{Red} T &         F                     \\ \hline
 F &   F &   T &             F &           F &           \color{Red} T &         T                      \\ \hline
