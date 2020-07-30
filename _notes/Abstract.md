@@ -42,7 +42,7 @@ Hội của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ v
 
 Tuyển của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ hoặc $$q$$, ký hiệu là $$p \lor q$$ hay $$p + q$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
 
-**Phép $$\mathrm{XOR}$$**
+**Phép $$\mathbf{XOR}$$**
 
 $$\mathrm{XOR}$$ của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ xor $$q$$, ký hiệu là $$p\bigoplus q$$, đúng khi một trong hai mệnh đề đúng và sai trong các trường hợp còn lại.
 
