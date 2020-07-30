@@ -84,10 +84,11 @@ T &   T &   F &             T &           T                           \\ \hline
 T &   F &   T &             F &           T                            \\ \hline
 F &   T &   F &             F &          \color{Red} F                  \\ \hline
 F &   F &   T &             F &           T                              \\ \hline
+\end{array}$$
 
 **Mệnh đề hệ quả**
 
-Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu f\rightarrow g là một mệnh đề hằng đúng. Ký hiệu là $$f|\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$. Chứng minh $$f|\rightarrow g$$.
+Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu f\rightarrow g là một mệnh đề hằng đúng. Ký hiệu là $$f|\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$. Chứng minh $$f{|}\rightarrow g$$.
 
 
 
