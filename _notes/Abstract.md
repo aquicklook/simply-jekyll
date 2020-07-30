@@ -14,7 +14,7 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 
 ___
 
-## Propositional calculus and logical
+## Propositional and logical
 
 Mệnh đề hay mệnh đề logic là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
 
@@ -22,7 +22,7 @@ Ví dụ: $$2<3$$ là một mệnh đề đúng. $$3>4$$ là một mệnh đề 
 
 Giá trị đúng, sai của một mệnh đề được gọi là chân trị của mệnh đề đó. Chân trị của mệnh đề đúng ký hiệu là $$T$$ $$(\mathbf{true})$$, chân trị của mệnh đề sai ký hiệu là $$F$$ $$(\mathbf{false})$$. Bảng chân trị của mệnh đề là bảng tổng kết các trường hợp đúng sai có thể xảy ra của mệnh đề đó. Sự xác định chân trị thường dựa vào thực nghiệm và lý luận bằng cách kết hợp các mệnh đề (phép tính mệnh đề) mà ta đã biết chân trị lại với nhau để tạo ra một mệnh đề mới. 
 
-### Propositional
+### Propositional calculus
 
 Trong các phép tính mệnh đề, người ta không quan tâm đến ý nghĩa của câu phát biểu mà chỉ chú ý đến chân trị của các mệnh đề. Do đó, khi thực hiện các mệnh đề thông thường người ta không ghi rõ các câu phát biểu mà chỉ ghi ký hiệu. Các chữ cái sẽ được dùng để ký hiệu các mệnh đề. Những chữ cái thường dùng là $$p, q, r, \cdots $$.
 
