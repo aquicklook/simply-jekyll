@@ -23,17 +23,11 @@ Khi với giả thiết mệnh đề $$A$$ đúng ta chứng minh được mện
 
 ___
 
-Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$ hay $$\neg{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng.[[$$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$.
+Phủ định của mệnh đề $$A$$ là một mệnh đề, ký hiệu là $$\overline{A}$$ hay $$\neg{A}$$, đúng khi $$A$$ sai và sai khi $$A$$ đúng.[[$$\overline{\forall x \in X, \mathcal{P}(x)} \equiv \exists x \in X, \overline{\mathcal{P}(x)}$$
 <br>
-$$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$.::srs]]
+$$\overline{\exists x \in X, \mathcal{P}(x)} \equiv \forall x \in X, \overline{\mathcal{P}(x)}$$::srs]] Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ hay $$A \cdot B$$, đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại. Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hay $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
 
-Hội của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ và $$B$$, ký hiệu $$A \land B$$ hay $$A \cdot B$$, đúng khi cả hai mệnh đề $$A, B$$ cùng đúng và sai trong các trường hợp còn lại.
-
-Tuyển của hai mệnh đề $$A, B$$ là một mệnh đề, đọc là $$A$$ hoặc $$B$$, ký hiệu là $$A \lor B$$ hay $$A + B$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
-
-$$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại.
-
-$$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
+$$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$, chỉ sai khi $$A$$ đúng và $$B$$ sai và đúng trong các trường hợp còn lại. $$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
 
 Bảng 1. Bảng giá trị chân lý của các phép toán logic
 
