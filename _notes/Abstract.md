@@ -88,7 +88,7 @@ F &   F &   T &             F &           T                              \\ \hli
 
 **Mệnh đề hệ quả**
 
-Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f$$$$|$$$$\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$. Chứng minh $$f \rightarrow g$$.
+Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f&|&\rightarrow g$$. Ví dụ: Cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$. Chứng minh $$f \rightarrow g$$.
 
 ## Tips reading mathematics
 ___
