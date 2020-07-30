@@ -61,7 +61,7 @@ A & B & \overline{A} & A\land B & A\lor B & A\rightarrow B & A\leftrightarrow B 
 1 & 1 & 0 & 1 & 1 & 1 & 1 \\ \hline
 1 & 0 & 0 & 0 & 1 & 0 & 0 \\ \hline
 0 & 1 & 1 & 0 & 1 & \color{Red} 1 & 0 \\ \hline
-0 & 0 & 1 & 0 & 0 & 1 & 1 \\ \hline
+0 & 0 & 1 & 0 & 0 & \color{Red} 1 & 1 \\ \hline
 \end{array}$$
 
 
