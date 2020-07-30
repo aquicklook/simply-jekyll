@@ -30,27 +30,27 @@ Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathb
 
 Các phép tính mệnh đề được sử dụng nhằm mục đích kết nối các mệnh đề lại với nhau tạo ra một mệnh đề mới. Các phép toán mệnh đề bao gồm: phép phủ định, phép hội, phép tuyển, phép $$\mathrm{XOR}$$, phép kéo theo và phép tương đương.
 
-<span style="color:red">Phép phủ định — Negation</span>
+**Phép phủ định — Negation**
 
 Phủ định của mệnh đề $$p$$ là một mệnh đề, ký hiệu là $$\overline{p}$$ hay $$\neg{p}$$, đúng khi $$p$$ sai và sai khi $$p$$ đúng.
 
-<span style="color:red">Phép hội — Conjunction</span>
+**Phép hội — Conjunction**
 
 Hội của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ và $$q$$, ký hiệu $$p \land q$$ hay $$p \cdot q$$, đúng khi cả hai mệnh đề $$p, q$$ cùng đúng và sai trong các trường hợp còn lại.
 
-<span style="color:red">Phép tuyển — Disjunction</span>
+**Phép tuyển — Disjunction**
 
 Tuyển của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ hoặc $$q$$, ký hiệu là $$p \lor q$$ hay $$p + q$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
 
-<span style="color:red">Phép $$\mathrm{XOR}$$</span>
+**Phép $$\mathrm{XOR}$$**
 
 $$\mathrm{XOR}$$ của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ xor $$q$$, ký hiệu là $$p\bigoplus q$$, đúng khi một trong hai mệnh đề đúng và sai trong các trường hợp còn lại.
 
-<span style="color:red">Phép kéo theo — Implication</span>
+**Phép kéo theo — Implication**
 
 $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$, chỉ sai khi $$p$$ đúng và $$q$$ sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề $$p$$ được gọi là mệnh đề giả thiết còn mệnh đề $$q$$ được gọi là mệnh đề kết luận. Khi với giả thiết mệnh đề $$p$$ đúng ta chứng minh được mệnh đề $$q$$ cũng đúng thì ta nói mệnh đề $$p$$ suy ra mệnh đề $$q$$, ký hiệu là $$p \Rightarrow q$$ hay $$q \Leftarrow p$$. Lúc này ta nói $$p$$ là điều kiện đủ để có $$q$$ và $$q$$ là điều kiện cần để có $$p$$. [[$$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.::srs]] 
 
-<span style="color:red">Phép tương đương — Biconditional</span>
+**Phép tương đương — Biconditional**
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai. Khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
