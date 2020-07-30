@@ -41,7 +41,7 @@ $$A$$ kéo theo $$B$$ là một mệnh đề, ký hiệu là $$A \rightarrow B$$
 
 $$A$$ tương đương $$B$$ là một mệnh đề, ký hiệu là $$A\leftrightarrow B$$, nếu cả hai mệnh đề $$A$$ và $$B$$ cùng đúng hoặc cùng sai.
 
-Bảng chân trị của các phép toán logic
+Bảng 1. Bảng giá trị chân lý của các phép toán logic
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
 A & B & \overline{A} & A\land B & A\lor B & A\rightarrow B & A\leftrightarrow B \\ \hline 
