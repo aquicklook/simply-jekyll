@@ -58,7 +58,7 @@ $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrigh
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
 p &   q &   \neg{p}     &  p\land q &    p\lor q &     p\rightarrow q &        p\leftrightarrow q \\ \hline 
-T &   T &   F &             T &           T &           \color{Blue} T &       \color{Blue} T      \\ \hline
+\color{Blue} T &   \color{Blue} T &   \color{Blue} F &             \color{Blue} T &           \color{Blue} T &           \color{Blue} T &       \color{Blue} T      \\ \hline
 T &   F &   F &             F &           T &           F &                     F                    \\ \hline
 F &   T &   T &             F &           T &           \color{Red} T &         F                     \\ \hline
 F &   F &   T &             F &           F &           \color{Red} T &         T                      \\ \hline
