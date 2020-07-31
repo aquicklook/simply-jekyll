@@ -74,7 +74,7 @@ Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức m�
 
 Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{false}$$.
 
-**Mệnh đề liên tiếp - Contingency**
+**Mệnh đề liên tiếp — Contingency**
 
 Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề liên tiếp vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
 
