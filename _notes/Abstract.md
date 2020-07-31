@@ -115,12 +115,10 @@ p \lor p \Leftrightarrow p \newline p \land p \Leftrightarrow p & \text{Idempote
 \end{array}$$
 
 $$
-\begin{array}{c|c}
-a^2-b^2 & 
- \begin{array}{ccc} 1+i & 1-i & \frac{1}{\sqrt{2}}
+\begin{array}{|r|r|}\hline
+p \lor T \Leftrightarrow T & p \land F \Leftrightarrow F
+ \begin{array}{|r|} \text{Domination laws}
  \end{array} \\\hline  
- \begin{array}{cc}a-b &  a+b
- \end{array} & \sqrt {2}
 \end{array}
 $$
 
