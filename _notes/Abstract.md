@@ -76,7 +76,7 @@ F &   T &   F &             F &          \color{Red} F                  \\ \hlin
 F &   F &   T &             F &           T                              \\ \hline
 \end{array}$$
 
-**Bảng chân trị của các phép tính logic**
+## The truth table of the logical calculus
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
 p &   q &   \neg{p}     &  p\land q &    p\lor q &     p\rightarrow q &        p\leftrightarrow q \\ \hline 
