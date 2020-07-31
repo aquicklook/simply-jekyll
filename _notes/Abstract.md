@@ -88,7 +88,7 @@ F &   T &   T &             F &           T &           \color{Red} T &         
 
 Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách sử dụng 2 lần phép kéo theo — theo chiều ngược nhau hay đảo đề của nhau — để ra phần màu xanh. Đó là ý tưởng hình thành nên phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
 
-**Mệnh đề hệ quả**
+#### Consequence
 
 Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f \mapsto g$$. Ví dụ, cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$, chứng minh $$f\mapsto g$$.
 
