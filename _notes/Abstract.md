@@ -116,9 +116,9 @@ p \lor p \Leftrightarrow p \newline p \land p \Leftrightarrow p & \text{Idempote
 
 $$
 \begin{array}{|r|r|}\hline
-p \lor T \Leftrightarrow T & p \land F \Leftrightarrow F
- \begin{array}{|r|} \text{Domination laws}
- \end{array} \\\hline  
+p \lor T \Leftrightarrow T & p \land F \Leftrightarrow F \hline
+ \begin{array}{c} \text{Domination laws}
+ \end{array} \\ \hline  
 \end{array}
 $$
 
