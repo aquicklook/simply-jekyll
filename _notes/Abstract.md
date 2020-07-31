@@ -50,7 +50,19 @@ $$\mathrm{XOR}$$ của hai mệnh đề $$p, q$$ là một mệnh đề, đọc 
 
 $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$, chỉ sai khi $$p$$ đúng và $$q$$ sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề $$p$$ được gọi là mệnh đề giả thiết còn mệnh đề $$q$$ được gọi là mệnh đề kết luận.
 
+#### The truth table
+
+$$\begin{array} {|c|c|} \hline
+p &   q &   \neg{p}  &  p\land q &    p\lor q &     p\rightarrow q &  \mathrm{XOR} \\ \hline 
+T &   T &   F        &  T        &    T       &     T              &  F            \\ \hline
+T &   F &   F        &  F        &    T       &     F              &  T            \\ \hline
+F &   T &   T        &  F        &    T       &     \color{Red} T  &  T            \\ \hline
+F &   F &   T        &  F        &    F       &     \color{Red} T  &  F            \\ \hline
+\end{array}$$
+
 #### Biconditional
+
+Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều nhau hay đảo đề của nhau, tức là $$p\rightarrow q = q\rightarrow p$$ và nó được gọi phép tương đương.
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
@@ -76,7 +88,7 @@ F &   T &   F &             F &          \color{Red} F                  \\ \hlin
 F &   F &   T &             F &           T                              \\ \hline
 \end{array}$$
 
-#### The truth table of the logical calculus
+#### The truth table
 
 $$\begin{array} {|c|c|c|c|c|c|c|} \hline
 p &   q &   \neg{p}     &  p\land q &    p\lor q &     p\rightarrow q &        p\leftrightarrow q \\ \hline 
