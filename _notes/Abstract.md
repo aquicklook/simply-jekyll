@@ -100,7 +100,7 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 
 
 $$\begin{array} {|c|c|}\hline 
-\mathbf{Equivalence law} & \mathbf{Name} \\ \hline 
+\text{Equivalence law} & \text{Name} \\ \hline 
 p \lor T \Leftrightarrow T & \mathrm{Domination laws} \\
 p \land F \Leftrightarrow F & \\ \hline 
 2_0 & \mathrm{Identity laws} \\ \hline 
