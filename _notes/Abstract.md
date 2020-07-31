@@ -104,7 +104,7 @@ $$\begin{array} {|c|c|}\hline
 p \lor T \Leftrightarrow T & \text{Domination laws} \\
 p \land F \Leftrightarrow F & \\ \hline 
 p \land T \Leftrightarrow p  \\
-p \lor F \Leftrightarrow p & \vfill\text{Identity laws}\vfill \\ \hline 
+p \lor F \Leftrightarrow p & \vfill\text{Identity laws} \vfill \\ \hline 
 3_0 & \text{Idempotent laws} \\ \hline 
 4_0 & \text{Double negation law} \\ \hline 
 5_0 & \text{Cancellation laws} \\ \hline 
