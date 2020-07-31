@@ -110,7 +110,7 @@ p \land p \Leftrightarrow p & \\ \hline
 \neg{(\neg{p})} & \text{Double negation law} \\ \hline 
 p \lor \neg{p} \Leftrightarrow T & \text{Cancellation laws} \\
 p \land \neg{p} \Leftrightarrow F & \\ \hline 
-p \lor q \Leftrightarrow q \lor \p & \text{Commutative laws}} \\
+p \lor q \Leftrightarrow q \lor p & \text{Commutative laws}} \\
 p \land q \Leftrightarrow q \land p  & \\ \hline 
 7_0 & \text{Associative laws} \\ \hline 
 8_0 & \text{Distributive laws} \\ \hline 
