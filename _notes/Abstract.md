@@ -99,7 +99,18 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Nói cách khác, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
 
-$$\begin{array} {|c|c|}\hline Equivalence law & Name \\ \hline p \lor T \Leftrightarrow  =T & Domination laws \\ \hline 2_0 & Identity laws \\ \hline 3_0 & Idempotent laws \\ \hline 4_0 & Double negation law \\ \hline 5_0 & Cancellation laws \\ \hline 6_0 & Commutative laws \\ \hline 7_0 & Associative laws \\ \hline 8_0 & Distributive laws \\ \hline 9_0 & De Morgan’s laws \\ \hline  \end{array}$$
+$$\begin{array} {|c|c|}\hline 
+\mathrm{Equivalence law} & \mathrm{Name} \\ \hline 
+p \lor T \Leftrightarrow T <br> p \land F \Leftrightarrow F & \mathrm{Domination laws} \\ \hline 
+2_0 & \mathrm{Identity laws} \\ \hline 
+3_0 & \mathrm{Idempotent laws} \\ \hline 
+4_0 & \mathrm{Double negation law} \\ \hline 
+5_0 & \mathrm{Cancellation laws} \\ \hline 
+6_0 & \mathrm{Commutative laws} \\ \hline 
+7_0 & \mathrm{Associative laws} \\ \hline 
+8_0 & \mathrm{Distributive laws} \\ \hline 
+9_0 & \mathrm{De Morgan’s laws} \\ \hline  
+\end{array}$$
 
 
 
