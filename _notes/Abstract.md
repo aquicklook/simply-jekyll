@@ -146,14 +146,11 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 
 | Rules of inference | Tautology | Name |
 | ------------- |-------------|-------------|
-| $$p$$ <br> $$\therefore \frac{p\rightarrow q}{q}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
+| $$p$$ <br> $$\begin{matrix}
+\\ 
+\therefore 
+\end{matrix}\frac{p\rightarrow q}{q}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
 
-{| class="wikitable" style="text-align: center;"
-|+Hello everybody
-!'''Nguyễn'''
-!'''Văn'''
-!'''Dân'''
-|}
 
 
 
