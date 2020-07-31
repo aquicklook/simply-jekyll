@@ -76,7 +76,9 @@ F              &   T              &  T        &  F        &  T       &  T       
 \color{Blue} F &   \color{Blue} F &  T        &  F        &  F       &  F            &  \color{Red} T & \color{Blue} T      \\ \hline
 \end{array}$$
 
-### Concepts are the consequence of propositional calculus
+Mục đích của các phép tính logic là tìm ra một mệnh đề có chân trị đúng từ các mệnh đề ban đầu mà ta đã biết chân trị của nó là đúng. Phép tính tương đương giải quyết vấn đề trên rất tốt, dưới đây là một số  khái niệm và hệ quả được sinh ra từ các phép tính mệnh đề.
+
+### Consequents
 
 #### Tautologie
 
