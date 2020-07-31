@@ -114,6 +114,10 @@ p \lor p \Leftrightarrow p \newline p \land p \Leftrightarrow p & \text{Idempote
 9_0 & \text{De Morgan’s laws} \\ \hline  
 \end{array}$$
 
+$$\begin{array} {|c|c|}\hline 
+\multirow{2}{*}{Multirow} & p \land F \Leftrightarrow F \\
+                          & p \land F \Leftrightarrow F \\ \hline 
+\end{array}$$
 
 
 ## Tips reading mathematics
