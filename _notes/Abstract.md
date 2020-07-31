@@ -100,7 +100,9 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 
 *Table of logical equivalence laws*
 
-$$\begin{array} {|c|c|}\hline 
+$$\begin{table}
+  \caption{Table of logical equivalence laws}
+\begin{array} {|c|c|}\hline 
 \textbf{Equivalence law} & \textbf{Name} \\ \hline 
 p \lor T \Leftrightarrow T & \text{Domination laws} \\
 p \land F \Leftrightarrow F & \\ \hline 
@@ -122,7 +124,8 @@ p \land (q \lor r) \Leftrightarrow (p\land q)\lor (p\land r)  & \\ \hline
 (p\rightarrow q) \Leftrightarrow (\neg{p}\lor q) & \text{Implication laws} \\ \hline
 p\lor (p\land q) \Leftrightarrow p & \text{Received laws} \\
 p\land (p\lor q) \Leftrightarrow p  & \\ \hline 
-\end{array}$$
+\end{array}
+\end{table}$$
 
 ## Tips reading mathematics
 ___
