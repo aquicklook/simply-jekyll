@@ -34,37 +34,37 @@ Các phép tính mệnh đề được sử dụng nhằm mục đích kết n�
 
 Phủ định của mệnh đề $$p$$ là một mệnh đề, ký hiệu là $$\overline{p}$$ hay $$\neg{p}$$, đúng khi $$p$$ sai và sai khi $$p$$ đúng.
 
-**Phép hội — Conjunction**
+#### Conjunction
 
 Hội của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ và $$q$$, ký hiệu $$p \land q$$ hay $$p \cdot q$$, đúng khi cả hai mệnh đề $$p, q$$ cùng đúng và sai trong các trường hợp còn lại.
 
-**Phép tuyển — Disjunction**
+#### Disjunction
 
 Tuyển của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ hoặc $$q$$, ký hiệu là $$p \lor q$$ hay $$p + q$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
 
-**Phép $$\mathbf{XOR}$$**
+#### XOR
 
 $$\mathrm{XOR}$$ của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ xor $$q$$, ký hiệu là $$p\bigoplus q$$, đúng khi một trong hai mệnh đề đúng và sai trong các trường hợp còn lại.
 
-**Phép kéo theo — Implication**
+#### Implication
 
 $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$, chỉ sai khi $$p$$ đúng và $$q$$ sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề $$p$$ được gọi là mệnh đề giả thiết còn mệnh đề $$q$$ được gọi là mệnh đề kết luận.
 
-**Phép tương đương — Biconditional**
+#### Biconditional
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
 ### Concepts are the consequence of propositional calculus
 
-**Định nghĩa hằng đúng — Tautologie**
+#### Tautologie
 
 Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{true}$$.
 
-**Định nghĩa hằng sai — Contradiction**
+#### Contradiction
 
 Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
 
-**Định nghĩa liên tiếp — Contingency**
+#### Contingency
 
 Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề liên tiếp vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
 
@@ -96,7 +96,7 @@ $$\begin{array} {|c|c|}\hline p & q & r & p \rightarrow q & q \rightarrow r & f 
 
 Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì khi $$f$$ đúng bắt buộc $$g$$ phải đúng, ngược lại khi $$g$$ đúng ta chưa thể kết luận được gì về chân trị của $$f$$. Đặc biệt, khi với giả thiết mệnh đề $$f$$ đúng ta chứng minh được mệnh đề $$g$$ cũng đúng thì ta nói mệnh đề $$f$$ suy ra mệnh đề $$g$$, ký hiệu là $$f \Rightarrow g$$ hay $$g \Leftarrow f$$. Lúc này ta nói $$f$$ là điều kiện đủ để có $$g$$ và $$g$$ là điều kiện cần để có $$f$$. [[$$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.::srs]] 
 
-**Tương đương logic - Logical equivalence**
+#### Logical equivalence
 
 Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Đặc biệt, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
