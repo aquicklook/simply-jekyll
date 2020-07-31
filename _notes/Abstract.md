@@ -183,8 +183,11 @@ F &   T &     \color{Red} T \\ \hline
 F &   F &     \color{Red} T \\ \hline
 \end{array}$$
 
+Nhận thấy rằng, $$p\rightarrow q$$ là đúng có 3 trường hợp. Các trường hợp này chính là các phương pháp chứng minh sẽ được trình bày dưới đây. Trước khi đi vào các phương pháp chứng minh, có một khái niệm mà chúng ta cần tìm hiểu, đó là khái niệm về "hàm mệnh đề".
 
+#### Propositional function
 
+Với các tập không rỗng $$A_1, A_2, \cdots , A_n$$ sao cho ứng với mỗi $$x_1\in A_1, x_2\in A_2, \cdots , x_n\in A_n$$ ta có một mệnh đề, ký hiệu $$P(x_1, x_2, \cdots ,x_n )$$. Ta nói $$P(x_1, x_2, \cdots ,x_n )$$ là một hàm mệnh đề theo $$n$$ biến $$x$$.
 
 ## Tips reading mathematics
 ___
