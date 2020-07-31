@@ -12,9 +12,9 @@ Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một s�
 
 Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc củng cố ngữ pháp thì phải thường xuyên trau dồi vốn từ vựng. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
-___
-
 ## Propositional and logical
+
+___
 
 Mệnh đề hay mệnh đề logic là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
 
@@ -23,6 +23,8 @@ Giá trị đúng, sai của một mệnh đề được gọi là chân trị c
 Ví dụ: $$2<3$$ là một mệnh đề đúng. $$3>4$$ là một mệnh đề sai. $$x+y=z$$ không phải là một mệnh đề vì nó chẳng đúng cũng chẳng sai vì các biến ở đây chưa được gán cho một giá trị cụ thể nào. "Một số thực âm không phải là số chính phương" không phải là mệnh đề vì nó có chân trị đúng nếu ta xét trên tập số thực $$\mathbb{R}$$ và có chân trị sai nếu xét trên tập số phức $$\mathbb{C}$$.
 
 ### Propositional calculus
+
+___
 
 Trong các phép tính mệnh đề, người ta không quan tâm đến ý nghĩa của câu phát biểu mà [[chỉ chú ý đến chân trị của các mệnh đề::highlight]]. Do đó, khi thực hiện các mệnh đề thông thường người ta không ghi rõ các câu phát biểu mà chỉ ghi ký hiệu. Các chữ cái sẽ được dùng để ký hiệu các mệnh đề. Những chữ cái thường dùng là $$p, q, r, \cdots $$.
 
@@ -77,6 +79,8 @@ F              &   T              &  T        &  F        &  T       &  T       
 \end{array}$$
 
 ### Consequents
+
+___
 
 Mục đích của các phép tính logic là tìm ra một mệnh đề có chân trị đúng từ các mệnh đề ban đầu mà ta đã biết chân trị của nó là đúng. Phép tính tương đương giải quyết vấn đề trên rất tốt, phần này sẽ giới thiệu về là một số khái niệm được sinh ra từ các phép tính mệnh đề và trình bày một số quy luật thường gặp của phép tương đương logic.
 
