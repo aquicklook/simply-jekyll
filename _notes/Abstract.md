@@ -100,8 +100,9 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 
 *Table of logical equivalence laws*
 
-$$\caption{Table of logical equivalence laws}
-\begin{array} {|c|c|}\hline 
+$$
+\begin{array} {|c|c|}
+\textbf{Table of logical equivalence laws}\hline
 \textbf{Equivalence law} & \textbf{Name} \\ \hline 
 p \lor T \Leftrightarrow T & \text{Domination laws} \\
 p \land F \Leftrightarrow F & \\ \hline 
