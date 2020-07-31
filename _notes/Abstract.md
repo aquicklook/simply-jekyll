@@ -111,10 +111,13 @@ p \land p \Leftrightarrow p & \\ \hline
 p \lor \neg{p} \Leftrightarrow T & \text{Cancellation laws} \\
 p \land \neg{p} \Leftrightarrow F & \\ \hline 
 p \lor q \Leftrightarrow q \lor p & \text{Commutative laws} \\
-p \land q \Leftrightarrow q \land p  & \\ \hline 
-7_0 & \text{Associative laws} \\ \hline 
-8_0 & \text{Distributive laws} \\ \hline 
-9_0 & \text{De Morgan’s laws} \\ \hline  
+p \land q \Leftrightarrow q \land p  & \\ \hline
+(p \lor q)\lor r \Leftrightarrow p \lor (q \lor r) & \text{Associative laws} \\
+(p \land q)\land r \Leftrightarrow p \land (q \land r)  & \\ \hline 
+p \lor (q \land r) \Leftrightarrow (p\lor q)\land (p\lor r) & \text{Distributive laws} \\
+p \\land (q \lor r) \Leftrightarrow (p\land q)\lor (p\land r)  & \\ \hline 
+\neg{(p\land q)} \Leftrightarrow \neg{p} \lor \neg{q} & \text{De Morgan’s laws} \\
+\neg{(p\lor q)} \Leftrightarrow \neg{p} \land \neg{q}  & \\ \hline 
 \end{array}$$
 
 
