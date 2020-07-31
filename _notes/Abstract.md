@@ -157,6 +157,14 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ \hline \neg{p}\lor q \end{array}$$ |$$(p\rightarrow q)\rightarrow (\neg{p}\lor q)$$| Material implication |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} (p\lor q)\land r \\ \hline (p\land r)\lor (q\land r) \end{array}$$ |$$((p\lor q)\land r)\rightarrow ((p\land r)\lor (q\land r))$$| Distributive |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ \hline p\rightarrow (p\land q) \end{array}$$ |$$(p\rightarrow q)\rightarrow (p\rightarrow (p\land q))$$| Absorption |
+| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\lor q \\ \neg{p} \\ \hline q \end{array}$$ |$$((p\lor q)\land \neg{p})\rightarrow q$$| Disjunctive syllogism |
+| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p \\ \hline p\lor q \end{array}$$ |$$p\rightarrow (p\lor q)$$| Addition |
+| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\land q \\ \hline p \end{array}$$ |$$(p\land q)\rightarrow p$$| Simplification |
+| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p \\ q \\ \hline p\land q \end{array}$$ |$$((p)\land (q))\rightarrow (p\land q)$$| Conjunction |
+| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p \\ \hline \neg{\neg{p}} \end{array}$$ |$$p\rightarrow (\neg{\neg{p}})$$| Double negation |
+| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\lor p \\ \hline p \end{array}$$ |$$(p\lor p)\rightarrow p$$| Disjunctive simplification |
+| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\lor q \\ \neg{p}\lor r \\ \hline q\lor r \end{array}$$ |$$((p\lor q)\land (\neg{p}\lor r))\rightarrow (q\lor r)$$| Resolution |
+| $$\begin{array}{r} \\ \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ r\rightarrow q \\ p\lor r \\ \hline q \end{array}$$ |$$((p\rightarrow q)\land (r\rightarrow q)\land (p\lor r))\rightarrow q$$| Disjunction elimination |
 
 
 
