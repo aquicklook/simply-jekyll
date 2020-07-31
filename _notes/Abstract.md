@@ -62,7 +62,7 @@ F &   F &   T        &  F        &    F       &     \color{Red} T  &  F         
 
 #### Biconditional
 
-Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề của phép kéo theo là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều[[Đảo đề.::rsn]], ký hiệu là $$p\rightarrow q = q\rightarrow p$$ và nó được gọi phép tương đương.
+Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề của phép kéo theo là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều hay đảo đề của nhau[[$$p\rightarrow q = q\rightarrow p$$::rsn]] và nó được gọi phép tương đương.
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
