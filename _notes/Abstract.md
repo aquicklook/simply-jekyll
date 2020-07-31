@@ -115,7 +115,7 @@ p \lor p \Leftrightarrow p \newline p \land p \Leftrightarrow p & \text{Idempote
 \end{array}$$
 
 $$\begin{array} {|c|c|}\hline 
-\multirow{2}{*}{text{Cancellation laws}} & p \land F \Leftrightarrow F \\
+\multirow{2}{c}{text{Cancellation laws}} & p \land F \Leftrightarrow F \\
                           & p \land F \Leftrightarrow F \\ \hline 
 \end{array}$$
 
