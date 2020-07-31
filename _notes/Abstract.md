@@ -149,8 +149,8 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 | $$p$$ <br> $$\begin{matrix}
 \\ 
 \therefore 
-\end{matrix}
-\frac{p\rightarrow q}{q}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
+\end{matrix}$$
+$$\frac{p\rightarrow q}{q}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
 
 
 
