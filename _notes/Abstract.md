@@ -124,6 +124,10 @@ p\lor (p\land q) \Leftrightarrow p & \text{Received laws} \\
 p\land (p\lor q) \Leftrightarrow p  & \\ \hline 
 \end{array}$$
 
+| Equivalence laws | Name |
+| ------------- |-------------|
+| $$p \lor T \Leftrightarrow T$$ \\ $$p \land F \Leftrightarrow F$$ | Domination laws |
+
 ## Tips reading mathematics
 ___
 
