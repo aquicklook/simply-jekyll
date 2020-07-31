@@ -101,7 +101,7 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 *Table of logical equivalence laws*
 
 $$\begin{table}
-  \caption{Table of logical equivalence laws}
+\caption{Table of logical equivalence laws}
 \begin{array} {|c|c|}\hline 
 \textbf{Equivalence law} & \textbf{Name} \\ \hline 
 p \lor T \Leftrightarrow T & \text{Domination laws} \\
