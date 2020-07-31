@@ -114,12 +114,11 @@ p \lor p \Leftrightarrow p \newline p \land p \Leftrightarrow p & \text{Idempote
 9_0 & \text{De Morgan’s laws} \\ \hline  
 \end{array}$$
 
-$$\begin{array} {|c|c|}\hline
+$$
 \begin{array}{|r|r|}\hline
-p \lor T \Leftrightarrow T & \text{Domination laws}
+p \lor T \Leftrightarrow T & \text{Domination laws}  \\ \hline  
  \begin{array}{r} p \land F \Leftrightarrow F
  \end{array} \\ \hline  
-\end{array}
 \end{array}
 $$
 
