@@ -80,15 +80,11 @@ Mục đích của các phép tính logic là tìm ra một mệnh đề có ch�
 
 ### Consequents
 
-#### Tautologie
+#### Tautologie, contradiction and contingency
 
 Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{true}$$.
 
-#### Contradiction
-
 Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
-
-#### Contingency
 
 Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề tiếp liên vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
 
