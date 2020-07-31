@@ -126,7 +126,7 @@ p\land (p\lor q) \Leftrightarrow p  & \\ \hline
 
 | Equivalence laws | Name |
 | ------------- |-------------|
-| $$p \lor T \Leftrightarrow T$$ \\ $$p \land F \Leftrightarrow F$$ | Domination laws |
+| $$p \lor T \Leftrightarrow T$$ <br> $$p \land F \Leftrightarrow F$$ | Domination laws |
 
 ## Tips reading mathematics
 ___
