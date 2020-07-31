@@ -66,6 +66,16 @@ Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề c�
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
+Bảng chân trị mới với phép tương đương được thêm vào:
+
+$$\begin{array} {|c|c|} \hline
+p              &   q              &  \neg{p}  &  p\land q &  p\lor q &  \mathrm{XOR} & p\rightarrow q & p\leftrightarrow q  \\ \hline 
+\color{Blue} T &   \color{Blue} T &  F        &  T        &  T       &  F            &  T             & \color{Blue} T      \\ \hline
+T              &   F              &  F        &  F        &  T       &  T            &  F             & F                   \\ \hline
+F              &   T              &  T        &  F        &  T       &  T            &  \color{Red} T & F                   \\ \hline
+\color{Blue} F &   \color{Blue} F &  T        &  F        &  F       &  F            &  \color{Red} T & \color{Blue} T      \\ \hline
+\end{array}$$
+
 ### Concepts are the consequence of propositional calculus
 
 #### Tautologie
