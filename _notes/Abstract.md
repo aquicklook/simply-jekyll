@@ -146,18 +146,7 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 
 | Rules of inference | Tautology | Name |
 | ------------- |-------------|-------------|
-| $$\begin{array}{rl} & p \\ & p \to q \\ \therefore & q \end{array}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
-
-$$\begin{array}{r} 
-\\ 
-\\ 
-\therefore 
-\end{array}
-\begin{array}{r} 
-p \\ 
-p\rightarrow q \\ \hline
-q
-\end{array}$$
+| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p \\ p\rightarrow q \\ \hline q \end{array}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
 
 
 
