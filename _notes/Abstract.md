@@ -151,7 +151,9 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} (p \lor q) \lor r \\ \hline p \lor (q \lor r) \end{array}$$ |$$((p \lor q)\lor r)\rightarrow (q\lor (q\lor r))$$| Associative |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p \land q \\ \hline q \land p \end{array}$$ |$$(p \land q)\rightarrow (q \land p)$$| Commutative |
 | $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ q\rightarrow p \\ \hline p\leftrightarrow q \end{array}$$ |$$((p\rightarrow q)\land (q\rightarrow p))\rightarrow (p\leftrightarrow q)$$| Law of biconditional propositions |
-| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} (p\land q)\rightarrow r \\ \hline p\rightarrow (q\rightarrow r) \end{array}$$ |$$((p\land q)\rightarrow r)\rightarrow (p\rightarrow (q\rightarrow r))$$| Commutative |
+| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} (p\land q)\rightarrow r \\ \hline p\rightarrow (q\rightarrow r) \end{array}$$ |$$((p\land q)\rightarrow r)\rightarrow (p\rightarrow (q\rightarrow r))$$| Exportation |
+| $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ \hline \neg{q}\rightarrow \neg{p} \end{array}$$ |$$(p\rightarrow q)\rightarrow (\neg{q}\rightarrow \neg{p})$$| Transposition or contraposition law |
+| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ q\rightarrow r \\ \hline p\rightarrow r \end{array}$$ |$$((p\rightarrow q)\land (q\rightarrow r))\rightarrow (p\rightarrow r)$$| Hypothetical syllogism |
 
 
 ## Tips reading mathematics
