@@ -53,11 +53,11 @@ $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$
 #### The truth table
 
 $$\begin{array} {|c|c|} \hline
-p &   q &   \neg{p}  &  p\land q &    p\lor q &     p\rightarrow q &  \mathrm{XOR} \\ \hline 
-T &   T &   F        &  T        &    T       &     T              &  F            \\ \hline
-T &   F &   F        &  F        &    T       &     F              &  T            \\ \hline
-F &   T &   T        &  F        &    T       &     \color{Red} T  &  T            \\ \hline
-F &   F &   T        &  F        &    F       &     \color{Red} T  &  F            \\ \hline
+p &   q &   \neg{p}  &  p\land q &    p\lor q &     \mathrm{XOR}   & p\rightarrow q \\ \hline 
+T &   T &   F        &  T        &    T       &     F              &  T             \\ \hline
+T &   F &   F        &  F        &    T       &     T              &  F             \\ \hline
+F &   T &   T        &  F        &    T       &     T              &  \color{Red} T \\ \hline
+F &   F &   T        &  F        &    F       &     F              &  \color{Red} T \\ \hline
 \end{array}$$
 
 #### Biconditional
