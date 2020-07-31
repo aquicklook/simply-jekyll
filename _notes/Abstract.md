@@ -219,12 +219,6 @@ Vì mệnh đề $$p\rightarrow q \leftrightarrow q\rightarrow p$$. Do đó, đ�
 
 
 
-
-
-
-
-
-
 ## Tips reading mathematics
 ___
 
