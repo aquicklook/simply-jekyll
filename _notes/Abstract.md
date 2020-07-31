@@ -99,7 +99,7 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Nói cách khác, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
 *Table of logical equivalence laws*
-<br>
+
 $$\begin{array} {|c|c|}\hline 
 \textbf{Equivalence law} & \textbf{Name} \\ \hline 
 p \lor T \Leftrightarrow T & \text{Domination laws} \\
