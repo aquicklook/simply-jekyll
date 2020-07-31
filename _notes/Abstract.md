@@ -54,11 +54,27 @@ $$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
----
+### Concepts are the consequence of propositional calculus
 
-Hệ quả của các phép tính mệnh đề
+**Định nghĩa hằng đúng — Tautologie**
 
+Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{true}$$.
 
+**Định nghĩa hằng sai — Contradiction**
+
+Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
+
+**Định nghĩa liên tiếp — Contingency**
+
+Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề liên tiếp vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
+
+$$\begin{array} {|c|c|c|c|c|} \hline
+p &   q &   \neg{q}     &  p\land q &    (p\land q) \lor \neg{q}     \\ \hline 
+T &   T &   F &             T &           T                           \\ \hline
+T &   F &   T &             F &           T                            \\ \hline
+F &   T &   F &             F &          \color{Red} F                  \\ \hline
+F &   F &   T &             F &           T                              \\ \hline
+\end{array}$$
 
 **Bảng chân trị của các phép tính logic**
 
@@ -71,26 +87,6 @@ F &   T &   T &             F &           T &           \color{Red} T &         
 \end{array}$$
 
 Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách sử dụng 2 lần phép kéo theo — theo chiều ngược nhau hay đảo đề của nhau — để ra phần màu xanh. Đó là ý tưởng hình thành nên phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
-
-**Mệnh đề hằng đúng — Tautologie**
-
-Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{true}$$.
-
-**Mệnh đề hằng sai — Contradiction**
-
-Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
-
-**Mệnh đề liên tiếp — Contingency**
-
-Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai. Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề liên tiếp vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
-
-$$\begin{array} {|c|c|c|c|c|} \hline
-p &   q &   \neg{q}     &  p\land q &    (p\land q) \lor \neg{q}     \\ \hline 
-T &   T &   F &             T &           T                           \\ \hline
-T &   F &   T &             F &           T                            \\ \hline
-F &   T &   F &             F &          \color{Red} F                  \\ \hline
-F &   F &   T &             F &           T                              \\ \hline
-\end{array}$$
 
 **Mệnh đề hệ quả**
 
