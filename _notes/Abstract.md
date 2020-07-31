@@ -61,10 +61,10 @@ p &   q &   \neg{p}     &  p\land q &    p\lor q &     p\rightarrow q &        p
 \color{Blue} T &   \color{Blue} T &   F &              T &     T &          T &       \color{Blue} T      \\ \hline
 T &   F &   F &             F &           T &           F &                     F                    \\ \hline
 F &   T &   T &             F &           T &           \color{Red} T &         F                     \\ \hline
-\color{Blue} F &   \color{Blue} F &   T &             F &           F &           \color{Red} T &        \color{Blue} T                      \\ \hline
+ F &    F &   T &             F &           F &           \color{Red} T &        T                      \\ \hline
 \end{array}$$
 
-Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách sử dụng 2 lần phép kéo theo — theo chiều ngược nhau hay đảo đề của nhau. Đó là ý tưởng cơ bản của phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
+> Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo theo có vấn đề là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Để giải quyết tình trạng này cần phải loại bỏ phép kéo theo trong mệnh đề bằng cách sử dụng 2 lần phép kéo theo — theo chiều ngược nhau hay đảo đề của nhau — để ra phần màu xanh. Đó là ý tưởng hình thành nên phép tương đương logic và để sử dụng đúng phép tương đương này cần phải tuân theo một số luật nhất định như sau:
 
 **Mệnh đề hằng đúng — Tautologie**
 
@@ -92,7 +92,7 @@ Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ q
 
 $$\begin{array} {|c|c|}\hline p & q & r & p \rightarrow q & q \rightarrow r & f & g & f\rightarrow g \\ \hline T & T & T & T & T & T & T & T \\ \hline T & T & F & T & F & F & F & T \\ \hline T & F & T & F & T & F & T & T \\ \hline T & F & F & F & T & F & F & T \\ \hline F & T & T & T & T & T & T & T \\ \hline F & T & F & T & F & F & T & T \\ \hline F & F & T & T & T & T & T & T \\ \hline F & F & F & T & T & T & T & T \\ \hline  \end{array}$$
 
-Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì khi $$f$$ đúng bắt buộc $$g$$ phải đúng, ngược lại khi $$g$$ đúng ta chưa thể kết luận được gì về chân trị của $$f$$. Đặc biệt, khi với giả thiết mệnh đề $$f$$ đúng ta chứng minh được mệnh đề $$g$$ cũng đúng thì ta nói mệnh đề $$f$$ suy ra mệnh đề $$g$$, ký hiệu là $$f \Rightarrow g$$ hay $$g \Leftarrow f$$. Lúc này ta nói $$f$$ là điều kiện đủ để có $$g$$ và $$g$$ là điều kiện cần để có $$f$$. [[$$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.::srs]] 
+> Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì khi $$f$$ đúng bắt buộc $$g$$ phải đúng, ngược lại khi $$g$$ đúng ta chưa thể kết luận được gì về chân trị của $$f$$. Đặc biệt, khi với giả thiết mệnh đề $$f$$ đúng ta chứng minh được mệnh đề $$g$$ cũng đúng thì ta nói mệnh đề $$f$$ suy ra mệnh đề $$g$$, ký hiệu là $$f \Rightarrow g$$ hay $$g \Leftarrow f$$. Lúc này ta nói $$f$$ là điều kiện đủ để có $$g$$ và $$g$$ là điều kiện cần để có $$f$$. [[$$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.::srs]] 
 
 **Tương đương logic - Logical equivalence**
 
