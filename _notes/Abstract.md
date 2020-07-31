@@ -136,14 +136,17 @@ Suy luận toán học dựa trên nền tảng của các phép toán mệnh đ
 
 Các phương pháp chứng minh là rất quan trọng vì không những chúng thường được sử dụng trong toán học mà còn được áp dụng nhiều trong tin học. Ví dụ, sự kiểm tra tính đúng đắn của một chương trình, của một hệ điều hành, xây dựng các luật suy diễn trong lĩnh vực trí tuệ nhận tạo... Do đó, chúng ta cần phải nắm vững các phương pháp chứng minh.
 
-Tuy nhên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng người ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà người ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
+Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng người ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà người ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
 
 ### Inference rules
 
 ___
 
-Như đã giới thiệu ở trên, những suy luận có dùng các qui tắc suy diễn gọi là suy luận có cơ sở. Khi tất cả các suy luận có cơ sở là đúng thì sẽ dẫn đến một kết luận đúng. Một suy luận có cơ sở có thể dẫn đến một kết luận sai nếu một trong các mệnh đề đã dùng trong suy diễn là sai. Sau đây là bảng các qui tắc suy luận đúng.
+Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có cơ sở. Khi tất cả các suy luận có cơ sở là đúng thì sẽ dẫn đến một kết luận đúng. Một suy luận có cơ sở có thể dẫn đến một kết luận sai nếu một trong các mệnh đề đã dùng trong suy diễn là sai. Sau đây là bảng các quy tắc suy luận đúng.
 
+| Rules of inference | Tautology | Name |
+| ------------- |-------------|-------------|
+| $$p$$ <br> \therefore \frac{p\rightarrow q}{q}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
 
 
 
