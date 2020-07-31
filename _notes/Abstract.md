@@ -86,15 +86,15 @@ Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức m�
 
 Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
 
-Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai.[[Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề tiếp liên vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
-<br>
+Mệnh đề tiếp liên là một biểu thức mệnh đề không phải là mệnh đề hằng đúng và không phải là mệnh đề hằng sai.Ví dụ, mệnh đề $$(p\land q) \lor \neg{q}$$ là một mệnh đề tiếp liên vì ngoài trường hợp chân trị đúng vẫn còn có trường hợp chân trị sai. 
+
 $$\begin{array} {|c|c|c|c|c|} \hline
 p &   q &   \neg{q}     &  p\land q &    (p\land q) \lor \neg{q}     \\ \hline 
 T &   T &   F &             T &           T                           \\ \hline
 T &   F &   T &             F &           T                            \\ \hline
 F &   T &   F &             F &          \color{Red} F                  \\ \hline
 F &   F &   T &             F &           T                              \\ \hline
-\end{array}$$::srs]] 
+\end{array}$$
 
 #### Consequence
 
