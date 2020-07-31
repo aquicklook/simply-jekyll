@@ -190,6 +190,10 @@ h2 {
 }
 
 h3 {
+    font-size: 24px;
+}
+
+h4 {
     font-size: 22px;
 }
 
@@ -199,7 +203,7 @@ h1 {
     font-weight: 400;
 }  
 
-h2, h3 {
+h2, h3, h4 {
     color: #292929;
     font-family:  'UntitledTTF', sans-serif;
     font-weight: 600;
