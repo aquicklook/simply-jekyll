@@ -68,11 +68,11 @@ Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy phép kéo the
 
 **Mệnh đề hằng đúng — Tautologie**
 
-Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{true}$$.
+Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{true}$$.
 
 **Mệnh đề hằng sai — Contradiction**
 
-Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Tức là $$\neg{p} \lor p \equiv \mathbf{false}$$.
+Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
 
 **Mệnh đề liên tiếp — Contingency**
 
