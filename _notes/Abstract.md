@@ -166,7 +166,24 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 | $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\lor q \\ \neg{p}\lor r \\ \hline q\lor r \end{array}$$ |$$((p\lor q)\land (\neg{p}\lor r))\rightarrow (q\lor r)$$| Resolution |
 | $$\begin{array}{r} \\ \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ r\rightarrow q \\ p\lor r \\ \hline q \end{array}$$ |$$((p\rightarrow q)\land (r\rightarrow q)\land (p\lor r))\rightarrow q$$| Disjunction elimination |
 
-Trong các phân số của quy tắc thì các giả thiết được viết trên tử số, kết luận được viết dưới mẫu số. Ký hiệu $$\therefore =$$ có nghĩa là "vậy thì", "do đó"...
+Trong các phân số của quy tắc thì các giả thiết được viết trên tử số, kết luận được viết dưới mẫu số. Ký hiệu $$\therefore$$ có nghĩa là "vậy thì", "do đó"...
+
+### The methods of proof
+
+Mỗi bài toán cần chứng minh thông thường đều có hai phần chính là giả thiết và kết luận. Việc chỉ ra được cái nào là giả thiết, cái nào là
+kết luận sẽ giúp cho việc chứng minh dễ dàng hơn thông qua việc sử dụng phương pháp chứng minh thích hợp. Do đó, các phương pháp chứng minh trong dạng bài toán này có liên quan đến mệnh đề kéo theo.
+
+Trước khi tìm hiểu các phương pháp chứng minh, chúng ta hãy xem lại bảng chân trị của mệnh đề $$p$$ kéo theo $$q$$. Các trường hợp để cho mệnh đề $$p$$ kéo theo $$q$$ là đúng cũng chính là các phương pháp để chứng minh bài toán đúng.
+
+$$\begin{array} {|c|c|} \hline
+p &   q &    p\rightarrow q \\ \hline 
+T &   T &     T             \\ \hline
+T &   F &     F             \\ \hline
+F &   T &     \color{Red} T \\ \hline
+F &   F &     \color{Red} T \\ \hline
+\end{array}$$
+
+
 
 
 ## Tips reading mathematics
