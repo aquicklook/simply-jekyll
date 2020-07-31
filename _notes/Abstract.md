@@ -114,10 +114,15 @@ p \lor p \Leftrightarrow p \newline p \land p \Leftrightarrow p & \text{Idempote
 9_0 & \text{De Morgan’s laws} \\ \hline  
 \end{array}$$
 
-$$\begin{array} {|c|c|}\hline 
-\multirow{2}{c}{text{Cancellation laws}} & p \land F \Leftrightarrow F \\
-                          & p \land F \Leftrightarrow F \\ \hline 
-\end{array}$$
+$$
+\begin{array}{c|c}
+a^2-b^2 & 
+ \begin{array}{ccc} 1+i & 1-i & \frac{1}{\sqrt{2}}
+ \end{array} \\\hline  
+ \begin{array}{cc}a-b &  a+b
+ \end{array} & \sqrt {2}
+\end{array}
+$$
 
 
 ## Tips reading mathematics
