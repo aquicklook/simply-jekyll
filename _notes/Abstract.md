@@ -103,7 +103,7 @@ $$\begin{array} {|c|c|}\hline
 \text{Equivalence law} & \text{Name} \\ \hline 
 p \lor T \Leftrightarrow T & \text{Domination laws} \\
 p \land F \Leftrightarrow F & \\ \hline 
-p \land T \Leftrightarrow p & \text{Identity laws} \\
+p \land T \Leftrightarrow p & \hfill\text{Identity laws} \\
 p \lor F \Leftrightarrow p & \\ \hline 
 3_0 & \text{Idempotent laws} \\ \hline 
 4_0 & \text{Double negation law} \\ \hline 
