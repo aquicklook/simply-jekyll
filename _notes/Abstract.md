@@ -148,6 +148,17 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 | ------------- |-------------|-------------|
 | $$\begin{array}{rl} & p \\ & p \to q \\ \therefore & q \end{array}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
 
+$$\begin{array}{rl} 
+& \\ 
+& \\ 
+\therefore 
+\end{array}
+\begin{array}{rl} 
+& p \\ 
+& p\rightarrow q \\ \hline
+&
+\end{array}$$
+
 
 
 
