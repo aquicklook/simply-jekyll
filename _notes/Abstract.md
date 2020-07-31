@@ -118,7 +118,7 @@ p \lor (q \land r) \Leftrightarrow (p\lor q)\land (p\lor r) & \text{Distributive
 p \land (q \lor r) \Leftrightarrow (p\land q)\lor (p\land r)  & \\ \hline 
 \neg{(p\land q)} \Leftrightarrow \neg{p} \lor \neg{q} & \text{De Morgan’s laws} \\
 \neg{(p\lor q)} \Leftrightarrow \neg{p} \land \neg{q}  & \\ \hline 
-(p\rightarrow q) \Leftrightarrow (neg{p}\lor q) & \text{Implication laws} \\ \hline
+(p\rightarrow q) \Leftrightarrow (\neg{p}\lor q) & \text{Implication laws} \\ \hline
 p\lor (p\land q) = p & \text{Luật hấp thụ} \\
 p\land (p\lor q) = p  & \\ \hline 
 \end{array}$$
