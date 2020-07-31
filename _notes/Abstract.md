@@ -207,10 +207,11 @@ Trong dòng 1 của bảng chân trị, mệnh đề $$p$$ kéo theo $$q$$ có t
 
 Vậy để thực hiện phương pháp chứng minh trực tiếp, người ta giả sử rằng $$p$$ là đúng, sau đó sử dụng các quy tắc suy luận hay các định lý để chỉ ra rằng $$q$$ là đúng và kết luận $$p\rightarrow q$$ là đúng.
 
+#### Indirect proof
+
+Vì mệnh đề $$p\rightarrow q \leftrightarrow q\rightarrow p$$. Do đó, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta có thể chỉ ra rằng mệnh đề $$q\rightarrow p$$ là đúng.
+
 #### Reductio ad absurdum
-
-Vì mệnh đề $$p\rightarrow q \leftrightarrow q\rightarrow p$$. Do đó, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta có thể chỉ ra rằng mệnh đề q\rightarrow p là đúng.
-
 
 
 
