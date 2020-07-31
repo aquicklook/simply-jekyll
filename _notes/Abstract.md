@@ -101,16 +101,16 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 
 $$\begin{array} {|c|c|}\hline 
 \text{Equivalence law} & \text{Name} \\ \hline 
-p \lor T \Leftrightarrow T & \mathrm{Domination laws} \\
+p \lor T \Leftrightarrow T & \text{Domination laws} \\
 p \land F \Leftrightarrow F & \\ \hline 
-2_0 & \mathrm{Identity laws} \\ \hline 
-3_0 & \mathrm{Idempotent laws} \\ \hline 
-4_0 & \mathrm{Double negation law} \\ \hline 
-5_0 & \mathrm{Cancellation laws} \\ \hline 
-6_0 & \mathrm{Commutative laws} \\ \hline 
-7_0 & \mathrm{Associative laws} \\ \hline 
-8_0 & \mathrm{Distributive laws} \\ \hline 
-9_0 & \mathrm{De Morgan’s laws} \\ \hline  
+2_0 & \text{Identity laws} \\ \hline 
+3_0 & \text{Idempotent laws} \\ \hline 
+4_0 & \text{Double negation law} \\ \hline 
+5_0 & \text{Cancellation laws} \\ \hline 
+6_0 & \text{Commutative laws} \\ \hline 
+7_0 & \text{Associative laws} \\ \hline 
+8_0 & \text{Distributive laws} \\ \hline 
+9_0 & \text{De Morgan’s laws} \\ \hline  
 \end{array}$$
 
 
