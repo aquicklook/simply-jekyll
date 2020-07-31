@@ -98,35 +98,22 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 
 Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Nói cách khác, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
-**Table of logical equivalence laws**
-
-$$\begin{array} {|c|c|} \hline
-\textbf{Equivalence law} & \textbf{Name} \\ \hline 
-p \lor T \Leftrightarrow T & \text{Domination laws} \\
-p \land F \Leftrightarrow F & \\ \hline 
-p \land T \Leftrightarrow p & \text{Identity laws} \\
-p \lor F \Leftrightarrow p  &  \\ \hline 
-p \lor p \Leftrightarrow p & \text{Idempotent laws} \\
-p \land p \Leftrightarrow p & \\ \hline 
-\neg{(\neg{p})} & \text{Double negation law} \\ \hline 
-p \lor \neg{p} \Leftrightarrow T & \text{Cancellation laws} \\
-p \land \neg{p} \Leftrightarrow F & \\ \hline 
-p \lor q \Leftrightarrow q \lor p & \text{Commutative laws} \\
-p \land q \Leftrightarrow q \land p  & \\ \hline
-(p \lor q)\lor r \Leftrightarrow p \lor (q \lor r) & \text{Associative laws} \\
-(p \land q)\land r \Leftrightarrow p \land (q \land r)  & \\ \hline 
-p \lor (q \land r) \Leftrightarrow (p\lor q)\land (p\lor r) & \text{Distributive laws} \\
-p \land (q \lor r) \Leftrightarrow (p\land q)\lor (p\land r)  & \\ \hline 
-\neg{(p\land q)} \Leftrightarrow \neg{p} \lor \neg{q} & \text{De Morgan’s laws} \\
-\neg{(p\lor q)} \Leftrightarrow \neg{p} \land \neg{q}  & \\ \hline 
-(p\rightarrow q) \Leftrightarrow (\neg{p}\lor q) & \text{Implication laws} \\ \hline
-p\lor (p\land q) \Leftrightarrow p & \text{Received laws} \\
-p\land (p\lor q) \Leftrightarrow p  & \\ \hline 
-\end{array}$$
+**Table of logical equivalence laws** 
 
 | Equivalence laws | Name |
 | ------------- |-------------|
 | $$p \lor T \Leftrightarrow T$$ <br> $$p \land F \Leftrightarrow F$$ | Domination laws |
+| $$p \land T \Leftrightarrow p$$ <br> $$p \lor F \Leftrightarrow p$$ | Identity laws |
+| $$p \lor p \Leftrightarrow p$$ <br> $$p \land p \Leftrightarrow p$$ | Idempotent laws |
+| $$\neg{(\neg{p})}$$ | Double negation law |
+| $$p \lor \neg{p} \Leftrightarrow T$$ <br> $$p \land \neg{p} \Leftrightarrow F$$ | Cancellation laws |
+| $$p \lor q \Leftrightarrow q \lor p$$ <br> $$p \land q \Leftrightarrow q \land p$$ | Commutative laws |
+| $$(p \lor q)\lor r \Leftrightarrow p \lor (q \lor r)$$ <br> $$(p \land q)\land r \Leftrightarrow p \land (q \land r)$$ | Associative laws |
+| $$p \lor (q \land r) \Leftrightarrow (p\lor q)\land (p\lor r)$$ <br> $$p \land (q \lor r) \Leftrightarrow (p\land q)\lor (p\land r)$$ | Distributive laws |
+| $$\neg{(p\land q)} \Leftrightarrow \neg{p} \lor \neg{q}$$ <br> $$\neg{(p\lor q)} \Leftrightarrow \neg{p} \land \neg{q}$$ | De Morgan’s laws |
+| $$(p\rightarrow q) \Leftrightarrow (\neg{p}\lor q)$$ | Implication laws |
+| $$p\lor (p\land q) \Leftrightarrow p$$ <br> $$p\land (p\lor q) \Leftrightarrow p$$ | Received laws |
+
 
 ## Tips reading mathematics
 ___
