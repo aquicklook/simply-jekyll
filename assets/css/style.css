@@ -419,7 +419,7 @@ th {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 16px;
+    font-size: 19px;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
     font-family:  'UntitledTTF', sans-serif;
@@ -429,12 +429,12 @@ td {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 16px;
+    font-size: 19px;
     border:0px solid gray;
 }
 
 td {
-   font-size: 16px;
+   font-size: 19px;
 }
 
 td a {
