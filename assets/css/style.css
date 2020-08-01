@@ -289,10 +289,11 @@ span {
     text-align: center;
     margin: 1em 0em;
     position: relative;
+    overflow-x:auto;
     display: block!important;
     text-indent: 0;
-    min-width: auto;
-    max-width: 650px;
+    width: auto!important; 
+    max-width: 680px;
     height: auto;
 }
 
