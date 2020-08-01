@@ -215,6 +215,13 @@ Trong dòng 1 của bảng chân trị, mệnh đề $$p$$ kéo theo $$q$$ có t
 
 Vậy để thực hiện phương pháp chứng minh trực tiếp, người ta giả sử rằng $$p$$ là đúng, sau đó sử dụng các quy tắc suy luận hay các định lý để chỉ ra rằng $$q$$ là đúng và kết luận $$p\rightarrow q$$ là đúng.
 
+Ví dụ, chứng minh rằng nếu $$n$$ là số lẻ thì $$n^2$$ cũng là số lẻ.
+<br>
+Solution: Giả sử rằng giả thiết của định lý này là đúng, tức là n là số lẻ. Ta có
+<br>
+$$n=2k+1 (k=0,1,2,\cdot , n$$
+
+
 #### Indirect proof
 
 Vì mệnh đề $$p\rightarrow q \leftrightarrow q\rightarrow p$$. Do đó, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta có thể chỉ ra rằng mệnh đề $$q\rightarrow p$$ là đúng.
