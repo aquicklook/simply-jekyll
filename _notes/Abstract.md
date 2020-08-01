@@ -205,7 +205,7 @@ Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng kh
 
 Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý. Trường hợp tổng quát thì định lý này luôn đúng với mọi số $$n$$ nguyên dương.
 
-Ví dụ, cho hàm mệnh đề $$P(n)= {\mathrm{If}~\mathrm{a}~\mathrm{and}~\mathrm{b}~\mathrm{is}~\mathbb{Z}^{+}~a\geq b~\mathrm{then} ~ a^n>b^n}$$, chứng minh $$P(0) = \mathbf{true}$$.
+Ví dụ, cho hàm mệnh đề $$P(n)= {\mathrm{If}~\mathrm{a}~\mathrm{and}~\mathrm{b}~\mathrm{is}~\mathbb{Z}^{+}~\mathrm{and}~a\geq b~\mathrm{then} ~ a^n>b^n}$$, chứng minh $$P(0) = \mathbf{true}$$.
 <br>
 Solution: Ta có $$a^0=b^0=1$$. Do đó $$a^0\geq b^0$$ là đúng. Vậy $$P(0)$$ là đúng bất chấp giả thiết $$a\geq b$$ là đúng hay sai.
 
