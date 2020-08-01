@@ -197,13 +197,17 @@ Phương pháp chứng minh rỗng thường được sử dụng để chứng 
 
 Ví dụ, cho hàm mệnh đề $$P(n)= {\mathrm{If}~n>1~\mathrm{then} ~ n^2>n}$$, chứng minh $$P(1) = \mathbf{true}$$.
 <br>
-Solution: Ta có $$P(1)={\mathrm{If} ~ 1>1 ~ \mathrm{then} ~ 1^2>1}$$. Giả thiết $$1>1$$ là sai, bất chấp kết luận $$1^2>1$$ là đúng hay sai thì $$P(1)$$ là đúng.
+Solution: Ta có giả thiết $$1>1$$ là sai, bất chấp kết luận $$1^2>1$$ là đúng hay sai thì $$P(1)$$ là đúng.
 
 #### q is true
 
 Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi $$q$$ đúng, bất chấp giả thiết $$p$$ là đúng hay sai thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng Q là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường.
 
 Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý. Trường hợp tổng quát thì định lý này luôn đúng với mọi số $$n$$ nguyên dương.
+
+Ví dụ, cho hàm mệnh đề $$P(n)= {\mathrm{If a and b is}~\mathbb{Z}^{+}~a\geq b~\mathrm{then} ~ a^n>b^n}$$, chứng minh $$P(0) = \mathbf{true}$$.
+<br>
+Solution: Ta có $$a^0=b^0=1$$. Do đó $$a^0\geq b^0$$ là đúng. Vậy $$P(0) là đúng bất chấp giả thiết $$a\geq b$$ là đúng hay sai.
 
 #### Direct proof
 
