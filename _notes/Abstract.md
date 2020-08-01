@@ -220,7 +220,7 @@ Ví dụ, chứng minh rằng nếu $$n$$ là số lẻ thì $$n^2$$ cũng là s
 Giả sử rằng giả thiết của định lý này là đúng, tức là n là số lẻ. Ta có
 <br>
 $$\begin{matrix}
-                 &n    &=& 2k+1 &~(k\in \mathbb{N})      \\ 
+                 &n    &=& 2k+1 &~(\forall k\in \mathbb{N})      \\ 
 \Rightarrow      &n^2  &=& (2k+1)^2 &  \\
   &  &=& 4k^2+4k+1 & \\
   &  &=& 2(2k^2+2k)+1 &
@@ -236,7 +236,7 @@ Ví dụ, chứng minh rằng nếu $$3n+2$$ là số lẻ thì n là số lẻ.
 Giả sử ngược lại kết luận của phép kéo theo là sai, tức n là chẵn. Ta có
 <br>
 $$\begin{matrix}
-                 &n    &=& 2k &~(k\in \mathbb{N})      \\ 
+                 &n    &=& 2k &~(\forall k\in \mathbb{N})      \\ 
 \Rightarrow      &3n+2  &=& 3\times 2k+2 &  \\
   &  &=& 2(3k+1) &
 \end{matrix}$$
