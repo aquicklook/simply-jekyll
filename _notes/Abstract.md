@@ -220,10 +220,13 @@ Ví dụ, chứng minh rằng nếu $$n$$ là số lẻ thì $$n^2$$ cũng là s
 Solution: Giả sử rằng giả thiết của định lý này là đúng, tức là n là số lẻ. Ta có
 <br>
 $$n=2k+1~(k=0,1,2,\cdots , n$$)
-$$\Rightarrow n^2&=(2k+1)^2
-\Rightarrow &=4k^2+4k+1
-\Rightarrow &=2(2k^2+2k)+1$$
-
+$$\begin{matrix}
+                 &n    &=& 2k+1      \\ 
+\Rightarrow      &n^2  &=& (2k+1)^2  \\
+  &  &=& 4k^2+4k+1 \\
+  &  &=& 2(2k^2+2k)+1
+\end{matrix}$$
+<br> Vì $$2(2k^2+2k)+1$$ là số lẻ nên nếu $$n$$ là số lẻ thì $$n^2$$ cũng là số lẻ.
 
 #### Indirect proof
 
