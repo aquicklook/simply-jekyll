@@ -207,7 +207,7 @@ Phương pháp chứng minh tầm thường cũng được sử dụng để ch�
 
 Ví dụ, cho hàm mệnh đề $$P(n)= {\mathrm{If}~\mathrm{a}~\mathrm{and}~\mathrm{b}~\mathrm{is}~\mathbb{Z}^{+}~\mathrm{and}~a\geq b~\mathrm{then} ~ a^n>b^n}$$, chứng minh $$P(0) = \mathbf{true}$$.
 <br>
-Ta có $$a^0=b^0=1$$. Do đó $$a^0\geq b^0$$ là đúng. Vậy $$P(0)$$ là đúng bất chấp giả thiết $$a\geq b$$ là đúng hay sai.
+Ta có $$a^0=b^0=1$$, do đó $$a^0\geq b^0$$ là đúng. Vậy $$P(0)$$ là đúng bất chấp giả thiết $$a\geq b$$ là đúng hay sai.
 
 #### Direct proof
 
