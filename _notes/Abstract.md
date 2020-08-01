@@ -201,7 +201,7 @@ Ta có giả thiết $$1>1$$ là sai, bất chấp kết luận $$1^2>1$$ là đ
 
 #### q is true
 
-Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi $$q$$ đúng, bất chấp giả thiết $$p$$ là đúng hay sai thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng Q là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường.
+Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi $$q$$ đúng, bất chấp giả thiết $$p$$ là đúng hay sai thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$q$$ là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường.
 
 Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý. Trường hợp tổng quát thì định lý này luôn đúng với mọi số $$n$$ nguyên dương.
 
