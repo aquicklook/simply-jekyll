@@ -291,10 +291,9 @@ span {
     position: relative;
     display: block!important;
     text-indent: 0;
+    min-width: auto;
     max-width: 650px;
     height: auto;
-    min-width: auto;
-    
 }
 
 .MathJax_Display, .MathJax_Preview, .MathJax_Preview > * {
