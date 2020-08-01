@@ -219,7 +219,7 @@ Ví dụ, chứng minh rằng nếu $$n$$ là số lẻ thì $$n^2$$ cũng là s
 <br>
 Solution: Giả sử rằng giả thiết của định lý này là đúng, tức là n là số lẻ. Ta có
 <br>
-$$n=2k+1 (k=0,1,2,\cdot , n$$
+$$n=2k+1~(k=0,1,2,\cdots , n$$)
 
 
 #### Indirect proof
