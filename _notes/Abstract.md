@@ -229,7 +229,18 @@ $$\begin{matrix}
 
 #### Indirect proof
 
-Vì mệnh đề $$p\rightarrow q \leftrightarrow q\rightarrow p$$. Do đó, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta có thể chỉ ra rằng mệnh đề $$q\rightarrow p$$ là đúng.
+Vì mệnh đề $$p\rightarrow q \leftrightarrow \neg{q}\rightarrow \neg{p}$$. Do đó, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta có thể chỉ ra rằng mệnh đề $$\neg{q}\rightarrow \neg{p}$$ là đúng.
+
+Ví dụ, chứng minh rằng nếu $$3n+2$$ là số lẻ thì n là số lẻ.
+<br>
+Giả sử ngược lại kết luận của phép kéo theo là sai, tức n là chẵn. Ta có
+<br>
+$$\begin{matrix}
+                 &n    &=& 2k &~(k=0,1,2,\cdots , n)      \\ 
+\Rightarrow      &3n+2  &=& 3x2k+2 &  \\
+  &  &=& 2(3k+1) &
+\end{matrix}$$
+<br> Vì $$2(3k+1)$$ là số chẵn nên nếu $$3n+2$$ là số lẻ thì $$n$$ là số lẻ.
 
 #### Reductio ad absurdum
 
