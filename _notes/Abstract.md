@@ -246,7 +246,7 @@ Phương pháp chứng minh phản chứng thường được sử dụng để 
 
 Ví dụ, chứng minh rằng $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số chẵn thì $$n$$ là số chẵn.
 <br> Giả sử $$n$$ là số lẻ, thì $$n=2k+1, k\in \mathbb{N}$$
-<br> Khi đó $$n^2=(2k+1)^2=4k^2+4k+1=2(2k^2+2k)+1$$ là số lẻ. Mâu thuẫn với giả thiết $$n^2$$ là số chẵn. Suy ra điều giả sử sai. Vậy $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số chẵn thì $$n$$ là số chẵn.
+<br> Khi đó $$n^2=(2k+1)^2=2(2k^2+2k)+1$$ là số lẻ. Mâu thuẫn với giả thiết $$n^2$$ là số chẵn. Suy ra điều giả sử sai. Vậy $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số chẵn thì $$n$$ là số chẵn.
 
 #### Induction
 
