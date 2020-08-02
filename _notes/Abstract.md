@@ -271,8 +271,8 @@ Ví dụ về dạng quy nạp mạnh, chứng minh tích của 3 số liên ti�
 <br> $$\cdots $$
 <br> Giả sử $$\forall n\leq k$$, ta có $$P(k)=k(k+1)(k+2), k \in \mathbb{Z}^{+}$$ chia hết cho 6.
 <br> Ta có $$P(k+1)=\color{Red}k(k+1)(k+2)+\color{Red}3(k+1)(k+2)$$.
-<br> Theo giả thiết, ta có $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6.
-<br> $$\Rightarrow (k+1)(k+2)(k+3)$$ chia hết cho 6. Nên $$P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
+<br> Vì $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6 nên (k+1)(k+2)(k+3)$$ chia hết cho 6
+<br> $$\Rightarrow P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
 
 ## Tips reading mathematics
 ___
