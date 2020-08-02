@@ -257,7 +257,7 @@ Quy nạp toán học thường sử dụng để chứng minh các mệnh đề
 <br> — Dạng quy nạp mạnh, ta giả sử nếu $$(P(x_0)\land P(x_1)\land P(x_2)\land P(x_3)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
 
 Ví dụ, chứng minh $$n < 2^n, n\in \mathbb{Z}^{+}$$.
-Khi $$n=1, ta có 1 < 2$$ mệnh đề đúng.
+Khi $$n=1$$, ta có $$1 < 2$$ mệnh đề đúng.
 Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Lúc này, ta cần chứng minh $$k + 1< 2^{k+1}$$.
 Vì $$k<2^{k}\Rightarrow k+1<2^{k}+1<2^{k}+2=2^{k+1}$$
 Do đó, $$n < 2^n, n\in \mathbb{Z}^{+}$$
