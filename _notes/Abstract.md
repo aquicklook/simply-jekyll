@@ -132,7 +132,7 @@ ___
 
 Suy luận toán học dựa trên nền tảng của các phép toán mệnh đề, chủ yếu là phép kéo theo. Để chứng minh một vấn đề nào đó, thông thường ta phải xác định giả thiết và kết luận. Quá trình đi từ giả thiết đến kết luận gọi là quá trình chứng minh và quá trình này đươc thực thi bằng cách nào thì gọi đó là phương pháp chứng minh.
 
-Các phương pháp chứng minh là rất quan trọng vì chúng là con đường để đưa đến một chứng minh đúng.Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
+Các phương pháp chứng minh là rất quan trọng vì chúng là con đường để đưa đến một chứng minh đúng. Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
 
 ### Inference rules
 
@@ -255,6 +255,12 @@ Quy nạp toán học thường sử dụng để chứng minh các mệnh đề
 <br> Bước quy nạp:
 <br> — Dạng quy nạp yếu, ta giả sử rằng $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra rằng $$P(k+1)$$ là đúng.
 <br> — Dạng quy nạp mạnh, ta giả sử nếu $$(P(x_0)\land P(x_1)\land P(x_2)\land P(x_3)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
+
+Ví dụ, chứng minh $$n < 2^n, n\in \mathbb{Z}^{+}$$.
+Khi $$n=1, ta có 1 < 2$$ mệnh đề đúng.
+Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Lúc này, ta cần chứng minh $$k + 1< 2^{k+1}$$.
+Vì $$k<2^{k}\Rightarrow k+1<2^{k}+1<2^{k}+2=2^{k+1}$$
+Do đó, $$n < 2^n, n\in \mathbb{Z}^{+}$$
 
 ## Tips reading mathematics
 ___
