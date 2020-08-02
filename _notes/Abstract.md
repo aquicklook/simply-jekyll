@@ -253,8 +253,8 @@ Ví dụ, chứng minh rằng $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số
 Quy nạp toán học thường sử dụng để chứng minh các mệnh đề dạng $$\forall nP(n)$$. Nguyên lý chứng minh quy nạp bao gồm 2 bước như sau:
 <br> Bước cơ sở: Kiểm tra $$P(x_0)$$ là đúng với $$x_0$$ là giá trị đầu tiên của dãy số $$n$$.
 <br> Bước quy nạp:
-<br> — Dạng quy nạp yếu, ta giả sử rằng $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra rằng $$P(k+1)$$ là đúng.
-<br> — Dạng quy nạp mạnh, ta giả sử nếu $$(P(x_0)\land P(x_1)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
+<br> — [[Dạng quy nạp yếu::highlight]], ta giả sử rằng $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra rằng $$P(k+1)$$ là đúng.
+<br> — [[Dạng quy nạp mạnh::highlight]], ta giả sử nếu $$(P(x_0)\land P(x_1)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
 
 Ví dụ, chứng minh $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 <br>
