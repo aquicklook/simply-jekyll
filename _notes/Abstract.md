@@ -254,9 +254,7 @@ Ví dụ, chứng minh rằng $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số
 
 #### Induction
 
-Quy nạp toán học thường sử dụng để chứng minh các mệnh đề dạng $$\forall nP(n)$$.
-
-<br> Nguyên lý chứng minh quy nạp bao gồm 2 bước như sau:
+Quy nạp toán học thường sử dụng để chứng minh các mệnh đề dạng $$\forall nP(n)$$. Nguyên lý chứng minh quy nạp bao gồm 2 bước như sau:
 <br> Bước cơ sở: Kiểm tra $$P(x_0)$$ là đúng với $$x_0$$ là giá trị đầu tiên của dãy số $$n$$.
 <br> Bước quy nạp: Có hai dạng
 <br> - Giả sử rằng $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra rằng $$P(k+1)$$ là đúng.
