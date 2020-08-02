@@ -253,7 +253,7 @@ Ví dụ, chứng minh rằng $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số
 Quy nạp toán học thường sử dụng để chứng minh các mệnh đề dạng $$\forall nP(n)$$. Nguyên lý chứng minh quy nạp bao gồm 2 bước như sau:
 <br> Bước cơ sở: Kiểm tra $$P(x_0)$$ là đúng với $$x_0$$ là giá trị đầu tiên của dãy số $$n$$.
 <br> Bước quy nạp:
-<br> — [[Dạng quy nạp yếu::highlight]], ta giả sử rằng $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra rằng $$P(k+1)$$ là đúng.
+<br> — [[Dạng quy nạp yếu::highlight]], ta giả sử $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra $$P(k+1)$$ là đúng.
 <br> — [[Dạng quy nạp mạnh::highlight]], ta giả sử nếu $$(P(x_0)\land P(x_1)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
 
 Ví dụ, chứng minh $$n < 2^n, n\in \mathbb{Z}^{+}$$.
@@ -264,8 +264,7 @@ Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Ta cần chứng
 <br>
 Vì $$k<2^{k}\Rightarrow k+1<2^{k}+1<2^{k}+2=2^{k+1}$$. Do đó, $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 
-Ví dụ, chứng minh tích của 3 số liên tiếp luôn chia hết cho 6.
-<br> Đặt $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ chia hết cho 6. Ta có
+Ví dụ, chứng minh tích $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ luôn chia hết cho 6.
 <br> $$P(1)=6$$ chia hết cho 6, $$\Rightarrow P(1)=\mathbf{true}$$.
 <br> $$P(2)=24$$ chia hết cho 6, $$\Rightarrow P(2)=\mathbf{true}$$.
 <br> $$\cdots $$
