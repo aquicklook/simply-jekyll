@@ -249,11 +249,10 @@ Chứng minh phản chứng thường được sử dụng để chứng minh m�
 Phương pháp chứng minh phản chứng thường được sử dụng để chứng minh những vấn đề cơ bản và điều quan trọng trong kỹ thuật này là tìm ra được mâu thuẫn của $$r\land \neg{r}$$.
 
 Ví dụ, chứng minh rằng $$\sqrt{2}$$ là một số vô tỉ.
-<br> Gọi $$p$$ là mệnh đề "$$\sqrt{2}$$ là một số vô tỉ". Ta giả sử $$p$$ là sai hay $$\neg{p}$$ là đúng. Vậy $$\sqrt{2}$$ là một số hữu tỉ. Khi đó $$\exists a,b (a,b \in \mathbb{N})$$ sao cho:
-<br> $$\sqrt{2} =\frac{a}{b}$$ (với $$a, b$$ không có ước chung hay phân số này là tối giản)[[Mệnh đề $$r$$::rsn]]
+<br> Gọi $$p$$ là mệnh đề "$$\sqrt{2}$$ là một số vô tỉ". Ta giả sử $$p$$ là sai hay $$\neg{p}$$ là đúng. Vậy $$\sqrt{2}$$ là một số hữu tỉ. Khi đó $$\exists a,b (a,b \in \mathbb{N})$$ sao cho: $$\sqrt{2} =a/b$$ (với $$a, b$$ không có ước chung hay phân số này là tối giản)[[$$r$$::rsn]]
 <br> Bình phương 2 vế ta có $$2b^2=a^2$$ nên $$a$$ là số chẵn. 
 <br> Đặt $$a=2c (c\in \mathbb{N})$$ ta có, $$b^2=2c^2$$ nên $$b$$ là số chẵn.
-<br> Vậy $$a, b$$ đều có ước chung là $$2$$[[Mệnh đề $$\neg{r}$$::rsn]]. Điều này mẫu thuẫn vì phân số $$a/b$$ là tối giản, sở dĩ có mâu thuẫn này là do ta giả sử $$\sqrt{2}$$ là một số hữu tỉ. $$\sqrt{2}$$ là một số vô tỉ.
+<br> Vậy $$a, b$$ đều có ước chung là $$2$$[[$$\neg{r}$$::rsn]]. Điều này mẫu thuẫn vì theo giả thiết ban đầu phân số $$a/b$$ là tối giản, sở dĩ có mâu thuẫn này là do ta giả sử $$\sqrt{2}$$ là một số hữu tỉ. Vậy $$\sqrt{2}$$ là một số vô tỉ.
 
 ## Tips reading mathematics
 ___
