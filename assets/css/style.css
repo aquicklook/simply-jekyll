@@ -372,10 +372,10 @@ blockquote:before {
 blockquote {
     display: block !important;
     width: auto;
-    background-color: #fff;
+    background-color: #f7f7f7;
     border: solid 1px #dfdfdf;
     border-radius: 4px;
-    box-shadow: 1px 1px 15px #cfcfcf;
+    box-shadow: 0px 0px 0px #cfcfcf;
     left: 0rem;
     clear: both;
     margin: 1rem 2.5%;
