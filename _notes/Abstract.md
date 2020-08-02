@@ -249,7 +249,7 @@ Chứng minh phản chứng thường được sử dụng để chứng minh m�
 Phương pháp chứng minh phản chứng thường được sử dụng để chứng minh những vấn đề cơ bản và điều quan trọng trong kỹ thuật này là tìm ra được mâu thuẫn của $$r\land \neg{r}$$.
 
 Ví dụ, chứng minh rằng $$\sqrt{2}$$ là một số vô tỉ.
-<br> Gọi $$p$$ là mệnh đề "$$\sqrt{2}$$ là một số vô tỉ". Ta giả sử $$p$$ là sai hay $$\neg{p} là đúng. Vậy $$\sqrt{2}$$ là một số hữu tỉ$$. Khi đó $$\exits a,b (a,b \in \mathbb{N}$$ sao cho:
+<br> Gọi $$p$$ là mệnh đề "$$\sqrt{2}$$ là một số vô tỉ". Ta giả sử $$p$$ là sai hay $$\neg{p}$$ là đúng. Vậy $$\sqrt{2}$$ là một số hữu tỉ. Khi đó $$\exits a,b (a,b \in \mathbb{N}$$ sao cho:
 <br> $$\sqrt{2} =\frac{a}{b}$$ (với mệnh đề $$r$$ là $$a, b$$ không có ước chung hay phân số này là tối giản)
 <br> $$\begin{matrix}
                  &\sqrt{2}    &=& \frac{a}{b}    \\ 
