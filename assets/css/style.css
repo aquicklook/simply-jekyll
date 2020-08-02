@@ -251,10 +251,10 @@ p.drop-cap:first-letter {
     font-family: 'SVN-Georgia';
     font-size:  66px;
     font-style: normal;
-    line-height: 0;
+    line-height: .83;
     text-transform: uppercase;
     margin-right: 12px;
-    padding: 0px;
+    padding-top: 7px;
     position: relative;
     float: left;
     display: block;
