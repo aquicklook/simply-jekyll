@@ -130,13 +130,9 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 
 ___
 
-Suy luận được xem là một trong những nền tảng xây dựng nên các ngành khoa học tự nhiên. Từ xưa đến nay, nhờ suy luận mà ta có thể nhận thức được cái chưa biết từ những cái đã biết. Suy luận còn là cơ sở của sự sáng tạo. Từ các phán đoán, đưa đến các chứng minh để chấp nhận hay bác bỏ một vấn đề nào đó.
+Suy luận toán học dựa trên nền tảng của các phép toán mệnh đề, chủ yếu là phép kéo theo. Để chứng minh một vấn đề nào đó, thông thường ta phải xác định giả thiết và kết luận. Quá trình đi từ giả thiết đến kết luận gọi là quá trình chứng minh và quá trình này đươc thực thi bằng cách nào thì gọi đó là phương pháp chứng minh.
 
-Suy luận toán học dựa trên nền tảng của các phép toán mệnh đề, chủ yếu là phép kéo theo. Để chứng minh một vấn đề nào đó, thông thường ta phải xác định điểm ban đầu gọi là giả thiết và điểm kết thúc gọi là kết luận. Quá trình đi từ giả thiết đến kết luận gọi là quá trình chứng minh và quá trình này đươc thực thi bằng cách nào thì gọi đó là phương pháp chứng minh.
-
-Các phương pháp chứng minh là rất quan trọng vì không những chúng thường được sử dụng trong toán học mà còn được áp dụng nhiều trong tin học. Ví dụ, sự kiểm tra tính đúng đắn của một chương trình, của một hệ điều hành, xây dựng các luật suy diễn trong lĩnh vực trí tuệ nhận tạo... Do đó, chúng ta cần phải nắm vững các phương pháp chứng minh.
-
-Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
+Các phương pháp chứng minh là rất quan trọng vì chúng là con đường để đưa đến một chứng minh đúng.Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
 
 ### Inference rules
 
