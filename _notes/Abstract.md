@@ -264,7 +264,7 @@ Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Ta cần chứng
 <br>
 Vì $$k<2^{k}\Rightarrow k+1<2^{k}+1<2^{k}+2=2^{k+1}$$. Do đó, $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 
-Ví dụ, chứng minh tích $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ luôn chia hết cho 6.
+Ví dụ, chứng minh $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ luôn chia hết cho 6.
 <br> $$P(1)=6$$ chia hết cho 6, $$\Rightarrow P(1)=\mathbf{true}$$.
 <br> $$P(2)=24$$ chia hết cho 6, $$\Rightarrow P(2)=\mathbf{true}$$.
 <br> $$\cdots $$
