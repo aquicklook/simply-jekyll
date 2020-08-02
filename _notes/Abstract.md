@@ -269,9 +269,8 @@ Ví dụ, chứng minh tích của 3 số liên tiếp luôn chia hết cho 6.
 <br> $$P(1)=6$$ chia hết cho 6, $$\Rightarrow P(1)=\mathbf{true}$$.
 <br> $$P(2)=24$$ chia hết cho 6, $$\Rightarrow P(2)=\mathbf{true}$$.
 <br> $$\cdots $$
-<br> Giả sử $$P(k)=k(k+1)(k+2), \forall n\leq k$$ chia hết cho 6.
-<br> Ta có $$P(k+1)=\color{Red}k(k+1)(k+2)+\color{Red}3(k+1)(k+2)$$.
-<br> Vì $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6 nên $$(k+1)(k+2)(k+3)$$ chia hết cho 6, $$\Rightarrow P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
+<br> Giả sử $$P(k)=k(k+1)(k+2), \forall n\leq k$$ chia hết cho 6. Ta có
+<br> $$P(k+1)=\color{Red}k(k+1)(k+2)+\color{Red}3(k+1)(k+2)$$ chia hết cho 6 vì $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6, $$\Rightarrow P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
 
 ## Tips reading mathematics
 ___
