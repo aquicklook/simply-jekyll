@@ -244,7 +244,9 @@ $$\begin{matrix}
 
 #### Reductio ad absurdum
 
-Chứng minh phản chứng thường được sử dụng để chứng minh mệnh đề $$p$$ là đúng. Trước hết, ta giả sử ngược lại rằng $$p$$ là sai hay $$\neg{p}$$ là đúng. Từ mệnh đề $$\neg{p}$$ là đúng dẫn đến kết luận $$q$$ sao cho $$\neg{p} \rightarrow q$$ phải đúng. Khi đó, ta chỉ ra rằng $$q$$ là một mâu thuẫn, nghĩa là:
+Chứng minh phản chứng thường được sử dụng để chứng minh mệnh đề $$p$$ là đúng. Trước hết, ta giả sử ngược lại rằng $$p$$ là sai hay $$\neg{p}$$ là đúng. Từ mệnh đề $$\neg{p}$$ là đúng dẫn đến kết luận $$q$$ sao cho $$\neg{p} \rightarrow q$$ phải đúng. Khi đó, ta chỉ ra rằng $$q$$ là một mâu thuẫn, nghĩa là: $$q=r\land \neg{r}$$. Vì $$\neg{p} \rightarrow q$$ phải đúng và chân trị của $$q=\mathbf{false}$$ nên ta suy ra rằng $$\neg{p}= \mathbf{false}\Rightarrow p=\mathbf{true}.$$
+
+Phương pháp chứng minh phản chứng thường được sử dụng để chứng minh những vấn đề cơ bản và điều quan trọng trong kỹ thuật này là tìm ra được mâu thuẩn $$r\land \neg{r}$$.
 
 ## Tips reading mathematics
 ___
