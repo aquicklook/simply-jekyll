@@ -260,7 +260,7 @@ Ví dụ, chứng minh $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 <br>
 Khi $$n=1$$, ta có $$1 < 2$$ mệnh đề đúng.
 <br>
-Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Lúc này, ta cần chứng minh $$k + 1< 2^{k+1}$$.
+Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Ta cần chứng minh $$k + 1< 2^{k+1}$$.
 <br>
 Vì $$k<2^{k}\Rightarrow k+1<2^{k}+1<2^{k}+2=2^{k+1}$$. Do đó, $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 
