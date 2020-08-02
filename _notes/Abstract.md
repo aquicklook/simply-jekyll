@@ -250,13 +250,10 @@ Phương pháp chứng minh phản chứng thường được sử dụng để 
 
 Ví dụ, chứng minh rằng $$\sqrt{2}$$ là một số vô tỉ.
 <br> Gọi $$p$$ là mệnh đề "$$\sqrt{2}$$ là một số vô tỉ". Ta giả sử $$p$$ là sai hay $$\neg{p}$$ là đúng. Vậy $$\sqrt{2}$$ là một số hữu tỉ. Khi đó $$\exists a,b (a,b \in \mathbb{N})$$ sao cho:
-<br> $$\sqrt{2} =\frac{a}{b}$$ (với mệnh đề $$r$$ là $$a, b$$ không có ước chung hay phân số này là tối giản)
-
-$$\begin{matrix}
-                 &\sqrt{2}    &=& \frac{a}{b}    \\ 
-\Rightarrow      &2  &=& \frac{a^2}{b^2}   \\
-\Rightarrow      &2b^2 &=& a^2 &
-\end{matrix}$$
+<br> $$\sqrt{2} =\frac{a}{b}$$ (với $$a, b$$ không có ước chung hay phân số này là tối giản)[[Mệnh đề $$r$$::rsn]]
+<br> Bình phương 2 vế ta có $$2b^2=a^2$$ nên $$a$$ là số chẵn. 
+<br> Đặt $$a=2c (c\in \mathbb{N})$$ ta có, $$b^2=2c^2$$ nên $$b$$ là số chẵn.
+<br> Vậy $$a, b$$ đều có ước chung là $$2$$[[Mệnh đề $$\neg{r}$$::rsn]]. Điều này mẫu thuẫn vì phân số $$a/b$$ là tối giản, sở dĩ có mâu thuẫn này là do ta giả sử $$\sqrt{2}$$ là một số hữu tỉ. $$\sqrt{2}$$ là một số vô tỉ.
 
 ## Tips reading mathematics
 ___
