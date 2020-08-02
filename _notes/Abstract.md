@@ -191,7 +191,7 @@ Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi $$p
 
 Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý. Trường hợp tổng quát thì định lý này luôn đúng với mọi số $$n$$ nguyên dương.
 
-Ví dụ, cho hàm mệnh đề $$P(n)= n^2>n, n>1$$, chứng minh $$P(1) = \mathbf{true}$$.
+Ví dụ, cho hàm mệnh đề $$P(n)= n^2>n~(\forall n>1)$$, chứng minh $$P(1) = \mathbf{true}$$.
 <br>
 Ta có giả thiết $$1>1$$ là sai, bất chấp kết luận $$1^2>1$$ là đúng hay sai thì $$P(1)$$ là đúng.
 
