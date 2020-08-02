@@ -258,7 +258,7 @@ Quy nạp toán học thường sử dụng để chứng minh các mệnh đề
 <br> Bước cơ sở: Kiểm tra $$P(x_0)$$ là đúng với $$x_0$$ là giá trị đầu tiên của dãy số $$n$$.
 <br> Bước quy nạp: Có hai dạng
 <br> - Giả sử rằng $$P(k)$$ là đúng khi $$n=k$$. Từ đó suy ra rằng $$P(k+1)$$ là đúng.
-<br> - Nếu $$(P(x_0)\land P(x_1)\land P(x_2)\land P(x_3)\land \cdots \land P(x_k)) \rightarrow P(x_{k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
+<br> - Nếu $$(P(x_0)\land P(x_1)\land P(x_2)\land P(x_3)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
 
 ## Tips reading mathematics
 ___
