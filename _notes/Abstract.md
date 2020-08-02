@@ -265,11 +265,11 @@ Giả sử mệnh đề đúng khi $$n=k$$, ta có $$k < 2^k$$. Ta cần chứng
 Vì $$k<2^{k}\Rightarrow k+1<2^{k}+1<2^{k}+2=2^{k+1}$$. Do đó, $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 
 Ví dụ, chứng minh tích của 3 số liên tiếp luôn chia hết cho 6.
-<br> Đặt $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ chia hết cho 6.
-<br> Ta có: $$P(1)=6$$ chia hết cho 6, $$\Rightarrow P(1)=\mathbf{true}$$.
+<br> Đặt $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ chia hết cho 6. Ta có
+<br> $$P(1)=6$$ chia hết cho 6, $$\Rightarrow P(1)=\mathbf{true}$$.
 <br> $$P(2)=24$$ chia hết cho 6, $$\Rightarrow P(2)=\mathbf{true}$$.
 <br> $$\cdots $$
-<br> Giả sử $$\forall n\leq k$$, ta có $$P(k)=k(k+1)(k+2), k \in \mathbb{Z}^{+}$$ chia hết cho 6.
+<br> Giả sử $$P(k)=k(k+1)(k+2), \forall n\leq k$$ chia hết cho 6.
 <br> Ta có $$P(k+1)=\color{Red}k(k+1)(k+2)+\color{Red}3(k+1)(k+2)$$.
 <br> Vì $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6 nên $$(k+1)(k+2)(k+3)$$ chia hết cho 6, $$\Rightarrow P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
 
