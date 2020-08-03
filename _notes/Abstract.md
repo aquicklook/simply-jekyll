@@ -278,7 +278,7 @@ Hằng là một giá trị xác định trong không gian của vị từ. Hằ
 
 ### Variable
 
-Dùng để thể hiện các lớp tổng quát của các đối tượng hay các thuộc tính. Biến được viết bằng các ký hiệu bắt đầu là chữ in hoa. Vậy có thể dùng vị từ có biến để thể hiện các vị từ tương tự.
+Dùng để thể hiện các lớp tổng quát của các đối tượng hay các thuộc tính. Biến được viết bằng các ký hiệu bắt đầu là chữ in hoa.
 
 ### Function
 
