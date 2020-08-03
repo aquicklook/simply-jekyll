@@ -214,7 +214,7 @@ h2, h3, h4 {
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif;
-    font-size: 18px;  /* Let's set the font-size to something old-man friendly */
+    font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
 }
@@ -249,7 +249,7 @@ b, strong {
 
 p.drop-cap:first-letter {
     font-family: 'Lora';
-    font-size:  66px;
+    font-size: 66px;
     font-style: normal;
     line-height: .83;
     text-transform: uppercase;
