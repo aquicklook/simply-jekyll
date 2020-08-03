@@ -270,7 +270,7 @@ Logic mệnh đề có những hạn chế trong việc biểu diễn và suy di
 
 Vị từ là những biểu thức ngôn ngữ biểu thị một tính chất nào đó ở một đối tượng hoặc biểu thị một mối quan hệ nào đó giữa một số đối tượng. Trong đó, vị từ chỉ tính chất gọi là vị từ một ngôi, vị từ chỉ mối quan hệ giữa $$n$$ đối tượng gọi là vị từ $$n$$ ngôi. 
 
-Tổng quát, cho $$A_1, A_2, \cdots , A_n$$ là $$n$$ tập hợp khác trống. Giả sử rằng ứng với mỗi $$(x_1, x_2, \cdots , x_n)=(a_1, a_2, \cdots , a_n)\in A_1\times A_2\times \cdots \times A_n$$, ta có một mệnh đề $$p(a_1, a_2, \cdots , a_n)$$. Khi đó ta nói $$p=p(x_1, x_2, \cdots , x_n)$$ là một vị từ theo $$n$$ biến hay $$n$$ trọng lượng xác định trên không gian $$A_1\times A_2\times \cdots \times A_n$$.
+Tổng quát, cho $$A_1, A_2, \cdots , A_n$$ là $$n$$ tập hợp khác trống. Giả sử rằng ứng với mỗi $$(x_1, \cdots , x_n)=(a_1, \cdots , a_n)\in A_1\times \cdots \times A_n$$, ta có một mệnh đề $$p(a_1, a_2, \cdots , a_n)$$. Khi đó ta nói $$p=p(x_1, x_2, \cdots , x_n)$$ là một vị từ theo $$n$$ biến hay $$n$$ trọng lượng xác định trên không gian $$A_1\times A_2\times \cdots \times A_n$$.
 
 ### Constants
 
