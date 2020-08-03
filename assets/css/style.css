@@ -32,7 +32,7 @@ layout: stylesheet
 }
 
 @font-face {
-    font-family: 'SVN-Georgia';
+    font-family18'SVN-Georgia';
     src: url('/fonts/SVN-GeorgiaItalic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
@@ -214,8 +214,8 @@ h2, h3, h4 {
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif;
-    font-size: 1.1875rem;  /* Let's set the font-size to something old-man friendly */
-    line-height: 1.6;
+    font-size: 18px;  /* Let's set the font-size to something old-man friendly */
+    line-height: 28px;
     letter-spacing: -0.003em;
 }
 
@@ -254,7 +254,7 @@ p.drop-cap:first-letter {
     line-height: .83;
     text-transform: uppercase;
     margin-right: 12px;
-    padding-top: 3px;
+    padding-top: 0px;
     position: relative;
     float: left;
     display: block;
@@ -389,7 +389,7 @@ cite {
 
 blockquote p {
     font-family: inherit;
-    font-size: 19px;
+    font-size: 18px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
@@ -416,7 +416,7 @@ th {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 19px;
+    font-size: 18px;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
     font-family:  'UntitledTTF', sans-serif;
@@ -426,12 +426,12 @@ td {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 19px;
+    font-size: 18px;
     border:0px solid gray;
 }
 
 td {
-   font-size: 19px;
+   font-size: 18px;
 }
 
 td a {
@@ -747,7 +747,7 @@ hr {
     border-radius: 0px;
     font-family: 'UntitledTTF', sans-serif !important;
     color: #757575;
-    font-size: 19px;
+    font-size: 1px;
     line-height: 24px;
 }
 
@@ -994,7 +994,7 @@ hr {
     float: right;
     clear: right;
     font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
-    font-size: 19px;
+    font-size: 18px;
     margin-right: -45%;
     width: 40%;
     margin-top: 0;
@@ -1009,7 +1009,7 @@ hr {
     float: left;
     clear: left;
     font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
-    font-size: 1px;
+    font-size: 18px;
     margin-left: -45%;
     width: 40%;
     margin-top: 0;
@@ -1276,7 +1276,7 @@ label.srs-toggle {
     outline: none;
     border: none;
     overflow: hidden;
-    font-size: 19px;
+    font-size: 18px;
 }
 
 .context-menu-res {
