@@ -272,6 +272,17 @@ Vị từ là những biểu thức ngôn ngữ biểu thị một tính chất 
 
 Tổng quát, cho $$A_1, A_2, \cdots , A_n$$ là $$n$$ tập hợp khác trống. Giả sử rằng ứng với mỗi $$(x_1, x_2, \cdots , x_n)=(a_1, a_2, \cdots , a_n)\in A_1\times A_2\times \cdots \times A_n$$, ta có một mệnh đề $$p(a_1, a_2, \cdots , a_n)$$. Khi đó ta nói $$p=p(x_1, x_2, \cdots , x_n)$$ là một vị từ theo $$n$$ biến hay $$n$$ trọng lượng xác định trên không gian $$A_1\times A_2\times \cdots \times A_n$$.
 
+### Constants
+
+Hằng là một giá trị xác định trong không gian của vị từ. Hằng được ký hiệu bởi các chữ thường dùng để đặt tên các đối tượng đặc biệt hay thuộc tính.
+
+### Variable
+
+Dùng để thể hiện các lớp tổng quát của các đối tượng hay các thuộc tính. Biến được viết bằng các ký hiệu bắt đầu là chữ in hoa. Vậy có thể dùng vị từ có biến để thể hiện các vị từ tương tự.
+
+### Function
+
+Được thể hiện bằng ký hiệu, cho biết quan hệ hàm số.
 
 ## Tips reading mathematics
 ___
