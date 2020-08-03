@@ -266,12 +266,13 @@ Ví dụ, chứng minh $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ luôn chia h�
 
 ___
 
-Điểm yếu của logic mệnh đề là chỉ có thể biểu diễn được các mệnh đề và các liên kết hoặc quan hệ giữa các mệnh đề. Vì vậy sức mạnh biểu diễn của logic mệnh đề chỉ giới hạn trong thế giới các mệnh đề. Nó không quan tâm đến nội dung các mệnh đề như thế nào. Vì thế mà logic mệnh đề có những hạn chế trong việc biểu diễn và suy diễn. Ví dụ, nếu chúng ta cho cơ sở tri thức phát biểu trong ngôn ngữ tự nhiên như sau: 
-<br> $$p_1:=$$ "An là sinh viên"
-<br> $$q:=$$ "Mọi sinh viên đều học giỏi"
-<br> Với cơ sở tri thức như vậy ta có thể suy diễn ra rằng $$r_1:=$$ “An học giỏi”. Tuy nhiên logic mệnh đề không quan tâm đến nội dung bên trong các mệnh đề nên chúng ta không thể thực hiện suy diến $$(p_1\land q)\Rightarrow r_1$$ được vì chúng
-chẳng liên quan gì với nhau. Nếu chúng ta biết được danh sách tất cả các sinh viên, chẳng hạn (An, Bình, …, Yến) thì chúng ta có thể chuyển câu “Mọi sinh viên đều học giỏi” thành câu phức trong logic mệnh đề dạng: $$(p_1\Rightarrow r_1)\land (p_2\Rightarrow r_2)\land \cdots \land (p_n\Rightarrow r_n)$$. Khi đó, sử dụng mệnh đề $$p_1$$ đã biết là đúng thì ta áp dụng luật Modus ponens trong logic mệnh đề thì suy diễn ra được $$r_1$$. 
-<br> đ
+Logic mệnh đề có những hạn chế trong việc biểu diễn và suy diễn. Bởi vì tính đúng đắn của suy luận vừa nêu không chỉ dựa trên phụ thuộc hàm giữa các giá trị chân lý của các mệnh đề thành phần trong suy luận, mà còn dựa trên cấu trúc bên trong của các mệnh đề đó. Logic vị từ là trường hợp mở rộng của logic mệnh đề nghiên cứu những suy luận như vậy.
+
+Vị từ là những biểu thức ngôn ngữ biểu thị một tính chất nào đó ở một đối tượng hoặc biểu thị một mối quan hệ nào đó giữa một số đối tượng. Trong đó, vị từ chỉ tính chất gọi là vị từ một ngôi, vị từ chỉ mối quan hệ giữa $$n$$ đối tượng gọi là vị từ $$n$$ ngôi. Một cách tổng quát, một vị từ là một khẳng định $$P(x, y, \cdots )$$ trong đó có chứa một số biến $$x, y, \cdots $$ lấy giá trị trong những tập $$A,B,\cdots$$ cho trước, sao cho:
+<br> Bản thân $$P(x, y, \cdots )$$ không phải là mệnh đề.
+<br> Nếu thay $$x,y,\cdots $$ bằng những giá trị cụ thể thuộc tập $$A,B,\cdots$$ cho trước ta sẽ được một mệnh đề $$P(x, y, \cdots )$$, nghĩa là khi đó chân trị của $$P(x, y, \cdots )$$ hoàn toàn xác định. Các biến $$x,y,\cdots $$ được gọi là các biến tự do của vị từ.
+<br> Nói cách khác, vị từ có thể xem là một hàm mệnh đề có nhiều biến hoặc không có biến nào, nó có thể đúng hoặc sai tùy thuộc vào giá trị của biến và lập luận của vị từ.
+
 
 ## Tips reading mathematics
 ___
