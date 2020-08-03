@@ -605,7 +605,7 @@ hr {
 
 .notes-page-subheader {
     border-bottom: 0px solid #E6ECF0;
-    padding-left: 15px 25px 15px 15px;
+    padding: 15px 25px 15px 15px;
 }
 
 .notes-page-site-heading a {
