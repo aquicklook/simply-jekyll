@@ -212,7 +212,7 @@ h2, h3, h4 {
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
-    color: #111111;
+    color: #333333;
     font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif;
     font-size: 18px;
     line-height: 28px;
@@ -413,7 +413,7 @@ table.center {
 }
 
 th {
-    color: #111111;
+    color: #333333;
     padding: 4px;
     text-align: left;
     font-size: 18px;
@@ -423,7 +423,7 @@ th {
 }
 
 td {
-    color: #111111;
+    color: #333333;
     padding: 4px;
     text-align: left;
     font-size: 18px;
@@ -616,7 +616,7 @@ hr {
     font-weight: 600;
     font-size: 21px;
     padding-left: 5px;
-    color: #111111;
+    color: #333333;
 }
 
 .notes-page-main-heading {
@@ -627,7 +627,7 @@ hr {
 
 
 .notes-page-heading {
-    color: #111111;
+    color: #333333;
     font-size: 15px;
     line-height: 15px;
     font-weight: 400;
