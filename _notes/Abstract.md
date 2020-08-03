@@ -58,8 +58,8 @@ $$\begin{array} {|c|c|} \hline
 p &   q &   \neg{p}  &  p\land q &    p\lor q &     \mathrm{XOR}   & p\rightarrow q \\ \hline 
 T &   T &   F        &  T        &    T       &     F              &  T             \\ \hline
 T &   F &   F        &  F        &    T       &     T              &  F             \\ \hline
-F &   T &   T        &  F        &    T       &     T              &  \color{Red} T \\ \hline
-F &   F &   T        &  F        &    F       &     F              &  \color{Red} T \\ \hline
+\color{Red} F &   T &   T        &  F        &    T       &     T              &  \color{Red} T \\ \hline
+F &   F &   T        &  F        &    F       &     F              &  T             \\ \hline
 \end{array}$$
 
 #### Biconditional
@@ -74,8 +74,8 @@ $$\begin{array} {|c|c|} \hline
 p              &   q              &  \neg{p}  &  p\land q &  p\lor q &  \mathrm{XOR} & p\rightarrow q & p\leftrightarrow q  \\ \hline 
 \color{Blue} T &   \color{Blue} T &  F        &  T        &  T       &  F            &  T             & \color{Blue} T      \\ \hline
 T              &   F              &  F        &  F        &  T       &  T            &  F             & F                   \\ \hline
-F              &   T              &  T        &  F        &  T       &  T            &  \color{Red} T & F                   \\ \hline
-\color{Blue} F &   \color{Blue} F &  T        &  F        &  F       &  F            &  \color{Red} T & \color{Blue} T      \\ \hline
+\color{Red} F              &   T              &  T        &  F        &  T       &  T            &  \color{Red} T & F                   \\ \hline
+\color{Blue} F &   \color{Blue} F &  T        &  F        &  F       &  F            &  T & \color{Blue} T      \\ \hline
 \end{array}$$
 
 ### Consequents
@@ -175,8 +175,8 @@ $$\begin{array} {|c|c|} \hline
 p &   q &    p\rightarrow q \\ \hline 
 T &   T &     T             \\ \hline
 T &   F &     F             \\ \hline
-F &   T &     \color{Red} T \\ \hline
-F &   F &     \color{Red} T \\ \hline
+\color{Red} F &   T &     \color{Red} T \\ \hline
+F &   F &     T \\ \hline
 \end{array}$$
 
 Nhận thấy rằng, $$p\rightarrow q$$ là đúng có 3 trường hợp. Các trường hợp này chính là các phương pháp chứng minh sẽ được trình bày dưới đây. Trước khi đi vào các phương pháp chứng minh, có một khái niệm mà chúng ta cần tìm hiểu, đó là khái niệm về "hàm mệnh đề".
