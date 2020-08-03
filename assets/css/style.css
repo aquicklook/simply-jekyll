@@ -32,7 +32,7 @@ layout: stylesheet
 }
 
 @font-face {
-    font-family18'SVN-Georgia';
+    font-family: 'SVN-Georgia';
     src: url('/fonts/SVN-GeorgiaItalic.woff2') format('woff2');
     font-weight: normal;
     font-style: italic;
@@ -249,7 +249,7 @@ b, strong {
 
 p.drop-cap:first-letter {
     font-family: 'Lora';
-    font-size: 66px;
+    font-size:  66px;
     font-style: normal;
     line-height: .83;
     text-transform: uppercase;
