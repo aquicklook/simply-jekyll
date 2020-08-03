@@ -15,7 +15,7 @@ At Quicklook.com, Ladies and Gentlemen can trade and share exciting stories to b
 We are excited about…
 
 - Getting more ambitious things done.
-- Taking the long-term view.
+- Taking the long—term view.
 - Empowering great entrepreneurs and companies to flourish.
 - Investing at the scale of the opportunities and resources we see.
 - Improving the transparency and oversight of what we’re doing.
