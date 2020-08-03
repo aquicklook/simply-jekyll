@@ -270,10 +270,7 @@ Logic mệnh đề có những hạn chế trong việc biểu diễn và suy di
 
 Vị từ là những biểu thức ngôn ngữ biểu thị một tính chất nào đó ở một đối tượng hoặc biểu thị một mối quan hệ nào đó giữa một số đối tượng. Trong đó, vị từ chỉ tính chất gọi là vị từ một ngôi, vị từ chỉ mối quan hệ giữa $$n$$ đối tượng gọi là vị từ $$n$$ ngôi. 
 
-Một cách tổng quát, một vị từ là một khẳng định $$P(x, y, \cdots )$$ trong đó có chứa một số biến $$x, y, \cdots $$ lấy giá trị trong những tập $$A,B,\cdots$$ cho trước, sao cho:
-<br>— Bản thân $$P(x, y, \cdots )$$ không phải là mệnh đề.
-<br>— Nếu thay $$x,y,\cdots $$ bằng những giá trị cụ thể thuộc tập $$A,B,\cdots$$ cho trước ta sẽ được một mệnh đề $$P(x, y, \cdots )$$, nghĩa là khi đó chân trị của $$P(x, y, \cdots )$$ hoàn toàn xác định. Các biến $$x,y,\cdots $$ được gọi là các biến tự do của vị từ.
-<br> Nói cách khác, vị từ có thể xem là một hàm mệnh đề có nhiều biến hoặc không có biến nào, nó có thể đúng hoặc sai tùy thuộc vào giá trị của biến và lập luận của vị từ.
+Tổng quát, cho $$A_1, A_2, \cdots , A_n$$ là $$n$$ tập hợp khác trống. Giả sử rằng ứng với mỗi $$(x_1, x_2, \cdots , x_n)=(a_1, a_2, \cdots , a_n)\in A_1\times A_2\times \cdots \times A_n$$, ta có một mệnh đề $$p(a_1, a_2, \cdots , a_n)$$. Khi đó ta nói $$p=p(x_1, x_2, \cdots , x_n)$$ là một vị từ theo $$n$$ biến xác định trên $$A_1\times A_2\times \cdots \times A_n$$.
 
 
 ## Tips reading mathematics
