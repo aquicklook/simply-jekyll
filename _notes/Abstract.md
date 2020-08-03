@@ -64,7 +64,7 @@ F &   F &   T        &  F        &    F       &     F              &  T         
 
 #### Biconditional
 
-Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề của phép kéo theo là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều hay đảo đề của nhau[[$$p\rightarrow q = q\rightarrow p$$::rsn]]. Đây là ý tưởng cơ bản của phép tương đương.
+Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề của phép kéo theo là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều hay đảo đề của nhau[[$$p\rightarrow q = q\rightarrow p$$::rsn]]. Đây là ý tưởng của phép tương đương.
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
@@ -72,10 +72,10 @@ Bảng chân trị mới với phép tương đương được thêm vào:
 
 $$\begin{array} {|c|c|} \hline
 p              &   q              &  \neg{p}  &  p\land q &  p\lor q &  \mathrm{XOR} & p\rightarrow q & p\leftrightarrow q  \\ \hline 
-\color{Blue} T &   \color{Blue} T &  F        &  T        &  T       &  F            &  T             & \color{Blue} T      \\ \hline
+T &    T &  F        &  T        &  T       &  F            &  T             & T      \\ \hline
 T              &   F              &  F        &  F        &  T       &  T            &  F             & F                   \\ \hline
-\color{Red} F              &   T              &  T        &  F        &  T       &  T            &  \color{Red} T & F                   \\ \hline
-\color{Blue} F &   \color{Blue} F &  T        &  F        &  F       &  F            &  T & \color{Blue} T      \\ \hline
+\color{Red} F              &   T              &  T        &  F        &  T       &  T            &  \color{Red} T & \color{Blue} F                   \\ \hline
+ F &   F &  T        &  F        &  F       &  F            &  T & T      \\ \hline
 \end{array}$$
 
 ### Consequents
