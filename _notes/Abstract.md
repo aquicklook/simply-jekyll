@@ -24,8 +24,6 @@ Ví dụ: $$2<3$$ là một mệnh đề đúng. $$3>4$$ là một mệnh đề 
 
 ### Propositional calculus
 
-___
-
 Trong các phép tính mệnh đề, ta không quan tâm đến ý nghĩa của câu phát biểu mà [[chỉ chú ý đến chân trị của các mệnh đề::highlight]]. Do đó, khi thực hiện các mệnh đề thông thường ta không ghi rõ các câu phát biểu mà chỉ ghi ký hiệu. Các chữ cái sẽ được dùng để ký hiệu các mệnh đề. Những chữ cái thường dùng là $$p, q, r, \cdots $$.
 
 Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathbf{false}$$) được gọi là mệnh đề nguyên từ — atomic proposition. Các mệnh đề không phải là mệnh đề nguyên từ gọi là mệnh đề phức hợp — compound propositions. Thông thường, tất cả các mệnh đề phức hợp là mệnh đề liên kết hay có chứa phép tính mệnh đề.
@@ -80,8 +78,6 @@ T              &   F              &  F        &  F        &  T       &  T       
 
 ### Consequents
 
-___
-
 Mục đích của các phép tính logic là tìm ra một mệnh đề có chân trị đúng từ các mệnh đề ban đầu mà ta đã biết chân trị của nó là đúng. Phép tính tương đương giải quyết vấn đề trên rất tốt, phần này sẽ giới thiệu về là một số khái niệm được sinh ra từ các phép tính mệnh đề và trình bày một số quy luật thường gặp của phép tương đương logic.
 
 #### Tautologie, contradiction and contingency
@@ -135,8 +131,6 @@ Suy luận toán học dựa trên nền tảng của các phép toán mệnh đ
 Các phương pháp chứng minh là con đường hiệu quả nhất để đưa đến một chứng minh đúng. Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
 
 ### Inference rules
-
-___
 
 Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có cơ sở. Khi tất cả các suy luận có cơ sở là đúng thì sẽ dẫn đến một kết luận đúng. Một suy luận có cơ sở có thể dẫn đến một kết luận sai nếu một trong các mệnh đề đã dùng trong suy diễn là sai. Sau đây là bảng các quy tắc suy luận đúng.
 
@@ -266,6 +260,17 @@ Ví dụ, chứng minh $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ luôn chia h�
 <br> $$\cdots $$
 <br> Giả sử $$P(k)=k(k+1)(k+2), \forall n\leq k$$ chia hết cho 6. Ta có
 <br> $$P(k+1)=k(k+1)(k+2)+3(k+1)(k+2)$$ chia hết cho 6 vì $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6, $$\Rightarrow P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
+
+## Predicates and quantifiers
+
+___
+
+Điểm yếu của logic mệnh đề là chỉ có thể biểu diễn được các mệnh đề và các liên kết hoặc quan hệ giữa các mệnh đề. Vì vậy sức mạnh biểu diễn của logic mệnh đề chỉ giới hạn trong thế giới các mệnh đề. Nó không quan tâm đến nội dung các mệnh đề như thế nào. Vì thế mà logic mệnh đề có những hạn chế trong việc biểu diễn và suy diễn. Ví dụ, nếu chúng ta cho cơ sở tri thức phát biểu trong ngôn ngữ tự nhiên như sau: 
+<br> $$p_1:=$$ "An là sinh viên"
+<br> $$q:=$$ "Mọi sinh viên đều học giỏi"
+<br> Với cơ sở tri thức như vậy ta có thể suy diễn ra rằng $$r_1:=$$ “An học giỏi”. Tuy nhiên logic mệnh đề không quan tâm đến nội dung bên trong các mệnh đề nên chúng ta không thể thực hiện suy diến $$(p_1\land q)\Rightarrow r_1$$ được vì chúng
+chẳng liên quan gì với nhau. Nếu chúng ta biết được danh sách tất cả các sinh viên, chẳng hạn (An, Bình, …, Yến) thì chúng ta có thể chuyển câu “Mọi sinh viên đều học giỏi” thành câu phức trong logic mệnh đề dạng: $$(p_1\Rightarrow r_1)\land (p_2\Rightarrow r_2)\land \cdots \land (p_n\Rightarrow r_n). Khi đó, sử dụng mệnh đề $$p_1$$ đã biết là đúng thì ta áp dụng luật Modus ponens trong logic mệnh đề thì suy diễn ra được $$r_1$$. 
+<br> đ
 
 ## Tips reading mathematics
 ___
