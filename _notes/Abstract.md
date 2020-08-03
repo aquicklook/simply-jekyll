@@ -269,7 +269,7 @@ ___
 <br> $$p_1:=$$ "An là sinh viên"
 <br> $$q:=$$ "Mọi sinh viên đều học giỏi"
 <br> Với cơ sở tri thức như vậy ta có thể suy diễn ra rằng $$r_1:=$$ “An học giỏi”. Tuy nhiên logic mệnh đề không quan tâm đến nội dung bên trong các mệnh đề nên chúng ta không thể thực hiện suy diến $$(p_1\land q)\Rightarrow r_1$$ được vì chúng
-chẳng liên quan gì với nhau. Nếu chúng ta biết được danh sách tất cả các sinh viên, chẳng hạn (An, Bình, …, Yến) thì chúng ta có thể chuyển câu “Mọi sinh viên đều học giỏi” thành câu phức trong logic mệnh đề dạng: $$(p_1\Rightarrow r_1)\land (p_2\Rightarrow r_2)\land \cdots \land (p_n\Rightarrow r_n). Khi đó, sử dụng mệnh đề $$p_1$$ đã biết là đúng thì ta áp dụng luật Modus ponens trong logic mệnh đề thì suy diễn ra được $$r_1$$. 
+chẳng liên quan gì với nhau. Nếu chúng ta biết được danh sách tất cả các sinh viên, chẳng hạn (An, Bình, …, Yến) thì chúng ta có thể chuyển câu “Mọi sinh viên đều học giỏi” thành câu phức trong logic mệnh đề dạng: $$(p_1\Rightarrow r_1)\land (p_2\Rightarrow r_2)\land \cdots \land (p_n\Rightarrow r_n)$$. Khi đó, sử dụng mệnh đề $$p_1$$ đã biết là đúng thì ta áp dụng luật Modus ponens trong logic mệnh đề thì suy diễn ra được $$r_1$$. 
 <br> đ
 
 ## Tips reading mathematics
