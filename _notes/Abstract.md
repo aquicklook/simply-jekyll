@@ -187,9 +187,7 @@ Với các tập không rỗng $$A_1, A_2, \cdots , A_n$$ sao cho ứng với m�
 
 #### p is false
 
-Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi $$p$$ sai, bất chấp kết luận $$q$$ thế nào thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$p$$ là sai. Phương pháp chứng minh này được gọi là chứng minh rỗng.
-
-Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý. Trường hợp tổng quát thì định lý này luôn đúng với mọi số $$n$$ nguyên dương.
+Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi $$p$$ sai, bất chấp kết luận $$q$$ thế nào thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$p$$ là sai. Phương pháp chứng minh này được gọi là chứng minh rỗng. Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý.
 
 Ví dụ, cho hàm mệnh đề $$P(n)= n^2>n~(\forall n>1)$$, chứng minh $$P(1) = \mathbf{true}$$.
 <br>
@@ -197,9 +195,7 @@ Ta có giả thiết $$1>1$$ là sai, bất chấp kết luận $$1^2>1$$ là đ
 
 #### q is true
 
-Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi $$q$$ đúng, bất chấp giả thiết $$p$$ là đúng hay sai thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$q$$ là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường.
-
-Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý. Trường hợp tổng quát thì định lý này luôn đúng với mọi số $$n$$ nguyên dương.
+Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi $$q$$ đúng, bất chấp giả thiết $$p$$ là đúng hay sai thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$q$$ là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường. Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý.
 
 Ví dụ, cho hàm mệnh đề $$P(n)= a^n>b^n~(\forall a,b \in \mathbb{Z}^{+}; a\geq b)$$, chứng minh $$P(0) = \mathbf{true}$$.
 <br>
