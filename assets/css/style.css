@@ -136,7 +136,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
     counter-reset: sidenote-counter; 
     box-sizing: inherit;
-    zoom: 200%;
 }
 
 .container {
@@ -150,7 +149,7 @@ body {
     right: 0px;
     bottom: 0px;  
     align-items: center;       
-    max-width: 1000px;
+    max-width: 2000px;
     margin-right: auto;
     margin-left: auto;
 }
