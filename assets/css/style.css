@@ -136,7 +136,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     counter-reset: sidenote-counter; 
     box-sizing: inherit;
-    zoom: 110%;
+    zoom: 96%;
 }
 
 .container {
