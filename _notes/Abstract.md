@@ -205,7 +205,7 @@ Ta có $$a^0=b^0=1$$, do đó $$a^0\geq b^0$$ là đúng. Vậy $$P(0)$$ là đ�
 
 Trong dòng 1 của bảng chân trị, mệnh đề $$p$$ kéo theo $$q$$ có thể được chứng minh bằng cách chỉ ra rằng nếu $$p$$ đúng thì $$q$$ cũng phải đúng. Nghĩa là tổ hợp $$p$$ đúng $$q$$ sai không bao giờ xảy ra. Phương pháp này được gọi là chứng minh trực tiếp.
 
-Vậy để thực hiện phương pháp chứng minh trực tiếp, ta giả sử rằng $$p$$ là đúng, sau đó sử dụng các quy tắc suy luận hay các định lý để chỉ ra rằng $$q$$ là đúng và kết luận $$p\rightarrow q$$ là đúng.
+Để thực hiện phương pháp chứng minh trực tiếp, ta giả sử rằng $$p$$ là đúng, sau đó sử dụng các quy tắc suy luận hay các định lý để chỉ ra rằng $$q$$ là đúng và kết luận $$p\rightarrow q$$ là đúng.
 
 Ví dụ, chứng minh rằng nếu $$n$$ là số lẻ thì $$n^2$$ cũng là số lẻ.
 <br>
