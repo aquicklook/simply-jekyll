@@ -169,7 +169,7 @@ Trong các phân số của quy tắc thì các giả thiết được viết tr
 Mỗi bài toán cần chứng minh thông thường đều có hai phần chính là giả thiết và kết luận. Việc chỉ ra được cái nào là giả thiết, cái nào là
 kết luận sẽ giúp cho việc chứng minh dễ dàng hơn thông qua việc sử dụng phương pháp chứng minh thích hợp. Do đó, các phương pháp chứng minh trong dạng bài toán này có liên quan đến mệnh đề kéo theo.
 
-Trước khi tìm hiểu các phương pháp chứng minh, chúng ta hãy xem lại bảng chân trị của mệnh đề $$p$$ kéo theo $$q$$. Các trường hợp để cho mệnh đề $$p$$ kéo theo $$q$$ là đúng cũng chính là các phương pháp để chứng minh bài toán đúng.
+Trước khi tìm hiểu các phương pháp chứng minh, ta hãy xem lại bảng chân trị của mệnh đề $$p$$ kéo theo $$q$$. Các trường hợp để cho mệnh đề $$p$$ kéo theo $$q$$ là đúng cũng chính là các phương pháp để chứng minh bài toán đúng.
 
 $$\begin{array} {|c|c|} \hline
 p &   q &    p\rightarrow q \\ \hline 
@@ -229,7 +229,7 @@ Vì mệnh đề $$p\rightarrow q \leftrightarrow \neg{q}\rightarrow \neg{p}$$. 
 
 Ví dụ, chứng minh rằng nếu $$3n+2$$ là số lẻ thì n là số lẻ.
 <br>
-Giả sử ngược lại kết luận của phép kéo theo là sai, tức n là chẵn. Ta có
+Giả sử kết luận của phép kéo theo là sai, tức n là chẵn. Ta có
 <br>
 $$\begin{matrix}
                  &n    &=& 2k &~(\forall k\in \mathbb{N})      \\ 
