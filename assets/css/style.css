@@ -52,7 +52,7 @@ layout: stylesheet
     src: url('/fonts/SVN-GeorgiaBoldItalic.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
-    font-display: swa19
+    font-display: swap;
 }
 
 
