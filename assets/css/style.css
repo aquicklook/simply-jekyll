@@ -254,7 +254,7 @@ p.drop-cap:first-letter {
     line-height: .83;
     text-transform: uppercase;
     margin-right: 12px;
-    padding-top: 7px;
+    padding-top: 3px;
     position: relative;
     float: left;
     display: block;
