@@ -686,6 +686,20 @@ hr {
     width: auto;
 }
 
+notes-page-subheader disable-select {
+    user-select: none; /* supported by Chrome and Opera */
+   -webkit-user-select: none; /* Safari */
+   -khtml-user-select: none; /* Konqueror HTML */
+   -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 28px;
+    width: auto;
+}
+
 .very-small {
     font-size: 12px !important;
 }
