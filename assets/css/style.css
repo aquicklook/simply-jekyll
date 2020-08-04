@@ -555,7 +555,7 @@ hr {
 }
 
 .userdesc {
-    margin-top: -13px;
+    margin-top: 0px;
 }
 
 .userdesc p {
@@ -700,7 +700,7 @@ hr {
 
 .title-sans {
     font-family: 'UntitledTTF', sans-serif !important;
-    line-height: 10px;
+    line-height: 15px;
     color: #292929 !important;
     margin-top: 0px;
     margin-bottom: 0px;
