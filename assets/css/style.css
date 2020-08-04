@@ -659,7 +659,7 @@ hr {
     margin-top: 20px;
     margin-right: 20px;
     margin-bottom: 20px;
-    width: 680px;
+    width: auto;
 }
 
 .very-small {
@@ -891,7 +891,7 @@ hr {
     border-top: 0px solid rgba(223,225,229,0);
     border-bottom: 0px solid #b3b3b3;
     margin: 20px;
-    width: 680px;
+    width: auto;
 }
 
 .feed-title-excerpt-block:hover {
