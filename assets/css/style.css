@@ -604,7 +604,7 @@ hr {
     font-size: 18px;
     padding-left: 0px;
     color: #292929;
-    display: block;
+    display: inline-block;
 }
 
 .notes-page-site-heading p {
@@ -614,7 +614,6 @@ hr {
 }
 
 .notes-page-main-heading {
-    margin-top: 0px;
     padding-left: 0px;
     font-family: 'UntitledTTF', sans-serif;
     height: 15px;
