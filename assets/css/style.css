@@ -527,7 +527,7 @@ hr {
     box-sizing: border-box;
     height: 48px;
     width: 48px;
-    display: block;
+    display: none;
 }
 
 .dashboard {
