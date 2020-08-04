@@ -654,6 +654,7 @@ hr {
 
 .notes-page-tagline {
     color: #4183c4;
+    font-family: 'UntitledTTF', sans-serif !important;
     font-size: 15px; 
     font-weight: 400;
     vertical-align: middle;
@@ -666,11 +667,11 @@ hr {
 
 .notes-page-tagline a {
     text-decoration: none;
-    font-family: 'UntitledTTF', sans-serif;
+    font-family: 'UntitledTTF', sans-serif !important;
 }
 
 .notes-page-tagline p {
-    font-family: 'UntitledTTF', sans-serif;
+    font-family: 'UntitledTTF', sans-serif !important;
 }
 
 /* Utilities: Disable Selection, Kramdown TOC */
