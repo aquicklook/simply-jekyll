@@ -610,6 +610,7 @@ hr {
 .notes-page-site-heading p {
     margin-bottom: 0px;
     margin-top: 0px;
+    display: inline-block;
 }
 
 .notes-page-main-heading {
@@ -644,6 +645,7 @@ hr {
     margin-bottom: 0px;
     margin-top: 0px;
     height: 15px;
+    display: inline-block;
 }
 
 .notes-page-tagline {
@@ -664,12 +666,12 @@ hr {
 
 .notes-page-tagline p {
     font-family: 'UntitledTTF', sans-serif !important;
+    display: inline-block;
 }
 
 .notes-page-subheader {
     border-bottom: 0px solid #E6ECF0;
     padding-bottom: 0px;
-    display: block;
 }
 
 
