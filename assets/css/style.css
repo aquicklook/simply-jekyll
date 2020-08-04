@@ -618,14 +618,17 @@ hr {
 }
 
 .notes-page-main-heading {
-    margin-top: -25px;
-    padding-left: 5px;
+    margin-top: 0px;
+    padding-left: 0px;
     font-family: 'UntitledTTF', sans-serif;
+    height: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 
 .notes-page-heading {
-    color: #333333;
+    color: #292929;
     font-size: 15px;
     line-height: 15px;
     font-weight: 400;
