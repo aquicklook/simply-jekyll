@@ -521,13 +521,13 @@ hr {
 }
 
 .avatar-img {
-    border: 2px solid #fff;
+    border: 0px solid #fff;
     color: #fff;
-    border-radius: 50%;
+    border-radius: 100%;
     box-sizing: border-box;
-    height: 48px;
-    width: 48px;
-    display: none;
+    height: 32px;
+    width: 32px;
+    display: block;
 }
 
 .dashboard {
