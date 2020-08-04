@@ -609,12 +609,12 @@ hr {
     font-size: 18px;
     padding-left: 0px;
     color: #292929;
-    height: 28px;
 }
 
 .notes-page-site-heading p {
     margin-bottom: 0px;
     margin-top: 0px;
+    height: 28px;
 }
 
 .notes-page-main-heading {
