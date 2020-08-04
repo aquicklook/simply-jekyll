@@ -1377,8 +1377,7 @@ label.srs-toggle {
 }
 
 #copyright {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 20px;
 }
 
 #copyright-notice {
@@ -1386,6 +1385,8 @@ label.srs-toggle {
     font-weight: 600;
     color: #b3b3b3;
     font-family: 'UntitledTTF', sans-serif !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 /* IE-SPECIFIC STYLING */
