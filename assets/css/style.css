@@ -654,15 +654,21 @@ hr {
 
 .notes-page-tagline {
     color: #4183c4;
-    margin-top: -25px; 
-    color: #888888;
     font-size: 15px; 
     font-weight: 400;
-    display: none;
+    vertical-align: middle;
+    display: inline-block;
+    padding-left: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
 }
 
 .notes-page-tagline a {
     text-decoration: none;
+    font-family: 'UntitledTTF' , sans-serif;
+}
+
+.notes-page-tagline p {
     font-family: 'UntitledTTF' , sans-serif;
 }
 
