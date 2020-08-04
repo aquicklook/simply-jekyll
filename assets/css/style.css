@@ -892,6 +892,7 @@ hr {
     border-bottom: 0px solid #b3b3b3;
     margin: 20px;
     width: auto;
+    margin: 0px;
 }
 
 .feed-title-excerpt-block:hover {
