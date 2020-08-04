@@ -4,7 +4,7 @@ tags: preliminaries
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
-![alt text](https://images.unsplash.com/photo-1529966464641-ccc3988e5e4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80 "Reading mathematics")
+![alt text](https://images.unsplash.com/photo-1550595717-33202c6bb56a?ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80 "Reading mathematics")
 
 <p class="drop-cap">
 Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
