@@ -307,34 +307,13 @@ span {
 
 
 
-/* make parent invisible */
-#parent {
-    visibility: hidden;
-    overflow: scroll;
-}
- 
-/* safari and chrome specific style, don't need to make parent invisible because we can style webkit scrollbars */
-#parent:not(*:root) {
-  visibility: visible;
-}
- 
-/* make safari and chrome scrollbar invisible */
-#parent::-webkit-scrollbar {
-  visibility: hidden;
-}
- 
-/* make the child visible */
-#child {
-    visibility: visible;
-}
-
- #element::-webkit-scrollbar { 
+#element::-webkit-scrollbar { 
      display: none; 
- }
+}
 
- #element {
+#element {
       -ms-overflow-style: none;
- }
+}
 
 
 
