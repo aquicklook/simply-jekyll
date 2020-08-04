@@ -166,7 +166,6 @@ body {
 header {
     display: flex;
     flex-direction: column;
-    margin: 20px;
 }
 
 main {
@@ -563,8 +562,8 @@ hr {
 }
 
 .link-to-notes {
-    padding-left: 20px;
-    margin-top: -14px;
+    padding-left: 0px;
+    margin-top: 0px;
     padding-bottom: 10px;
 }
 
