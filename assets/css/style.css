@@ -634,6 +634,8 @@ hr {
     font-weight: 400;
     padding-top: 0px;
     font-family: 'UntitledTTF', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .notes-page-heading a {
