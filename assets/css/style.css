@@ -307,17 +307,13 @@ span {
 
 
 
-  <style>
+::-webkit-scrollbar { 
+    display: none; 
+}
  
-  ::-webkit-scrollbar { 
-     display: none; 
-  }
- 
-  #element::-webkit-scrollbar { 
-     display: none; 
-  }
- 
-  </style>
+#element::-webkit-scrollbar { 
+    display: none; 
+}
 
 
 
