@@ -503,7 +503,7 @@ hr {
 
 .avatar {
     position: absolute;
-    top: 40px;
+    top: 20px;
     left: 10px;
 }
 
@@ -527,7 +527,7 @@ hr {
     box-sizing: border-box;
     height: 32px;
     width: 32px;
-    display: block;
+    display: none;
 }
 
 .dashboard {
