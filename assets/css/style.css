@@ -307,14 +307,17 @@ span {
 
 
 
-#element::-webkit-scrollbar { 
+  <style>
+ 
+  ::-webkit-scrollbar { 
      display: none; 
-}
-
-#element {
-      -ms-overflow-style: none;
-}
-
+  }
+ 
+  #element::-webkit-scrollbar { 
+     display: none; 
+  }
+ 
+  </style>
 
 
 
