@@ -604,13 +604,13 @@ hr {
     font-size: 18px;
     padding-left: 0px;
     color: #292929;
-    display: inline-block;
+    display: block;
 }
 
 .notes-page-site-heading p {
     margin-bottom: 0px;
     margin-top: 0px;
-    display: inline-block;
+    display: block;
 }
 
 .notes-page-main-heading {
