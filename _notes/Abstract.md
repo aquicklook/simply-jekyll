@@ -12,6 +12,9 @@ Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một s�
 
 Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc củng cố ngữ pháp thì phải thường xuyên trau dồi vốn từ vựng. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
+**Table of Contents**
+[[Negation::#negation]]
+
 ## Propositional and logical
 
 ___
@@ -30,6 +33,7 @@ Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathb
 
 Các phép tính mệnh đề được sử dụng nhằm mục đích kết nối các mệnh đề lại với nhau tạo ra một mệnh đề mới. Các phép tính mệnh đề bao gồm: phép phủ định, phép hội, phép tuyển, phép $$\mathrm{XOR}$$, phép kéo theo và phép tương đương.
 
+{:#negation}
 #### Negation
 
 Phủ định của mệnh đề $$p$$ là một mệnh đề, ký hiệu là $$\overline{p}$$ hay $$\neg{p}$$, đúng khi $$p$$ sai và sai khi $$p$$ đúng.
