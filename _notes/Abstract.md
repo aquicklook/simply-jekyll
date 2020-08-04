@@ -4,6 +4,20 @@ tags: preliminaries
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+  <li><a href="#">Propositional and logical</a>
+  <ul>
+    <li><a href="#First_Sub_Point_1">Propositional calculus</a></li>
+    <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
+  </ul>
+</li>
+<li><a href="#Second_Point_Header">Inference mathematics</a></li>
+<li><a href="#Third_Point_Header">3 Third Point Header</a></li>
+</ul>
+</div>
+
 <p class="drop-cap">
 Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
 </p>
