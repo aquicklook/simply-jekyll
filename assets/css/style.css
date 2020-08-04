@@ -593,9 +593,7 @@ hr {
 
 .main-site-subheader {
     border-bottom: 0px solid #E6ECF0;
-    padding-left: 15px;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 0px;
 }
 
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
@@ -865,7 +863,7 @@ hr {
     fill: currentColor;
     color: #111111;
     margin-top: 5px;
-    padding-left: 5px;
+    padding-left: 0px;
     fill: currentColor;
     cursor: pointer;
 }
