@@ -305,11 +305,8 @@ span {
 
 
 
-.container {
-  max-width: 400px;
-  max-height: 200px;
-  border: 1px solid gray;
 
+.container {
   overflow-y: scroll;
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;  /* IE 10+ */
