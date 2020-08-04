@@ -638,6 +638,7 @@ hr {
 
 .notes-page-heading a {
     text-decoration: none;
+    display: block;
 }
 
 .notes-page-heading p {
