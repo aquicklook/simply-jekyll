@@ -599,7 +599,6 @@ hr {
 
 .notes-page-subheader {
     border-bottom: 0px solid #E6ECF0;
-    padding-bottom: 28px;
 }
 
 .notes-page-site-heading a {
@@ -657,8 +656,6 @@ hr {
     font-family: 'UntitledTTF', sans-serif !important;
     font-size: 15px; 
     font-weight: 400;
-    vertical-align: middle;
-    display: inline-block;
     padding-left: 0px;
     margin-top: 0px;
     padding-bottom: 0px;
