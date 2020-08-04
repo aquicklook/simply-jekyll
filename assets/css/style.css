@@ -1652,8 +1652,9 @@ label.margin-toggle:not(.sidenote-number) {
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
     line-height: 22px;
-    letter-spacing: -.42px!important
-
+    letter-spacing: -.42px!important;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 }
 
