@@ -160,7 +160,7 @@ body {
   -ms-overflow-style: none;  /* IE 10+ */
 }
 .container::-webkit-scrollbar { /* WebKit */
-  width: 5px;
+  width: 100px;
 }
 
 
