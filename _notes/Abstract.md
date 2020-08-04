@@ -9,12 +9,11 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 <ul class="toc_list">
   <li><a href="#">Propositional and logical</a>
   <ul>
-    <li><a href="#First_Sub_Point_1">Propositional calculus</a></li>
+    <li><a href="#h2">Propositional calculus</a></li>
     <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
   </ul>
 </li>
-<li><a href="#Second_Point_Header">Inference mathematics</a></li>
-<li><a href="#Third_Point_Header">3 Third Point Header</a></li>
+<li><a href="#h2">Inference mathematics</a></li>
 </ul>
 </div>
 
