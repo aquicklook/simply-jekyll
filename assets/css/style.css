@@ -599,7 +599,7 @@ hr {
 
 .notes-page-subheader {
     border-bottom: 0px solid #E6ECF0;
-    height: 71px;
+    padding-bottom: 28px;
 }
 
 .notes-page-site-heading a {
@@ -686,18 +686,6 @@ hr {
     margin-bottom: 20px;
     width: auto;
 }
-
-
-<div class="notes-page-subheader disable-select" id="scroll-head" onclick="window.location.assign('/');" style="
-    border-bottom-width: 0px;
-    padding-bottom: 0px;
-    height: auto;
-</div>
-
-
-
-
-
 
 .very-small {
     font-size: 12px !important;
