@@ -640,6 +640,12 @@ hr {
     text-decoration: none;
 }
 
+.notes-page-heading  p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    height: 15px;
+}
+
 .notes-page-tagline {
     color: #888888;
     margin-top: -25px; 
