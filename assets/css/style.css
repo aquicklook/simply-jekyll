@@ -702,6 +702,8 @@ hr {
     font-family: 'UntitledTTF', sans-serif !important;
     line-height: 10px;
     color: #292929 !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .regular-sans {
