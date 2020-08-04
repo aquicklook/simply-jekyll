@@ -653,17 +653,17 @@ hr {
 }
 
 .notes-page-tagline {
-    color: #888888;
+    color: #4183c4;
     margin-top: -25px; 
     color: #888888;
-    font-size: 0px; 
+    font-size: 15px; 
     font-weight: 400;
     display: none;
 }
 
 .notes-page-tagline a {
     text-decoration: none;
-    font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family: 'UntitledTTF' , sans-serif;
 }
 
 /* Utilities: Disable Selection, Kramdown TOC */
