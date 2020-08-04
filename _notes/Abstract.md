@@ -12,7 +12,8 @@ Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một s�
 
 Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc củng cố ngữ pháp thì phải thường xuyên trau dồi vốn từ vựng. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
-**Table of Contents**
+## Table of contents##
+
 [[Negation::#negation]]
 
 ## Propositional and logical
