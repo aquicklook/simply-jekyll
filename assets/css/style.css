@@ -609,6 +609,7 @@ hr {
     font-size: 18px;
     padding-left: 0px;
     color: #292929;
+    display: block;
 }
 
 .notes-page-site-heading p {
