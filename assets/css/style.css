@@ -924,8 +924,6 @@ hr {
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
     line-height: 28px;
-    margin-top: 0px;
-    margin-bottom: 0px;
     letter-spacing: -.42px!important
 }
 
@@ -1633,8 +1631,6 @@ label.margin-toggle:not(.sidenote-number) {
 .feed-excerpt{
     color: rgba(0, 0, 0, 0.54);
     margin-top: 2px !important;
-    margin-left: 20px !important;
-    margin-right: 30px;
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 400;
     font-size: 16px;
@@ -1652,14 +1648,10 @@ label.margin-toggle:not(.sidenote-number) {
 }
     .feed-title {
     color: rgba(0, 0, 0, 0.84);
-    margin-left: 20px;
-    margin-right: 50px;
     font-size: 20px;
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
     line-height: 22px;
-    margin-top: 0px;
-    margin-bottom: 0px;
     letter-spacing: -.42px!important
 
 }
