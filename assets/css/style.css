@@ -328,7 +328,13 @@ span {
     visibility: visible;
 }
 
+ #element::-webkit-scrollbar { 
+     display: none; 
+ }
 
+ #element {
+      -ms-overflow-style: none;
+ }
 
 
 
