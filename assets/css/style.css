@@ -305,15 +305,20 @@ span {
 
 
 
+.container {
+  max-width: 400px;
+  max-height: 200px;
+  border: 1px solid gray;
+
+  overflow-y: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+}
+.container::-webkit-scrollbar { /* WebKit */
+  width: 0px;
+}
 
 
-::-webkit-scrollbar { 
-    display: none; 
-}
- 
-#element::-webkit-scrollbar { 
-    display: none; 
-}
 
 
 
