@@ -608,9 +608,10 @@ hr {
     font-weight: 600;
     font-size: 18px;
     padding-left: 0px;
-    color: #333333;
-    margin-top: 0px;
+    color: #292929;
+    font-height: 28px;
     margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 .notes-page-main-heading {
@@ -639,6 +640,7 @@ hr {
     color: #888888;
     font-size: 0px; 
     font-weight: 400;
+    display: none;
 }
 
 .notes-page-tagline a {
