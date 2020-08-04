@@ -7,7 +7,7 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
-  <li><h2 id="h2#propositional-and-logical">Propositional and logical</h2>
+  <li><a id="h2#propositional-and-logical">Propositional and logical</a>
   <ul>
     <li><a id="###Propositional calculus">Propositional calculus</a></li>
   </ul>
