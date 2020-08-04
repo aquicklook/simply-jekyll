@@ -892,7 +892,6 @@ hr {
     border-bottom: 0px solid #b3b3b3;
     margin: 20px;
     width: auto;
-    margin: 0px;
 }
 
 .feed-title-excerpt-block:hover {
@@ -925,7 +924,8 @@ hr {
     font-family:  'UntitledTTF', sans-serif !important;
     font-weight: 600;
     line-height: 28px;
-    letter-spacing: -.42px!important
+    letter-spacing: -.42px!important;
+    margin: 0px;
 }
 
 .feed-title:hover {
@@ -939,7 +939,6 @@ hr {
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    
      display: -webkit-box;
      max-width: 100%;
      margin: 0 auto;
