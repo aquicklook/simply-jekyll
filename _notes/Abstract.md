@@ -276,15 +276,15 @@ Tổng quát, cho $$A_1, \cdots , A_n$$ là $$n$$ tập hợp khác trống. Gi�
 
 ### Constants
 
-Hằng là một giá trị xác định trong không gian của vị từ. Hằng được ký hiệu bởi các chữ thường dùng để đặt tên các đối tượng đặc biệt hay thuộc tính.
+Hằng là một giá trị xác định trong không gian của vị từ. Hằng được ký hiệu bởi các chữ thường và được dùng để đặt tên các đối tượng đặc biệt hay thuộc tính.
 
 ### Variable
 
-Dùng để thể hiện các lớp tổng quát của các đối tượng hay các thuộc tính. Biến được viết bằng các ký hiệu bắt đầu là chữ in hoa.
+Biến dùng để thể hiện các lớp tổng quát của các đối tượng hay các thuộc tính. Biến được ký hiệu bởi các chữ hoa.
 
 ### Function
 
-Được thể hiện bằng ký hiệu, cho biết quan hệ hàm số.
+Hàm dùng để thể hiện mối quan hệ giữa biến và hằng.
 
 ## Tips reading mathematics
 ___
