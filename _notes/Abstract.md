@@ -20,9 +20,9 @@ Mọi người thường đọc một văn bản một cách liền mạch từ 
 
 Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành phần lớn thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
 
-### Focus
+### Why do problem exists?
 
-Hầu hết mọi người thường được tiếp xúc với toán từ rất sớm, tuy nhiên không phải ai cũng thích chúng. Có một thực tế mà tôi nhận thấy là mặc dù bạn đạt điểm cao trong kỳ thi tuyển sinh đại học hoặc trải qua những ngày tháng học các môn cơ sở ngành thì toán vẫn là một gánh nặng, đó là chưa kể đến việc nếu bạn là người ham tìm hiểu và mong muốn đọc các tài liệu toán bằng một ngôn ngữ khác. Câu hỏi đặt ra là: <span style="color:red">Why do problem exists?</span>. 
+Hầu hết mọi người thường được tiếp xúc với toán từ rất sớm, tuy nhiên không phải ai cũng thích chúng. Có một thực tế mà tôi nhận thấy là mặc dù bạn đạt điểm cao trong kỳ thi tuyển sinh đại học hoặc trải qua những ngày tháng học các môn cơ sở ngành thì toán vẫn là một gánh nặng, đó là chưa kể đến việc nếu bạn là người ham tìm hiểu và mong muốn đọc các tài liệu toán bằng một ngôn ngữ khác.
 
 Điều này thực sự là một vấn đề nan giải của toàn nhân loại chứ không còn là vấn đề của riêng bạn, đúng hơn nó là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân khiến vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên.
 
