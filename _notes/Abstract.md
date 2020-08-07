@@ -18,7 +18,11 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 
 ___
 
-Đọc toán khác với cách đọc thông thường. 
+Cách đọc thông thường của chúng ta là đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Nó khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. Cách đọc toán lại hoàn toàn khác bởi vì có một ngôn ngữ được tạo ra để dành riêng cho nó nên đôi lúc bạn sẽ không thể hiểu hết phần trước nếu như không đọc hết phần sau và các ví dụ hoặc hình ảnh trực quan sẽ giúp bạn hiểu rõ hơn là cố gắng nghiền ngẫm vào câu từ. Sau đây là một số hướng dẫn về việc đọc toán mà tôi cho rằng nó rất hữu ích cho mọi người.
+
+### Focus on concepts, not exercises
+
+Tập trung vào các khái niệm chứ không phải bài tập là một điều kiện tiên quyết giúp đọc toán hiệu quả. Bởi vì có vô số dạng toán nên không có cách nào để học hết mọi kỹ thuật để giải bài toán đơn lẻ. Một khi bạn hiểu rõ các khái niệm, lúc bạn gặp một bài toán mới, bạn có thể biến đổi nó để có thể đưa bài toán trở về dạng cơ bản của khái niệm. 
 
 ## Propositional and logical
 
