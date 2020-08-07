@@ -14,6 +14,11 @@ Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một s�
 
 Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc củng cố ngữ pháp thì phải thường xuyên trau dồi vốn từ vựng. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
+## Tips reading mathematics
+
+___
+
+
 ## Propositional and logical
 
 ___
@@ -285,14 +290,3 @@ Biến dùng để thể hiện các lớp tổng quát của các đối tượ
 ### Function
 
 Hàm dùng để thể hiện mối quan hệ giữa biến và hằng.
-
-## Tips reading mathematics
-___
-
-Chúng ta đã quen với việc đọc một văn bản văn học thuần túy theo chiều từ trái sang phải. Tuy nhiên, cách đọc của toán không hoàn toàn như vậy, một vài trường hợp đòi hỏi chúng ta cần phải đọc 2 chiều, thậm chí là 3 chiều. Ví dụ
-
-$$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$
-
-Lúc đầu, chúng ta có thể đọc biểu thức này thành một biểu thức tuyến tính như sau:
-
-$$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+a_{i,2}b_{2,j}+ \cdots +a_{i,n}b_{n,j}$$
