@@ -24,11 +24,13 @@ Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không h
 
 Hầu hết mọi người thường được tiếp xúc với toán từ rất sớm, tuy nhiên không phải ai cũng thích chúng. Có một thực tế mà tôi nhận thấy là mặc dù bạn đạt điểm cao trong kỳ thi tuyển sinh đại học hoặc trải qua những năm tháng học các môn cơ sở ngành thì toán vẫn là một gánh nặng, đó là chưa kể đến việc nếu bạn là người ham tìm hiểu và mong muốn đọc các tài liệu toán bằng một ngôn ngữ khác. Câu hỏi đặt ra là: **"Why do problem exists?"**. 
 
-Có bao giờ bạn tự hỏi bản thân là bạn học toán không hề tệ, các kiến thức mà bạn đã trải nghiệm qua bạn đều làm tốt, thế nhưng khi gặp một bài toán mới nó lại khiến bạn phải thốt lên: *"Oh my god!"*, dần dà nó sẽ khiến bạn nhụt chí và có cảm nhận rằng bạn với chúng không phải là một cặp.
+Có bao giờ bạn tự hỏi là bạn học toán không hề tệ, các kiến thức mà bạn đã trải nghiệm qua bạn đều làm tốt, thế nhưng khi gặp một bài toán mới nó lại khiến bạn phải thốt lên: *"Oh my god!"*, dần dà nó sẽ khiến bạn nhụt chí và có cảm nhận rằng bạn với chúng không phải là một cặp.
 
 Điều này thực sự là một vấn đề nan giải của toàn nhân loại chứ không còn là vấn đề của riêng bạn, đúng hơn nó là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Có một vài lý do mà tôi cho rằng nó là nguyên nhân khiến cho vấn đề này luôn tồn tại bên cạnh lý do chính kể trên. 
 
-**Thứ nhất, bạn chưa được trang bị các ký hiệu và quy tắc sử dụng chúng.** 
+**The first:** bạn chưa được trang bị các ký hiệu và quy tắc sử dụng chúng. Để có thể đọc được các ký hiệu, một cách chính quy nhất là bạn nên tìm hiểu về một khóa học ngắn hạn về **ngôn ngữ Hy-la**. Nếu không có thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang là [The On-Line Encyclopedia of Integer Sequences®](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [RapidTables®](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Về mặt nội dung nó tạm được cho là đầy đủ, về mặt lợi ích, nó lại là một công cụ hữu ích giúp bạn dần lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của mình.
+
+
 
 
 
