@@ -4,8 +4,6 @@ tags: preliminaries
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
-![alt text](https://images.unsplash.com/photo-1550595717-33202c6bb56a?ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80 "Reading mathematics")
-
 <p class="drop-cap">
 Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
 </p>
@@ -18,9 +16,16 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 
 ___
 
-Mọi người thường đọc một văn bản một cách liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành phần lớn thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó rất hữu ích với mọi người.
+Mọi người thường đọc một văn bản một cách liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
 
-### Focus on concepts, not exercises
+Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành phần lớn thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó rất hữu ích với mọi người.
+
+### Focus
+
+Hầu hết mọi người thường được tiếp xúc với toán từ rất sớm, tuy nhiên không phải ai cũng thích chúng. Có một thực tế mà tôi nhận thấy là mặc dù bạn đạt điểm cao trong kỳ thi tuyển sinh đại học hoặc trải qua những năm tháng học các môn cơ sở ngành thì toán vẫn là một gánh nặng, đó là chưa kể nếu bạn là người ham tìm hiểu và muốn đọc các tài liệu toán bằng một ngôn ngữ khác thì bạn cũng sẽ vô cùng mệt mỏi khi bơi trong biển kiến thức mênh mông của nó. Câu hỏi đặt ra là: **"Tại sao vấn đề như vậy lại tồn tại?"**. Có bao giờ bạn tự hỏi bản thân là bạn học toán không hề tệ, các kiến thức mà bạn đã trải nghiệm qua bạn đều làm tốt, thế nhưng khi đọc một bài toán mới nó lại khiến bạn phải thốt lên: **"Oh my god!"** và đôi lúc nó khiến bạn nhụt chí và có cảm nhận rằng bạn với chúng không phải là một cặp. 
+
+
+
 
 Tập trung vào các khái niệm chứ không phải bài tập là một điều kiện tiên quyết giúp đọc toán hiệu quả. Bởi vì có vô số dạng toán nên không có cách nào để học hết mọi kỹ thuật để giải bài toán đơn lẻ. Một khi bạn hiểu rõ các khái niệm, lúc bạn gặp một bài toán mới, bạn có thể biến đổi nó để có thể đưa bài toán trở về dạng cơ bản của khái niệm. 
 
