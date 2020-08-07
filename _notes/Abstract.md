@@ -20,7 +20,7 @@ ___
 
 Cách đọc thông thường của chúng ta là đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
 
-Cách đọc toán lại hoàn toàn khác, đôi lúc bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, thỉnh thoảng dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng tham khảo các ví dụ hoặc hình ảnh và đương nhiên bạn sẽ phải đọc với số chiều nhiều hơn cách đọc thông thường. Sau đây là một số hướng dẫn về việc đọc toán mà tôi cho rằng nó rất hữu ích cho mọi người.
+Cách đọc toán lại hoàn toàn khác, đôi lúc bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, thỉnh thoảng dành nhiều thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng tham khảo qua các ví dụ hoặc hình ảnh và đương nhiên bạn sẽ phải đọc với số chiều nhiều hơn cách đọc thông thường. Sau đây là một số hướng dẫn về việc đọc toán mà tôi cho rằng nó rất hữu ích cho mọi người.
 
 ### Focus on concepts, not exercises
 
