@@ -18,6 +18,7 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 
 ___
 
+Đọc toán khác với cách đọc thông thường. 
 
 ## Propositional and logical
 
