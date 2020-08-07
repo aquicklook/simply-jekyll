@@ -26,7 +26,7 @@ Hầu hết mọi người thường được tiếp xúc với toán từ rất
 
 Điều này thực sự là một vấn đề nan giải của toàn nhân loại chứ không còn là vấn đề của riêng bạn, đúng hơn nó là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Có một vài lý do mà tôi cho rằng nó là nguyên nhân khiến cho vấn đề này luôn tồn tại bên cạnh lý do chính kể trên. 
 
-**The first:** bạn chưa được trang bị các ký hiệu và quy tắc sử dụng chúng. Một khóa học ngắn về **ngôn ngữ Hy-la** sẽ giúp bạn có thể đọc các ký hiệu một cách chính quy. Nếu không có thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang là [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [RapidTables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Về mặt nội dung nó tạm được cho là đầy đủ, về mặt tiện lợi nó là một công cụ hữu ích giúp bạn dần lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của mình một cách nhanh nhất.
+**The first:** bạn chưa được trang bị các ký hiệu và quy tắc sử dụng chúng. Một khóa học ngắn về **ngôn ngữ Hy-la** sẽ giúp bạn có thể đọc các ký hiệu một cách chính quy. Nếu không có thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang là [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [Rapid Tables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Về mặt nội dung nó tạm được cho là đầy đủ, về mặt tiện lợi nó là một công cụ hữu ích giúp bạn dần lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của mình một cách nhanh nhất.
 
 
 
