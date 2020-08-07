@@ -164,7 +164,7 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 ### The methods of proof
 
 Mỗi bài toán cần chứng minh thông thường đều có hai phần chính là giả thiết và kết luận. Việc chỉ ra được cái nào là giả thiết, cái nào là
-kết luận sẽ giúp cho việc chứng minh dễ dàng hơn thông qua việc sử dụng phương pháp chứng minh thích hợp. Do đó, các phương pháp chứng minh trong dạng bài toán này có liên quan đến mệnh đề kéo theo.
+kết luận sẽ giúp cho việc chứng minh dễ dàng hơn thông qua việc sử dụng phương pháp chứng minh thích hợp.
 
 Trước khi tìm hiểu các phương pháp chứng minh, ta hãy xem lại bảng chân trị của mệnh đề $$p$$ kéo theo $$q$$. Các trường hợp để cho mệnh đề $$p$$ kéo theo $$q$$ là đúng cũng chính là các phương pháp để chứng minh bài toán đúng.
 
