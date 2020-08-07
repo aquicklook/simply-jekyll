@@ -18,7 +18,9 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 
 ___
 
-Cách đọc thông thường của chúng ta là đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. Cách đọc toán lại hoàn toàn khác bởi vì có một ngôn ngữ được tạo ra để dành riêng cho nó nên đôi lúc bạn sẽ không thể hiểu hết phần trước nếu như không đọc hết phần sau và các ví dụ hoặc hình ảnh trực quan sẽ giúp bạn hiểu rõ hơn là cố gắng nghiền ngẫm vào câu từ. Sau đây là một số hướng dẫn về việc đọc toán mà tôi cho rằng nó rất hữu ích cho mọi người.
+Cách đọc thông thường của chúng ta là đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
+
+Cách đọc toán lại hoàn toàn khác, đôi lúc bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, thỉnh thoảng dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng tham khảo các ví dụ hoặc hình ảnh và đương nhiên bạn sẽ phải đọc với số chiều nhiều hơn cách đọc thông thường. Sau đây là một số hướng dẫn về việc đọc toán mà tôi cho rằng nó rất hữu ích cho mọi người.
 
 ### Focus on concepts, not exercises
 
