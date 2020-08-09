@@ -34,13 +34,13 @@ Cách tiếp cận chính quy để đọc được các ký hiệu và thuật 
 
 Để viết được toán, bạn có thể sử dụng giấy và bút chì..., hoặc tất cả những công cụ nào có thể dùng để diễn giải lại sự hiểu biết của bạn về một công thức toán học mà bạn gặp phải. Để thuận tiện, bạn có thể sử dụng [MathJax](https://mathjax.github.io/MathJax-demos-web/input-tex2chtml.html) hoặc [Overleaf](https://www.overleaf.com/) để viết toán bằng cú pháp `LaTeX` trong quá trình tìm hiểu. Lý do mà tôi đề xuất các công cụ này là vì nó giúp bạn hiểu rõ kết cấu cơ bản của công thức mà bạn đang tìm hiểu và dễ dàng trong quá trình ghi chép. Trong quá trình viết, nếu chưa hiểu một phần của công thức, bạn hãy viết lại chúng bằng một biểu thức tuyến tính và từng bước lắp ráp các chi tiết vào để hoàn chỉnh. Ví dụ: 
 
-Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề: Hiểu được ý tưởng của các nhà toán học khác. Để có thể giao tiếp lại với họ, bạn cần trang bị cho bản thân một số kiến thức của [Abstract Algebra](http://www.math.niu.edu/~beachy/aaol/contents.html) bao gồm: Propositional and logical, Sets, Mapping, Algebraic structure, Functions, Integers number, Real number... mà phần sau sẽ đề cập đến.
+Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề: Hiểu được ý tưởng của các nhà toán học khác. Để có thể giao tiếp lại với họ, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](http://www.math.niu.edu/~beachy/aaol/contents.html) bao gồm: Propositional and logical, Sets, Mapping, Algebraic structure, Functions, Integers number, Real number... mà phần sau sẽ đề cập đến.
 
 ## Propositional and logical
 
 ___
 
-Mệnh đề hay mệnh đề logic là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
+Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
 
 Giá trị đúng, sai của một mệnh đề được gọi là chân trị của mệnh đề. Chân trị của mệnh đề đúng ký hiệu là $$T$$ $$(\mathbf{true})$$, chân trị của mệnh đề sai ký hiệu là $$F$$ $$(\mathbf{false})$$. Bảng chân trị của mệnh đề là bảng tổng kết các trường hợp đúng sai có thể xảy ra của mệnh đề. Sự xác định chân trị thường dựa vào thực nghiệm và lý luận bằng cách kết hợp các mệnh đề mà ta đã biết chân trị lại với nhau để tạo ra một mệnh đề mới. 
 
