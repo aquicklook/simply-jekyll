@@ -28,7 +28,7 @@ Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhi
 
 #### Language of mathematics
 
-Các nhà toán học sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng toán học với nhau. Ngôn ngữ này bao gồm một nền tảng từ một số ngôn ngữ tự nhiên (e.g., English, Latin, Greek, Roman), sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm. Do đó, để học tốt được toán trước hết bạn cần phải tìm hiểu về ngôn ngữ của nó trước đã
+Các nhà toán học sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng toán học với nhau. Ngôn ngữ này bao gồm một nền tảng từ một số ngôn ngữ tự nhiên [[e.g., English, Latin, Greek, Roman...::srs]], sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm. Do đó, để học tốt được toán trước hết bạn cần phải tìm hiểu về ngôn ngữ của nó. 
 
 Cách tiếp cận chính quy để đọc được các ký hiệu và thuật ngữ toán học là bạn nên tham gia một khóa học về ngôn ngữ [[Greek—Latin::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [oeis.org](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [rapidtables.com](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ. Hơn nữa, nó còn là một công cụ hữu ích giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn khi xét về mặt tiện lợi.
 
