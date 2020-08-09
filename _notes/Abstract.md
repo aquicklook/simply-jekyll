@@ -26,16 +26,9 @@ Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhi
 
 Điều này là một vấn đề nan giải của toàn nhân loại, đúng hơn nó là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục chúng.
 
-#### Language mathematic
+#### Language of mathematics
 
-   - Ký hiệu và quy tắc sử dụng chúng. Cách tiếp cận chính quy để đọc được các ký hiệu toán học là bạn nên tham gia một khóa học ngắn về [[Ngôn ngữ Hy-la::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [Rapid Tables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ. Hơn nữa, nó còn là một công cụ hữu ích giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn khi xét về mặt tiện lợi.
-
-
-
-
-
-
-Tập trung vào các khái niệm chứ không phải bài tập là một điều kiện tiên quyết giúp đọc toán hiệu quả. Bởi vì có vô số dạng toán nên không có cách nào để học hết mọi kỹ thuật để giải bài toán đơn lẻ. Một khi bạn hiểu rõ các khái niệm, lúc bạn gặp một bài toán mới, bạn có thể biến đổi nó để có thể đưa bài toán trở về dạng cơ bản của khái niệm. 
+Các nhà toán học sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau. Ngôn ngữ này bao gồm: nền tảng của một số ngôn ngữ tự nhiên (e.g., English, Latin, Greek, Roman), sử dụng các thuật ngữ kỹ thuật, ký hiệu và quy ước ngữ pháp đặc biệt đi kèm. Cách đọc và viết chúng cũng khác so với cách đọc viết thông thường. Cách tiếp cận chính quy để đọc được các ký hiệu và thuật ngữ toán học là bạn nên tham gia một khóa học về [[Greek—Latin language::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [Rapid Tables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ. Hơn nữa, nó còn là một công cụ hữu ích giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn khi xét về mặt tiện lợi.
 
 ## Propositional and logical
 
