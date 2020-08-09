@@ -26,7 +26,7 @@ Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhi
 
 Điều này là một vấn đề nan giải của toàn nhân loại, đúng hơn nó là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục chúng.
 
-...* Ký hiệu và quy tắc sử dụng chúng
+...Ký hiệu và quy tắc sử dụng chúng
 
 Cách tiếp cận chính quy để đọc được các ký hiệu toán học là bạn nên tham gia một khóa học ngắn về [[Ngôn ngữ Hy-la::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [Rapid Tables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ. Hơn nữa, nó còn là một công cụ hữu ích giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn khi xét về mặt tiện lợi.
 
