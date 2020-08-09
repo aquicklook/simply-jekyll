@@ -28,7 +28,7 @@ Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhi
 
 1. Ký hiệu và quy tắc sử dụng chúng
 
-   1. Cách tiếp cận chính quy để đọc được các ký hiệu toán học là bạn nên tham gia một khóa học ngắn về [[Ngôn ngữ Hy-la::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [Rapid Tables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ. Hơn nữa, nó còn là một công cụ hữu ích giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn khi xét về mặt tiện lợi.
+   - Cách tiếp cận chính quy để đọc được các ký hiệu toán học là bạn nên tham gia một khóa học ngắn về [[Ngôn ngữ Hy-la::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [Rapid Tables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ. Hơn nữa, nó còn là một công cụ hữu ích giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn khi xét về mặt tiện lợi.
 
 
 
