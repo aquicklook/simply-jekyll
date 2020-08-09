@@ -22,7 +22,7 @@ Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không h
 
 ### Why do problem exists?
 
-Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích chúng. Bởi vì, dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một gánh nặng, đó là chưa kể đến việc bạn muốn tìm hiểu toán bằng một ngôn ngữ khác.
+Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích chúng. Bởi vì, dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó nhằn, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.
 
 Điều này là một vấn đề nan giải của toàn nhân loại, đúng hơn nó là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục chúng.
 
