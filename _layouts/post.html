@@ -63,14 +63,13 @@ MathJax.Hub.Config({
         inlineMath: [["$", "$"], ["\\(", "\\)"]],
         processEscapes: true
     }
-});
-
-MathJax.Hub.Config({
-  "HTML-CSS": {
+    "HTML-CSS": {
     preferredFont: "STIX"
   }
 });
-    
+
+MathJax.Hub.Config: ["MMLorHTML.js"],
+    jax: ["input/TeX"]
 </script>
 
     
