@@ -62,33 +62,12 @@
     
     
     
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-chtml.js"></script>
-    MathJax.Hub.Config({
-    tex2jax: {
-        inlineMath: [["$", "$"], ["\\(", "\\)"]],
-        processEscapes: true
-    }
-});
   <script>
-    function convert() {
-      //
-      //  Get the MathML input string, and clear any previous output
-      //
-      var input = document.getElementById("input").value.trim();
-      output = document.getElementById('output');
-      output.innerHTML = '';
-      //
-      //  Convert the MathMl to an HTML node and append it to the output
-      //
-      output.appendChild(MathJax.mathml2chtml(input));
-      //
-      //  Then update the document to include the adjusted CSS for the
-      //    content of the new equation.
-      //
-      MathJax.startup.document.clear();
-      MathJax.startup.document.updateDocument();
-    }
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
   </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
         
     
     
