@@ -300,7 +300,7 @@ span {
     display: block!important;
     text-indent: 0;
     width: auto!important; 
-    max-width: 680px;
+    max-width: auto;
     height: auto;
 }
 
