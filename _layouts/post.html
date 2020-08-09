@@ -65,8 +65,11 @@ MathJax.Hub.Config({
     }
 });
 
-config: ["MMLorHTML.js"],
-jax: ["output/HTML-CSS"]
+MathJax.Hub.Config({
+  "HTML-CSS": {
+    preferredFont: "STIX"
+  }
+});
     
 </script>
 
