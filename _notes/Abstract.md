@@ -14,8 +14,6 @@ Phương pháp để thành thạo ngôn ngữ thứ hai là bên cạnh việc 
 
 ## Tips reading mathematics
 
-___
-
 Mọi người thường đọc một văn bản một cách liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
 
 Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành phần lớn thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
@@ -37,8 +35,6 @@ Cách tiếp cận chính quy để đọc được các ký hiệu và thuật 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề: Hiểu được ý tưởng của các nhà toán học khác. Để có thể giao tiếp lại với họ, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](http://www.math.niu.edu/~beachy/aaol/contents.html) bao gồm: Propositional and logical, Sets, Mapping, Algebraic structure, Functions, Integers number, Real number... mà phần sau sẽ đề cập đến.
 
 ## Propositional and logical
-
-___
 
 Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
 
@@ -287,8 +283,6 @@ Ví dụ, chứng minh $$P(n)=n(n+1)(n+2), n \in \mathbb{Z}^{+}$$ luôn chia h�
 <br> $$P(k+1)=k(k+1)(k+2)+3(k+1)(k+2)$$ chia hết cho 6 vì $$k(k+1)(k+2)$$ và $$3(k+1)(k+2)$$ đều chia hết cho 6, $$\Rightarrow P(n) = \mathbf{true}, \forall n\in \mathbb{Z}^{+}$$.
 
 ## Predicates and quantifiers
-
-___
 
 Logic mệnh đề có những hạn chế trong việc biểu diễn và suy diễn. Bởi vì tính đúng đắn của suy luận vừa nêu không chỉ dựa trên phụ thuộc hàm giữa các giá trị chân lý của các mệnh đề thành phần trong suy luận, mà còn dựa trên cấu trúc bên trong của các mệnh đề đó. Logic vị từ là trường hợp mở rộng của logic mệnh đề nghiên cứu những suy luận như vậy.
 
