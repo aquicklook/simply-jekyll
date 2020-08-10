@@ -141,7 +141,7 @@ layout: stylesheet
 }
 
 @font-face {
-    font-family: 'UntitledTTF';
+    font-family: 'Feed';
     src: url('/fonts/UntitledTTF.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -149,7 +149,7 @@ layout: stylesheet
 }
 
 @font-face {
-    font-family: 'UntitledTTF';
+    font-family: 'Feed';
     src: url('/fonts/UntitledTTF1.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
@@ -551,7 +551,7 @@ hr {
 
 .site-heading h4 {
     color: #111111;
-    font-family:  'UntitledTTF', sans-serif;
+    font-family:  'Feed', sans-serif;
     font-stretch: ultra-condensed;
     float: right;
     margin-bottom: 10px;
@@ -631,7 +631,7 @@ hr {
 .link-to-notes a {
     color: #4183c4;
     text-decoration: none;
-    font-family: 'UntitledTTF', sans-serif;
+    font-family: 'Feed', sans-serif;
     font-size: 15px;
     margin-left: 0px;
 }
@@ -661,7 +661,7 @@ hr {
 
 .notes-page-site-heading a {
     text-decoration: none;
-    font-family:  'UntitledTTF', sans-serif;
+    font-family:  'Feed', sans-serif;
     font-weight: 600;
     font-size: 18px;
     padding-left: 0px;
@@ -677,7 +677,7 @@ hr {
 
 .notes-page-main-heading {
     padding-left: 0px;
-    font-family: 'UntitledTTF', sans-serif;
+    font-family: 'Feed', sans-serif;
     height: 43px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -689,7 +689,7 @@ hr {
     line-height: 15px;
     font-weight: 400;
     padding-top: 0px;
-    font-family: 'UntitledTTF', sans-serif;
+    font-family: 'Feed', sans-serif;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -711,7 +711,7 @@ hr {
 
 .notes-page-tagline {
     color: #4183c4;
-    font-family: 'UntitledTTF', sans-serif !important;
+    font-family: 'Feed', sans-serif !important;
     font-size: 15px; 
     font-weight: 400;
     padding-left: 0px;
@@ -722,11 +722,11 @@ hr {
 
 .notes-page-tagline a {
     text-decoration: none;
-    font-family: 'UntitledTTF', sans-serif !important;
+    font-family: 'Feed', sans-serif !important;
 }
 
 .notes-page-tagline p {
-    font-family: 'UntitledTTF', sans-serif !important;
+    font-family: 'Feed', sans-serif !important;
     display: inline-block;
 }
 
@@ -788,7 +788,7 @@ hr {
 }
 
 .title-sans {
-    font-family: 'UntitledTTF', sans-serif !important;
+    font-family: 'Feed', sans-serif !important;
     line-height: 15px;
     color: #292929 !important;
     margin-top: 0px;
