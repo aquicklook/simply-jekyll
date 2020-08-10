@@ -67,6 +67,15 @@ layout: stylesheet
 }
 
 @font-face {
+    font-family: '.';
+    src: url('/fonts/b7ed4db933323b43fdbd81a9cf925fc1.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
     font-family: 'SVN-Georgia';
     src: url('/fonts/SVN-GeorgiaItalic.woff2') format('woff2');
     font-weight: normal;
@@ -293,7 +302,7 @@ b, strong {
 
 
 p.drop-cap:first-letter {
-    font-family: 'Lora';
+    font-family: '.';
     font-size:  61px;
     font-style: normal;
     line-height: .83;
