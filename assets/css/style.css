@@ -242,7 +242,7 @@ h1 {
 
 h2, h3, h4 {
     color: #111111;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', serif;
     font-weight: 600;
     margin-bottom: 0px;
     letter-spacing: -0.022em;
@@ -250,7 +250,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #333333;
-    font-family:  'Standard Text WEB', 'Lora', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
@@ -285,7 +285,7 @@ b, strong {
 
 
 p.drop-cap:first-letter {
-    font-family: 'Lora';
+    font-family: 'Standard Text WEB';
     font-size:  61px;
     font-style: normal;
     line-height: .83;
