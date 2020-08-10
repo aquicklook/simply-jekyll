@@ -144,8 +144,6 @@ Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng
 
 ##  Inference mathematics
 
-___
-
 Suy luận toán học dựa trên nền tảng của các phép toán mệnh đề, chủ yếu là phép kéo theo. Để chứng minh một vấn đề nào đó, thông thường ta phải xác định giả thiết và kết luận. Quá trình đi từ giả thiết đến kết luận gọi là quá trình chứng minh và quá trình này đươc thực thi bằng cách nào thì gọi đó là phương pháp chứng minh.
 
 Các phương pháp chứng minh rất quan trọng vì không những chúng thường được sử dụng trong toán học mà còn được áp dụng nhiều trong tin học. Ví dụ, sự kiểm tra tính
