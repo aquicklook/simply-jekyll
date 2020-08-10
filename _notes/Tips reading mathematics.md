@@ -5,14 +5,6 @@ tags: reading
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
-<p class="drop-cap">
-Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Để làm được điều này cần sự thông hiểu về ngôn ngữ toán học bao gồm ký hiệu và quy tắc về cách sử dụng ký hiệu. 
-</p>
-
-Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn về đọc toán.
-
-Phương pháp để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi từ vựng bên cạnh việc củng cố ngữ pháp. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
-
 Mọi người hay có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
 
 Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
