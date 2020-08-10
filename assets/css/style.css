@@ -560,7 +560,7 @@ hr {
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
-    font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
     display: none;
 }
 
@@ -766,7 +766,7 @@ hr {
 }
 
 .serif {
-    font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
 }
 
 .title-sans {
@@ -778,7 +778,7 @@ hr {
 }
 
 .regular-sans {
-    font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
 }
 
 .bold {
@@ -1056,7 +1056,7 @@ hr {
 .mn-right {
     float: right;
     clear: right;
-    font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
     font-size: 18px;
     margin-right: -45%;
     width: 40%;
@@ -1071,7 +1071,7 @@ hr {
 .mn-left {
     float: left;
     clear: left;
-    font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
     font-size: 18px;
     margin-left: -45%;
     width: 40%;
@@ -1089,7 +1089,7 @@ hr {
 .sidenote-number:after,
 .sn-left:before,
 .sn-right:before {
-    font-family: 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
     position: relative;
     vertical-align: baseline; 
 }
@@ -1323,7 +1323,7 @@ label.srs-toggle {
     padding-right: 5px;
     font-size: 14px !important;
     line-height: 20px !important;
-    font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
     font-weight: 400;
 }
 
