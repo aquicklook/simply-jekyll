@@ -310,7 +310,7 @@ b, strong {
 
 
 p.drop-cap:first-letter {
-    font-family: '.';
+    font-family: 'Quicklook';
     font-size:  66px;
     font-style: normal;
     line-height: .83;
