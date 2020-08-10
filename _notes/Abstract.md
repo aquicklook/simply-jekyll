@@ -10,19 +10,19 @@ Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[
 
 Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng. Phần này sẽ giới thiệu về chúng và đưa ra một số chỉ dẫn về đọc toán.
 
-Phương pháp để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng bên cạnh việc củng cố ngữ pháp. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
+Phương pháp để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi từ vựng bên cạnh việc củng cố ngữ pháp. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
 ## Tips reading mathematics
 
-Mọi người thường có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
+Mọi người hay có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
 
-Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành phần lớn thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
+Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
 
 ### Why do problem exists?
 
 Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích chúng. Bởi vì, dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó nhằn, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.
 
-Điều này là một sự phân bố của tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục chúng.
+Điều này là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục.
 
 #### Language of mathematics
 
