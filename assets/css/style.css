@@ -269,8 +269,7 @@ h1 {
 h2, h3, h4 {
     color: #111111;
     font-family:  'Charter', 'Source Serif Pro';
-    font-weight: bold;
-    margin-bottom: 0px;
+    font-weight: 700;
     letter-spacing: -0.022em;
 }  
 
