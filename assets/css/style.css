@@ -25,6 +25,32 @@ layout: stylesheet
 
 
 @font-face {
+    font-family: 'Standard Text WEB';
+    src: url('/fonts/StandardTextWEB-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Standard Text WEB';
+    src: url('/fonts/StandardTextWEB-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Standard Text WEB';
+    src: url('/fonts/StandardTextWEB-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
     font-family: 'SVN-Georgia';
     src: url('/fonts/SVN-GeorgiaBold.woff2') format('woff2');
     font-weight: bold;
@@ -232,7 +258,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #333333;
-    font-family:  'SF Text', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
