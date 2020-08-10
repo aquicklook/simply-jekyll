@@ -241,8 +241,8 @@ main {
 /* Phrasing Style: H1, H2, H3, P, A, UL, LI */
 
 h1 {
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 44px;
     margin-top: 0px;
     margin-bottom: 0px;
 
@@ -274,7 +274,7 @@ h2, h3, h4 {
 }  
 
 a, p, ul, li, ol, table, span, blockquote {
-    color: #333333;
+    color: #292929;
     font-family:  'Quicklook', 'Source Serif Pro', serif;
     font-size: 18px;
     line-height: 28px;
@@ -473,7 +473,7 @@ table.center {
 }
 
 th {
-    color: #333333;
+    color: #292929;
     padding: 4px;
     text-align: left;
     font-size: 18px;
@@ -483,7 +483,7 @@ th {
 }
 
 td {
-    color: #333333;
+    color: #292929;
     padding: 4px;
     text-align: left;
     font-size: 18px;
