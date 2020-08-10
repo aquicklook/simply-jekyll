@@ -267,7 +267,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #333333;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', serif;
+    font-family:  '.', 'Standard Text WEB', 'SVN-Georgia', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
