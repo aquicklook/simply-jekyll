@@ -250,7 +250,7 @@ h1 {
 
 h2, h3, h4 {
     color: #111111;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', serif;
     font-weight: 600;
     margin-bottom: 0px;
     letter-spacing: -0.022em;
@@ -258,7 +258,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #333333;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
@@ -462,7 +462,7 @@ th {
     font-size: 18px;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', serif;
 }
 
 td {
@@ -560,7 +560,7 @@ hr {
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', serif;
     display: none;
 }
 
@@ -766,7 +766,7 @@ hr {
 }
 
 .serif {
-    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', serif !important;
 }
 
 .title-sans {
@@ -778,7 +778,7 @@ hr {
 }
 
 .regular-sans {
-    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', serif !important;
 }
 
 .bold {
@@ -1056,7 +1056,7 @@ hr {
 .mn-right {
     float: right;
     clear: right;
-    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', serif !important;
     font-size: 18px;
     margin-right: -45%;
     width: 40%;
@@ -1071,7 +1071,7 @@ hr {
 .mn-left {
     float: left;
     clear: left;
-    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', serif !important;
     font-size: 18px;
     margin-left: -45%;
     width: 40%;
@@ -1089,7 +1089,7 @@ hr {
 .sidenote-number:after,
 .sn-left:before,
 .sn-right:before {
-    font-family: 'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family: 'Standard Text WEB', 'SVN-Georgia', serif !important;
     position: relative;
     vertical-align: baseline; 
 }
@@ -1323,7 +1323,7 @@ label.srs-toggle {
     padding-right: 5px;
     font-size: 14px !important;
     line-height: 20px !important;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif !important;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', serif !important;
     font-weight: 400;
 }
 
