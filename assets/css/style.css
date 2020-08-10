@@ -16,6 +16,15 @@ layout: stylesheet
 }
 
 @font-face {
+    font-family: 'SF Text';
+    src: url('/fonts/SFText-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
     font-family: 'SVN-Georgia';
     src: url('/fonts/SVN-GeorgiaBold.woff2') format('woff2');
     font-weight: bold;
@@ -223,7 +232,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #333333;
-    font-family:  'SVN-Georgia', 'Charis SIL', 'Lora', serif;
+    font-family:  'SF Text', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
