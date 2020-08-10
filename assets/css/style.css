@@ -250,7 +250,7 @@ h1 {
 
 h2, h3, h4 {
     color: #111111;
-    font-family:  'UntitledTTF', sans-serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
     font-weight: 600;
     margin-bottom: 0px;
     letter-spacing: -0.022em;
@@ -462,7 +462,7 @@ th {
     font-size: 18px;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
-    font-family:  'UntitledTTF', sans-serif;
+    font-family:  'Standard Text WEB', 'SVN-Georgia', 'Charis SIL', 'Lora', serif;
 }
 
 td {
