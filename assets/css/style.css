@@ -7,7 +7,7 @@ layout: stylesheet
 *******************************************************/
 
 @font-face {
-    font-family: 'milizon-content';
+    font-family: 'Title';
     src: url('/fonts/milizon-content-title-font.woff2') format('woff2'),
         url('/fonts/milizon-content-title-font.woff') format('woff');
     font-weight: normal;
@@ -262,13 +262,13 @@ h4 {
 
 h1 {
     color: #111111;
-    font-family:  'milizon-content', sans-serif;
+    font-family:  'Title', 'Source Serif Pro';
     font-weight: 400;
 }  
 
 h2, h3, h4 {
     color: #111111;
-    font-family:  'Charter', serif;
+    font-family:  'Charter', 'Source Serif Pro';
     font-weight: bold;
     margin-bottom: 0px;
     letter-spacing: -0.022em;
