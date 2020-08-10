@@ -67,7 +67,7 @@ layout: stylesheet
 }
 
 @font-face {
-    font-family: '.';
+    font-family: 'Quicklook';
     src: url('/fonts/b7ed4db933323b43fdbd81a9cf925fc1.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -81,9 +81,6 @@ layout: stylesheet
     font-style: normal;
     font-display: swap;
 }
-
-
-
 
 
 @font-face {
@@ -278,7 +275,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #333333;
-    font-family:  '.', 'Cambria', serif;
+    font-family:  'Quicklook', 'Cambria', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
