@@ -20,7 +20,7 @@ Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không h
 
 ### Why do problem exists?
 
-Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích chúng. Bởi vì, dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó nhằn, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.
+Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích chúng. Bởi vì, dù bạn đạt điểm cao trong các kỳ thi toán học thì nó vẫn là một môn học khó nhằn, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.
 
 Điều này là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục.
 
@@ -32,7 +32,7 @@ Cách tiếp cận chính quy để đọc được các ký hiệu và thuật 
 
 Để viết được toán, bạn có thể sử dụng giấy và bút chì..., hoặc tất cả những công cụ nào có thể dùng để diễn giải lại sự hiểu biết của bạn về một công thức toán học mà bạn gặp phải. Để thuận tiện, bạn có thể sử dụng [MathJax](https://mathjax.github.io/MathJax-demos-web/input-tex2chtml.html) hoặc [Overleaf](https://www.overleaf.com/) để viết toán bằng cú pháp `LaTeX` trong quá trình tìm hiểu. Lý do mà tôi đề xuất các công cụ này là vì nó giúp bạn hiểu rõ kết cấu cơ bản của công thức mà bạn đang tìm hiểu và dễ dàng trong quá trình ghi chép. Trong quá trình viết, nếu chưa hiểu một phần của công thức, bạn hãy viết lại chúng bằng một biểu thức tuyến tính và từng bước lắp ráp các chi tiết vào để hoàn chỉnh. Ví dụ: 
 
-Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề: Hiểu được ý tưởng của các nhà toán học khác. Để có thể giao tiếp lại với họ, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](http://www.math.niu.edu/~beachy/aaol/contents.html) bao gồm: Propositional and logical, Sets, Mapping, Algebraic structure, Functions, Integers number, Real number... mà phần sau sẽ đề cập đến.
+Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề.[[Hiểu được ý tưởng của các nhà toán học khác.::srs]] Để có thể giao tiếp ngược lại với họ, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](http://www.math.niu.edu/~beachy/aaol/contents.html)[[Propositional and logical, Sets, Mapping, Algebraic structure, Functions, Integers, Real...::srs]].
 
 ## Propositional and logical
 
