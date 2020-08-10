@@ -74,6 +74,17 @@ layout: stylesheet
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Charter';
+    src: url('/fonts/0c6d955f287923f70cbce7148d64cd51.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
 
 @font-face {
     font-family: 'SVN-Georgia';
@@ -259,8 +270,8 @@ h1 {
 
 h2, h3, h4 {
     color: #111111;
-    font-family:  'Standard Text WEB', 'SVN-Georgia', serif;
-    font-weight: 600;
+    font-family:  'Charter', 'Standard Text WEB', 'SVN-Georgia', serif;
+    font-weight: bold;
     margin-bottom: 0px;
     letter-spacing: -0.022em;
 }  
