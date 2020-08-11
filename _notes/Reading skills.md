@@ -16,9 +16,9 @@ Hầu hết mọi người được tiếp cận với toán từ sớm, tuy nhi
 
 Điều này là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục.
 
-#### Language of mathematics
+#### Language
 
-Các nhà toán học sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng toán học với nhau. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên, [[e.g., English, Latin, Greek, Roman...::srs]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.
+Các nhà toán học sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng toán học với nhau. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên, [[e.g., English, Latin, Greek, Roman...::srs]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm. Giống như các ngôn ngữ khác, ngôn ngữ của toán cũng có một số ký hiệu và quy tắc thường xuyên được sử dụng.
 
 Cách tiếp cận chính quy để đọc được các ký hiệu và thuật ngữ toán học là bạn nên tham gia một khóa học chuẩn tắc về ngôn ngữ [[Greek—Latin::highlight]]. Nếu bị ràng buộc bởi thời gian, bạn có thể lần lượt tìm hiểu và sử dụng song song hai trang [oeis](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) và [rapidtables](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) trong quá trình đọc. Lý do mà tôi đề xuất chúng là bởi vì, xét về mặt nội dung nó tạm được cho là đầy đủ, xét về mặt tiện lợi các thông tin từ chúng sẽ giúp bạn nhanh chóng lấp đầy lỗ hổng kiến thức về "từ vựng và ngữ pháp toán" của bạn.
 
