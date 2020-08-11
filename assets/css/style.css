@@ -258,16 +258,19 @@ h2 {
     font-size: 36px;
     line-height: 40px;
     margin-top: 1.95em;
+        margin-bottom: 0px;
 }
 
 h3 {
     font-size: 30px;
     margin-top: 1.95em;
+        margin-bottom: 0px;
 }
 
 h4 {
     font-size: 26px;
     margin-top: 1.95em;
+        margin-bottom: 0px;
 }
 
 h1 {
