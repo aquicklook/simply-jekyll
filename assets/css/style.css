@@ -275,7 +275,7 @@ h2, h3, h4 {
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Quicklook', 'Source Serif Pro', serif;
-    font-size: 18px;
+    font-size: 19px;
     line-height: 28px;
     letter-spacing: -0.003em;
 }
@@ -448,7 +448,7 @@ cite {
 
 blockquote p {
     font-family: inherit;
-    font-size: 18px;
+    font-size: 19px;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
@@ -475,7 +475,7 @@ th {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 18px;
+    font-size: 19px;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
     font-family:  'Charter', 'Source Serif Pro';
@@ -485,12 +485,12 @@ td {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 18px;
+    font-size: 19px;
     border:0px solid gray;
 }
 
 td {
-   font-size: 18px;
+   font-size: 19px;
 }
 
 td a {
@@ -758,7 +758,7 @@ hr {
 }
 
 .small-medium {
-    font-size: 18px !important;
+    font-size: 19px !important;
 }
 
 .medium {
@@ -1073,7 +1073,7 @@ hr {
     float: right;
     clear: right;
     font-family: 'Quicklook', 'Source Serif Pro', serif !important;
-    font-size: 18px;
+    font-size: 19px;
     margin-right: -45%;
     width: 40%;
     margin-top: 0;
@@ -1088,7 +1088,7 @@ hr {
     float: left;
     clear: left;
     font-family: 'Quicklook', 'Source Serif Pro', serif !important;
-    font-size: 18px;
+    font-size: 19px;
     margin-left: -45%;
     width: 40%;
     margin-top: 0;
@@ -1444,7 +1444,7 @@ label.srs-toggle {
   text-decoration: none;
   font-size: 12px;
   font-family: 'Feed', sans-serif;
-  line-height: 18px;
+  line-height: 19px;
 }
 
 .context-menu__link:hover {
