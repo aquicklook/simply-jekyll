@@ -209,11 +209,11 @@ body {
 
 .container {
   overflow-y: scroll;
-  scrollbar-width: none; /* Firefox */
+  scrollbar-width: thin; /* Firefox */
   -ms-overflow-style: none;  /* IE 10+ */
 }
 .container::-webkit-scrollbar { /* WebKit */
-  width: 0px;
+  width: thin;
 }
 
 .box {
