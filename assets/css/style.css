@@ -676,7 +676,7 @@ hr {
 .notes-page-main-heading {
     padding-left: 0px;
     font-family: 'Feed', sans-serif;
-    height: 43px;
+    height: 47px;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -1775,6 +1775,14 @@ label.margin-toggle:not(.sidenote-number) {
     color: #757575;
     font-size: 18px;
     line-height: 24px;
+}
+    
+    .notes-page-main-heading {
+    padding-left: 0px;
+    font-family: 'Feed', sans-serif;
+    height: 43px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
     
     .feed-title {
