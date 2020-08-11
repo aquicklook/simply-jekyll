@@ -26,5 +26,5 @@ Cách tiếp cận chính quy để đọc được các ký hiệu và thuật 
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra).[[Propositional and logical, Sets, Mapping, Algebraic structure, Functions, Integers, Real...::srs]]
 
-Phương pháp để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi từ vựng bên cạnh việc củng cố ngữ pháp. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
+Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi từ vựng bên cạnh việc củng cố ngữ pháp. Do đó, công thức học toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
