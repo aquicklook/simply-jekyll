@@ -216,18 +216,6 @@ body {
   width: 0px;
 }
 
-.ft {
-    max-width: 680px;
-}
-
-.br {
-    width: 100%;
-}
-
-.bq {
-    min-width: 0;
-}
-
 .box {
     border-left: 0px solid #E6ECF0;
     border-right: 0px solid #E6ECF0;
