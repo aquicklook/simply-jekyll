@@ -5,7 +5,8 @@ tags: reading
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
-Mọi người hay có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. 
+<p class="drop-cap">
+Mọi người hay có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp. </p>
 
 Cách đọc toán lại hoàn toàn khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc phần sau, đôi khi dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
 
