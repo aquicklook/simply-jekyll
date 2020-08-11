@@ -241,8 +241,8 @@ main {
 /* Phrasing Style: H1, H2, H3, P, A, UL, LI */
 
 h1 {
-    font-size: 30px;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 44px;
     margin-top: 0px;
     margin-bottom: 0px;
 
@@ -1729,6 +1729,14 @@ label.margin-toggle:not(.sidenote-number) {
     /* autoprefixer: on */
     overflow: hidden;
     text-overflow: ellipsis;
+}
+    
+    h1 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
 }
     .feed-title {
     color: rgba(0, 0, 0, 0.84);
