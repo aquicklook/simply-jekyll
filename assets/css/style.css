@@ -829,7 +829,7 @@ hr {
 .boxit {
 
     padding: 0px;
-    background-color: #ffffff;
+    background-color: #0000;
     border-radius: 0px;
     font-family: 'Feed', sans-serif !important;
     color: #757575;
@@ -945,7 +945,7 @@ hr {
 }
 
 .back-icon {
-    background-color: white;
+    background-color: #0000;
     fill: currentColor;
     color: #111111;
     margin-top: 5px;
