@@ -202,7 +202,7 @@ body {
     right: 0px;
     bottom: 0px;  
     align-items: center;       
-    max-width: 1000px;
+    max-width: auto;
     margin-right: auto;
     margin-left: auto;
 }
@@ -216,12 +216,23 @@ body {
   width: 0px;
 }
 
+.ft {
+    max-width: 680px;
+}
+
+.br {
+    width: 100%;
+}
+
+.bq {
+    min-width: 0;
+}
 
 .box {
     border-left: 0px solid #E6ECF0;
     border-right: 0px solid #E6ECF0;
     border-bottom: 0px solid #E6ECF0;
-    width: 72%;
+    width: 100%;
     position: absolute;
     top: 0px;
 }
