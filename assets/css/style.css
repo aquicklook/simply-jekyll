@@ -275,8 +275,8 @@ h2, h3, h4 {
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Quicklook', 'Source Serif Pro', serif;
-    font-size: 19px;
-    line-height: 28px;
+    font-size: 21px;
+    line-height: 32px;
     letter-spacing: -0.003em;
 }
 
@@ -315,7 +315,7 @@ p.drop-cap:first-letter {
     line-height: .83;
     text-transform: uppercase;
     margin-right: 12px;
-    padding-top: 0px;
+    padding-top: 5px;
     position: relative;
     float: left;
     display: block;
@@ -448,7 +448,7 @@ cite {
 
 blockquote p {
     font-family: inherit;
-    font-size: 19px;
+    font-size: inherit;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 0px;
@@ -475,7 +475,7 @@ th {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 19px;
+    font-size: inherit;
     border-top:1px solid gray;
     border-bottom:1px solid gray;
     font-family:  'Charter', 'Source Serif Pro';
@@ -485,12 +485,12 @@ td {
     color: #292929;
     padding: 4px;
     text-align: left;
-    font-size: 19px;
+    font-size: inherit;
     border:0px solid gray;
 }
 
 td {
-   font-size: 19px;
+   font-size: inherit;
 }
 
 td a {
@@ -661,7 +661,7 @@ hr {
     text-decoration: none;
     font-family:  'Feed', sans-serif;
     font-weight: 600;
-    font-size: 19px;
+    font-size: inherit;
     padding-left: 0px;
     color: #292929;
     display: block;
@@ -758,7 +758,7 @@ hr {
 }
 
 .small-medium {
-    font-size: 19px !important;
+    font-size: inherit !important;
 }
 
 .medium {
@@ -1073,7 +1073,7 @@ hr {
     float: right;
     clear: right;
     font-family: 'Quicklook', 'Source Serif Pro', serif !important;
-    font-size: 19px;
+    font-size: inherit;
     margin-right: -45%;
     width: 40%;
     margin-top: 0;
@@ -1088,7 +1088,7 @@ hr {
     float: left;
     clear: left;
     font-family: 'Quicklook', 'Source Serif Pro', serif !important;
-    font-size: 19px;
+    font-size: inherit;
     margin-left: -45%;
     width: 40%;
     margin-top: 0;
@@ -1444,7 +1444,7 @@ label.srs-toggle {
   text-decoration: none;
   font-size: 12px;
   font-family: 'Feed', sans-serif;
-  line-height: 19px;
+  line-height: inherit;
 }
 
 .context-menu__link:hover {
@@ -1737,6 +1737,36 @@ label.margin-toggle:not(.sidenote-number) {
     margin-bottom: 0px;
 
 }
+    
+    a, p, ul, li, ol, table, span, blockquote {
+    color: #292929;
+    font-family:  'Quicklook', 'Source Serif Pro', serif;
+    font-size: 19px;
+    line-height: 28px;
+    letter-spacing: -0.003em;
+}
+    
+    p.drop-cap:first-letter {
+    font-family: 'Quicklook';
+    font-size:  66px;
+    font-style: normal;
+    line-height: .83;
+    text-transform: uppercase;
+    margin-right: 12px;
+    padding-top: 0px;
+    position: relative;
+    float: left;
+    display: block;
+    box-sizing: border-box;
+    word-break: break-word;
+    letter-spacing: -0.003em;
+    font-kerning: normal;
+    outline-color: initial;
+    outline-style: initial;
+    outline-width: 0px;
+    
+}
+    
     .boxit {
     padding: 0px;
     background-color: #0000;
