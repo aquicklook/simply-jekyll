@@ -240,8 +240,8 @@ main {
 /* Phrasing Style: H1, H2, H3, P, A, UL, LI */
 
 h1 {
-    font-size: 40px;
-    line-height: 44px;
+    font-size: 34px;
+    line-height: 42px;
     margin-top: 0px;
     margin-bottom: 0px;
 
@@ -338,7 +338,7 @@ img {
 
 span {
     min-width: auto;
-    max-width: 650px;
+    max-width: 680px;
     height: auto;
     box-sizing: border-box;
 }
@@ -832,8 +832,8 @@ hr {
     border-radius: 0px;
     font-family: 'Feed', sans-serif !important;
     color: #757575;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 22px;
+    line-height: 28px;
 }
 
 #boxit {
@@ -1737,6 +1737,16 @@ label.margin-toggle:not(.sidenote-number) {
     margin-bottom: 0px;
 
 }
+    .boxit {
+    padding: 0px;
+    background-color: #0000;
+    border-radius: 0px;
+    font-family: 'Feed', sans-serif !important;
+    color: #757575;
+    font-size: 18px;
+    line-height: 24px;
+}
+    
     .feed-title {
     color: rgba(0, 0, 0, 0.84);
     font-size: 20px;
