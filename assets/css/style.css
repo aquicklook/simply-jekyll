@@ -281,7 +281,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
-    font-family:  'Quicklook', 'Georgia', 'Cambria', "Times New Roman", 'Times', serif
+    font-family:  'Quicklook', 'Georgia', 'Cambria', "Times New Roman", 'Times', serif;
     font-size: 21px;
     line-height: 32px;
     letter-spacing: -0.003em;
