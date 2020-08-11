@@ -202,7 +202,7 @@ body {
     right: 0px;
     bottom: 0px;  
     align-items: center;       
-    max-width: 1000px;
+    max-width: auto;
     margin-right: auto;
     margin-left: auto;
 }
@@ -220,7 +220,7 @@ body {
     border-left: 0px solid #E6ECF0;
     border-right: 0px solid #E6ECF0;
     border-bottom: 0px solid #E6ECF0;
-    width: 72%;
+    max-width: 720px;
     position: absolute;
     top: 0px;
 }
