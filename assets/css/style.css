@@ -1230,6 +1230,27 @@ li .mn-right {
     text-align: left; 
 }
 
+.sn-left, .sn-right,
+.mn-left, .mn-right {
+    display: none; 
+}
+
+.margin-toggle:checked + .sn-right,
+.margin-toggle:checked + .sn-left,
+.margin-toggle:checked + .mn-left,
+.margin-toggle:checked + .mn-right {
+    display: block;
+    float: left;
+    left: 1rem;
+    clear: both;
+    width: 95%;
+    margin: 1rem 2.5%;
+    vertical-align: baseline;
+    position: relative; 
+}
+
+
+
 
 .tooltip {
     display:inline;
