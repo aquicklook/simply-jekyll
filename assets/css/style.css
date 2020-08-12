@@ -403,6 +403,14 @@ img {
     height: auto;
 }
 
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+
 span {
     min-width: auto;
     max-width: 680px;
