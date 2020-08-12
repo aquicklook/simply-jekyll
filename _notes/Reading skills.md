@@ -5,7 +5,7 @@ tags: reading
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
-<img src="https://cdn.pixabay.com/photo/2019/07/29/04/35/student-4369850_960_720.jpg" alt="Reading book" width="auto" height="auto">
+<img src="https://images.unsplash.com/photo-1578667343354-26a1de5bfe5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="Reading book" width="auto" height="auto">
 
 <p class="drop-cap">M<span>ọi người thường có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp.</span></p>
 
