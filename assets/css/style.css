@@ -376,12 +376,13 @@ b, strong {
 
 p.drop-cap:first-letter {
     font-family: 'Quicklook';
+    initial-letter: 3 2;
     font-size:  66px;
     font-style: normal;
     line-height: .83;
     text-transform: inherit;
     margin-right: 12px;
-    padding-top: 5px;
+    padding-top: 7px;
     position: relative;
     float: left;
     display: block;
