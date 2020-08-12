@@ -405,17 +405,18 @@ img {
 
 figcaption {
   background-color: none;
-  font-family:  'Title', 'Source Serif Pro';
+  font-family:  'Feed', sans-serif;
+  font-weight: 300;
   color: #757575;
   font-size: 16px;
   line-height: 20px;
   margin-top: 10px;
   text-align: center;
   max-width: 680px;
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
-    word-break: break-word;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  word-break: break-word;
 }
 
 span {
