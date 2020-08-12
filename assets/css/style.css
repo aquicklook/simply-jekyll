@@ -398,6 +398,20 @@ b, strong {
 
 /* Figures, Images, Code, Blockquotes, Tables */
 
+figure {
+  position: relative;
+}
+ 
+figure:before,
+figure:after {
+  content: '';
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
 img {
     max-width: 100%;
     height: auto;
