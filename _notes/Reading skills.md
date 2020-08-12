@@ -5,7 +5,7 @@ tags: reading
 {:.boxit}
 I have a deep conviction that mathematics is about ideas, not just formulas and algorithms, and not just theorems and proofs.
 
-<p><span id="dropcap">My</span> father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip...
+<p><span id="dropcap">My</span> father’s family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip...</p>
 
 <p class="drop-cap">Mọi người thường có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ hết mọi thứ trước khi đọc sang phần kế tiếp.</p>
 
