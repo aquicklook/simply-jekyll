@@ -379,7 +379,7 @@ p.drop-cap:first-letter {
     font-size:  66px;
     font-style: normal;
     line-height: .83;
-    text-transform: uppercase;
+    text-transform: inherit;
     margin-right: 12px;
     padding-top: 5px;
     position: relative;
