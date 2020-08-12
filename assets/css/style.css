@@ -374,7 +374,7 @@ b, strong {
 }
 
 
-.drop-cap:first-letter {
+.drop-cap:first-child {
     font-family: 'Quicklook';
     font-size:  66px;
     font-style: normal;
