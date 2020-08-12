@@ -431,6 +431,7 @@ span {
 
 code {
     font-family: 'IBM Plex Mono', monospace !important;
+    font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1, 'ss02' 1, 'zero' 1;
     display: inline-block;
     overflow: auto !important;
     white-space: pre-line !important;       
