@@ -401,21 +401,6 @@ b, strong {
 figure {
   position: relative;
 }
- 
-figure:before,
-figure:after {
-  content: '';
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  position: absolute;
-  display: block;
-  margin-block-start: 0em;
-  margin-block-end: 0em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-}
 
 img {
   max-width: 680px;
