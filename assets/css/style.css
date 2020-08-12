@@ -409,6 +409,10 @@ img {
   padding: 0;
 }
 
+img.scaled {
+  width: 100%;
+}
+
 figcaption {
   background-color: #0000;
     
