@@ -22,7 +22,7 @@ Hầu hết mọi người đều được tiếp cận với toán từ sớm, 
 
 #### Language
 
-Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau. Do đó để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học, ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.
+Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học, ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.
 
 Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành.
 
