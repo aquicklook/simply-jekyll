@@ -241,7 +241,8 @@ layout: stylesheet
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {
-    scroll-behavior: smooth;    
+    scroll-behavior: smooth;
+	    overflow: auto;
 }
 
 body {
