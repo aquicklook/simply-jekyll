@@ -283,7 +283,7 @@ body {
   -ms-overflow-style: none;  /* IE 10+ */
 }
 .container::-webkit-scrollbar { /* WebKit */
-  width: thin;
+  width: none;
 }
 
 .box {
