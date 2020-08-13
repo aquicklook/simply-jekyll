@@ -1,5 +1,5 @@
 ---
-tags: reading
+tags: read
 ---
 
 {:.boxit}
@@ -32,3 +32,4 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
 
 Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Do đó, công thức đọc toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
 
+{@gist: https://gist.github.com/JeffreyWay/207e3bfdb5cafff050a1d75dbf755a5c}
