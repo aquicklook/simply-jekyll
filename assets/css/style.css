@@ -278,7 +278,8 @@ body {
 }
 
 body::-webkit-scrollbar {
-    width: 1em;
+    width: 10px;
+    border-radius: 6px;
 }
 body::-webkit-scrollbar-thumb {
   background-color: darkgrey;
