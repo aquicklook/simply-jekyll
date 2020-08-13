@@ -31,3 +31,10 @@ Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ng
 Để viết được toán, bạn có thể sử dụng giấy và bút chì hoặc tất cả những công cụ nào có thể lưu trữ lại sự hiểu biết của bạn về một công thức toán học mà bạn gặp phải. Để thuận tiện, bạn có thể sử dụng [MathJax](https://mathjax.github.io/MathJax-demos-web/input-tex2chtml.html) hoặc [Overleaf](https://www.overleaf.com/) để viết toán bằng cú pháp của [LaTeX](https://www.latex-project.org/) trong quá trình tìm hiểu. Lý do mà tôi đề xuất các công cụ này là vì nó giúp bạn hiểu rõ kết cấu cơ bản của công thức mà bạn đang tìm hiểu và dễ dàng thay đổi trong quá trình ghi chép.
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi  đề cập ở phần sau.
+
+#### Focus
+
+Toán học là về ý tưởng. 
+
+Trong quá trình học toán bạn nên tập trung phần lớn thời gian vào việc đọc hiểu các khái niệm toán học thay vì cố gắng giải bài tập
+
