@@ -279,7 +279,7 @@ body {
 
 .container {
   overflow-y: scroll;
-  scrollbar-width: thin; /* Firefox */
+  scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;  /* IE 10+ */
 }
 .container::-webkit-scrollbar { /* WebKit */
