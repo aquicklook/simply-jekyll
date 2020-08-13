@@ -31,17 +31,3 @@ Cách tiếp cận chính quy để đọc được các ký hiệu và thuật 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng, nghĩa là nó có tính hai chiều. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị cho bản thân một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra).
 
 Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Do đó, công thức đọc toán hiệu quả thực sự không tồn tại với những ai ngại tìm hiểu.
-
-```python
-from sklearn import datasets, linear_model
-
-# fit the model by Linear Regression
-regr = linear_model.LinearRegression(fit_intercept=False) # fit_intercept = False for calculating the bias
-regr.fit(Xbar, y)
-
-# Compare two results
-print( 'Solution found by scikit-learn  : ', regr.coef_ )
-print( 'Solution found by (5): ', w.T)
-```
-
-`regr = linear_model.LinearRegression(fit_intercept=False) # fit_intercept = False for calculating the bias`
