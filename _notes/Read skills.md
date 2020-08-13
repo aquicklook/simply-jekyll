@@ -24,7 +24,7 @@ Hầu hết mọi người đều được tiếp cận với toán từ sớm, 
 
 Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau, vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.
 
-Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Phương pháp học ngôn ngữ của toán cũng tương tự như vậy, trong đó từ vựng ở đây được hiểu là các ký hiệu tượng trưng và ngữ pháp là các quy tắc sử dụng ký hiệu. 
+Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Phương pháp học ngôn ngữ của toán cũng tương tự như vậy, trong đó từ vựng và ngữ pháp được hiểu là các ký hiệu tượng trưng và các quy tắc sử dụng chúng. 
 
 Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ngữ toán là bạn nên tham gia một khóa học về ngôn ngữ [[Greek—Latin::highlight]] để biết cách đọc và tìm hiểu các tiêu chuẩn [ISO 80000-2:2019](https://www.iso.org/standard/64973.html) hoặc [ISO 80000-2:2009](https://people.engr.ncsu.edu/jwilson/files/mathsigns.pdf) để hiểu ý nghĩa và quy tắc sử dụng các ký hiệu bên cạnh việc nghiên cứu [lịch sử của các ký hiệu toán học](https://web.archive.org/web/20060821061824/http://www.roma.unisa.edu.au/07305/symbols.htm#Inequality). 
 
