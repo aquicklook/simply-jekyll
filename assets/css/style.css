@@ -525,7 +525,7 @@ pre code {
     display: block;
     overflow-x: auto !important;
     white-space: pre-line !important;       
-    word-wrap: break-word !important;       
+    word-wrap: normal !important;       
     padding: 15px 15px  15px 15px;
     vertical-align:middle;
     width: auto  !important;
