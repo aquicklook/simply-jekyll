@@ -26,7 +26,7 @@ Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[
 
 Cách thức để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Phương pháp học ngôn ngữ của toán cũng tương tự như vậy, với từ vựng được hiểu là các ký hiệu tượng trưng và ngữ pháp là các quy tắc sử dụng chúng. 
 
-Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ngữ toán là bạn nên tham gia một khóa học cơ bản về ngôn ngữ [[Greek—Latin::highlight]] để biết cách đọc và sử dụng tài liệu [ISO 80000-2:2019](https://www.iso.org/standard/64973.html) hoặc [ISO 80000-2:2009](https://people.engr.ncsu.edu/jwilson/files/mathsigns.pdf) để hiểu ý nghĩa và quy tắc sử dụng các ký hiệu bên cạnh việc nghiên cứu [lịch sử của các ký hiệu toán học](https://people.engr.ncsu.edu/jwilson/files/mathsigns.pdf) để nhớ lâu và dai hơn. 
+Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ngữ toán là bạn nên tham gia một khóa học cơ bản về ngôn ngữ [[Greek—Latin::highlight]] để biết cách đọc và sử dụng tài liệu [ISO 80000-2:2019](https://www.iso.org/standard/64973.html) hoặc [ISO 80000-2:2009](https://people.engr.ncsu.edu/jwilson/files/mathsigns.pdf) để hiểu ý nghĩa và quy tắc sử dụng các ký hiệu bên cạnh việc nghiên cứu [lịch sử của các ký hiệu toán học](https://web.archive.org/web/20060821061824/http://www.roma.unisa.edu.au/07305/symbols.htm#Inequality). 
 
 
 
