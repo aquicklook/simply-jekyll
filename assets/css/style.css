@@ -223,6 +223,13 @@ layout: stylesheet
 }
 
 
+@font-face {
+    font-family: 'Text';
+    src: url('/fonts/SourceSerifPro-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
 
 
@@ -343,7 +350,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
-    font-family:  'Quicklook', 'Source Serif Pro', serif;
+    font-family:   'Text', 'Quicklook', 'Source Serif Pro', serif;
     font-size: 21px;
     line-height: 32px;
     letter-spacing: -0.003em;
