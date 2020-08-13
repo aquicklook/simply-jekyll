@@ -350,7 +350,7 @@ h2, h3, h4 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
-    font-family:   'Text', 'Quicklook', 'Source Serif Pro', serif;
+    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
     font-size: 21px;
     line-height: 32px;
     letter-spacing: -0.003em;
@@ -681,7 +681,7 @@ hr {
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
-    font-family:  'Text', 'Quicklook', 'Source Serif Pro', serif;
+    font-family:    'Quicklook', 'Text', 'Source Serif Pro', serif;
     display: none;
 }
 
@@ -887,7 +887,7 @@ hr {
 }
 
 .serif {
-    font-family: 'Text', 'Quicklook', 'Source Serif Pro', serif !important;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif !important;
 }
 
 .title-sans {
@@ -899,7 +899,7 @@ hr {
 }
 
 .regular-sans {
-    font-family: 'Text', 'Quicklook', 'Source Serif Pro', serif !important;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif !important;
 }
 
 .bold {
@@ -1169,7 +1169,7 @@ hr {
     color: #292929;
     text-decoration: none;
     background-size: 1px 1px;
-    background-position: 0 calc(1em + 3px);
+    background-position: 0 calc(1em + 1px);
     background-repeat: repeat-x;
 }
 
@@ -1181,7 +1181,7 @@ hr {
 .mn-right {
     float: right;
     clear: right;
-    font-family: 'Text', 'Quicklook', 'Source Serif Pro', serif !important;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif !important;
     font-size: inherit;
     margin-right: -45%;
     width: 40%;
@@ -1196,7 +1196,7 @@ hr {
 .mn-left {
     float: left;
     clear: left;
-    font-family: 'Text', 'Quicklook', 'Source Serif Pro', serif !important;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif !important;
     font-size: inherit;
     margin-left: -45%;
     width: 40%;
@@ -1214,7 +1214,7 @@ hr {
 .sidenote-number:after,
 .sn-left:before,
 .sn-right:before {
-    font-family: 'Text', 'Quicklook', 'Source Serif Pro', serif !important;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif !important;
     position: relative;
     vertical-align: baseline; 
 }
@@ -1469,7 +1469,7 @@ label.srs-toggle {
     padding-right: 5px;
     font-size: 14px !important;
     line-height: 20px !important;
-    font-family:  'Text', 'Quicklook', 'Source Serif Pro', serif !important;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif !important;
     font-weight: 400;
 }
 
@@ -1884,7 +1884,7 @@ h4 {
     
     a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
-    font-family:  'Text', 'Quicklook', 'Source Serif Pro', serif;
+    font-family: 'Quicklook', 'Text', 'Source Serif Pro', serif;
     font-size: 19px;
     line-height: 28px;
     letter-spacing: -0.003em;
