@@ -277,13 +277,21 @@ body {
     margin-left: auto;
 }
 
+body::-webkit-scrollbar {
+    width: 1em;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
 .container {
   overflow-y: scroll;
   scrollbar-width: none; /* Firefox */
   -ms-overflow-style: none;  /* IE 10+ */
 }
 .container::-webkit-scrollbar { /* WebKit */
-  width: none;
+  width: 0px;
 }
 
 .box {
