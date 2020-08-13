@@ -278,17 +278,27 @@ body {
     margin-left: auto;
 }
 
-body::-webkit-scrollbar {
+/* Let's get this party started */
+::-webkit-scrollbar {
     width: 8px;
 }
-body::-webkit-scrollbar-thumb {
-  background-color: darkgrey;
-  outline: 1px solid slategrey;
-}
-body::-webkit-scrollbar-track {
+ 
+/* Track */
+::-webkit-scrollbar-track {
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
     -webkit-border-radius: 6px;
     border-radius: 6px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(217,217,217,0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(130,130,130,0.4); 
 }
 
 
