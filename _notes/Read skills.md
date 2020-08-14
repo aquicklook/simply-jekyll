@@ -7,7 +7,7 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 
 <figure>
   <img src="https://images.unsplash.com/photo-1578667343354-26a1de5bfe5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="read_book">
-  <figcaption>Photo by <a href="https://unsplash.com/@thwhoai">@thwhoai</a> on <a href="https://unsplash.com/">Unsplash</a></figcaption>
+  <figcaption style=" margin-top: 10px; ">Photo by <a href="https://unsplash.com/@thwhoai">@thwhoai</a> on <a href="https://unsplash.com/">Unsplash</a></figcaption>
 </figure>
 
 <p class="drop-cap">M<span>ọi người thường có thói quen đọc liền mạch từ trái sang phải và từ trên xuống dưới kèm theo một bối cảnh cụ thể. Điều này khiến cho tư duy thông thường của chúng ta là phải hiểu rõ mọi thứ trước khi đọc sang phần kế tiếp.</span></p>
@@ -36,7 +36,7 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
 
 <figure>
   <img src="https://miro.medium.com/max/700/1*TcsPbK3g22mU0hGe08jHPA.gif" alt="focus">
-  <figcaption>It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
+  <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
 
 Sự tập trung Toán học là về ý tưởng. 
