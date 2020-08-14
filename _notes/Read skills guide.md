@@ -39,7 +39,7 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
   <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
 
-Có một quy luật rất nổi tiếng mà chắc hẳn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) or the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện, khoảng 80% kết quả là do 20% nguyên nhân gây ra. Trên thực tế quy luật này cũng đúng trong vấn đề học toán. 
+Có một quy luật rất nổi tiếng mà chắc hẳn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) or the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện, khoảng 80% kết quả là do 20% nguyên nhân gây ra. Thực tế, quy luật này cũng hợp lý với quan điểm học toán hiệu quả.
 
 Sự tập trung Toán học là về ý tưởng. 
 
