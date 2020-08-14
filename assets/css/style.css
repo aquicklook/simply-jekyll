@@ -428,6 +428,7 @@ b, strong {
 
 figure {
   position: relative;
+  margin: auto;
 }
 
 img {
