@@ -36,7 +36,7 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
 
 <figure>
   <img src="https://miro.medium.com/max/700/1*TcsPbK3g22mU0hGe08jHPA.gif" alt="focus">
-  <figcaption>It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools. Illustrations by <a href="https://forge.medium.com/@tomaspueyo?source=post_page-----f1b658f93428----------------------&gi=sd">Tomas Pueyon</a></figcaption>
+  <figcaption>It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
 
 Sự tập trung Toán học là về ý tưởng. 
