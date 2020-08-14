@@ -39,7 +39,7 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
   <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
 
-Có một quy luật rất nổi tiếng mà chắc hẳn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle (also known as the 80/20 rule, the law of the vital few, or the principle of factor sparsity)](https://en.wikipedia.org/wiki/Pareto_principle)::rsn]]
+Có một quy luật rất nổi tiếng mà chắc hẳn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) or the 80/20 rule::rsn]]
 
 Sự tập trung Toán học là về ý tưởng. 
 
