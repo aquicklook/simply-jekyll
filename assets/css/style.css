@@ -338,19 +338,21 @@ h2 {
     font-size: 36px;
     line-height: 40px;
     margin-top: 1.95em;
-        margin-bottom: 0px;
+    margin-bottom: -0.28em;
 }
 
 h3 {
     font-size: 30px;
-    margin-top: 1.95em;
-        margin-bottom: 0px;
+    margin-top: 1.72em;
+    margin-bottom: 0px;
+    line-height: 36px;
 }
 
 h4 {
     font-size: 26px;
-    margin-top: 1.95em;
-        margin-bottom: 0px;
+    margin-top: 1.72em;
+    margin-bottom: -0.31em;
+    line-height: 32px;
 }
 
 h1 {
@@ -1894,6 +1896,7 @@ label.margin-toggle:not(.sidenote-number) {
     h2 {
     font-size: 26px;
     margin-top: 1.95em;
+	    
 }
 
 h3 {
