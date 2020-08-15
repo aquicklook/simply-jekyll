@@ -50,7 +50,7 @@ Khi tìm hiểu về [quy luật 80/20](https://sachvui.com/sachvui-686868666888
 
 Nội dung quan trọng nhất của toán được tìm thấy trong các khái niệm không phải là bài tập ở cuối mỗi phần. Toán học có rất nhiều chủ đề để tìm hiểu, mỗi chủ đề lại được phân ra thành vô số các chuyên đề và trong mỗi chuyên đề lại có vô vàn các dạng khác nhau. Vì vậy không có cách nào để học hết mọi kỹ thuật để giải một bài toán đơn lẻ. Toán học là về ý tưởng. Các bài toán mà bạn được giao là biểu hiện của những ý tưởng này. Nếu tập trung vào các khái niệm chính, bạn có thể giải quyết bất kỳ vấn đề nào liên quan đến những khái niệm đó kể cả những vấn đề bạn chưa từng thấy trước đây.
 
-Có một câu chuyện được kể đằng sau mỗi khái niệm toán học. Vì vậy với mỗi khái niệm mà bạn tìm hiểu, bạn nên hình dung ra một bức tranh tổng thể về nó. Bức tranh này là câu trả lời cho các câu hỏi cơ bản khi tìm hiểu về một vấn đề, bao gồm phân tích về bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời chỉ ra ưu, nhược điểm của các ý tưởng được trình bày.
+Có một câu chuyện được kể đằng sau mỗi khái niệm toán học. Vì vậy với mỗi khái niệm mà bạn tìm hiểu, bạn nên hình dung ra một bức tranh tổng thể về nó. Bức tranh này là câu trả lời cho các câu hỏi cơ bản khi tìm hiểu về một vấn đề...
 
 - What does it say?
 - What are it’s hypotheses?
@@ -59,4 +59,4 @@ Có một câu chuyện được kể đằng sau mỗi khái niệm toán học
 - Can you think of examples to which the concept applies?
 - Can you think of examples that do not satisfy the hypotheses and the conclusion of the concept?
 
-Để làm được như vậy, bạn cần phải đọc đi đọc lại nội dung nhiều lần, thậm chí tham khảo ở bên ngoài.
+Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học. 
