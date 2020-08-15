@@ -48,8 +48,6 @@ Một quy luật rất phổ biến mà phần lớn mọi người đều đã 
 
 Khi hiểu rõ quy luật 80/20 thì chắc hẳn ai trong chúng ta cũng sẽ phải thừa nhận mình đã quá lãng phí thời gian vào những việc không đáng. Sau đây là một vài chia sẻ về sự tập trung khi áp dụng quy luật 80/20 vào quá trình đọc toán của tôi.
 
-
-
-Trong quá trình học toán bạn nên tập trung phần lớn thời gian vào việc đọc hiểu các khái niệm toán học thay vì cố gắng giải bài tập. 
-Đọc nhiều hơn nữa
-Câu chuyện
+- Tập trung vào các khái niệm thay vì bài tập.
+- Đọc nhiều hơn nữa.
+- Hãy đọc thành một câu chuyện.
