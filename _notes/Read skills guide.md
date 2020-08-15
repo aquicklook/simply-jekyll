@@ -48,6 +48,6 @@ Một quy luật rất phổ biến mà phần lớn mọi người đều đã 
 
 Khi hiểu rõ quy luật 80/20 thì chắc hẳn ai trong chúng ta cũng sẽ phải thừa nhận mình đã quá lãng phí thời gian vào những việc không đáng. Sau đây là một vài chia sẻ về sự tập trung khi áp dụng quy luật 80/20 vào quá trình đọc toán của tôi.
 
-- Nội dung quan trọng nhất của toán được tìm thấy trong các khái niệm không phải là bài tập ở cuối mỗi phần. Toán học có rất nhiều chủ đề để tìm hiểu, trong mỗi chủ đề đó lại có vô số các chuyên đề và ở mỗi chuyên đề lại được phân ra thành nhiều các dạng khác nhau. Vì vậy không có cách nào để học hết mọi kỹ thuật để giải một bài toán đơn lẻ. Toán học là về ý tưởng. Các bài toán mà bạn được giao là biểu hiện của những ý tưởng này. Nếu bạn có thể __tập trung vào các khái niệm__, bạn sẽ có thể giải quyết bất kỳ loại vấn đề nào liên quan đến những khái niệm đó kể cả những vấn đề bạn chưa từng thấy trước đây.
+- Nội dung quan trọng nhất của toán được tìm thấy trong các khái niệm không phải là bài tập ở cuối mỗi phần. Toán học có rất nhiều chủ đề để tìm hiểu, trong mỗi chủ đề đó lại có vô số các chuyên đề và ở mỗi chuyên đề lại được phân ra thành nhiều các dạng khác nhau. Vì vậy không có cách nào để học hết mọi kỹ thuật để giải một bài toán đơn lẻ. Toán học là về ý tưởng. Các bài toán mà bạn được giao là biểu hiện của những ý tưởng này. Nếu tập trung vào các khái niệm, bạn có thể giải quyết bất kỳ vấn đề nào liên quan đến những khái niệm đó kể cả những vấn đề bạn chưa từng thấy trước đây.
 - Đọc nhiều hơn nữa.
 - Hãy đọc thành một câu chuyện.
