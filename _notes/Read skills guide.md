@@ -30,7 +30,7 @@ Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ng
 
 Để viết được toán, bạn có thể sử dụng giấy và bút chì hoặc tất cả những công cụ nào có thể lưu trữ lại sự hiểu biết của bạn về một công thức toán học mà bạn gặp phải. Để thuận tiện, bạn có thể sử dụng [MathJax](https://mathjax.github.io/MathJax-demos-web/input-tex2chtml.html) hoặc [Overleaf](https://www.overleaf.com/) để viết toán bằng cú pháp của [LaTeX](https://www.latex-project.org/) trong quá trình tìm hiểu. Lý do mà tôi đề xuất các công cụ này là vì nó giúp bạn hiểu rõ kết cấu cơ bản của công thức mà bạn đang tìm hiểu và dễ dàng thay đổi trong quá trình ghi chép.
 
-Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi  đề cập ở phần sau.
+Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
 #### Focus
 
@@ -39,9 +39,11 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
   <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
 
-Một quy luật rất nổi tiếng mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) or the 80/20 rule.::rsn]] Quy luật này phát biểu rằng: Trong nhiều sự kiện, khoảng 80% kết quả đến từ 20% nguyên nhân.
+Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) or the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân. Mấu chốt ở đây chính là sự lựa chọn hoặc phân bổ nguồn lực hữu hạn của bạn để tối ưu hóa hiệu quả. 
 
-Nếu theo sự sắp đặt của quy luật này là đúng thì 
+
+
+toán học, sự tập trung rất quan trọng 
 
 Sự tập trung Toán học là về ý tưởng. 
 
