@@ -35,16 +35,11 @@ Mục đích chính của việc học ngôn ngữ toán học là để giao ti
 #### Focus
 
 <figure>
-  <img src="https://miro.medium.com/max/700/1*TcsPbK3g22mU0hGe08jHPA.gif" alt="focus">
-  <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
-</figure>
-
-Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân. Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu. Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%. Ví dụ, 0.8% tổng số người nắm giữ 51.2% tổng số tài sản của nước Mỹ như hình dưới.
-
-<figure>
   <img src="https://qph.fs.quoracdn.net/main-qimg-9a3652ec7c10bf781402eebfd6ff7c0a" alt="focus">
   <figcaption>Photo by <a href="https://www.quora.com/profile/Julia-Kvach">Julia Kvach</a> on <a href="https://www.quora.com/What-is-the-best-thing-you-heard-recently/answer/Julia-Kvach?share=6d36c3f0&srid=XTaeu">Quora</a></figcaption>
 </figure>
+
+Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân. Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu. Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%. Ví dụ, 0.8% tổng số người nắm giữ 51.2% tổng số tài sản của nước Mỹ như hình trên.
 
 Khi tìm hiểu về [quy luật 80/20](https://sachvui.com/sachvui-686868666888/ebooks/2017/pdf/Sachvui.Com-nguyen-ly-80-20.pdf), chắc hẳn ai trong chúng ta cũng sẽ phải thừa nhận mình đã quá lãng phí thời gian vào những việc không đáng. Sau đây là một vài chia sẻ về sự tập trung khi áp dụng quy luật 80/20 vào quá trình đọc toán của tôi.
 
@@ -60,3 +55,10 @@ Có một câu chuyện được kể đằng sau mỗi khái niệm toán học
 - Can you think of examples that do not satisfy the hypotheses and the conclusion of the concept?
 
 Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học. 
+
+### Conclusion
+
+<figure>
+  <img src="https://miro.medium.com/max/700/1*TcsPbK3g22mU0hGe08jHPA.gif" alt="focus">
+  <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
+</figure>
