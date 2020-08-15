@@ -46,7 +46,7 @@ Một quy luật rất phổ biến mà phần lớn mọi người đều đã 
   <figcaption>Photo by <a href="https://www.quora.com/profile/Julia-Kvach">Julia Kvach</a> on <a href="https://www.quora.com/What-is-the-best-thing-you-heard-recently/answer/Julia-Kvach?share=6d36c3f0&srid=XTaeu">Quora</a></figcaption>
 </figure>
 
-Khi hiểu rõ quy luật 80/20 thì chắc hẳn ai trong chúng ta cũng sẽ phải thừa nhận mình đã quá lãng phí thời gian vào những việc không đáng. Sau đây là một vài 
+Khi hiểu rõ quy luật 80/20 thì chắc hẳn ai trong chúng ta cũng sẽ phải thừa nhận mình đã quá lãng phí thời gian vào những việc không đáng. Sau đây là một vài chia sẻ về sự tập trung khi đọc toán của tôi.
 
 
 
