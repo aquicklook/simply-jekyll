@@ -35,10 +35,12 @@ Bởi vì một biểu thức toán học không chỉ đơn thuần là các k�
 Ví dụ, thứ tự viết và đọc thông thường mà chúng ta thường hay làm là từ trái sang phải, nhưng 
 
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
+
 $$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}=45$$
+
 $$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
 
-đòi hỏi chúng ta phải đọc nó bằng hai chiều.
+đòi hỏi chúng ta phải đọc nó bằng hai chiều, thậm chí 3 chiều.
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
