@@ -73,4 +73,4 @@ Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một b
 
 Các nguyên nhân kể trên là các nguyên nhân kiến cho bạn khó tiếp cận với toán học. Nếu bạn muốn đặt nền móng vững chắc cho việc đọc toán bạn cần phải lần lượt khắc phục từng vấn đề mà bạn gặp phải. Khi khắc phục được chúng, bạn sẽ trang bị cho bản thân một bộ kỹ năng cần thiết giúp cho việc đọc toán hiệu quả. 
 
-> [[It’s not about being great at any one thing — you just need to be pretty good at an array of useful skills that, when combined, make you truly one of a kind.::highlight]]
+> [[It’s not about being great at any one thing — you just need to be pretty good at an array of useful skills that, when combined, make you truly one of a kind::highlight]] by <a href="https://forge.medium.com/@tomaspueyo">Tomas Pueyo</a> on <a href="https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428">Medium</a>.
