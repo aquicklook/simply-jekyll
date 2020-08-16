@@ -32,23 +32,14 @@ Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ng
 
 Bởi vì một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó việc hiểu một biểu thức toán học không hoàn toàn là hai chiều. Ví dụ, thứ tự viết và đọc thông thường mà chúng ta thường hay làm là từ trái sang phải, nhưng 
 
-$$\sum_{k=1}^{n}a_{i,k}b_{k,j}$$
-
-lại đòi hỏi chúng ta phải đọc nó bằng hai chiều. Để dễ hiểu, bạn có thể viết lại nó thành một biểu thức tuyến tính như sau:
-
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
 
-Hoặc ba nhiều, ví dụ như
+lại đòi hỏi chúng ta phải đọc nó bằng hai chiều.
 
-$$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*} $$
+Hoặc
 
-$$\begin{array}{cccl}
-\sum_{i=1}^{3}\sum_{j=2}^{4} & = &   & \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*} \\
-                             & = &   & \left (\sum_{j=2}^{4}1+j  \right )+\left (\sum_{j=2}^{4}2+j  \right )+\left (\sum_{j=2}^{4}3+j  \right )  \\
-                             & = &   & \left ( (1+2)+(1+3)+(1+4)\right ) \\
-                             &   & + & \left ( (2+2)+(2+3)+(2+4)\right ) \\
-                             &   & + & \left ( (3+2)+(3+3)+(3+4)\right ) \\
-\end{array}$$
+$$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}=45$$
+
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
