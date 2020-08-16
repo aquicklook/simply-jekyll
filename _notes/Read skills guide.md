@@ -48,13 +48,10 @@ $$\begin{matrix}{|c|c|c|l|} \\
   &                                &   & + & \left ( (3+2)+(3+3)+(3+4)\right )
 \end{matrix}$$
 
-\begin{array}{|l|r|c|}
-\hline \\
-l-left & r-right & c-center \\
-\hline \\
-c & d & e \\
-\hline
-\end{array}
+$$\begin{array}{|l|r|c|} \hline \\
+l-left & r-right & c-center \\ \hline \\
+c & d & e \\ \hline
+\end{array}$$
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
