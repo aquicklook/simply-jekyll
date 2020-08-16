@@ -30,15 +30,13 @@ Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ng
 
 Để viết được toán, bạn có thể sử dụng giấy và bút chì hoặc tất cả những công cụ nào có thể lưu trữ lại sự hiểu biết của bạn về một biểu thức toán học mà bạn gặp phải. Để thuận tiện, bạn có thể sử dụng [MathJax](https://mathjax.github.io/MathJax-demos-web/input-tex2chtml.html) hoặc [Overleaf](https://www.overleaf.com/) để viết toán bằng [$$\LaTeX$$ syntax](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf) trong quá trình tìm hiểu. Lý do mà tôi đề xuất các công cụ này là vì nó giúp bạn hiểu rõ kết cấu cơ bản cũng như mối quan hệ của các toán hạng và toán tử trong biểu thức mà bạn đang tìm hiểu, thứ hai là nó dễ dàng thay đổi trong quá trình ghi chép.
 
-Một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó thứ tự viết và đọc thông thường mà chúng ta thường gặp là từ trái sang phải, nhưng có một số biểu thức toán học đòi hỏi chúng ta phải đọc bằng 2 thậm chí là 3 chiều. Ví dụ:
+Notes: Một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó thứ tự viết và đọc thông thường mà chúng ta thường gặp là từ trái sang phải, nhưng có một số biểu thức toán học đòi hỏi chúng ta phải đọc bằng 2 thậm chí là 3 chiều.[[Khi gặp biểu thức như vậy bạn nên viết lại từng thành phần của biểu thức bằng một biểu thức đơn giản hơn và lần lượt ghép nối từng thành phần đó lại để có được một sự hiểu biết hoàn chỉnh về nó.::rsn]]. Ví dụ:
 
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
 
 $$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}=\left ( \sum_{j=2}^{4}1+j \right )+\left ( \sum_{j=2}^{4}2+j \right )+\left ( \sum_{j=2}^{4}3+j \right )=45$$
 
 $$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
-
-Khi gặp một biểu thức như vậy, lời khuyên của tôi là nên viết lại thành một biểu thức diễn đạt đơn giản hơn bằng cách lần lượt ghép nối từng thành phần lại để có được một sự hiểu biết hoàn chỉnh về biểu thức đó.
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
