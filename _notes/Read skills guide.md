@@ -48,7 +48,7 @@ $$\begin{matrix}{|c|c|c|l|} \\
   &                                &   & + & \left ( (3+2)+(3+3)+(3+4)\right )
 \end{matrix}$$
 
-$$\begin{array}{|c|c|c|l|} \\
+$$\begin{array}{cccl} \\
 \sum_{i=1}^{3}\sum_{j=2}^{4} & = & & \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*} \\
                              & = & & \left (\sum_{j=2}^{4}1+j  \right )+\left (\sum_{j=2}^{4}2+j  \right )+\left (\sum_{j=2}^{4}3+j  \right )  \\
 \end{array}$$
