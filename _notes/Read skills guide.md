@@ -41,9 +41,9 @@ $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
 Hoặc ba nhiều, ví dụ như
 
 $$\begin{matrix}
-  &\sum_{i=1}^{3}\sum_{j=2}^{4}    &=   \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}      \\ 
-  &                                &=  \left (\sum_{j=2}^{4}1+j  \right )+\left (\sum_{j=2}^{4}2+j  \right )+\left (\sum_{j=2}^{4}3+j  \right )  \\
-  &                                &=& &  \left ( (1+2)+(1+3)+(1+4)\right ) \\
+  &\sum_{i=1}^{3}\sum_{j=2}^{4}    &=&   \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}      \\ 
+  &                                &=&  \left (\sum_{j=2}^{4}1+j  \right )+\left (\sum_{j=2}^{4}2+j  \right )+\left (\sum_{j=2}^{4}3+j  \right )  \\
+  &                                &=&  \left ( (1+2)+(1+3)+(1+4)\right ) \\
   &                                & & &+ \left ( (2+2)+(2+3)+(2+4)\right ) \\
   &                                & & &+ \left ( (3+2)+(3+3)+(3+4)\right )
 \end{matrix}$$
