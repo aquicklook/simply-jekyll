@@ -40,20 +40,13 @@ $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
 
 Hoặc ba nhiều, ví dụ như
 
-$$\begin{matrix}
+$$
   &\sum_{i=1}^{3}\sum_{j=2}^{4}    &=& &&\begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}      \\ 
   &                                &=& &&\left (\sum_{j=2}^{4}1+j  \right )+\left (\sum_{j=2}^{4}2+j  \right )+\left (\sum_{j=2}^{4}3+j  \right )  \\
   &                                &=& &&\left ( (1+2)+(1+3)+(1+4)\right ) \\
   &                                & & &+& \left ( (2+2)+(2+3)+(2+4)\right ) \\
   &                                & & &+& \left ( (3+2)+(3+3)+(3+4)\right )
-\end{matrix}$$
-
-$$\begin{tabular}{||||c|c|c|}
-    \hline
-    abc & 123 & 456 \\ \hline
-    a   & 2   & 2   \\ \hline
-    2   & 3   & 3   \\ \hline
-\end{tabular}$$
+$$
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
