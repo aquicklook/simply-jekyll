@@ -30,18 +30,6 @@ Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ng
 
 Để viết được toán, bạn có thể sử dụng giấy và bút chì hoặc tất cả những công cụ nào có thể lưu trữ lại sự hiểu biết của bạn về một biểu thức toán học mà bạn gặp phải. Để thuận tiện, bạn có thể sử dụng [MathJax](https://mathjax.github.io/MathJax-demos-web/input-tex2chtml.html) hoặc [Overleaf](https://www.overleaf.com/) để viết toán bằng [$$\LaTeX$$ syntax](http://tug.ctan.org/info/symbols/comprehensive/symbols-a4.pdf) trong quá trình tìm hiểu. Lý do mà tôi đề xuất các công cụ này là vì nó giúp bạn hiểu rõ kết cấu cơ bản cũng như mối quan hệ của các toán hạng và toán tử trong biểu thức mà bạn đang tìm hiểu, thứ hai là nó dễ dàng thay đổi trong quá trình ghi chép.
 
-Bởi vì một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó việc hiểu một biểu thức toán học không hoàn toàn là hai chiều. 
-
-Ví dụ, thứ tự viết và đọc thông thường mà chúng ta thường hay làm là từ trái sang phải, nhưng 
-
-$$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
-
-$$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}=\left ( \sum_{j=2}^{4}1+j \right )+\left ( \sum_{j=2}^{4}2+j \right )+\left ( \sum_{j=2}^{4}3+j \right )=45$$
-
-$$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
-
-đòi hỏi chúng ta phải đọc nó bằng hai chiều, thậm chí 3 chiều.
-
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra) mà tôi đề cập ở phần sau.
 
 #### Focus
@@ -58,19 +46,33 @@ Khi tìm hiểu về [quy luật 80/20](https://sachvui.com/sachvui-686868666888
 Nội dung quan trọng nhất của toán được tìm thấy trong các khái niệm không phải là bài tập ở cuối mỗi phần. Toán học có rất nhiều chủ đề để tìm hiểu, mỗi chủ đề lại được phân ra thành vô số các chuyên đề và trong mỗi chuyên đề lại có vô vàn các dạng khác nhau. Vì vậy không có cách nào để học hết mọi kỹ thuật để giải bài toán đơn lẻ. Toán học là về ý tưởng. Các bài toán mà bạn được giao là biểu hiện của những ý tưởng này. Nếu tập trung vào các khái niệm chính, bạn có thể giải quyết bất kỳ vấn đề nào liên quan đến những khái niệm đó kể cả những vấn đề bạn chưa từng thấy trước đây.
 
 Có một câu chuyện được kể đằng sau mỗi khái niệm toán học. Vì vậy với mỗi khái niệm mà bạn tìm hiểu, bạn nên hình dung ra một bức tranh tổng thể về nó. Bức tranh này là câu trả lời cho các câu hỏi cơ bản khi tìm hiểu về một vấn đề...
-
+<br>
 - What does it say?
 - What are it’s hypotheses?
 - What implications does it have?
 - Are there special cases you should be aware of?
 - Can you think of examples to which the concept applies?
 - Can you think of examples that do not satisfy the hypotheses and the conclusion of the concept?
+<br>
+Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học.
 
-Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học. 
+Một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó thứ tự viết và đọc thông thường mà chúng ta thường gặp là từ trái sang phải, nhưng có một số biểu thức toán học đòi hỏi chúng ta phải đọc nó bằng 2 chiều, thậm chí là 3 chiều. Ví dụ, 
 
-### Conclusion
+$$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
+
+$$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}=\left ( \sum_{j=2}^{4}1+j \right )+\left ( \sum_{j=2}^{4}2+j \right )+\left ( \sum_{j=2}^{4}3+j \right )=45$$
+
+$$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
+
+Khi gặp một biểu thức như vậy, lời khuyên của tôi là nên viết lại thành một biểu thức diễn đạt đơn giản hơn bằng cách lần lượt ghép nối từng thành phần lại để có được một sự hiểu biết hoàn chỉnh về biểu thức đó. 
+
+### The takeaway
 
 <figure>
   <img src="https://miro.medium.com/max/700/1*TcsPbK3g22mU0hGe08jHPA.gif" alt="focus">
   <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
+
+Các nguyên nhân kể trên là các nguyên nhân kiến cho bạn khó tiếp cận với toán học. Nếu bạn muốn đặt nền móng vững chắc cho việc đọc toán bạn cần phải lần lượt khắc phục từng vấn đề mà bạn gặp phải. Khi khắc phục được chúng, bạn sẽ trang bị cho bản thân một bộ kỹ năng cần thiết giúp cho việc đọc toán hiệu quả. 
+
+> [[It’s not about being great at any one thing — you just need to be pretty good at an array of useful skills that, when combined, make you truly one of a kind.::highlight]]
