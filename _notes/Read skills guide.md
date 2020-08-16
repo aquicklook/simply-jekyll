@@ -53,7 +53,7 @@ Có một câu chuyện được kể đằng sau mỗi khái niệm toán học
 - Are there special cases you should be aware of?
 - Can you think of examples to which the concept applies?
 - Can you think of examples that do not satisfy the hypotheses and the conclusion of the concept?
-<br>
+
 Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học.
 
 Một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó thứ tự viết và đọc thông thường mà chúng ta thường gặp là từ trái sang phải, nhưng có một số biểu thức toán học đòi hỏi chúng ta phải đọc nó bằng 2 chiều, thậm chí là 3 chiều. Ví dụ, 
