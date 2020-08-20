@@ -327,29 +327,29 @@ main {
 /* Phrasing Style: H1, H2, H3, P, A, UL, LI */
 
 h1 {
-    font-size: 40px;
-    line-height: 48px;
+    font-size: 30px;
+    line-height: 40px;
     margin-top: 0px;
     margin-bottom: 0px;
 
 }
 
 h2 {
-    font-size: 36px;
-    line-height: 40px;
+    font-size: 26px;
+    line-height: 32px;
     margin-top: 1.95em;
     margin-bottom: -0.28em;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 24px;
     margin-top: 1.72em;
     margin-bottom: 0px;
     line-height: 36px;
 }
 
 h4 {
-    font-size: 26px;
+    font-size: 22px;
     margin-top: 1.72em;
     margin-bottom: -0.31em;
     line-height: 32px;
