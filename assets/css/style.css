@@ -7,7 +7,7 @@ layout: stylesheet
 *******************************************************/
 
 @font-face {
-    font-family: 'Title1';
+    font-family: 'Title-VN';
     src: url('/fonts/milizon-content-title-font.woff2') format('woff2'),
         url('/fonts/milizon-content-title-font.woff') format('woff');
     font-weight: normal;
@@ -366,7 +366,7 @@ h4 {
 
 h1 {
     color: #111111;
-    font-family:  'Title', 'Source Serif Pro';
+    font-family:  'Title', 'Title-VN', 'Source Serif Pro';
     font-weight: 400;
 }  
 
