@@ -411,7 +411,7 @@ b, strong {
     line-height: .83;
     text-transform: inherit;
     margin-right: 12px;
-    padding-top: 4px;
+    padding-top: 0px;
     position: relative;
     float: left;
     display: block;
