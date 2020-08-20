@@ -7,13 +7,22 @@ layout: stylesheet
 *******************************************************/
 
 @font-face {
-    font-family: 'Title';
+    font-family: 'Title1';
     src: url('/fonts/milizon-content-title-font.woff2') format('woff2'),
         url('/fonts/milizon-content-title-font.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'Title';
+    src: url('/fonts/CopyrightKlimTypeFoundry.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 @font-face {
     font-family: 'SF Text';
