@@ -371,8 +371,8 @@ h2, h3, h4 {
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
-    font-size: 21px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 28px;
     letter-spacing: -0.003em;
 }
 
@@ -884,7 +884,7 @@ hr {
 }
 
 .medium {
-    font-size: 21px !important;
+    font-size: 18px !important;
 }
 
 .medium-large {
