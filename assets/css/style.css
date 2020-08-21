@@ -758,7 +758,7 @@ hr {
 }
 
 .link-to-notes a {
-    color: #4183c4;
+    color: #4285f4;
     text-decoration: none;
     font-family: 'Feed', sans-serif;
     font-size: 15px;
@@ -839,7 +839,7 @@ hr {
 }
 
 .notes-page-tagline {
-    color: #4183c4;
+    color: #4285f4;
     font-family: 'Feed', sans-serif !important;
     font-size: 15px; 
     font-weight: 400;
