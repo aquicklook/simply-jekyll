@@ -1496,6 +1496,8 @@ label.srs-toggle {
     font-family:  'Feed', sans-serif !important;
     font-weight: 600;
     line-height: 16px;
+		margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 .related-excerpt:before {
@@ -1942,7 +1944,7 @@ h4 {
     a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
-    font-size: 19px;
+    font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
 }
