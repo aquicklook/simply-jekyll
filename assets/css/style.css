@@ -497,7 +497,6 @@ span {
 
 .MathJax_Display {
     text-align: center;
-    margin: 1.8em 0rem !important;
     position: relative;
     overflow-x:auto;
     display: block!important;
@@ -505,6 +504,10 @@ span {
     width: auto!important; 
     max-width: 680px;
     height: auto;
+margin-block-start: 1.56em !important;
+    margin-block-end: -0.46em !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
 }
 
 .MathJax_Display, .MathJax_Preview, .MathJax_Preview > * {
