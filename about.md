@@ -24,7 +24,6 @@ We are excited about…
 - Making Quicklook even better through greater focus.
 - And hopefully… as a result of all this, improving the lives of as many people as we can.
 
-<br>
 What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
 
 ## Reach out to me
