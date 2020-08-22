@@ -497,7 +497,7 @@ span {
 
 .MathJax_Display {
     text-align: center;
-    margin: 1.8em 0rem;
+    margin: 1.8em 0rem !important;
     position: relative;
     overflow-x:auto;
     display: block!important;
