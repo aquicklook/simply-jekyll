@@ -96,7 +96,6 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 
 Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Đặc biệt, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
 
-
 | Equivalence laws | Name |
 | ------------- |-------------|
 | $$p \lor T \Leftrightarrow T$$ <br> $$p \land F \Leftrightarrow F$$ | Domination laws |
@@ -124,7 +123,6 @@ Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dự
 
 Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có cơ sở. Khi tất cả các suy luận có cơ sở là đúng thì sẽ dẫn đến một kết luận đúng. Một suy luận có cơ sở có thể dẫn đến một kết luận sai nếu một trong các mệnh đề đã dùng trong suy diễn là sai. Sau đây là bảng các quy tắc suy luận đúng.[[Trong các phân số của quy tắc thì các giả thiết được viết trên tử số, kết luận được viết dưới mẫu số. Ký hiệu $$\therefore$$ có nghĩa là "vậy thì", "do đó"...::rsn]]
 
-
 | Rules of inference | Tautology | Name |
 | ------------- |-------------|-------------|
 | $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p \\ p\rightarrow q \\ \hline q \end{array}$$ |$$(p \land (p\rightarrow q))\rightarrow q$$| Modus ponens |
@@ -134,7 +132,7 @@ Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có 
 | $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ q\rightarrow p \\ \hline p\leftrightarrow q \end{array}$$ |$$((p\rightarrow q)\land (q\rightarrow p))\rightarrow (p\leftrightarrow q)$$| Law of biconditional propositions |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} (p\land q)\rightarrow r \\ \hline p\rightarrow (q\rightarrow r) \end{array}$$ |$$((p\land q)\rightarrow r)\rightarrow (p\rightarrow (q\rightarrow r))$$| Exportation |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ \hline \neg{q}\rightarrow \neg{p} \end{array}$$ |$$(p\rightarrow q)\rightarrow (\neg{q}\rightarrow \neg{p})$$| Transposition or contraposition law |
-| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ q\rightarrow r \\ \hline p\rightarrow r \end{array}$$ |$$((p\rightarrow q)\land (q\rightarrow r))\rightarrow (p\rightarrow r)$$| Hypothetical syllogism |
+| $$\begin{array}{r} \\ \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ q\rightarrow r \\ \hline p\rightarrow r \end{array}$$ |$$((p\rightarrow q)\land (q\rightarrow r))\rightarrow (p\rightarrow r)$$| Hypothetical syllogism | 
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ \hline \neg{p}\lor q \end{array}$$ |$$(p\rightarrow q)\rightarrow (\neg{p}\lor q)$$| Material implication |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} (p\lor q)\land r \\ \hline (p\land r)\lor (q\land r) \end{array}$$ |$$((p\lor q)\land r)\rightarrow ((p\land r)\lor (q\land r))$$| Distributive |
 | $$\begin{array}{r} \\ \therefore \end{array} \begin{array}{r} p\rightarrow q \\ \hline p\rightarrow (p\land q) \end{array}$$ |$$(p\rightarrow q)\rightarrow (p\rightarrow (p\land q))$$| Absorption |
