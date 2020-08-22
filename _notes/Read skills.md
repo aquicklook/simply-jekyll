@@ -63,7 +63,7 @@ Nội dung quan trọng nhất của toán được tìm thấy trong các khái
 <br>
 <br>
 Có một câu chuyện được kể đằng sau mỗi khái niệm toán học. Vì vậy với mỗi khái niệm mà bạn tìm hiểu, bạn nên hình dung ra một bức tranh tổng thể về nó. Bức tranh này là câu trả lời cho các câu hỏi cơ bản sau...
-<br>
+
 - What does it say?
 - What are it’s hypotheses?
 - What implications does it have?
@@ -71,7 +71,6 @@ Có một câu chuyện được kể đằng sau mỗi khái niệm toán học
 - Can you think of examples to which the concept applies?
 - Can you think of examples that do not satisfy the hypotheses and the conclusion of the concept?
 
-<br>
 Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học. 
 
 ## The takeaway
