@@ -23,7 +23,7 @@ We are excited about…
 - Improving the transparency and oversight of what we’re doing.
 - Making Quicklook even better through greater focus.
 - And hopefully… as a result of all this, improving the lives of as many people as we can.
-<br>
+
 <br>
 What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
 
