@@ -1046,12 +1046,12 @@ hr {
 }
   
 .searchbar input[type=text]:hover {
-    background-color: white;
+    background-color: #0000;
 }
   
 .searchbar input[type=text]:active,
 .searchbar input[type=text]:focus {
-    background-color: white;
+    background-color: #0000;
     outline: none;
 } 
 
