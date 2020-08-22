@@ -32,6 +32,7 @@ Cách tiếp cận chính quy để đọc hiểu các ký hiệu và thuật ng
 
 <span style="font-family:  'Charter', 'Source Serif Pro';font-weight: 600; ">Notes</span>: Một biểu thức toán học không chỉ đơn thuần là các ký hiệu được đặt trong một bố cục hai chiều ngẫu nhiên. Nó có một cấu trúc được tổ chức tốt, tuân theo các quy tắc của ký hiệu toán học và hơn nữa các ký hiệu thường có một mối quan hệ gần nhau. Do đó thứ tự viết và đọc thông thường mà chúng ta thường gặp là từ trái sang phải, tuy nhiên có một số biểu thức lại đòi hỏi chúng ta phải đọc bằng 2 thậm chí là 3 chiều. Khi gặp trường hợp như vậy bạn nên viết lại từng thành phần của biểu thức bằng một biểu thức đơn giản hơn và lần lượt ghép nối từng thành phần đó lại trong một mối quan hệ xác định để có được một sự hiểu biết hoàn chỉnh về nó. Ví dụ:
 
+<br>
 $$c_{i,j}=\sum_{k=1}^{n}a_{i,k}b_{k,j}=a_{i,1}b_{1,j}+\cdots +a_{i,n}b_{n,j}$$
 
 $$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 3 \\ 2\leq j\leq 4 }} (i+j) \end{equation*}=\left ( \sum_{j=2}^{4}1+j \right )+\left ( \sum_{j=2}^{4}2+j \right )+\left ( \sum_{j=2}^{4}3+j \right )=45$$
