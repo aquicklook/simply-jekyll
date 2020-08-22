@@ -1464,6 +1464,10 @@ label.srs-toggle {
     padding-top: 20px;
     padding-left: 20px;
     font-family:  'Feed', sans-serif !important;
+	    margin-top: 2.56em;
+    /* padding-top: 0px; */
+    /* border-top-width: 1px; */
+    margin-bottom: 0px;
 }
 
 .related-wrapper {
