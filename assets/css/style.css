@@ -614,6 +614,10 @@ table {
     border-spacing: 0;
     overflow-x:auto;
     display: block;
+    margin-block-start: 1.56em;
+    margin-block-end: -0.46em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 table.center {
@@ -1659,6 +1663,7 @@ label.srs-toggle {
     font-family: 'Feed', sans-serif !important;
     margin-top: 0px;
     margin-bottom: 0px;
+   display: none;
 }
 
 /* IE-SPECIFIC STYLING */
