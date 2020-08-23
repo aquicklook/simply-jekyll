@@ -546,11 +546,10 @@ code {
     font-size: 14px;
     color: rgba(41, 41, 41, 1);
     background-color: rgba(242, 242, 242, 1);
-	letter-spacing: -0.003em;
-	    line-height: 1em;
-	    word-break: break-word;
-	font-size: 75%;
-	box-sizing: inherit;
+    letter-spacing: -0.003em;
+    line-height: 1em;
+    word-break: break-word;
+    box-sizing: inherit;
 }
 
 .regular-sans code {
@@ -574,9 +573,9 @@ pre code {
     font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
     display: block;
     overflow-x: auto !important;
-	white-space: pre-wrap !important; 
+    white-space: pre-wrap !important; 
     word-wrap: normal !important;       
-    vertical-align:middle;
+    vertical-align: middle;
     width: auto  !important;
     background-color: rgba(242, 242, 242, 1);
     border: 0px solid #b3b3b3;
@@ -586,16 +585,16 @@ pre code {
     border-collapse: collapse;
     vertical-align: middle;
     border-spacing: 0;
-	margin-top: 40px;
-	padding: 20px;
+    margin-top: 40px;
+    padding: 20px;
 }
 
 code span {
     font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
     font-size: 16px;
-line-height: 1.18;
-		    margin-bottom: -0.09em;
-	margin-top: -0.09em;
+    line-height: 1.18;
+    margin-bottom: -0.09em;
+    margin-top: -0.09em;
 }
 
 blockquote:before {
