@@ -338,7 +338,7 @@ h1 {
     font-size: 40px;
     line-height: 48px;
     margin-top: 0.78em;
-    margin-bottom: -0.27em;
+    margin-bottom: 0em;
 
 }
 
@@ -368,7 +368,6 @@ h1 {
     font-family: 'Title', 'Title-VN', 'Source Serif Pro', serif;
     font-weight: 400;
     margin-block-start: 0em;
-    margin-block-end: -0.27em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }  
