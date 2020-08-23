@@ -763,6 +763,7 @@ hr {
     box-sizing: border-box;
     height: 32px;
     width: 32px;
+    display: none;
 }
 
 .dashboard {
