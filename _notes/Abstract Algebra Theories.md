@@ -2,7 +2,7 @@
 tags: abstract
 ---
 {:.boxit}
-We study fundamental algebraic structures, namely groups, rings, fields and modules, and maps between these structures. Ideally, the reasoning underlying each step of a proof should be completely clear, but the overall argument should be as brief as possible, allowing a sharp overview of the result. These two requirements are in opposition, and it is my job as expositor to try to resolve  the conflict.
+Abstract Algebra is very different than the algebra most people study in high school. This math subject focuses on abstract structures with names like groups, rings, fields and modules. These structures have applications in many areas of mathematics, and are being used more and more in the sciences, too.
 
 ## Propositional and logical
 <p class="p1">Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.</p>
