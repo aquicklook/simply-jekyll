@@ -15,12 +15,12 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 Cách đọc toán thì khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc tiếp phần sau, đôi khi dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ không thể nào tránh được một số nội dung đòi hỏi bạn phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
 
 ## Why do problem exists?
-<p style="margin-top: 0.67em;">Hầu hết mọi người đều được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích nghi được với nó. Bởi vì dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó tiếp cận về mặt nội dung, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.</p>
+<p class="p1">Hầu hết mọi người đều được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích nghi được với nó. Bởi vì dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó tiếp cận về mặt nội dung, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.</p>
 
 Điều này là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục.
 
 ### Language
-<p style="margin-top: 0.67em;">Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau, vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.</p>
+<p class="p1">Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau, vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.</p>
 
 Con đường hiệu quả nhất để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Phương pháp học ngôn ngữ của toán cũng tương tự như vậy, trong đó từ vựng và ngữ pháp ở đây được hiểu là các ký hiệu và quy tắc sử dụng các ký hiệu. 
 
@@ -40,7 +40,7 @@ $$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra).
 
 ### Focus
-<p style="margin-top: 0.67em;">Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân.[[Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%.::rsn]] Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu.</p>
+<p class="p1">Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân.[[Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%.::rsn]] Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu.</p>
 
 <figure>
   <img src="https://qph.fs.quoracdn.net/main-qimg-9a3652ec7c10bf781402eebfd6ff7c0a" alt="focus">
@@ -63,7 +63,7 @@ Có một câu chuyện được kể đằng sau mỗi khái niệm toán học
 Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học. 
 
 ## The takeaway
-<p style="margin-top: 0.67em;">Các nguyên nhân kể trên là các nguyên nhân kiến cho bạn khó tiếp cận với toán học. Nếu bạn muốn đặt nền móng vững chắc cho việc đọc toán bạn cần phải lần lượt khắc phục từng vấn đề mà bạn gặp phải. Khi khắc phục được chúng, bạn sẽ trang bị cho bản thân một bộ kỹ năng cần thiết giúp cho việc đọc toán hiệu quả.</p>
+<p class="p1">Các nguyên nhân kể trên là các nguyên nhân kiến cho bạn khó tiếp cận với toán học. Nếu bạn muốn đặt nền móng vững chắc cho việc đọc toán bạn cần phải lần lượt khắc phục từng vấn đề mà bạn gặp phải. Khi khắc phục được chúng, bạn sẽ trang bị cho bản thân một bộ kỹ năng cần thiết giúp cho việc đọc toán hiệu quả.</p>
 
 > [[It’s not about being great at any one thing — you just need to be pretty good at an array of useful skills that, when combined, make you truly one of a kind::highlight]] by <a href="https://forge.medium.com/@tomaspueyo">Tomas Pueyo</a> on <a href="https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428">Medium</a>.
 
