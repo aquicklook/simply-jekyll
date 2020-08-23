@@ -574,7 +574,7 @@ pre code {
     font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
     display: block;
     overflow-x: auto !important;
-    white-space: pre-line !important;       
+	white-space: pre-wrap !important; 
     word-wrap: normal !important;       
     vertical-align:middle;
     width: auto  !important;
@@ -592,8 +592,10 @@ pre code {
 
 code span {
     font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
-	font-size: 75%;
-    line-height: 28px;
+    font-size: 16px;
+line-height: 1.18;
+		    margin-bottom: -0.09em;
+	margin-top: -0.09em;
 }
 
 blockquote:before {
