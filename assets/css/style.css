@@ -337,8 +337,8 @@ main {
 h1 {
     font-size: 40px;
     line-height: 48px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0.78em;
+    margin-bottom: -0.27em;
 
 }
 
@@ -1941,33 +1941,32 @@ label.margin-toggle:not(.sidenote-number) {
 }
     
     h1 {
-    font-size: 30px;
-    line-height: 40px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-	    font-family:  'Title', 'Title-VN', 'Source Serif Pro', serif;    
-	        font-weight: 400;
+    font-size: 34px;
+    line-height: 42px;
+	        margin-top: 0.56em;
+	    margin-bottom: -0.27em;
 
 }
     h2 {
     font-size: 26px;
-    margin-top: 1.95em;
-    font-family: 'Feed', sans-serif;
-	        font-weight: 600;
+    margin-top: 1.2em;
+	        margin-bottom: -0.28em;
+	    line-height: 32px;
 }
 
 h3 {
-    font-size: 24px;
-    margin-top: 1.95em;
-    font-family: 'Feed', sans-serif;
-	    font-weight: 600;
+    font-size: 22px;
+    margin-top: 1.23em;
+	    margin-bottom: -0.31em;
+	    line-height: 28px;
 }
 
 h4 {
     font-size: 22px;
-    margin-top: 1.95em;
-    font-family: 'Feed', sans-serif;
-	    font-weight: 600;
+    margin-top: 1.23em;
+		    margin-bottom: -0.31em;
+	    line-height: 28px;
+
 }
     
     a, p, ul, li, ol, table, span, blockquote {
