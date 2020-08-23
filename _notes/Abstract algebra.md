@@ -10,7 +10,6 @@ Giá trị đúng, sai của một mệnh đề được gọi là chân trị c
 Ví dụ: $$2<3$$ là một mệnh đề đúng. $$3>4$$ là một mệnh đề sai. $$x+y=z$$ không phải là một mệnh đề vì nó chẳng đúng cũng chẳng sai. "Một số thực âm không phải là số chính phương" không phải là mệnh đề vì nó có chân trị đúng nếu ta xét trên tập số thực $$\mathbb{R}$$ và có chân trị sai nếu xét trên tập số phức $$\mathbb{C}$$.
 
 ### Propositional calculus
-
 <p class="p1">Trong các phép tính mệnh đề, ta không quan tâm đến ý nghĩa của câu phát biểu mà [[chỉ chú ý đến chân trị của các mệnh đề::highlight]]. Do đó, thông thường ta không ghi rõ các câu phát biểu mà chỉ ghi ký hiệu. Các chữ cái sẽ được dùng để ký hiệu các mệnh đề. Những chữ cái thường dùng là \(p, q, r, \cdots\).</p>
 
 Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathbf{false}$$) được gọi là mệnh đề nguyên từ — atomic proposition. Các mệnh đề không phải là mệnh đề nguyên từ gọi là mệnh đề phức hợp — compound propositions. Thông thường, tất cả các mệnh đề phức hợp là mệnh đề liên kết hay có chứa phép tính mệnh đề.
@@ -18,23 +17,18 @@ Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathb
 Các phép tính mệnh đề được sử dụng nhằm mục đích kết nối các mệnh đề lại với nhau để tạo ra một mệnh đề mới. Các phép tính mệnh đề bao gồm: phép phủ định, phép hội, phép tuyển, phép XOR, phép kéo theo và phép tương đương.
 
 #### Negation
-
 <p class="p1">Phủ định của mệnh đề \(p\) là một mệnh đề, ký hiệu là \(\overline{p}\) hay \(\neg{p}\), đúng khi \(p\) sai và sai khi \(p\) đúng.</p>
 
 #### Conjunction
-
 <p class="p1">Hội của hai mệnh đề \(p, q\) là một mệnh đề, đọc là \(p\) và \(q\), ký hiệu \(p \land q\) hay \(p \cdot q\), đúng khi cả hai mệnh đề \(p, q\) cùng đúng và sai trong các trường hợp còn lại.</p>
 
 #### Disjunction
-
 <p class="p1">Tuyển của hai mệnh đề \(p, q\) là một mệnh đề, đọc là \(p\) hoặc \(q\), ký hiệu là \(p \lor q\) hay \(p + q\), sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.</p>
 
 #### XOR
-
 <p class="p1">\(\mathrm{XOR}\) của hai mệnh đề \(p, q\) là một mệnh đề, đọc là \(p~\mathrm{XOR}~q\), ký hiệu là \(p\bigoplus q\), đúng khi một trong hai mệnh đề đúng và sai trong các trường hợp còn lại.</p>
 
 #### Implication
-
 <p class="p1">\(p\) kéo theo \(q\) là một mệnh đề, ký hiệu là \(p \rightarrow q\), chỉ sai khi \(p\) đúng và \(q\) sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề \(p\) được gọi là mệnh đề giả thiết còn mệnh đề \(q\) được gọi là mệnh đề kết luận.</p>
 
 #### The truth table
@@ -48,8 +42,7 @@ F &   F &   T        &  F        &    F       &     F              &  T         
 \end{array}$$
 
 #### Biconditional
-
-Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề của phép kéo theo là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều hay đảo đề của nhau.[[$$p\rightarrow q = q\rightarrow p$$::rsn]] Đây là ý tưởng của phép tương đương.
+<p class="p1">Nhìn vào phần chữ đỏ của bảng chân trị, ta thấy vấn đề của phép kéo theo là từ một mệnh đề sai, ta có thể suy ra mọi thứ mà vẫn có một mệnh đề đúng. Ý tưởng để giải quyết tình trạng này là sử dụng hai lần phép kéo theo ngược chiều hay đảo đề của nhau.[[\(p\rightarrow q = q\rightarrow p\)::rsn]] Đây là ý tưởng của phép tương đương.</p>
 
 $$p$$ tương đương $$q$$ là một mệnh đề, ký hiệu là $$p\leftrightarrow q$$, đúng nếu cả hai mệnh đề $$p$$ và $$q$$ cùng đúng hoặc cùng sai.
 
@@ -64,12 +57,10 @@ T              &   F              &  F        &  F        &  T       &  T       
 \end{array}$$
 
 ### Consequents
-
-Mục đích của các phép tính logic là tìm ra một mệnh đề có chân trị đúng từ các mệnh đề ban đầu mà ta đã biết chân trị của nó là đúng. Phép tính tương đương giải quyết vấn đề trên rất tốt, phần này sẽ giới thiệu về là một số khái niệm được sinh ra từ các phép tính mệnh đề và trình bày một số quy luật thường gặp của phép tương đương logic.
+<p class="p1">Mục đích của các phép tính logic là tìm ra một mệnh đề có chân trị đúng từ các mệnh đề ban đầu mà ta đã biết chân trị của nó là đúng. Phép tính tương đương giải quyết vấn đề trên rất tốt, phần này sẽ giới thiệu về là một số khái niệm được sinh ra từ các phép tính mệnh đề và trình bày một số quy luật thường gặp của phép tương đương logic.</p>
 
 #### Tautologie, contradiction and contingency
-
-Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{true}$$.
+<p class="p1">Mệnh đề hằng đúng là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là đúng bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ \(\neg{p} \lor p \equiv \mathbf{true}\).</p>
 
 Mệnh đề hằng sai là một mệnh đề hoặc một biểu thức mệnh đề luôn có chân trị là sai bất chấp sự lựa chọn chân trị của biến mệnh đề. Ví dụ $$\neg{p} \lor p \equiv \mathbf{false}$$.
 
@@ -84,8 +75,7 @@ F &   F &   T &             F &           T                              \\ \hli
 \end{array}$$
 
 #### Consequence
-
-Với $$f, g$$ là hai biểu thức mệnh đề, $$g$$ là mệnh đề hệ quả của $$f$$ hay $$g$$ được suy ra từ $$f$$ nếu $$f\rightarrow g$$ là một mệnh đề hằng đúng, ký hiệu là $$f \mapsto g$$. Ví dụ, cho $$f = (p \rightarrow q)\land (q \rightarrow r)$$ và $$g = p \rightarrow r$$, chứng minh $$f\mapsto g$$.
+<p class="p1">Với \(f, g\) là hai biểu thức mệnh đề, \(g\) là mệnh đề hệ quả của \(f\) hay \(g\) được suy ra từ \(f\) nếu \(f\rightarrow g\) là một mệnh đề hằng đúng, ký hiệu là \(f \mapsto g\). Ví dụ, cho \(f = (p \rightarrow q)\land (q \rightarrow r)\) và \(g = p \rightarrow r\), chứng minh \(f\mapsto g\).</p>
 
 $$\begin{array} {|c|c|}\hline p & q & r & p \rightarrow q & q \rightarrow r & f & g & f\rightarrow g \\ \hline T & T & T & T & T & T & T & T \\ \hline T & T & F & T & F & F & F & T \\ \hline T & F & T & F & T & F & T & T \\ \hline T & F & F & F & T & F & F & T \\ \hline F & T & T & T & T & T & T & T \\ \hline F & T & F & T & F & F & T & T \\ \hline F & F & T & T & T & T & T & T \\ \hline F & F & F & T & T & T & T & T \\ \hline  \end{array}$$
 
