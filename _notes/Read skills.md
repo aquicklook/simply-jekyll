@@ -40,13 +40,12 @@ $$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra).
 
 #### Focus
+<p style="margin-top: 0.67em;">Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân.[[Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%.::rsn]] Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu.</p>
 
 <figure>
   <img src="https://qph.fs.quoracdn.net/main-qimg-9a3652ec7c10bf781402eebfd6ff7c0a" alt="focus">
   <figcaption>Photo by <a href="https://www.quora.com/profile/Julia-Kvach">Julia Kvach</a> on <a href="https://www.quora.com/What-is-the-best-thing-you-heard-recently/answer/Julia-Kvach?share=6d36c3f0&srid=XTaeu">Quora</a> said about 0.8% of people hold over half of total wealth.</figcaption>
 </figure>
-
-Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân.[[Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%.::rsn]] Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu.
 
 Khi tìm hiểu về [quy luật 80/20](https://sachvui.com/sachvui-686868666888/ebooks/2017/pdf/Sachvui.Com-nguyen-ly-80-20.pdf), chắc hẳn ai trong chúng ta cũng sẽ phải thừa nhận mình đã quá lãng phí thời gian vào những việc không đáng. Dưới đây là một vài nhân tố chính quyết định phần lớn hiệu quả đọc toán của bạn.
 
