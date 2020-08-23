@@ -37,7 +37,7 @@ $$\sum_{i=1}^{3}\sum_{j=2}^{4} = \begin{equation*} \sum_{\substack{ 1\leq i\leq 
 
 $$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
 
-Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra).
+Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra-theories).
 
 ### Focus
 <p class="p1">Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân.[[Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%.::rsn]] Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu.</p>
