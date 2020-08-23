@@ -1946,24 +1946,28 @@ label.margin-toggle:not(.sidenote-number) {
     margin-top: 0px;
     margin-bottom: 0px;
 	    font-family:  'Title', 'Title-VN', 'Source Serif Pro', serif;    
+	        font-weight: 400;
 
 }
     h2 {
     font-size: 26px;
     margin-top: 1.95em;
     font-family: 'Feed', sans-serif;
+	        font-weight: 600;
 }
 
 h3 {
     font-size: 24px;
     margin-top: 1.95em;
     font-family: 'Feed', sans-serif;
+	    font-weight: 600;
 }
 
 h4 {
     font-size: 22px;
     margin-top: 1.95em;
     font-family: 'Feed', sans-serif;
+	    font-weight: 600;
 }
     
     a, p, ul, li, ol, table, span, blockquote {
