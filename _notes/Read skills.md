@@ -14,15 +14,13 @@ I have a deep conviction that mathematics is about ideas, not just formulas and 
 
 Cách đọc toán thì khác, thỉnh thoảng bạn sẽ không hiểu phần trước nếu chưa đọc tiếp phần sau, đôi khi dành thời gian để nghiền ngẫm câu từ lại không hiệu quả bằng việc tham khảo qua các ví dụ hoặc hình ảnh và tất nhiên bạn sẽ không thể nào tránh được một số nội dung đòi hỏi bạn phải đọc với số chiều nhiều hơn 2. Sau đây là một số chia sẻ về việc đọc toán mà tôi cho rằng nó hữu ích với mọi người.
 
-### Why do problem exists?
-
-Hầu hết mọi người đều được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích nghi được với nó. Bởi vì dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó tiếp cận về mặt nội dung, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.
+## Why do problem exists?
+<p style="margin-top: 0.67em;">Hầu hết mọi người đều được tiếp cận với toán từ sớm, tuy nhiên không phải ai cũng thích nghi được với nó. Bởi vì dù bạn đạt điểm cao trong các kỳ thi về toán thì nó vẫn là một môn học khó tiếp cận về mặt nội dung, đó là chưa kể đến việc bạn muốn tìm hiểu nó bằng một ngôn ngữ khác.</p>
 
 Điều này là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục.
 
 #### Language
-
-Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau, vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.
+<p style="margin-top: 0.67em;">Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau, vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.</p>
 
 Con đường hiệu quả nhất để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Phương pháp học ngôn ngữ của toán cũng tương tự như vậy, trong đó từ vựng và ngữ pháp ở đây được hiểu là các ký hiệu và quy tắc sử dụng các ký hiệu. 
 
