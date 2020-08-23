@@ -335,8 +335,8 @@ main {
 /* Phrasing Style: H1, H2, H3, P, A, UL, LI */
 
 h1 {
-    font-size: 40px;
-    line-height: 48px;
+    font-size: 30px;
+    line-height: 40px;
     margin-top: 0px;
     margin-bottom: 0px;
 
@@ -365,8 +365,8 @@ h4 {
 
 h1 {
     color: #292929;
-    font-family:  'Title', 'Title-VN', 'Source Serif Pro';
-    font-weight: 400;
+    font-family:  'Charter', 'Source Serif Pro';
+    font-weight: 600;
 }  
 
 h2, h3, h4 {
