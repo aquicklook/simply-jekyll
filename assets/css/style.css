@@ -549,6 +549,8 @@ code {
 	letter-spacing: -0.003em;
 	    line-height: 28px;
 	    word-break: break-word;
+	font-size: 75%;
+	box-sizing: inherit;
 }
 
 .regular-sans code {
