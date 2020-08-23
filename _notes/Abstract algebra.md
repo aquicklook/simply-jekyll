@@ -19,23 +19,23 @@ Các phép tính mệnh đề được sử dụng nhằm mục đích kết n�
 
 #### Negation
 
-Phủ định của mệnh đề $$p$$ là một mệnh đề, ký hiệu là $$\overline{p}$$ hay $$\neg{p}$$, đúng khi $$p$$ sai và sai khi $$p$$ đúng.
+<p class="p1">Phủ định của mệnh đề \(p\) là một mệnh đề, ký hiệu là \(\overline{p}\) hay \(\neg{p}\), đúng khi \(p\) sai và sai khi \(p\) đúng.</p>
 
 #### Conjunction
 
-Hội của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ và $$q$$, ký hiệu $$p \land q$$ hay $$p \cdot q$$, đúng khi cả hai mệnh đề $$p, q$$ cùng đúng và sai trong các trường hợp còn lại.
+<p class="p1">Hội của hai mệnh đề \(p, q\) là một mệnh đề, đọc là \(p\) và \(q\), ký hiệu \(p \land q\) hay \(p \cdot q\), đúng khi cả hai mệnh đề \(p, q\) cùng đúng và sai trong các trường hợp còn lại.
 
 #### Disjunction
 
-Tuyển của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ hoặc $$q$$, ký hiệu là $$p \lor q$$ hay $$p + q$$, sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
+<p class="p1">Tuyển của hai mệnh đề \(p, q\) là một mệnh đề, đọc là \(p\) hoặc \(q\), ký hiệu là \(p \lor q\) hay \(p + q\), sai khi cả hai mệnh đề cùng sai và đúng trong trường hợp còn lại.
 
 #### XOR
 
-$$\mathrm{XOR}$$ của hai mệnh đề $$p, q$$ là một mệnh đề, đọc là $$p$$ xor $$q$$, ký hiệu là $$p\bigoplus q$$, đúng khi một trong hai mệnh đề đúng và sai trong các trường hợp còn lại.
+<p class="p1">\(\mathrm{XOR}\) của hai mệnh đề \(p, q\) là một mệnh đề, đọc là \(p~\mathrm{XOR}~q\), ký hiệu là \(p\bigoplus q\), đúng khi một trong hai mệnh đề đúng và sai trong các trường hợp còn lại.
 
 #### Implication
 
-$$p$$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$, chỉ sai khi $$p$$ đúng và $$q$$ sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề $$p$$ được gọi là mệnh đề giả thiết còn mệnh đề $$q$$ được gọi là mệnh đề kết luận.
+<p class="p1">$p$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$, chỉ sai khi $$p$$ đúng và $$q$$ sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề $$p$$ được gọi là mệnh đề giả thiết còn mệnh đề $$q$$ được gọi là mệnh đề kết luận.
 
 #### The truth table
 
