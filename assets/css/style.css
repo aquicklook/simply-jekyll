@@ -1959,29 +1959,27 @@ label.margin-toggle:not(.sidenote-number) {
     h1 {
     font-size: 34px;
     line-height: 42px;
-	        margin-top: 0.56em;
-	    margin-bottom: -0.27em;
 
 }
     h2 {
     font-size: 26px;
     margin-top: 1.2em;
-	        margin-bottom: -0.28em;
-	    line-height: 32px;
+    margin-bottom: -0.28em;
+    line-height: 32px;
 }
 
 h3 {
     font-size: 22px;
     margin-top: 1.23em;
-	    margin-bottom: -0.31em;
-	    line-height: 28px;
+    margin-bottom: -0.31em;
+    line-height: 28px;
 }
 
 h4 {
     font-size: 22px;
     margin-top: 1.23em;
-		    margin-bottom: -0.31em;
-	    line-height: 28px;
+    margin-bottom: -0.31em;
+    line-height: 28px;
 
 }
     
