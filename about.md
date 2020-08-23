@@ -25,8 +25,7 @@ We are excited about…
 What could be better? No wonder we are excited to get to work with everyone anywhere in the world!
 
 ## Reach out to me
-
-[[Twitter::https://twitter.com/Quicklook102]] — Shoot me a dm or just tweet <span style="font-family:  'Charter', 'Source Serif Pro';font-weight: 600; ">@Quicklook102</span>. I am not really into professional social media circle but anyway here is my [[LinkedIn::https://www.linkedin.com/in/quicklook-inc-586967173/]] just in case.
+<p class="p1">[[Twitter::https://twitter.com/Quicklook102]] — Shoot me a dm or just tweet <span style="font-family:  'Charter', 'Source Serif Pro';font-weight: 600; ">@Quicklook102</span>. I am not really into professional social media circle but anyway here is my [[LinkedIn::https://www.linkedin.com/in/quicklook-inc-586967173/]] just in case.</p>
 
 Ho Chi Minh is pretty large, so I can’t promise but If you happen to be in city by chance and want to chat, drop an email ([[quicklook.vn@gmail.com::mailto:quicklook.vn@gmail.com]]) and include [Coffee] in the subject line, and we can work something out.
 
