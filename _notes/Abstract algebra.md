@@ -35,7 +35,7 @@ Các phép tính mệnh đề được sử dụng nhằm mục đích kết n�
 
 #### Implication
 
-<p class="p1">$p$ kéo theo $$q$$ là một mệnh đề, ký hiệu là $$p \rightarrow q$$, chỉ sai khi $$p$$ đúng và $$q$$ sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề $$p$$ được gọi là mệnh đề giả thiết còn mệnh đề $$q$$ được gọi là mệnh đề kết luận.</p>
+<p class="p1">\(p\) kéo theo \(q\) là một mệnh đề, ký hiệu là \(p \rightarrow q\), chỉ sai khi \(p\) đúng và \(q\) sai và đúng trong các trường hợp còn lại. Lúc này mệnh đề \(p\) được gọi là mệnh đề giả thiết còn mệnh đề \(q\) được gọi là mệnh đề kết luận.</p>
 
 #### The truth table
 
