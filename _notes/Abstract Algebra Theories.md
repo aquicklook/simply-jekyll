@@ -5,6 +5,7 @@ tags: abstract
 Abstract Algebra is very different than the algebra most people study in high school. This math subject focuses on abstract structures with names like groups, rings, fields and modules. These structures have applications in many areas of mathematics, and are being used more and more in the sciences, too.
 
 ## Propositional and logical
+
 {:.p1}
 Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
 
