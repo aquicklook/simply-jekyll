@@ -547,7 +547,7 @@ code {
     color: rgba(41, 41, 41, 1);
     background-color: rgba(242, 242, 242, 1);
     letter-spacing: -0.003em;
-    line-height: 1em;
+    line-height: normal;
     word-break: break-word;
     box-sizing: inherit;
 }
