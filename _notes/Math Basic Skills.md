@@ -3,7 +3,7 @@ tags: read writing
 ---
 
 {:.boxit}
-Learning mathematics is different than learning most other subjects. In mathematics, special vocabulary and symbols are used and it is important that you not only understand the concepts being presented, but that you also apply these concepts. To be successful in mathematics, you need not only to read, attend class, and study, but you must practice the skills as often as you can. Mathematics is not a subject you learn by watching; you must do mathematics to learn mathematics.
+In mathematics, special vocabulary and symbols are used and it is important that you not only understand the concepts being presented, but that you also apply these concepts. To be successful in mathematics, you need not only to read, attend class, and study, but you must practice the skills as often as you can. Mathematics is not a subject you learn by watching; you must do mathematics to learn mathematics.
 
 <figure>
   <img src="https://images.unsplash.com/photo-1578667343354-26a1de5bfe5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" alt="read_book">
