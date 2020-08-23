@@ -82,8 +82,7 @@ $$\begin{array} {|c|c|}\hline p & q & r & p \rightarrow q & q \rightarrow r & f 
 Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì khi $$f$$ đúng bắt buộc $$g$$ phải đúng, ngược lại khi $$g$$ đúng ta chưa thể kết luận được gì về chân trị của $$f$$. Đặc biệt, khi với giả thiết mệnh đề $$f$$ đúng ta chứng minh được mệnh đề $$g$$ cũng đúng thì ta nói mệnh đề $$f$$ suy ra mệnh đề $$g$$, ký hiệu là $$f \Rightarrow g$$ hay $$g \Leftarrow f$$. Lúc này ta nói $$f$$ là điều kiện đủ để có $$g$$ và $$g$$ là điều kiện cần để có $$f$$.[[$$( \lvert a \rvert < b) \Rightarrow (b>0)$$ nhưng từ $$b>0$$ không suy ra được $$ \lvert a \rvert < b $$.::rsn]] 
 
 #### Logical equivalence
-
-Hai mệnh đề $$p, q$$ được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của $$p$$ và $$q$$ là một hằng đúng. Đặc biệt, khi $$p \Rightarrow q$$ và $$q \Rightarrow p$$ thì ta nói mệnh đề $$p$$ tương đương mệnh đề $$q$$, ký hiệu là $$p \Leftrightarrow q$$. Lúc này ta nói $$p, q$$ lần lượt là điều kiện cần và đủ để có $$q, p$$.
+<p class="p1">Hai mệnh đề \(p, q\) được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của \(p\) và \(q\) là một hằng đúng. Đặc biệt, khi \(p \Rightarrow q\) và \(q \Rightarrow p\) thì ta nói mệnh đề \(p\) tương đương mệnh đề \(q\), ký hiệu là \(p \Leftrightarrow q\). Lúc này ta nói \(p, q\) lần lượt là điều kiện cần và đủ để có \(q, p\).</p>
 
 | Equivalence laws | Name |
 | ------------- |-------------|
@@ -108,8 +107,7 @@ Các phương pháp chứng minh rất quan trọng vì không những chúng th
 Tuy nhiên, có những phương pháp chứng minh đúng vì nó được dựa trên cơ sở của một mệnh đề hằng đúng và có những phương pháp chứng minh sai. Các phương pháp chứng minh sai này là do cố ý hoặc vô ý. Khi phương pháp chứng minh dựa trên một hằng sai thì sẽ mang lại kết quả sai nhưng ta vẫn cho là đúng thì được gọi là cố ý. Đôi khi có những phương pháp chứng minh dựa trên một tiếp liên mà ta tưởng lầm là hằng đúng nên cho là kết quả bao giờ cũng đúng thì trường hợp này gọi là vô ý hay ngộ nhận.
 
 ### Inference rules
-
-Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có cơ sở. Khi tất cả các suy luận có cơ sở là đúng thì sẽ dẫn đến một kết luận đúng. Một suy luận có cơ sở có thể dẫn đến một kết luận sai nếu một trong các mệnh đề đã dùng trong suy diễn là sai. Sau đây là bảng các quy tắc suy luận đúng.[[Trong các phân số của quy tắc thì các giả thiết được viết trên tử số, kết luận được viết dưới mẫu số. Ký hiệu $$\therefore$$ có nghĩa là "vậy thì", "do đó"...::rsn]]
+<p class="p1">Những suy luận có dùng các quy tắc suy diễn gọi là suy luận có cơ sở. Khi tất cả các suy luận có cơ sở là đúng thì sẽ dẫn đến một kết luận đúng. Một suy luận có cơ sở có thể dẫn đến một kết luận sai nếu một trong các mệnh đề đã dùng trong suy diễn là sai. Sau đây là bảng các quy tắc suy luận đúng.[[Trong các phân số của quy tắc thì các giả thiết được viết trên tử số, kết luận được viết dưới mẫu số. Ký hiệu \(\therefore\) có nghĩa là "vậy thì", "do đó"...::rsn]]</p>
 
 | Rules of inference | Tautology | Name |
 | ------------- |-------------|-------------|
@@ -149,12 +147,10 @@ F &   F &     T \\ \hline
 Nhận thấy rằng, $$p\rightarrow q$$ là đúng có 3 trường hợp. Các trường hợp này chính là các phương pháp chứng minh sẽ được trình bày dưới đây. Trước khi đi vào các phương pháp chứng minh, có một khái niệm mà chúng ta cần tìm hiểu, đó là khái niệm về "hàm mệnh đề".
 
 #### Propositional function
-
-Với các tập không rỗng $$A_1, A_2, \cdots , A_n$$ sao cho ứng với mỗi $$x_1\in A_1, x_2\in A_2, \cdots , x_n\in A_n$$ ta có một mệnh đề, ký hiệu $$P(x_1, x_2, \cdots ,x_n )$$. Ta nói $$P(x_1, x_2, \cdots ,x_n )$$ là một hàm mệnh đề theo $$n$$ biến $$x$$.
+<p class="p1">Với các tập không rỗng \(A_1, A_2, \cdots , A_n\) sao cho ứng với mỗi \(x_1\in A_1, x_2\in A_2, \cdots , x_n\in A_n\) ta có một mệnh đề, ký hiệu \(P(x_1, x_2, \cdots ,x_n )\). Ta nói \(P(x_1, x_2, \cdots ,x_n )\) là một hàm mệnh đề theo \(n\) biến \(x\).</p>
 
 #### p is false
-
-Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi $$p$$ sai, bất chấp kết luận $$q$$ thế nào thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$p$$ là sai. Phương pháp chứng minh này được gọi là chứng minh rỗng. Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý.
+<p class="p1">Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi \(p\) sai, bất chấp kết luận \(q\) thế nào thì mệnh đề \(p\rightarrow q\) là luôn đúng. Vậy, để chứng minh mệnh đề \(p\rightarrow q\) là đúng, ta chỉ cần chứng minh rằng \(p\) là sai. Phương pháp chứng minh này được gọi là chứng minh rỗng. Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý.
 
 Ví dụ, cho hàm mệnh đề $$P(n)= n^2>n~(\forall n>1)$$, chứng minh $$P(1) = \mathbf{true}$$.
 <br>
