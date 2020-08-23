@@ -19,7 +19,7 @@ Cách đọc toán thì khác, thỉnh thoảng bạn sẽ không hiểu phần 
 
 Điều này là một sự phân bổ của chọn lọc tự nhiên. Tuy nhiên, chấp nhận sự thật hiển nhiên khác với việc cố gắng hoàn thành tốt một khóa toán học. Dưới đây là một vài nguyên nhân làm cho vấn đề này luôn tồn tại bên cạnh nguyên nhân chính kể trên và cách khắc phục.
 
-#### Language
+### Language
 <p style="margin-top: 0.67em;">Hai mục tiêu cần đạt được khi tìm hiểu về một định lý: [[hiểu phát biểu::highlight]] và hiểu chứng minh. Mục tiêu thứ nhất quan trọng hơn mục tiêu thứ hai. Tuy nhiên các nhà toán học lại sử dụng một hệ thống ngôn ngữ riêng để giao tiếp ý tưởng với nhau, vì vậy để có thể đạt được hai mục tiêu kể trên cần sự thông hiểu về ngôn ngữ toán học. Ngôn ngữ này bao gồm nền tảng từ một số ngôn ngữ tự nhiên,[[e.g., English, Latin, Greek, Roman...::rsn]] sử dụng các thuật ngữ kỹ thuật, các ký hiệu tượng trưng và quy ước ngữ pháp đặc biệt đi kèm.</p>
 
 Con đường hiệu quả nhất để thành thạo ngôn ngữ thứ hai là phải thường xuyên trau dồi vốn từ vựng và củng cố ngữ pháp bên cạnh việc thực hành. Phương pháp học ngôn ngữ của toán cũng tương tự như vậy, trong đó từ vựng và ngữ pháp ở đây được hiểu là các ký hiệu và quy tắc sử dụng các ký hiệu. 
@@ -39,7 +39,7 @@ $$\prod_{i=1}^{n}i=1\times2\times \cdots\times n=n!$$
 
 Mục đích chính của việc học ngôn ngữ toán học là để giao tiếp ý tưởng. Hiểu ý nghĩa của các ký hiệu và cách đọc viết thôi chưa đủ bởi vì điều này mới chỉ giải quyết được một phần của vấn đề. Để có thể giao tiếp ngược lại với các nhà toán học khác, bạn cần trang bị một số kiến thức của [Abstract algebra](https://quicklook.netlify.app/notes/abstract-algebra).
 
-#### Focus
+### Focus
 <p style="margin-top: 0.67em;">Một quy luật rất phổ biến mà phần lớn mọi người đều đã nghe qua đó là quy luật thiểu số quan trọng và phân bố nhân tố.[[[Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) and also known as the 80/20 rule.::rsn]] Quy luật này phát biểu rằng trong nhiều sự kiện khoảng 80% kết quả đến từ 20% nguyên nhân.[[Trong thực tế tỷ lệ này có thể thay đổi tùy vào lĩnh vực hoặc sự kiện, nó có thể là 70/30 hay thậm chí 99.9/0.01. Đồng thời, tổng của 2 vế không nhất thiết bằng 100%.::rsn]] Ý nghĩa của nó là sự lựa chọn để phân bổ nguồn lực hữu hạn nhằm đạt trạng thái tối ưu.</p>
 
 <figure>
