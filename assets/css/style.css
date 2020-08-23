@@ -576,23 +576,24 @@ pre code {
     overflow-x: auto !important;
     white-space: pre-line !important;       
     word-wrap: normal !important;       
-    padding: 15px 15px  15px 15px;
     vertical-align:middle;
     width: auto  !important;
-    background-color: #eaf5ff;
+    background-color: rgba(242, 242, 242, 1);
     border: 0px solid #b3b3b3;
-    border-radius: 6px;
+    border-radius: 0px;
     color: #555;
     margin: 0 auto;
     border-collapse: collapse;
     vertical-align: middle;
     border-spacing: 0;
+	margin-top: 40px;
+	padding: 20px;
 }
 
 code span {
     font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
-    font-size: 12px;
-    line-height: 1rem;
+	font-size: 75%;
+    line-height: 28px;
 }
 
 blockquote:before {
