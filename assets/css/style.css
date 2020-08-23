@@ -478,8 +478,8 @@ img {
   height: auto;
   margin: auto;
   padding: 0;
-	display: block;
-margin-top: 40px;
+  display: block;
+  margin-top: 40px;
 }
 
 img.scaled {
@@ -543,7 +543,7 @@ code {
     padding: 2px 4px;
     border: 0px solid #e9e9e9;
     border-radius: 0px;
-    font-size: 14px;
+    font-size: 16px;
     color: rgba(41, 41, 41, 1);
     background-color: rgba(242, 242, 242, 1);
     letter-spacing: -0.003em;
