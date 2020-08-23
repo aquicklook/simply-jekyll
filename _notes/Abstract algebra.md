@@ -11,7 +11,7 @@ Ví dụ: $$2<3$$ là một mệnh đề đúng. $$3>4$$ là một mệnh đề 
 
 ### Propositional calculus
 
-Trong các phép tính mệnh đề, ta không quan tâm đến ý nghĩa của câu phát biểu mà [[chỉ chú ý đến chân trị của các mệnh đề::highlight]]. Do đó, thông thường ta không ghi rõ các câu phát biểu mà chỉ ghi ký hiệu. Các chữ cái sẽ được dùng để ký hiệu các mệnh đề. Những chữ cái thường dùng là $$p, q, r, \cdots $$.
+<span style= "margin-block-start: 0.67em; margin-block-end: -0.46em; margin-inline-start: 0px; margin-inline-end: 0px;">Trong các phép tính mệnh đề, ta không quan tâm đến ý nghĩa của câu phát biểu mà [[chỉ chú ý đến chân trị của các mệnh đề::highlight]]. Do đó, thông thường ta không ghi rõ các câu phát biểu mà chỉ ghi ký hiệu. Các chữ cái sẽ được dùng để ký hiệu các mệnh đề. Những chữ cái thường dùng là $$p, q, r, \cdots $$.</span>
 
 Mệnh đề chỉ có một giá trị đơn ($$\mathbf{true}$$ hoặc $$\mathbf{false}$$) được gọi là mệnh đề nguyên từ — atomic proposition. Các mệnh đề không phải là mệnh đề nguyên từ gọi là mệnh đề phức hợp — compound propositions. Thông thường, tất cả các mệnh đề phức hợp là mệnh đề liên kết hay có chứa phép tính mệnh đề.
 
