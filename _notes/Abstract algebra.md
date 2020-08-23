@@ -157,16 +157,14 @@ Ví dụ, cho hàm mệnh đề $$P(n)= n^2>n~(\forall n>1)$$, chứng minh $$P(
 Ta có giả thiết $$1>1$$ là sai, bất chấp kết luận $$1^2>1$$ là đúng hay sai thì $$P(1)$$ là đúng.
 
 #### q is true
-
-Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi $$q$$ đúng, bất chấp giả thiết $$p$$ là đúng hay sai thì mệnh đề $$p\rightarrow q$$ là luôn đúng. Vậy, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta chỉ cần chứng minh rằng $$q$$ là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường. Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý.
+<p class="p1">Dựa vào dòng 1 và dòng 3 của bảng chân trị, nhận thấy rằng khi \(q\) đúng, bất chấp giả thiết \(p\) là đúng hay sai thì mệnh đề \(p\rightarrow q\) là luôn đúng. Vậy, để chứng minh mệnh đề \(p\rightarrow q\) là đúng, ta chỉ cần chứng minh rằng \(q\) là đúng. Phương pháp chứng minh này được gọi là chứng minh tầm thường. Phương pháp chứng minh tầm thường cũng được sử dụng để chứng minh các trường hợp đặc biệt của định lý.</p>
 
 Ví dụ, cho hàm mệnh đề $$P(n)= a^n>b^n~(\forall a,b \in \mathbb{Z}^{+}; a\geq b)$$, chứng minh $$P(0) = \mathbf{true}$$.
 <br>
 Ta có $$a^0=b^0=1$$, do đó $$a^0\geq b^0$$ là đúng. Vậy $$P(0)$$ là đúng bất chấp giả thiết $$a\geq b$$ là đúng hay sai.
 
 #### Direct proof
-
-Trong dòng 1 của bảng chân trị, mệnh đề $$p$$ kéo theo $$q$$ có thể được chứng minh bằng cách chỉ ra rằng nếu $$p$$ đúng thì $$q$$ cũng phải đúng. Nghĩa là tổ hợp $$p$$ đúng $$q$$ sai không bao giờ xảy ra. Phương pháp này được gọi là chứng minh trực tiếp.
+<p class="p1">Trong dòng 1 của bảng chân trị, mệnh đề \(p\) kéo theo \(q\) có thể được chứng minh bằng cách chỉ ra rằng nếu \(p\) đúng thì \(q\) cũng phải đúng. Nghĩa là tổ hợp \(p\) đúng \(q\) sai không bao giờ xảy ra. Phương pháp này được gọi là chứng minh trực tiếp.</p>
 
 Để thực hiện phương pháp chứng minh trực tiếp, ta giả sử rằng $$p$$ là đúng, sau đó sử dụng các quy tắc suy luận hay các định lý để chỉ ra rằng $$q$$ là đúng và kết luận $$p\rightarrow q$$ là đúng.
 
@@ -183,8 +181,7 @@ $$\begin{matrix}
 <br> Vì $$2(2k^2+2k)+1$$ là số lẻ nên nếu $$n$$ là số lẻ thì $$n^2$$ cũng là số lẻ.
 
 #### Indirect proof
-
-Vì mệnh đề $$p\rightarrow q \leftrightarrow \neg{q}\rightarrow \neg{p}$$. Do đó, để chứng minh mệnh đề $$p\rightarrow q$$ là đúng, ta có thể chỉ ra rằng mệnh đề $$\neg{q}\rightarrow \neg{p}$$ là đúng.
+<p class="p1">Vì mệnh đề \(p\rightarrow q \leftrightarrow \neg{q}\rightarrow \neg{p}\). Do đó, để chứng minh mệnh đề \(p\rightarrow q\) là đúng, ta có thể chỉ ra rằng mệnh đề \(\neg{q}\rightarrow \neg{p}\) là đúng.</p>
 
 Ví dụ, chứng minh rằng nếu $$3n+2$$ là số lẻ thì n là số lẻ.
 <br>
@@ -198,8 +195,7 @@ $$\begin{matrix}
 <br> Vì $$2(3k+1)$$ là số chẵn nên nếu $$3n+2$$ là số lẻ thì $$n$$ là số lẻ.
 
 #### Reductio ad absurdum
-
-Chứng minh phản chứng thường được sử dụng để chứng minh mệnh đề $$p$$ là đúng. Trước hết, ta giả sử ngược lại rằng $$p$$ là sai hay $$\neg{p}$$ là đúng. Từ mệnh đề $$\neg{p}$$ là đúng dẫn đến kết luận $$q$$ sao cho $$\neg{p} \rightarrow q$$ phải đúng. Khi đó, ta chỉ ra rằng $$q$$ là một mâu thuẫn, nghĩa là: $$q=r\land \neg{r}$$. Vì $$\neg{p} \rightarrow q$$ phải đúng và chân trị của $$q=\mathbf{false}$$ nên ta suy ra rằng $$\neg{p}= \mathbf{false}\Rightarrow p=\mathbf{true}.$$
+<p class="p1">Chứng minh phản chứng thường được sử dụng để chứng minh mệnh đề \(p\) là đúng. Trước hết, ta giả sử ngược lại rằng \(p\) là sai hay \(\neg{p}\) là đúng. Từ mệnh đề \(\neg{p}\) là đúng dẫn đến kết luận \(q\) sao cho \(\neg{p} \rightarrow q\) phải đúng. Khi đó, ta chỉ ra rằng \(q\) là một mâu thuẫn, nghĩa là: \(q=r\land \neg{r}\). Vì \(\neg{p} \rightarrow q\) phải đúng và chân trị của \(q=\mathbf{false}\) nên ta suy ra rằng \(\neg{p}= \mathbf{false}\Rightarrow p=\mathbf{true}\).</p>
 
 Phương pháp chứng minh phản chứng thường được sử dụng để chứng minh những vấn đề cơ bản và điều quan trọng trong kỹ thuật này là tìm ra được mâu thuẫn của $$r\land \neg{r}$$.
 
@@ -208,12 +204,12 @@ Ví dụ, chứng minh rằng $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số
 <br> Khi đó $$n^2=(2k+1)^2=2(2k^2+2k)+1$$ là số lẻ. Mâu thuẫn với giả thiết $$n^2$$ là số chẵn. Suy ra điều giả sử sai. Vậy $$\forall n\in \mathbb{N}$$ nếu $$n^2$$ là số chẵn thì $$n$$ là số chẵn.
 
 #### Induction
-
-Quy nạp toán học thường sử dụng để chứng minh các mệnh đề dạng $$\forall nP(n)$$. Nguyên lý chứng minh quy nạp bao gồm 2 bước như sau:
-<br> Bước cơ sở: Kiểm tra $$P(x_0)$$ là đúng với $$x_0$$ là giá trị đầu tiên của dãy số $$n$$.
+<p class="p1">
+Quy nạp toán học thường sử dụng để chứng minh các mệnh đề dạng \(\forall nP(n)\). Nguyên lý chứng minh quy nạp bao gồm 2 bước như sau:
+<br> Bước cơ sở: Kiểm tra \(P(x_0)\) là đúng với \(x_0\) là giá trị đầu tiên của dãy số \(n\).
 <br> Bước quy nạp:
-<br> — [[Dạng quy nạp yếu::highlight]], ta giả sử $$P(k)$$ là đúng khi $$n=k$$, từ đó suy ra $$P(k+1)$$ là đúng.
-<br> — [[Dạng quy nạp mạnh::highlight]], ta giả sử nếu $$(P(x_0)\land P(x_1)\land \cdots \land P(k)) \rightarrow P({k+1})$$ là đúng thì $$P(n)$$ là mệnh đề đúng $$\forall n$$.
+<br> — [[Dạng quy nạp yếu::highlight]], ta giả sử \(P(k)\) là đúng khi \(n=k\), từ đó suy ra \(P(k+1)\) là đúng.
+<br> — [[Dạng quy nạp mạnh::highlight]], ta giả sử nếu \((P(x_0)\land P(x_1)\land \cdots \land P(k)) \rightarrow P({k+1})\) là đúng thì \(P(n)\) là mệnh đề đúng \(\forall n\).</p>
 
 Ví dụ, chứng minh $$n < 2^n, n\in \mathbb{Z}^{+}$$.
 <br>
