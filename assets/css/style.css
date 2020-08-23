@@ -834,13 +834,6 @@ hr {
     padding: 0px;
 }
 
-
-
-
-
-
-
-
 /* Notes: Note-heading, Note-subheading, Notes-content, Related Notes */
 
 .notes-page-site-heading a {
@@ -1012,17 +1005,16 @@ hr {
 }
 
 .boxit {
-
     padding: 0px;
     background-color: #0000;
     border-radius: 0px;
     font-family: 'Feed', sans-serif !important;
-color: rgba(117, 117, 117, 1);
+    color: rgba(117, 117, 117, 1);
     font-size: 18px;
     line-height: 24px;
-	    margin-top: 0.79em;
-	margin-bottom: -0.42em;
-	letter-spacing: 0;
+    margin-top: 0.79em;
+    margin-bottom: -0.42em;
+    letter-spacing: 0;
 }
 
 #boxit {
@@ -1143,12 +1135,6 @@ color: rgba(117, 117, 117, 1);
     cursor: pointer;
 }
 
-.back-icon,
-.back-p {
-    vertical-align: middle;
-    display: -webkit-inline-box;
-}
-
 .back-p {
     color: #292929;
     text-decoration: none;
@@ -1157,6 +1143,11 @@ color: rgba(117, 117, 117, 1);
     font-weight: 600;
 }
 
+.back-icon,
+.back-p {
+    vertical-align: middle;
+    display: -webkit-inline-box;
+}
 
 .feed-title-excerpt-block {
     width: 100%;
