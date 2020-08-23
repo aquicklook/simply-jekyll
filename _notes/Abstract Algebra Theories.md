@@ -2,7 +2,7 @@
 tags: abstract
 ---
 {:.boxit}
-We study fundamental algebraic structures, namely groups, rings, fields and modules, and maps between these structures. The techniques are used in many areas of  mathematics, and there are applications to physics, engineering and computer science as well. In addition, I have attempted to communicate the intrinsic beauty of the subject.  Ideally, the reasoning underlying each step of a proof should be completely clear, but the overall argument should be as brief as possible, allowing a sharp overview of the result. These two requirements are in opposition, and it is my job as expositor to try to resolve  the conflict.
+We study fundamental algebraic structures, namely groups, rings, fields and modules, and maps between these structures. In addition, I have attempted to communicate the intrinsic beauty of the subject.  Ideally, the reasoning underlying each step of a proof should be completely clear, but the overall argument should be as brief as possible, allowing a sharp overview of the result. These two requirements are in opposition, and it is my job as expositor to try to resolve  the conflict.
 
 ## Propositional and logical
 <p class="p1">Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.</p>
