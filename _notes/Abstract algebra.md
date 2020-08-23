@@ -150,7 +150,7 @@ Nhận thấy rằng, $$p\rightarrow q$$ là đúng có 3 trường hợp. Các 
 <p class="p1">Với các tập không rỗng \(A_1, A_2, \cdots , A_n\) sao cho ứng với mỗi \(x_1\in A_1, x_2\in A_2, \cdots , x_n\in A_n\) ta có một mệnh đề, ký hiệu \(P(x_1, x_2, \cdots ,x_n )\). Ta nói \(P(x_1, x_2, \cdots ,x_n )\) là một hàm mệnh đề theo \(n\) biến \(x\).</p>
 
 #### p is false
-<p class="p1">Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi \(p\) sai, bất chấp kết luận \(q\) thế nào thì mệnh đề \(p\rightarrow q\) là luôn đúng. Vậy, để chứng minh mệnh đề \(p\rightarrow q\) là đúng, ta chỉ cần chứng minh rằng \(p\) là sai. Phương pháp chứng minh này được gọi là chứng minh rỗng. Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý.
+<p class="p1">Dựa vào 2 dòng cuối của bảng chân trị, nhận thấy rằng khi \(p\) sai, bất chấp kết luận \(q\) thế nào thì mệnh đề \(p\rightarrow q\) là luôn đúng. Vậy, để chứng minh mệnh đề \(p\rightarrow q\) là đúng, ta chỉ cần chứng minh rằng \(p\) là sai. Phương pháp chứng minh này được gọi là chứng minh rỗng. Phương pháp chứng minh rỗng thường được sử dụng để chứng minh các trường hợp đặc biệt của định lý.</p>
 
 Ví dụ, cho hàm mệnh đề $$P(n)= n^2>n~(\forall n>1)$$, chứng minh $$P(1) = \mathbf{true}$$.
 <br>
