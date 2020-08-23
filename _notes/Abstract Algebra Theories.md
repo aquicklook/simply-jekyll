@@ -5,7 +5,8 @@ tags: abstract
 Abstract Algebra is very different than the algebra most people study in high school. This math subject focuses on abstract structures with names like groups, rings, fields and modules. These structures have applications in many areas of mathematics, and are being used more and more in the sciences, too.
 
 ## Propositional and logical
-<p class="p1">Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.</p>
+{:.p1}
+Mệnh đề là một phát biểu khẳng định một sự kiện nào đó, sao cho khẳng định đó chỉ nhận một trong hai giá trị hoặc đúng hoặc sai, không thể nhập nhằng, nghĩa là không thể vừa đúng vừa sai, cũng không thể vừa không đúng vừa không sai.
 
 Giá trị đúng, sai của một mệnh đề được gọi là chân trị của mệnh đề. Chân trị của mệnh đề đúng ký hiệu là $$T$$ $$(\mathbf{true})$$, chân trị của mệnh đề sai ký hiệu là $$F$$ $$(\mathbf{false})$$. Bảng chân trị của mệnh đề là bảng tổng kết các trường hợp đúng sai có thể xảy ra của mệnh đề. Sự xác định chân trị thường dựa vào thực nghiệm và lý luận bằng cách kết hợp các mệnh đề mà ta đã biết chân trị lại với nhau để tạo ra một mệnh đề mới. 
 
