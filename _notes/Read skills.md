@@ -64,12 +64,11 @@ Có một câu chuyện được kể đằng sau mỗi khái niệm toán học
 Khi hoàn tất câu trả lời cho các câu hỏi này bạn sẽ có một bức tranh tổng thể về khái niệm bao gồm bối cảnh lịch sử và sự phát triển của các ý tưởng đồng thời nhận ra được ưu, nhược điểm của các ý tưởng được trình bày. Để làm được như vậy, bạn cần phải đọc nhiều lần kể cả các ví dụ và hình ảnh minh họa, thậm chí đôi lúc bạn cần phải tham khảo hoặc tìm kiếm sự trợ giúp từ bên ngoài. Lặp lại nhiều lần như vậy không những giúp bạn có được một kiến thức nền tảng về toán tốt mà còn giúp bạn nhớ lâu hơn nữa các khái niệm toán học. 
 
 ## The takeaway
+<p style="margin-top: 0.67em;">Các nguyên nhân kể trên là các nguyên nhân kiến cho bạn khó tiếp cận với toán học. Nếu bạn muốn đặt nền móng vững chắc cho việc đọc toán bạn cần phải lần lượt khắc phục từng vấn đề mà bạn gặp phải. Khi khắc phục được chúng, bạn sẽ trang bị cho bản thân một bộ kỹ năng cần thiết giúp cho việc đọc toán hiệu quả.</p>
+
+> [[It’s not about being great at any one thing — you just need to be pretty good at an array of useful skills that, when combined, make you truly one of a kind::highlight]] by <a href="https://forge.medium.com/@tomaspueyo">Tomas Pueyo</a> on <a href="https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428">Medium</a>.
 
 <figure>
   <img src="https://miro.medium.com/max/700/1*TcsPbK3g22mU0hGe08jHPA.gif" alt="focus">
   <figcaption style=" margin-top: 10px; ">It’s better to have three okay tools than a single, perfect one. The axe is great at breaking obstacles, but not that useful to jump over pits. The grapple is great to jump over ice or pits, but not amazing for slaying dragons. The only way to win is by having both tools.</figcaption>
 </figure>
-
-Các nguyên nhân kể trên là các nguyên nhân kiến cho bạn khó tiếp cận với toán học. Nếu bạn muốn đặt nền móng vững chắc cho việc đọc toán bạn cần phải lần lượt khắc phục từng vấn đề mà bạn gặp phải. Khi khắc phục được chúng, bạn sẽ trang bị cho bản thân một bộ kỹ năng cần thiết giúp cho việc đọc toán hiệu quả. 
-
-> [[It’s not about being great at any one thing — you just need to be pretty good at an array of useful skills that, when combined, make you truly one of a kind::highlight]] by <a href="https://forge.medium.com/@tomaspueyo">Tomas Pueyo</a> on <a href="https://forge.medium.com/how-to-become-the-best-in-the-world-at-something-f1b658f93428">Medium</a>.
