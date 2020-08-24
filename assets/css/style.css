@@ -1191,6 +1191,7 @@ hr {
     line-height: 28px;
     letter-spacing: -.42px!important;
     margin: 0px;
+    text-transform: capitalize;
 }
 
 .feed-title:hover {
