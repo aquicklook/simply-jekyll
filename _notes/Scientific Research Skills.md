@@ -11,7 +11,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
   <div id="play-btn"></div>
   <div class="audio-wrapper" id="player-container" href="javascript:;">
     <audio id="player" ontimeupdate="initProgressBar()">
-      <source src="https://dl-web.dropbox.com/get/Oslo.mp3?_subject_uid=199049471&w=AABuDNt9BDJnaZOelVFws9FXTufkXCvAPS5SYpy_gRZ2GQ&duc_id=dropbox_duc_id" type="audio/mp3">
+      <source src="http://www.lukeduncan.me/oslo.mp3" type="audio/mp3">
     </audio>
   </div>
   <div class="player-controls scrubber">
