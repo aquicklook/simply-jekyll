@@ -8,21 +8,6 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
 
 <iframe
         scrolling="no"
-        width=640
-        height=180
+        width=853
+        height=240
         src=https://zingmp3.vn/embed/song/ZWAFOEAF?start=false frameborder="0" allowfullscreen="true" />
-        
-        
-{@youtube: https://www.youtube.com/watch?v=HndN6P9ke6U}
-
-{@vimeo: https://vimeo.com/62604492}
-
-{@slideshare: http://www.slideshare.net/asanzdiego/markdown-slides-en}
-
-{@codepen: https://codepen.io/nickmoreton/pen/gbyygq}
-
-{@gist: https://gist.github.com/JeffreyWay/207e3bfdb5cafff050a1d75dbf755a5c}
-
-{@jsfiddle: http://jsfiddle.net/kizu/zfUyN/}
-
-{@googleslide: https://docs.google.com/presentation/d/1nJ65LUlu9k_tfuQJ4jq4z-qmqOQZ0DjKKw8wn5qnnFA/edit#slide=id.p}
