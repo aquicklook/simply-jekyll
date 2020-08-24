@@ -722,9 +722,8 @@ hr {
   margin: 4rem 0 4rem 0;
   width: 600px; 
   
-  
-  .player-controls {
-    align-items: center;
+.player-controls {
+  align-items: center;
     justify-content: center;
     margin-top: 2.5rem;
     flex: 3;
@@ -752,12 +751,14 @@ hr {
       background-color: blue;
     }
     
-    p {
-      font-size: 1.6rem;
-    }
+p {
+    font-size: 16px;
+	line-height: 20px;
+	  font-family:  'Feed', sans-serif;
+}
   }
   
-  #play-btn {
+#play-btn {
     background-image: url('http://imgur.com/JzQP8td.png');
     background-size: cover;
     width: 75px;
