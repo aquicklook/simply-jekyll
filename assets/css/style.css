@@ -720,7 +720,7 @@ hr {
   display: flex;
   flex-flow: row;
   margin: 4rem 0 4rem 0;
-  width: 600px;
+  width: 600px; 
   
   
   .player-controls {
