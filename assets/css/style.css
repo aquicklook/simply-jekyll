@@ -734,11 +734,9 @@ hr {
 .p {
     justify-content: center;
 }
-
 .n {
     display: flex;
 }
-
 .am {
     flex: 1 0 auto;
 }
@@ -847,8 +845,7 @@ button {
     line-height: 20px;
 }
 .ar {
-    font-family:  'Feed', sans-serif;
-    font-weight: 400;
+    font-family: 'Feed', sans-serif;
 }
 
 .o {
@@ -920,6 +917,104 @@ button {
 }
 .ga {
     justify-content: flex-start;
+}
+
+.fi {
+    max-width: 728px;
+}
+
+.fh {
+    margin-right: auto;
+}
+.fg {
+    margin-left: auto;
+}
+.ff {
+    padding-right: 24px;
+}
+.fe {
+    padding-left: 24px;
+}
+.do {
+    box-sizing: border-box;
+}
+.ai {
+    width: 100%;
+}
+.r {
+    display: block;
+}
+
+.bo {
+    background-color: rgba(53, 88, 118, 1);
+}
+
+.bn {
+    border-top: none;
+}
+.r {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.r {
+    display: block;
+}
+
+.c {
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.x {
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+}
+
+.w {
+    z-index: 500;
+}
+.v {
+    right: 0;
+}
+.u {
+    left: 0;
+}
+.t {
+    top: 0;
+}
+.s {
+    position: absolute;
+}
+.r {
+    display: block;
+}
+.c {
+    background-color: rgba(255, 255, 255, 1);
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+user agent stylesheet
+nav {
+    display: block;
+}
+.b {
+    font-weight: 400;
+}
+.a {
+    font-family: 'Feed', sans-serif;
+}
+
+.d {
+    display: none;
+}
+
+.c {
+    background-color: rgba(255, 255, 255, 1);
+}
+div {
+    display: block;
 }
 
 
