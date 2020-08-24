@@ -722,11 +722,6 @@ hr {
   margin: 4rem 0 4rem 0;
   width: 600px;
   
-  .album-image {
-    min-height: 100px;
-    width: 100px;
-    background-size: cover;
-  }
   
   .player-controls {
     align-items: center;
