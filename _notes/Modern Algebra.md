@@ -2,7 +2,7 @@
 tags: abstract
 ---
 {:.boxit}
-Abstract Algebra is very different than the algebra most people study in high school. This math subject focuses on abstract structures with names like groups, rings, fields and modules. These structures have applications in many areas of mathematics, and are being used more and more in the sciences, too.
+Modern Algebra or Abstract Algebra is very different than the algebra most people study in high school. This math subject focuses on abstract structures with names like groups, rings, fields and modules. These structures have applications in many areas of mathematics, and are being used more and more in the sciences, too.
 
 ## Propositional and logical
 
