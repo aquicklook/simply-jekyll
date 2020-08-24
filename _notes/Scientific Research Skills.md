@@ -9,3 +9,5 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
 <audio preload="auto" id="id12" controls="controls" onended="func12();" src="http://upload.wikimedia.org/wikipedia/commons/8/86/20090724NIHWiki.ogg"></audio>
 
 {@youtube: https://www.youtube.com/watch?v=HndN6P9ke6U}
+
+{@vimeo: https://vimeo.com/62604492}
