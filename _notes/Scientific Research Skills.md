@@ -6,8 +6,21 @@ Scientific researches are studies that should be systematically planned before p
 
 Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồn::highlight]]. Nó hiện diện ở mọi nơi trong thế giới thực, từ sinh hoạt cá nhân đến công việc hằng ngày. Đói phải ăn, rét phải mặc, công việc trì trệ phải tìm cách thay đổi... chúng đều là các vấn đề của sinh tồn. 
 
-<iframe
-        scrolling="no"
-        width=853
-        height=240
-        src=https://zingmp3.vn/embed/song/ZWAFOEAF?start=false frameborder="0" allowfullscreen="true" />
+
+<div class="audio-player">
+  <div id="play-btn"></div>
+  <div class="audio-wrapper" id="player-container" href="javascript:;">
+    <audio id="player" ontimeupdate="initProgressBar()">
+      <source src="https://dl-web.dropbox.com/get/Oslo.mp3?_subject_uid=199049471&w=AABuDNt9BDJnaZOelVFws9FXTufkXCvAPS5SYpy_gRZ2GQ&duc_id=dropbox_duc_id" type="audio/mp3">
+    </audio>
+  </div>
+  <div class="player-controls scrubber">
+    <p>Oslo <small>by</small> Holy Esque</p>
+    <span id="seek-obj-container">
+      <progress id="seek-obj" value="0" max="1"></progress>
+    </span>
+    <small style="float: left; position: relative; left: 15px;" id="start-time"></small>
+    <small style="float: right; position: relative; right: 20px;" id="end-time"></small>
+  </div>
+  <div class="album-image" style="background-image: url(https://artistxite.ie/imgcache/album/005/161/005161476_500.jpg)"></div>
+</div>
