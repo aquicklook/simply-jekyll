@@ -370,6 +370,7 @@ h1 {
     margin-block-start: 0em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
+    text-transform:capitalize;
 }  
 
 h2, h3, h4 {
