@@ -22,5 +22,4 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
     <small style="float: left; position: relative; left: 15px;" id="start-time"></small>
     <small style="float: right; position: relative; right: 20px;" id="end-time"></small>
   </div>
-  <div class="album-image" style="background-image: url(https://artistxite.ie/imgcache/album/005/161/005161476_500.jpg)"></div>
 </div>
