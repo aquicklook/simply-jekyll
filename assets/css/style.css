@@ -376,6 +376,14 @@ h2, h3, h4 {
     letter-spacing: -0.022em;
 }  
 
+h4 {
+	display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
