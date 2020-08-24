@@ -15,7 +15,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
     </audio>
   </div>
   <div class="player-controls scrubber">
-    <p>Oslo <small>by</small> Holy Esque</p>
+    <p>Listen to this story</p>
     <span id="seek-obj-container">
       <progress id="seek-obj" value="0" max="1"></progress>
     </span>
