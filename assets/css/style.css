@@ -1000,6 +1000,20 @@ button {
     display: block;
 }
 
+.gd {
+    background: linear-gradient(to right, rgba(41, 41, 41, 1) 0%, rgba(242, 242, 242, 1) 0);
+}
+
+.gc {
+    height: 2px;
+}
+.gb {
+    flex-grow: 1;
+}
+.ga {
+    justify-content: flex-start;
+}
+
 
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
 
