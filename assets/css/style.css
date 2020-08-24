@@ -715,8 +715,8 @@ hr {
 /* audio*/
 
 .audio-player {
-  border: 1px solid lighten(#acacac, 20%);
-  text-align: center;
+  border: 0px solid lighten(#acacac, 20%);
+  text-align: left;
   display: flex;
   flex-flow: row;
   margin: 4rem 0 4rem 0;
@@ -768,6 +768,227 @@ p {
       background-image: url('http://imgur.com/MbJn41l.png');
     }
   }
+}
+
+
+.audio-player {
+  background: white;
+  width: 50vw;
+  text-align: center;
+  display: flex;
+  flex-flow: row;
+  margin: 0rem 0 0rem 0;
+  .player-controls {
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.5rem;
+    flex: 3;
+    progress {
+      width: 80%;
+    }
+    progress[value] {
+      -webkit-appearance: none;
+      appearance: none;
+      background-color: rgb(242, 242, 242);
+      color: rgb(41, 41, 41);
+      height: 2px;
+    }
+    progress[value]::-webkit-progress-bar {
+      background-color: rgb(242, 242, 242);
+      color: rgb(41, 41, 41);
+    }
+    progress::-webkit-progress-value {
+      background-color: rgb(41, 41, 41);
+    }
+    p {
+      font-size: 1.6rem;
+    }
+  }
+}
+
+.fj {
+    margin-top: 30px;
+}
+.r {
+    display: block;
+}
+.fk {
+    margin: 20px 0;
+}
+.p {
+    justify-content: center;
+}
+
+.n {
+    display: flex;
+}
+
+.am {
+    flex: 1 0 auto;
+}
+.o {
+    align-items: center;
+}
+
+.fl {
+    margin-right: 16px;
+}
+.r {
+    display: block;
+}
+
+.fu {
+    border-color: rgba(117, 117, 117, 1);
+}
+
+.ft {
+    background: 0;
+}
+.fr {
+    text-decoration: none;
+}
+.fq {
+    display: inline-block;
+}
+.fp {
+    border-style: solid;
+}
+.fo {
+    border-width: 1px;
+}
+.fn {
+    padding: 8px;
+}
+.fm {
+    border-radius: 4px;
+}
+.eh {
+    color: #292929;
+}
+.do {
+    box-sizing: border-box;
+}
+.q {
+    fill: rgba(41, 41, 41, 1);
+}
+button, input, optgroup, select, textarea {
+    margin: auto;
+}
+button {
+    background: transparent;
+    overflow: visible;
+}
+a, button, input {
+    -webkit-tap-highlight-color: transparent;
+}
+
+button {
+    appearance: button;
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(buttontext, rgb(170, 170, 170));
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(74, 74, 74));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
+    border-image: initial;
+}
+
+.fy {
+    flex-direction: column;
+}
+.am {
+    flex: 1 0 auto;
+}
+.n {
+    display: flex;
+}
+
+.fz {
+    font-size: 16px;
+}
+
+.eh {
+    color: #292929;
+}
+.cl {
+    font-weight: 300;
+}
+.at {
+    line-height: 20px;
+}
+.ar {
+    font-family: medium-content-sans-serif-font, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
+}
+
+.o {
+    align-items: center;
+}
+.n {
+    display: flex;
+}
+
+.gl {
+    text-align: left;
+}
+.gk {
+    width: 28px;
+}
+
+.gj {
+    margin-right: 12px;
+}
+.r {
+    display: block;
+}
+
+.age {
+    background: linear-gradient(to right, rgb(41, 41, 41) 11.5385%, rgb(242, 242, 242) 0px);
+}
+.gc {
+    height: 2px;
+}
+.gb {
+    flex-grow: 1;
+}
+.ga {
+    justify-content: flex-start;
+}
+.dg {
+    cursor: pointer;
+}
+.o {
+    align-items: center;
+}
+.n {
+    display: flex;
+}
+
+.gn {
+    text-align: right;
+}
+
+.gm {
+    margin-left: 12px;
+}
+.gk {
+    width: 28px;
+}
+.r {
+    display: block;
 }
 
 
