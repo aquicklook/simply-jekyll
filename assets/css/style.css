@@ -741,7 +741,7 @@ hr:before {
 }
 .etc {
   position:relative;
-  padding:1.56rem 0 1.56rem 0;
+  padding: 0rem 0 39px 0;
   text-align:center;
   color:#292929;
   font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
