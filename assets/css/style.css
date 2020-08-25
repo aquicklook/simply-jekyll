@@ -727,6 +727,7 @@ hr {
     padding-bottom: 56.25%;
     height: 0;
     overflow: hidden;
+	    border-radius: 4px;
 }
 
 .video-wrapper iframe {
@@ -735,6 +736,7 @@ hr {
 	left: 0;
     width: 100%;
     height: 100%;
+	    border-radius: 4px;
 }
 
 
