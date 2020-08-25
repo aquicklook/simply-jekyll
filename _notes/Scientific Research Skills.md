@@ -17,7 +17,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
 <path fill="#292929" fill-rule="evenodd" d="M7 4v17.03a.5.5 0 0 0 .8.4l11.1-8.1a1 1 0 0 0 0-1.62L7.8 3.6A.5.5 0 0 0 7 4z" class="play-pause-icon" id="playPause"></path>
 </svg>
     </div>
-    <div class="n fy am"><h5 class="ar cl fz at eh">Listen to this story</h5></div>
+    <div class="n fy am"><h5 class="ar cl fz at eh">Listen to this story</h5>
     <div class="controls">
 <span class="current-time" style="width: 28px;font-size: 16px;line-height: 20px;margin-right: 12px;font-family: 'Feed', sans-serif;">--:--</span>
       <div class="slider" data-direction="horizontal">
@@ -41,6 +41,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
         </div>
       </div>
     </div>
+        </div>
     <audio crossorigin>
       <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3" type="audio/mpeg">
     </audio>
