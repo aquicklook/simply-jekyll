@@ -740,7 +740,23 @@ hr:before {
   color:#292929;
   text-align:center;
 }
-
+.etc {
+  position:relative;
+  padding:6rem 0 1rem 0;
+  text-align:center;
+  color:#292929;
+}
+.etc a {color:#292929;}
+.etc:before {
+  content:'\2022';
+  position:absolute;
+  top:1rem;
+  left:50%;
+  right: 50%
+  color:white;
+  text-shadow:0 1rem 0 #292929,
+              0 2rem 0 #292929;
+}
 
 
 
