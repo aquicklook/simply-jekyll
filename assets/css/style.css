@@ -716,7 +716,7 @@ tbody tr:last-child {
 
 /* hr*/
 hr {
-    background-color: #0000;
+    background-color: rgba(230, 230, 230, 1);
     color: rgba(230, 230, 230, 1);
     border: 0 none;
     height: 1px;
