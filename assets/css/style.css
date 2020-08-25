@@ -770,7 +770,7 @@ hr:before {
 /* youtube*/
 .video-wrapper {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom: 56%;
     height: 0;
     overflow: hidden;
     border-radius: 4px;
