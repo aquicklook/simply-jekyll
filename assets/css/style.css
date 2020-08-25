@@ -753,7 +753,7 @@ hr:before {
 }
 .etc a {color:#292929;}
 .etc:before {
-  content:'\2217\2217\2217';
+  content:'\2022\2022\2022';
   position:absolute;
   top: 50%;
   left: 50%;
@@ -763,6 +763,7 @@ hr:before {
   font-size:28px;
   line-height: 39px;
   text-align:center;
+  letter-spacing: 0.6em;
 }
 
 
