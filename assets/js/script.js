@@ -38,7 +38,7 @@ player.addEventListener('loadedmetadata', () => {
 });
 player.addEventListener('canplay', makePlay);
 player.addEventListener('ended', function(){
-  playPause.attributes.d.value = "M18 12L0 24V0";
+  playPause.attributes.d.value = "M7 4v17.03a.5.5 0 0 0 .8.4l11.1-8.1a1 1 0 0 0 0-1.62L7.8 3.6A.5.5 0 0 0 7 4z";
   player.currentTime = 0;
 });
 
