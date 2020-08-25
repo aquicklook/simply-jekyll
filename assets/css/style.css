@@ -1064,7 +1064,7 @@ div {
     }
   }
   .controls {
-    font-family: sans-serif;
+    font-family: 'Feed', sans-serif;
     font-size: 16px;
     line-height: 20px;
     color: #292929;
