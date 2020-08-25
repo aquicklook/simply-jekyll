@@ -718,6 +718,8 @@ hr {
   width:100%;
   max-width:40rem;
   margin:0 auto;
+  margin-block-start: 30px;
+  margin-block-end: 14px;
 }
 
 
@@ -728,13 +730,12 @@ hr {
 }
 hr:before {
   content:'\2044\2217\2013\2013\2013\2013\2013\2217\2044';
+  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
   position:absolute;
-  top:28.080px;
   right:0;
   left:0;
   font-size:28px;
   line-height: 39px;
-  bottom: 14px;
   color:#292929;
   text-align:center;
 }
