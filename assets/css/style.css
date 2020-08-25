@@ -1026,8 +1026,8 @@ div {
 
 
 .audio.green-audio-player {
-  width: 680px;
-  min-width: auto;
+    min-width: auto;
+    max-width: 680px;
   height: 43px;
   display: flex;
   justify-content: space-between;
