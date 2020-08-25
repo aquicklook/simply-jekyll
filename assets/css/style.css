@@ -753,7 +753,7 @@ hr:before {
   top:1rem;
   left:50%;
   right: 50%;
-  color:white;
+  color:#292929;
   text-shadow:0 1rem 0 #292929,
               0 2rem 0 #292929;
 }
