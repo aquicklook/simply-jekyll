@@ -1057,7 +1057,7 @@ div {
     appearance: button;
     cursor: default;
     box-sizing: border-box;
-    /* border-image: initial;
+    /* border-image: initial; */
   }
   .slider {
     flex-grow: 1;
@@ -1070,8 +1070,8 @@ div {
       position: absolute;
       pointer-events: none;
       .pin {
-        height: 10px;
-        width: 10px;
+        height: 0px;
+        width: 0px;
         border-radius: 50%;
         background-color: rgb(41, 41, 41);
         position: absolute;
