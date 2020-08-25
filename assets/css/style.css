@@ -1036,6 +1036,7 @@ div {
   background-color: #0000;
   .play-pause-btn {
     cursor: pointer;
+	      display: none;
   }
 	  .spinner {
     width: 25px;
@@ -1052,7 +1053,7 @@ div {
     position: relative;
     .progress {
       background-color: rgb(41, 41, 41);
-      border-radius: inherit;
+      border-radius: 0px;
       position: absolute;
       pointer-events: none;
       .pin {
@@ -1084,8 +1085,7 @@ div {
         height: 100%;
         .pin {
           top: -4px;
-    margin-left: -5px;
-    opacity: 1;
+   left: -5px;
         }
       }
     }
@@ -1127,8 +1127,7 @@ div {
           width: 2px;
           .pin {
           top: -4px;
-    margin-left: -5px;
-    opacity: 1;
+left: -5px;
           }
         }
       }
