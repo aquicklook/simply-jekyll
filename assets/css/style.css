@@ -748,7 +748,7 @@ hr:before {
 }
 .etc a {color:#292929;}
 .etc:before {
-  content:'\2022';
+  content:'\2217\2217\2217';
   position:absolute;
   top:1rem;
   left:50%;
