@@ -720,6 +720,7 @@ hr {
   margin:0 auto;
   margin-block-start: 30px;
   margin-block-end: 14px;
+	  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
 }
 
 
@@ -727,6 +728,7 @@ hr {
   position:relative;
   padding:3rem 0;
   border:none;
+	  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
 }
 hr:before {
   content:'\2044\2217\2013\2013\2013\2013\2013\2217\2044';
