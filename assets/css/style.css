@@ -1033,7 +1033,16 @@ div {
   .play-pause-btn {
     cursor: pointer;
   }
-
+	
+  .spinner {
+    width: 25px;
+    height: 25px;
+    background-image: url(/assets/img/gray-spinner.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation: spin 0.4s linear infinite;
+  }
+	
   .slider {
     flex-grow: 1;
     background-color: rgb(242, 242, 242);
