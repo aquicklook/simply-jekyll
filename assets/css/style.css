@@ -1031,7 +1031,6 @@ div {
   -webkit-user-select: none;
   background-color: #0000;
   .play-pause-btn {
-	      display: none;
     cursor: pointer;
   }
 	
