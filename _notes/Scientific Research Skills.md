@@ -6,6 +6,7 @@ Scientific researches are studies that should be systematically planned before p
 
 Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồn::highlight]]. Nó hiện diện ở mọi nơi trong thế giới thực, từ sinh hoạt cá nhân đến công việc hằng ngày. Đói phải ăn, rét phải mặc, công việc trì trệ phải tìm cách thay đổi... chúng đều là các vấn đề của sinh tồn. 
 
+<div class="holder">
 <div class="audio green-audio-player" style="margin-top: 30px; margin-bottom: 30px;">
     <div class="loading">
       <div class="spinner"></div>
@@ -44,3 +45,4 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
       <source src="/Music/em_oi_len_pho_minh_vuong_m4u_huong_ly_cover_5SSdCXMByoK-gucZIK-2.mp3" type="audio/mp3">
     </audio>
   </div>
+    </div>
