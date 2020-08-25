@@ -13,7 +13,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
       <div class="spinner"></div>
     </div>
     <div class="play-pause-btn">  
-<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 25 25" style="padding: 8px; margin-right: 16px; border-color: rgba(117, 117, 117, 1); background: 0; border-radius: 4px; text-decoration: none; display: inline-block; border-style: solid; border-width: 1px; color: rgba(41, 41, 41, 1); box-sizing: border-box; appearance: button; cursor: default; box-sizing: border-box; border-image: initial; ">
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 25 25" style="padding: 8px; margin-right: 16px; border-color: rgba(117, 117, 117, 1); background: 0; border-radius: 4px; text-decoration: none; border-style: solid; border-width: 1px; color: rgba(41, 41, 41, 1); box-sizing: border-box; appearance: button; cursor: default; box-sizing: border-box; border-image: initial; ">
 <path fill="#292929" fill-rule="evenodd" d="M7 4v17.03a.5.5 0 0 0 .8.4l11.1-8.1a1 1 0 0 0 0-1.62L7.8 3.6A.5.5 0 0 0 7 4z" class="play-pause-icon" id="playPause"></path>
 </svg>
     </div>
@@ -28,7 +28,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
     </div>
     <div class="volume">
       <div class="volume-btn">
-<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 25 25" style="padding: 8px; margin-right: 16px; border-color: rgba(117, 117, 117, 1); background: 0; border-radius: 4px; text-decoration: none; display: inline-block; border-style: solid; border-width: 1px; color: rgba(41, 41, 41, 1); box-sizing: border-box; appearance: button; cursor: default; box-sizing: border-box; border-image: initial; ">
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 25 25" style="padding: 8px; margin-right: 16px; border-color: rgba(117, 117, 117, 1); background: 0; border-radius: 4px; text-decoration: none; border-style: solid; border-width: 1px; color: rgba(41, 41, 41, 1); box-sizing: border-box; appearance: button; cursor: default; box-sizing: border-box; border-image: initial; ">
 <path fill="#292929" fill-rule="evenodd" d="M14.667 0v2.747c3.853 1.146 6.666 4.72 6.666 8.946 0 4.227-2.813 7.787-6.666 8.934v2.76C20 22.173 24 17.4 24 11.693 24 5.987 20 1.213 14.667 0zM18 11.693c0-2.36-1.333-4.386-3.333-5.373v10.707c2-.947 3.333-2.987 3.333-5.334zm-18-4v8h5.333L12 22.36V1.027L5.333 7.693H0z" id="speaker"/>
         </svg>
       </div>
