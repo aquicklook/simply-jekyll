@@ -232,7 +232,7 @@ layout: stylesheet
 }
 
 @font-face {
-    font-family: 'Text';
+    font-family: 'Quicklook-VN';
     src: url('/fonts/sspr.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
@@ -262,7 +262,7 @@ body {
     color:  #292929;
     position: relative;
     min-height: 100vh;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     
     
     
@@ -387,7 +387,7 @@ h5 {
 
 a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
@@ -422,7 +422,7 @@ p {
 
 .p1{
     color: #292929;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
@@ -728,7 +728,7 @@ hr {
   padding: 0rem 0 39px 0;
   text-align:center;
   color:#292929;
-  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+  font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
   color:#292929;
   font-size: 18px;
   line-height: 39px;
@@ -741,7 +741,7 @@ hr {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+  font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
   color:#292929;
   font-size: 18px;
   line-height: 39px;
@@ -1278,7 +1278,7 @@ svg, img {
     max-width: 100%;
     padding: 1px;
     vertical-align: bottom;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     display: none;
 }
 
@@ -1484,7 +1484,7 @@ svg, img {
 }
 
 .serif {
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif !important;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
 }
 
 .title-sans {
@@ -1496,7 +1496,7 @@ svg, img {
 }
 
 .regular-sans {
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif !important;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
 }
 
 .bold {
@@ -1781,7 +1781,7 @@ svg, img {
 .mn-right {
     float: right;
     clear: right;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif !important;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
     font-size: inherit;
     margin-right: -45%;
     width: 40%;
@@ -1796,7 +1796,7 @@ svg, img {
 .mn-left {
     float: left;
     clear: left;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif !important;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
     font-size: inherit;
     margin-left: -45%;
     width: 40%;
@@ -1814,7 +1814,7 @@ svg, img {
 .sidenote-number:after,
 .sn-left:before,
 .sn-right:before {
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif !important;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
     position: relative;
     vertical-align: baseline; 
 }
@@ -2076,7 +2076,7 @@ label.srs-toggle {
     padding-right: 5px;
     font-size: 14px !important;
     line-height: 20px !important;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif !important;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
     font-weight: 400;
 	margin-top: 1em;
     margin-bottom: 1em;
@@ -2509,7 +2509,7 @@ h4 {
     
     a, p, ul, li, ol, table, span, blockquote {
     color: #292929;
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
