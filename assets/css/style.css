@@ -1045,6 +1045,19 @@ div {
     background-size: cover;
     background-repeat: no-repeat;
     animation: spin 0.4s linear infinite;
+		      padding: 8px;
+    margin-right: 16px;
+    border-color: #0000;
+    /* background: 0; */
+    border-radius: 4px;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 1px;
+    /* box-sizing: border-box; */
+    appearance: button;
+    cursor: default;
+    box-sizing: border-box;
+    /* border-image: initial;
   }
   .slider {
     flex-grow: 1;
