@@ -1022,8 +1022,7 @@ div {
 
 
 .audio.green-audio-player {
-  width: 680px;
-  min-width: auto;
+  max-width: 680px;
   height: 43px;
   display: flex;
   justify-content: space-between;
@@ -1032,7 +1031,6 @@ div {
   -webkit-user-select: none;
   background-color: #fff;
   .play-pause-btn {
-    display: none;
     cursor: pointer;
   }
   .spinner {
