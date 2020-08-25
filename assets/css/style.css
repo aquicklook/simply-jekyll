@@ -727,7 +727,6 @@ hr {
 
 hr {
   border:none;
-  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
 }
 hr:before {
   content:'\2044\2217\2013\2013\2013\2013\2013\2217\2044';
@@ -735,7 +734,7 @@ hr:before {
   position:absolute;
   right:0;
   left:0;
-  font-size:28px;
+  font-size: 18px;
   line-height: 39px;
   color:#292929;
   text-align:center;
@@ -747,7 +746,7 @@ hr:before {
   color:#292929;
   font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
   color:#292929;
-  font-size:28px;
+  font-size: 18px;
   line-height: 39px;
   text-align:center;
 }
@@ -760,7 +759,7 @@ hr:before {
   transform: translate(-50%, -50%);
   font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
   color:#292929;
-  font-size:28px;
+  font-size: 18px;
   line-height: 39px;
   text-align:center;
   letter-spacing: 0.6em;
