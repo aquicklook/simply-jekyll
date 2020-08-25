@@ -24,7 +24,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
           <div class="pin" id="progress-pin" data-method="rewind"></div>
         </div>
       </div>
-      <span class="total-time" style="width: 28px; margin-left: 12px;" >0:00</span>
+      <span class="total-time" style="width: 28px; margin-left: 12px; font-family: 'Feed', sans-serif;" >0:00</span>
     </div>
     <div class="volume">
       <div class="volume-btn">
