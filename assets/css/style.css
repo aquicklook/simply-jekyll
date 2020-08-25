@@ -1045,8 +1045,8 @@ div {
       position: absolute;
       pointer-events: none;
       .pin {
-        height: 0px;
-        width: 0px;
+        height: 13px;
+        width: 13px;
         border-radius: 50%;
         background-color: rgb(41, 41, 41);
         position: absolute;
