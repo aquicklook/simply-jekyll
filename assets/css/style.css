@@ -721,44 +721,30 @@ hr {
 }
 
 
-/* part-ch*/
-.iw {
-    text-align: center;
-}
-.iv {
-    margin-top: 30px;
-}
-.iu {
-    color: rgba(8, 8, 8, 1);
-}
-.it {
-    font-size: 28px;
-}
-.is {
-    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
-}
-.fz {
-    font-weight: 300;
-}
-.cj {
-    border: none;
+/* hr*/
+hr {
+  width:100%;
+  max-width:40rem;
+  margin:0 auto;
 }
 
-.jb:before {
-    line-height: 1.4;
-}
-.ja:before {
-    font-style: italic;
-}
-.iz:before {
-    text-indent: 0.6em;
-}
-.iy:before {
-    letter-spacing: 0.6em;
-}
 
-.ix:before {
-    content: "...";
+hr {
+  position:relative;
+  padding:3rem 0;
+  border:none;
+}
+hr:before {
+  content:'\2044\2217\2013\2013\2013\2013\2013\2217\2044';
+  position:absolute;
+  top:28.080px;
+  right:0;
+  left:0;
+  font-size:1.5em;
+  line-height: 39px;
+  bottom: 14px;
+  color:#292929;
+  text-align:center;
 }
 
 
