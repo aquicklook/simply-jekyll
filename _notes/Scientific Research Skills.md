@@ -44,3 +44,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
       <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3" type="audio/mpeg">
     </audio>
   </div>
+
+
+
+<section class="gr gs gt gu ai gv di r"><div class="gw r"><div class="gx n p"><audio id="audio-player"><source src="https://cdn-audio-1.medium.com/9/b/6/9b6787c9dc5f/m4a/96.m4a"></audio><div class="n o am"><div class="cq r"><button class="df gy dg dh di bx dj gz ct q cu cv bb cw cx cy"><svg width="25" height="25"><path d="M7 4v17.03a.5.5 0 0 0 .8.4l11.1-8.1a1 1 0 0 0 0-1.62L7.8 3.6A.5.5 0 0 0 7 4z"></path></svg></button></div><div class="n ha am"><h5 class="bi ek cb bk ct">Listen to this story</h5><div class="n o"><div class="hj hk r hl"><h5 class="bi ek cb bk bn">--:--</h5></div><div class="n hb o hc hd fd he" id="audio-player-progress-bar"><div class="hf cd hg gp hh dm hi fd cc"></div></div><div class="hm hk r hn"><h5 class="bi ek cb bk bn">--:--</h5></div></div></div></div></div></div></section>
