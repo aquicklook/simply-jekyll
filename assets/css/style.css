@@ -1034,29 +1034,6 @@ div {
     cursor: pointer;
   }
 	
-  .spinner {
-    width: 25px;
-    height: 25px;
-    background-image: url(/assets/img/gray-spinner.gif);
-    background-size: cover;
-    background-repeat: no-repeat;
-    animation: spin 0.4s linear infinite;
-	  padding: 8px;
-    margin-right: 16px;
-    border-color: rgba(117, 117, 117, 1);
-    background: 0;
-    border-radius: 4px;
-    text-decoration: none;
-    border-style: solid;
-    border-width: 1px;
-    color: rgba(41, 41, 41, 1);
-    box-sizing: border-box;
-    appearance: button;
-    cursor: default;
-    box-sizing: border-box;
-    border-image: initial;
-  }
-	
   .slider {
     flex-grow: 1;
     background-color: rgb(242, 242, 242);
@@ -1151,14 +1128,6 @@ svg, img {
   display: block;
 }
 
-@keyframes spin {
-  from {
-    transform: rotateZ(0);
-  }
-  to {
-    transform: rotateZ(1turn);
-  }
-}
 
 
 
