@@ -41,7 +41,7 @@ Kỹ năng tự nhiên quan trọng nhất của một cá nhân là [[sinh tồ
     </div>
         </div>
     <audio crossorigin>
-      <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Swing_Jazz_Drum.mp3" type="audio/mpeg">
+      <source src="https://drive.google.com/file/d/15-AIaqYc75tDkyBkqNe0DlbC7rnxA4qL/view" type="audio/mpeg">
     </audio>
   </div>
 
