@@ -713,14 +713,6 @@ tbody tr:last-child {
     border-bottom:1px solid gray;
 }
 
-hr {
-    background-color: #ccc;
-    color: #ccc;
-    border: 0 none;
-    height: 1px;
-}
-
-
 /* hr*/
 hr {
   width:100%;
