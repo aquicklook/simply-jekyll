@@ -721,6 +721,49 @@ hr {
 }
 
 
+/* part-ch*/
+.iw {
+    text-align: center;
+}
+.iv {
+    margin-top: 30px;
+}
+.iu {
+    color: rgba(8, 8, 8, 1);
+}
+.it {
+    font-size: 28px;
+}
+.is {
+    font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+}
+.fz {
+    font-weight: 300;
+}
+.cj {
+    border: none;
+}
+
+.jb:before {
+    line-height: 1.4;
+}
+.ja:before {
+    font-style: italic;
+}
+.iz:before {
+    text-indent: 0.6em;
+}
+.iy:before {
+    letter-spacing: 0.6em;
+}
+
+.ix:before {
+    content: "...";
+}
+
+
+
+
 /* youtube*/
 .video-wrapper {
     position: relative;
