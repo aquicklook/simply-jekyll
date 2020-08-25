@@ -745,6 +745,11 @@ hr:before {
   padding:6rem 0 1rem 0;
   text-align:center;
   color:#292929;
+  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
+  color:#292929;
+  font-size:28px;
+  line-height: 39px;
+  text-align:center;
 }
 .etc a {color:#292929;}
 .etc:before {
@@ -753,9 +758,11 @@ hr:before {
   top:1rem;
   left:50%;
   right: 50%;
+  font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
   color:#292929;
-  text-shadow:0 1rem 0 #292929,
-              0 2rem 0 #292929;
+  font-size:28px;
+  line-height: 39px;
+  text-align:center;
 }
 
 
