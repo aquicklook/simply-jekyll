@@ -742,7 +742,7 @@ hr:before {
 }
 .etc {
   position:relative;
-  padding:6rem 0 1rem 0;
+  padding:1.56rem 0 1.56rem 0;
   text-align:center;
   color:#292929;
   font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
@@ -755,9 +755,9 @@ hr:before {
 .etc:before {
   content:'\2217\2217\2217';
   position:absolute;
-  top:1rem;
-  left:50%;
-  right: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   font-family:  'Quicklook', 'Text', 'Source Serif Pro', serif;
   color:#292929;
   font-size:28px;
