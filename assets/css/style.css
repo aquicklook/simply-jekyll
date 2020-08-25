@@ -1038,9 +1038,9 @@ div {
     cursor: pointer;
   }
 	  .spinner {
-    width: 18px;
-    height: 18px;
-    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/loading.png);
+    width: 25px;
+    height: 25px;
+    background-image: url(/assets/img/gray-spinner.gif);
     background-size: cover;
     background-repeat: no-repeat;
     animation: spin 0.4s linear infinite;
