@@ -805,6 +805,7 @@ hr {
   -webkit-tap-highlight-color: transparent;
   box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
   margin-top: 24px;
+	align-items: center;
 }
 
 .container-content-timeline {
@@ -876,7 +877,7 @@ hr {
 
 .makeup img {
   width: 100%;
-  height: 100%;
+  height: 167px;
   width: 160px;
   display: grid;
   object-fit: cover;
