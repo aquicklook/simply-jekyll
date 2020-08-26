@@ -787,55 +787,43 @@ hr {
 
 
 /* mofr*/
-.mofr {
-    background-color: #0000;
-    width: 100%;
-    min-height: 160px;
-    -webkit-tap-highlight-color: transparent;
-    vertical-align: middle;
-    box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
-    margin-top: 24px;
-}
-.mofr-wrapper {
-    column-count: 1 !important;
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    grid-gap: 24px;
-}
-.mofr-group {
-    width: 100% !important;
-    height: 100%;
-    cursor: pointer;
-  }
-
-#content-makeup {
-    background-color: #0000;
-    width: 100%;
-    margin-top: 24px;
-}
-
 .container-makeup {
-    top: 0px;  
-    left: 0px;
-    right: 0px;
-    bottom: 0px;        
-    max-width: auto;
-    margin-right: auto;
-    margin-left: auto;
-    width: 100%;
-    height: 160px;
-    -webkit-tap-highlight-color: transparent;
-    box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
+  display: grid;
+  width: 100%;
+  height: 167px;
+  max-width: 680px;
+  margin: 0 auto;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 0px;
+  margin-top: 24px;
+  top: 0px;  
+  left: 0px;
+  right: 0px;
+  bottom: 0px;        
+  max-width: auto;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 24px;
 }
 
-#post-makeup-a {
-   width: 75%;
-   height: 100%;
-   background: #0000;
-   float: left;
+.container-content-timeline {
+  padding: 16px 20px;
+  grid-column: 1 / 4;
 }
 
-.makeup a {
+
+.makeupp img {
+  width: 160px;
+  height: 167px;
+  display: grid;
+  object-fit: cover;
+  margin-left: auto;
+}
+
+.makeupp a {
     background-image: none !important;
     color:  rgba(0, 0, 0, 0.9);
     text-decoration: none;
@@ -843,31 +831,58 @@ hr {
     background-position: 0 calc(1em + 1px);
     background-repeat: repeat-x;
     -webkit-tap-highlight-color: transparent;
-    display: block;
     vertical-align: middle;
-    padding: 20px;
     background-image: none !important;
     font-family: 'Feed', sans-serif !important; 
-    font-weight: 400 !important;
+    font-weight: 600 !important;
     font-size: 18px !important;
-    line-height: 23px !important;
-    float: left;
+    line-height: 22px !important;
+    display: block;
+    object-fit: cover;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    max-height: 44px;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-.makeup a:hover {
+.makeupp a:hover {
     text-decoration: none;
 }
 
-.makeup img {
-    width: 100%;
-    height: 100%;
+.makeupp p {
+    margin-top: 8px;
+    display: block;
+    max-height: 40px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-weight: 400;
+    font-size: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: rgba(117, 117, 117, 1);
+    line-height: 20px;
+    font-family: 'Feed', sans-serif !important;
+    margin-bottom: 0px;
 }
 
-#post-makeup-img {
-    width: 25%;
-    height: 100%;
-    background: #0000;
-    float: right;
+.makeuppp p {
+    margin-top: 12px;
+    display: block;
+    max-height: 40px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    font-weight: 400;
+    font-size: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: rgba(117, 117, 117, 1);
+    line-height: 20px;
+    font-family: 'Feed', sans-serif !important;
+    margin-bottom: 0px;
 }
 
 
