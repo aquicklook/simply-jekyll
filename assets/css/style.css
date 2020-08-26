@@ -877,6 +877,14 @@ hr {
     margin-bottom: 0px;
 }
 
+.makeup img {
+  width: 100%;
+  height: 100%;
+  width: 160px;
+  display: grid;
+  object-fit: cover;
+  margin-left: auto;
+}
 
 /* audio*/
 
