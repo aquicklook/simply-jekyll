@@ -794,7 +794,7 @@ hr {
   height: 167px;
   max-width: 680px;
   margin: 0 auto;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  grid-template-columns: repeat(4, 1fr);
   grid-gap: 0px;
   margin-top: 24px;
   top: 0px;  
@@ -811,7 +811,7 @@ hr {
 
 .container-content-timeline {
   padding: 16px 20px;
-  grid-column: 1 / 4;
+  grid-column: 1 / span 3;
 }
 
 .makeup a {
