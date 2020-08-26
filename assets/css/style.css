@@ -884,6 +884,8 @@ hr {
   display: grid;
   object-fit: cover;
   margin-left: auto;
+    margin-top: 0px;
+    margin-right: 0px;
 }
 
 /* audio*/
