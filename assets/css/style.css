@@ -809,7 +809,7 @@ hr {
   }
 
 .makeup a {
-    background-image: none;
+    background-image: none !important;
     color:  rgba(0, 0, 0, 0.9);
     text-decoration: none;
     background-size: 1px 1px;
