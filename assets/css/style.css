@@ -868,10 +868,12 @@ hr {
 
 #post-makeup-img {
  width: 160px;
-    max-width: 160px;
+ max-width: 160px;
  height: 167px;
  background: #0000;
  float: right;
+ margin-top: 0px;
+
 }
 
 
