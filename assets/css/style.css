@@ -791,6 +791,10 @@ hr {
     background-color: #0000;
     width: 100%;
     min-height: 100px;
+    -webkit-tap-highlight-color: transparent;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 20px;
 }
 .mofr-wrapper {
     column-count: 1 !important;
