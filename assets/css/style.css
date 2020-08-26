@@ -2648,6 +2648,81 @@ h4 {
     margin-bottom: 0px;
 }
     
+	
+#content-makeup {
+    background-color: #0000;
+    width: 100%;
+    max-width: 460px;
+    margin-top: 24px;
+}
+
+.makeup a {
+    background-image: none !important;
+    color:  rgba(0, 0, 0, 0.9);
+    text-decoration: none;
+    background-size: 1px 1px;
+    background-position: 0 calc(1em + 1px);
+    background-repeat: repeat-x;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    vertical-align: middle;
+    padding: 20px;
+    background-image: none !important;
+    font-family: 'Feed', sans-serif !important; 
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 22px !important;
+    float: left;
+}
+
+.makeup a:hover {
+    text-decoration: none;
+}
+
+.makeup img {
+    max-width: 160px;
+    max-height: 167px;
+    height: 167px;
+}
+
+.container-makeup {
+    top: 0px;  
+    left: 0px;
+    right: 0px;
+    bottom: 0px;        
+    max-width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 460px;
+    height: 167px;
+    -webkit-tap-highlight-color: transparent;
+    box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
+}
+
+#post-makeup-a {
+   width: 300px;
+   height: 167px;
+  max-width: 520px;
+   background: #0000;
+   float: left;
+}
+
+#post-makeup-img {
+ width: 160px;
+ max-width: 160px;
+ height: 167px;
+ background: #0000;
+ float: right;
+ margin-top: 0px !important;
+
+}
+
+	
+	
+	
+	
+	
+	
     .feed-title {
     color: rgba(0, 0, 0, 0.84);
     font-size: 20px;
