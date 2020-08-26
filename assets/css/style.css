@@ -786,6 +786,28 @@ hr {
 }
 
 
+/* mofr*/
+.mofr {
+    background-color: #000;
+    width: 100%;
+    min-height: 100px;
+}
+.mofr-wrapper {
+    column-count: 2 !important;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
+.mofr-group {
+    margin-left: 10px;
+    width: 90% !important;
+    height: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+
+
 /* audio*/
 
 .fj {
