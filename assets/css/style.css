@@ -794,7 +794,7 @@ hr {
   height: 167px;
   max-width: 680px;
   margin: 0 auto;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   grid-gap: 0px;
   margin-top: 24px;
   top: 0px;  
@@ -806,7 +806,6 @@ hr {
   margin-left: auto;
   -webkit-tap-highlight-color: transparent;
   box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
-  grid-template-columns: repeat(4, 1fr);
   margin-top: 24px;
 }
 
