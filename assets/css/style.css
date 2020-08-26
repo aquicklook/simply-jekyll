@@ -799,10 +799,8 @@ hr {
     grid-gap: 40px;
 }
 .mofr-group {
-    margin-left: 10px;
-    width: 90% !important;
+    width: 100% !important;
     height: 100%;
-    border-radius: 10px;
     cursor: pointer;
   }
 
