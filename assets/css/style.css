@@ -1194,6 +1194,34 @@ a {
     text-decoration: none;
 }
 
+
+.usertitle a {
+    background-image: none !important;
+    text-decoration: none;
+    background-size: 1px 1px;
+    background-position: 0 calc(1em + 1px);
+    background-repeat: repeat-x;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    background-image: none !important;
+    font-family: 'Feed', sans-serif !important; 
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 20px !important;
+    display: block;
+    object-fit: cover;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    max-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.usertitle a:hover {
+    text-decoration: none;
+}
+
 .makeup p {
     margin-top: 8px;
     display: block;
