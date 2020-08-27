@@ -1333,10 +1333,6 @@ button {
     flex-grow: 1;
 }
 
-div {
-    display: block;
-}
-
 .ga {
     justify-content: flex-start;
 }
