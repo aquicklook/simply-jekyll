@@ -385,13 +385,21 @@ h5 {
     margin-inline-end: 0px;
 }
 
-a, p, ul, li, ol, table, span, blockquote {
+p, ul, li, ol, table, span, blockquote {
     color: #292929;
     font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     font-size: 18px;
     line-height: 28px;
     letter-spacing: -0.003em;
 }
+
+a {
+    color: #292929;
+    font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
+    font-size: 18px;
+    letter-spacing: -0.003em;
+}
+
 
 p a,
 ul a,
