@@ -1260,9 +1260,8 @@ a {
 .do {
     box-sizing: border-box;
 }
-.q {
-    fill: rgba(41, 41, 41, 1);
-}
+
+
 button, input, optgroup, select, textarea {
     margin: auto;
 }
@@ -1475,9 +1474,7 @@ user agent stylesheet
 nav {
     display: block;
 }
-.b {
-    font-weight: 400;
-}
+
 .a {
     font-family: 'Feed', sans-serif;
 }
