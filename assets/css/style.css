@@ -1212,14 +1212,9 @@ a {
 .p {
     justify-content: center;
 }
-.n {
-    display: flex;
-}
+
 .am {
     flex: 1 0 auto;
-}
-.o {
-    align-items: center;
 }
 
 .fl {
@@ -1304,9 +1299,7 @@ button {
 .am {
     flex: 1 0 auto;
 }
-.n {
-    display: flex;
-}
+
 
 .fz {
     font-size: 16px;
@@ -1325,12 +1318,6 @@ button {
     font-family: 'Feed', sans-serif;
 }
 
-.o {
-    align-items: center;
-}
-.n {
-    display: flex;
-}
 
 .gl {
     text-align: left;
@@ -1360,12 +1347,6 @@ button {
 }
 .dg {
     cursor: pointer;
-}
-.o {
-    align-items: center;
-}
-.n {
-    display: flex;
 }
 
 .gn {
@@ -1485,9 +1466,6 @@ nav {
 
 .c {
     background-color: rgba(255, 255, 255, 1);
-}
-div {
-    display: block;
 }
 
 
@@ -1633,19 +1611,6 @@ svg, img {
     transform: rotateZ(1turn);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* Blogposts: Post-heading, Post-subheading, Post-content, Related Posts*/
