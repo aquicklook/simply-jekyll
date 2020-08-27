@@ -1319,10 +1319,6 @@ a {
     border-radius: 4px;
 }
 
-.do {
-    box-sizing: border-box;
-}
-
 
 button, input, optgroup, select, textarea {
     margin: auto;
@@ -1451,9 +1447,7 @@ button {
 .fe {
     padding-left: 0px;
 }
-.do {
-    box-sizing: border-box;
-}
+
 .ai {
     width: 100%;
 }
