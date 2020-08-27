@@ -882,6 +882,10 @@ img, svg {
     letter-spacing: 0px;
 }
 
+.av {
+    color: inherit;
+}
+
 .au {
     font-size: 15.8px;
 }
@@ -907,6 +911,8 @@ img, svg {
 .hg {
     -webkit-box-orient: vertical;
 }
+
+
 
 .hf {
     -webkit-line-clamp: 1;
@@ -972,6 +978,10 @@ img, svg {
     border-color: rgba(117, 117, 117, 1);
 }
 
+.dp {
+    fill: inherit;
+}
+
 .hj {
     background: 0;
 }
@@ -990,6 +1000,18 @@ img, svg {
 
 .ax {
     fill: rgba(117, 117, 117, 1);
+}
+
+.ax {
+    font-size: inherit;
+}
+
+.ay {
+    border: inherit;
+}
+
+.az {
+    font-family: inherit;
 }
 
 .aw {
@@ -1020,20 +1042,40 @@ img, svg {
     letter-spacing: inherit;
 }
 
+.bd {
+    margin: 0;
+}
+
 .bc {
     font-family: inherit;
+}
+
+.bc {
+    padding: 0;
 }
 
 .bb {
     border: inherit;
 }
 
+.bb {
+    font-weight: inherit;
+}
+
 .ba {
     font-size: inherit;
 }
 
+.ba {
+    letter-spacing: inherit;
+}
+
 .ih {
     margin-left: 30px;
+}
+
+.ih {
+    display: inline-block;
 }
 
 .ia {
@@ -1073,6 +1115,15 @@ a {
 .am {
     flex: 1 0 auto;
 }
+
+.ig {
+    padding-right: 6px;
+}
+.am {
+    display: block;
+}
+
+
 
 
 
