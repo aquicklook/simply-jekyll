@@ -921,7 +921,7 @@ img, svg {
 }
 
 .hc {
-    max-height: 20px;
+    max-height: inherit;
 }
 
 .hb {
@@ -1249,9 +1249,7 @@ a {
 .fm {
     border-radius: 4px;
 }
-.eh {
-    color: #292929;
-}
+
 .do {
     box-sizing: border-box;
 }
