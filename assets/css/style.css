@@ -770,6 +770,10 @@ hr {
     margin-top: 32px;
 }
 
+.gr {
+    fill: #03a87c;
+}
+
 .ed {
     justify-content: space-between;
 }
@@ -811,7 +815,7 @@ hr {
 }
 
 .gr {
-    fill: rgba(3, 168, 124, 1);
+    fill: #4285f4;
 }
 
 .ec {
