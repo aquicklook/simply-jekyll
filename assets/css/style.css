@@ -91,6 +91,13 @@ layout: stylesheet
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Charter';
+    src: url('08a3bdb874ce2d92f5b9e1e8e6c40f7c.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
 
 @font-face {
     font-family: 'SVN-Georgia';
