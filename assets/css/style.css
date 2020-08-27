@@ -1548,7 +1548,7 @@ nav {
     background-image: url(/assets/img/gray-spinner.gif);
     background-size: cover;
     background-repeat: no-repeat;
-    animation: spin 0.4s linear infinite;
+    animation: spin 0s linear infinite;
 		      padding: 8px;
     margin-right: 16px;
     border-color: #0000;
