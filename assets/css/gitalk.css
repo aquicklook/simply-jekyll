@@ -1148,8 +1148,8 @@
   transition: all ease 0.25s;
 }
 .gt-container .gt-comment-content:hover {
-  -webkit-box-shadow: 0 0.625em 3.75em 0 #f4f4f4;
-          box-shadow: 0 0.625em 3.75em 0 #f4f4f4;
+  -webkit-box-shadow: 0 0 0 0 #0000;
+          box-shadow: 0 0 0 0 #0000;
 }
 @media (max-width: 479px) {
   .gt-container .gt-comment-content {
