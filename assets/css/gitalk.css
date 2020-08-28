@@ -134,7 +134,7 @@
 }
 
 .markdown-body .pl-corl {
-  text-decoration: underline;
+  text-decoration: none;
   color: #032f62;
 }
 
@@ -146,7 +146,7 @@
 
 .markdown-body a {
   background-color: transparent;
-  -webkit-text-decoration-skip: objects;
+  -webkit-text-decoration-skip: none;
 }
 
 .markdown-body a:active,
@@ -221,7 +221,7 @@
 }
 
 .markdown-body a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .markdown-body strong {
@@ -1196,7 +1196,7 @@ padding: 0.75em 1em;
     line-height: normal;
 }
 .gt-container .gt-comment-username:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .gt-container .gt-comment-text {
   margin-left: 0.5em;
