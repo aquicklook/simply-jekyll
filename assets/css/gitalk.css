@@ -728,7 +728,7 @@
           box-sizing: border-box;
   margin-top: 0px;
     font-size: 14px;
-    line-height: normal;
+    line-height: inherit;
     font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
 }
 .gt-container a {
