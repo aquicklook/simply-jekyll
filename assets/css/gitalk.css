@@ -728,7 +728,7 @@
           box-sizing: border-box;
   margin-top: 0px;
     font-size: 14px;
-    line-height: normal;
+    line-height: 22px;
     font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
 }
 .gt-container a {
@@ -1185,17 +1185,20 @@ padding: 0.75em 1em;
   color: #606060;
   text-decoration: none;
       background-image: none;
+      font-size: 12px;
 }
 .gt-container .gt-comment-username:hover {
   text-decoration: underline;
 }
 .gt-container .gt-comment-text {
   margin-left: 0.5em;
-  color: #a1a1a1;
+  color: #606060;
+    font-size: 12px;
 }
 .gt-container .gt-comment-date {
   margin-left: 0.5em;
-  color: #a1a1a1;
+  color: #606060;
+  font-size: 12px;
 }
 .gt-container .gt-comment-like,
 .gt-container .gt-comment-edit,
