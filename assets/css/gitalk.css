@@ -963,6 +963,7 @@
 }
 .gt-container .gt-user .gt-ico {
   margin: 0 0 0 0.3125em;
+      display: none;
 }
 .gt-container .gt-user .gt-ico svg {
   fill: inherit;
