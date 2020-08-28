@@ -868,8 +868,7 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 12px;
-  color: white;
-  font-family: 'Feed', sans-serif;
+  color: inherit;
 }
 .gt-container .gt-btn-loading {
   position: relative;
