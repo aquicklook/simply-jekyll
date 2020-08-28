@@ -843,6 +843,7 @@
 .gt-container .gt-avatar-github {
   width: 3em;
   height: 3em;
+  background-image: none;
 }
 @media (max-width: 479px) {
   .gt-container .gt-avatar-github {
