@@ -1027,17 +1027,20 @@
   min-height: 5.125em;
   max-height: 15em;
   border-radius: 0px;
+  border: 0px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
   font-size: 0.875em;
   word-wrap: break-word;
   resize: vertical;
-  background-color: #f6f6f6;
+  background-color: #0000;
   outline: none;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
 }
 .gt-container .gt-header-textarea:hover {
-  background-color: #fbfbfb;
+  background-color: #0000;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
+  border: 1px solid #dfe1e5;
 }
 .gt-container .gt-header-preview {
   padding: 0.75em;
