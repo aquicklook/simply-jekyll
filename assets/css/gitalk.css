@@ -1245,9 +1245,6 @@
   position: relative;
     padding: 10px 20px;
     border-radius: 25px;
-  left: -7px;
-    border-left: 20px solid #E5E5EA;
-    border-bottom-right-radius: 16px 14px;
 }
 @-webkit-keyframes gt-kf-rotate {
   0% {
