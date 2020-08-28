@@ -732,18 +732,18 @@
     font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
 }
 .gt-container a {
-  color: #4285f4;
+  color: #606060;
 }
 .gt-container a:hover {
-  color: #81a6ed;
-  border-color: #81a6ed;
+  color: #606060;
+  border-color: #606060;
 }
 .gt-container a.is--active {
-  color: #333;
+  color: #292929;
   cursor: default !important;
 }
 .gt-container a.is--active:hover {
-  color: #333;
+  color: #292929;
 }
 .gt-container .hide {
   display: none !important;
@@ -1177,9 +1177,10 @@ padding: 0.75em 1em;
   width: 4em;
 }
 .gt-container .gt-comment-username {
-  font-weight: 500;
-  color: #4285f4;
+  font-weight: 400;
+  color: #606060;
   text-decoration: none;
+      background-image: none;
 }
 .gt-container .gt-comment-username:hover {
   text-decoration: underline;
