@@ -998,6 +998,8 @@
   position: relative;
   text-decoration: none;
   background-image: none;
+  font-size: 14px;
+  line-height: normal;
 }
 .gt-container .gt-popup .gt-action.is--active:before {
   content: '';
