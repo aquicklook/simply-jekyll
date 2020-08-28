@@ -986,10 +986,12 @@
   top: 2.375em;
   background: #fff;
   display: inline-block;
-  border: 1px solid #e9e9e9;
-  padding: 0.625em 0;
+  border: 0px solid #e9e9e9;
+  padding: 0.9em 0;
   font-size: 0.875em;
   letter-spacing: 0.5px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
+    border-radius: 10px;
 }
 .gt-container .gt-popup .gt-action {
   cursor: pointer;
