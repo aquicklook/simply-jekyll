@@ -1186,6 +1186,7 @@ padding: 0.75em 1em;
   text-decoration: none;
       background-image: none;
       font-size: 12px;
+    line-height: normal;
 }
 .gt-container .gt-comment-username:hover {
   text-decoration: underline;
@@ -1194,11 +1195,13 @@ padding: 0.75em 1em;
   margin-left: 0.5em;
   color: #606060;
     font-size: 12px;
+    line-height: normal;
 }
 .gt-container .gt-comment-date {
   margin-left: 0.5em;
   color: #606060;
   font-size: 12px;
+  line-height: normal;
 }
 .gt-container .gt-comment-like,
 .gt-container .gt-comment-edit,
