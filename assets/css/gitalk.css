@@ -928,10 +928,11 @@
 }
 .gt-container .gt-meta {
   margin: 1.25em 0;
-  padding: 1em 0;
+  padding: 0em 0;
   position: relative;
-  border-bottom: 1px solid #e9e9e9;
+  border-bottom: 0px solid #e9e9e9;
   font-size: 1em;
+  line-height: normal;
   position: relative;
   z-index: 10;
 }
