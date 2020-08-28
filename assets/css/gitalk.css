@@ -1039,8 +1039,6 @@
 }
 .gt-container .gt-header-textarea:hover {
   background-color: #0000;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
-  border: 1px solid #dfe1e5;
 }
 .gt-container .gt-header-preview {
   padding: 0.75em;
