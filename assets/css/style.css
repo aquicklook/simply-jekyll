@@ -609,8 +609,8 @@ code span {
     font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
     font-size: 16px;
     line-height: 1.18;
-    margin-bottom: -0.09em;
-    margin-top: -0.09em;
+    margin-bottom: 0em;
+    margin-top: 0em;
 }
 
 blockquote:before {
@@ -1280,9 +1280,6 @@ a {
 }
 .fk {
     margin: 20px 0;
-}
-.p {
-    justify-content: center;
 }
 
 .am {
