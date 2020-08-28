@@ -858,9 +858,9 @@
   text-decoration: none;
   white-space: nowrap;
   cursor: pointer;
-  border: 1px solid #4285f4;
+  border: 1px solid #1a73e8;
   border-radius: 4px;
-  background-color: #4285f4;
+  background-color: #1a73e8;
   color: #fff;
   outline: none;
   font-size: 0.75em;
@@ -888,11 +888,12 @@
 }
 .gt-container .gt-btn-preview {
   background-color: #fff;
-  color: #4285f4;
+  color: #1a73e8;
 }
 .gt-container .gt-btn-preview:hover {
-  background-color: #f2f2f2;
-  border-color: #81a6ed;
+      background-color: #e8f0fe;
+    border-color: #1a73e8;
+    box-shadow: 0 0 0 1px #1a73e8;
 }
 .gt-container .gt-btn-public:hover {
   background-color: #81a6ed;
