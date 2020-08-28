@@ -1121,6 +1121,22 @@ a {
 
 
 
+/* img hover*/
+
+.img-container{ 
+	border: 1px solid #CCC; 
+	height: auto; /** Chiều cao tự động **/ 
+	margin: 10px auto; /** Cách trên dưới 10px và nằm giữa **/ 
+	overflow: hidden; /** DÒNG BẮT BUỘC CÓ **/ 
+	position: relative; width: 600px; /** Chiều rộng vùng chứa **/ } 
+	
+.img-container img { 
+	width: 100%; /** Hình ảnh rộng 100% so với vùng chứa **/ 
+	transition: all 1s; /** Tạo độ mượt **/ } 
+	
+.img-container:hover img { 
+	-webkit-transform: scale(1.2); transform: scale(1.2); }
+
 
 
 
