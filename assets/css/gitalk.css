@@ -948,7 +948,8 @@
       font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
     font-size: 14px;
     line-break: normal;
-      font-weight: 600;
+      font-weight: 400;
+  line-height: normal;
 }
 .gt-container .gt-user {
   float: right;
