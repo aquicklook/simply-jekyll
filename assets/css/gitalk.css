@@ -1241,7 +1241,10 @@
   display: block;
 }
 .gt-container .gt-comment-admin .gt-comment-content {
-  background-color: #f6f9fe;
+  background-color: #E5E5EA;
+  position: relative;
+    padding: 10px 20px;
+    border-radius: 25px;
 }
 @-webkit-keyframes gt-kf-rotate {
   0% {
