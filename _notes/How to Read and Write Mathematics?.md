@@ -1,5 +1,6 @@
 ---
 tags: read writing
+curated: true
 ---
 
 {:.boxit}
