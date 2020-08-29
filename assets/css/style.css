@@ -756,6 +756,16 @@ a {
     margin-inline-end: 0px;
 }
 
+.bpc {
+    color: #292929;
+    font-family: 'Charter', 'Source Serif Pro';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: -0.003em;
+    display: block;
+}
+
 .q {
     fill: rgba(41, 41, 41, 1);
 }
