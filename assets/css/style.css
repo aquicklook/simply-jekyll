@@ -8,7 +8,7 @@ layout: stylesheet
 
 @font-face {
     font-family: 'Title-VN';
-    src: url('/fonts/milizon-content-title-font.woff2') format('woff2'),
+    src: url('/fonts/milizon-content-title-font.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
