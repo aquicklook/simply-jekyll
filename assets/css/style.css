@@ -134,7 +134,6 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     counter-reset: sidenote-counter; 
-    box-sizing: inherit;
     position: absolute;
     margin: 0;
     padding: 0;
@@ -967,7 +966,6 @@ code {
     letter-spacing: -0.003em;
     line-height: normal;
     word-break: break-word;
-    box-sizing: inherit;
 }
 
 .regular-sans code {
