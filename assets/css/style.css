@@ -127,7 +127,7 @@ layout: stylesheet
 
 html {
     scroll-behavior: smooth;
-	   overflow: auto;
+    overflow: auto;
 }
 
 body {
@@ -724,7 +724,7 @@ a {
 }
 
 
-.n {
+.nt {
     display: flex;
 }
 
@@ -757,7 +757,7 @@ a {
     display: block;
 }
 
-.s {
+.st {
     position: absolute;
 }
 
