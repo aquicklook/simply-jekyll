@@ -958,7 +958,7 @@ figcaption {
 }
 
 code {
-    font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
+    font-family: 'Courier New', monospace !important;
     font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1, 'ss02' 1, 'zero' 1;
     display: inline-block;
     overflow: auto !important;
@@ -981,7 +981,7 @@ code {
     background-color: #f7f7f7;
     border-radius: 5px;
     border: none;
-    font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
+    font-family: 'Courier New', monospace;
 }
 
 .serif code {
@@ -989,11 +989,11 @@ code {
     background-color: #f7f7f7;
     border-radius: 5px;
     border: none;
-    font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
+    font-family: 'Courier New', monospace;
 }
 
 pre code {
-    font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
+    font-family: 'Courier New', monospace;
     display: block;
     overflow-x: auto !important;
     white-space: pre-wrap !important; 
@@ -1013,7 +1013,7 @@ pre code {
 }
 
 code span {
-    font-family: 'Menlo', 'Monaco', "Courier New", 'Courier', monospace !important;
+    font-family: 'Courier New', monospace;
     font-size: 16px;
     line-height: 1.18;
     margin-bottom: 0em;
