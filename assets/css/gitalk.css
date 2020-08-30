@@ -841,7 +841,7 @@
 .gt-container .gt-avatar img {
   width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 50%;
 }
 .gt-container .gt-avatar-github {
   width: 3em;
