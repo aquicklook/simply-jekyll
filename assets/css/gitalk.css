@@ -1048,7 +1048,7 @@ padding: 0.92em;
   max-height: 15em;
   border-radius: 0px;
   border: 0px;
-  box-shadow: 0 0px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
+  box-shadow: 0 0px 0px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
   font-size: 14px;
   word-wrap: break-word;
   resize: vertical;
