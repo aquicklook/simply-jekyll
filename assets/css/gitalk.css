@@ -1070,7 +1070,7 @@
 .gt-container .gt-header-preview {
   padding: 0.75em 0;
   border-radius: 0px;
-  border-bottom: 1px solid #292929;
+  border-bottom: 2px solid #292929;
   background-color: #fff;
   min-height: 1em;
 }
