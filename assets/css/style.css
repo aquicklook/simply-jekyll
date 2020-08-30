@@ -2412,6 +2412,7 @@ label.srs-toggle {
 
 #copyright-notice {
     font-size: 12px;
+    line-height: normal;
     font-weight: 600;
     color: #0000;
     font-family: 'Feed', sans-serif !important;
