@@ -1061,9 +1061,9 @@
   background-color: #0000;
 }
 .gt-container .gt-header-preview {
-  padding: 0.75em 1em;
+  padding: 0.625em 0;
   border-radius: 0px;
-  border-bottom: 1px solid #1a73e8;
+  border-bottom: 1px solid #e6e6e6;
   background-color: #fff;
   min-height: 1em;
 }
