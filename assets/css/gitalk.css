@@ -766,11 +766,11 @@
   display: inline-block;
 }
 .gt-container .gt-ico-text {
-  margin-left: 0em;
+  margin-left: 0.68em;
   font-size: 12px;
   font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
   line-height: normal;
-  color: #4285f4;
+  color: #1a73e8;
 }
 .gt-container .gt-ico-github {
   width: 100%;
@@ -1050,7 +1050,7 @@
   max-height: 15em;
   border-radius: 0px;
   border: 0px;
-  box-shadow: 0 0px 0px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
+  box-shadow: 0 0px 0px rgba(0,0,0,0.04), inset 0 0 0 0px rgba(0,0,0,0.09);
   font-size: 14px;
   word-wrap: break-word;
   resize: vertical;
