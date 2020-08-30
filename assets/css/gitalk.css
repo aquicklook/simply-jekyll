@@ -1076,6 +1076,10 @@
   background-color: #fff;
   min-height: 1em;
 }
+
+.textarea {
+    font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
+}
 .gt-container .gt-header-controls {
   position: relative;
   margin: 0.75em 0 0;
