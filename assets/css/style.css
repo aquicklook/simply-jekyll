@@ -2651,6 +2651,13 @@ label.margin-toggle:not(.sidenote-number) {
 }
 
 @media screen and (max-width: 500px){
+
+main {
+    min-height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+	
 .box {
     width: 100%;
     max-width: 100% !important;
