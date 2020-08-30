@@ -1165,6 +1165,7 @@
           box-shadow: 0 0 0 0 #0000;
         background-color: #0000;
     border-color: #0000;
+  border-bottom: 1px solid #e6e6e6;
 }
 
 .gt-container .gt-comment-content {
