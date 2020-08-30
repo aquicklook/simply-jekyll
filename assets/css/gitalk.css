@@ -781,7 +781,8 @@
   height: 100%;
 }
 .gt-container .gt-ico-github svg {
-  fill: inherit;
+  fill: #757575;
+  border-radius: 50%;
 }
 .gt-container .gt-spinner {
   position: relative;
