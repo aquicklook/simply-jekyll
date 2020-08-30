@@ -2307,6 +2307,7 @@ label.srs-toggle {
     border: none;
     overflow: hidden;
     font-size: 18px;
+    display: none;
 }
 
 .context-menu-res {
