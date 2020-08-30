@@ -1039,7 +1039,7 @@
   }
 }
 .gt-container .gt-header-textarea {
-padding: 0.92em;
+  padding: 0.286em 1em;
   display: block;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -1061,7 +1061,7 @@ padding: 0.92em;
   background-color: #0000;
 }
 .gt-container .gt-header-preview {
-  padding: 0.92em;
+  padding: 0.286em 1em;
   border-radius: 0px;
   border-bottom: 1px solid #1a73e8;
   background-color: #fff;
