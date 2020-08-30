@@ -1157,8 +1157,8 @@
 .gt-container .gt-comment:hover {
   -webkit-box-shadow: 0 0 0 0 #0000;
           box-shadow: 0 0 0 0 #0000;
-        background-color: #e8f0fe;
-    border-color: #1a73e8;
+        background-color: #0000;
+    border-color: #0000;
 }
 
 .gt-container .gt-comment-content {
@@ -1167,7 +1167,7 @@
           flex: 1;
   margin-left: 1.25em;
   padding: 0em 0em;
-  background-color: #f9f9f9;
+  background-color: #0000;
   overflow: auto;
   -webkit-transition: all ease 0.25s;
   transition: all ease 0.25s;
