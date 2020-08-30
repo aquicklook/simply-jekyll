@@ -928,6 +928,7 @@
 .gt-container .gt-link-counts,
 .gt-container .gt-link-project {
   text-decoration: none;
+  vertical-align: baseline;
 }
 .gt-container .gt-meta {
   margin: 1.25em 0;
