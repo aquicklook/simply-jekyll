@@ -748,6 +748,9 @@
 .gt-container .hide {
   display: none !important;
 }
+.gt-user-name {
+  display: none;
+}
 .gt-container .gt-svg {
   display: inline-block;
   width: 1em;
