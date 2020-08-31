@@ -733,7 +733,7 @@
       vertical-align: top;
 }
 .gt-container a {
-  color: #1a73e8;
+  color: #292929;
       background-image: none;
 }
 .gt-container a:hover {
@@ -1209,13 +1209,13 @@ textarea {
 .gt-container .gt-comment-username {
   font: 14px Helvetica, Arial, sans-serif;
       font-weight: bold;
-    color: #1a73e8;
+    color: #292929;
     cursor: pointer;
     text-decoration: none;
       background-image: none;
 }
 .gt-container .gt-comment-username:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 .gt-container .gt-comment-text {
   margin-left: 0.5em;
