@@ -728,10 +728,11 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin-top: 0px;
-  font-size: 14px;
+  font: 14px 'Helvetica', 'Arial', sans-serif;
   line-height: inherit;
-  font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
   vertical-align: top;
+      color: #1c1e21;
+    line-height: 20px;
 }
 .gt-container a {
   color: #606060;
