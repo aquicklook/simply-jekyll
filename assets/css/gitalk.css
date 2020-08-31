@@ -832,8 +832,8 @@
 }
 .gt-container .gt-avatar {
   display: inline-block;
-  width: 3em;
-  height: 3em;
+  width: 32px;
+  height: 32px;
 }
 @media (max-width: 500px) {
   .gt-container .gt-avatar {
@@ -844,11 +844,10 @@
 .gt-container .gt-avatar img {
   width: 100%;
   height: auto;
-  border-radius: 50%;
 }
 .gt-container .gt-avatar-github {
-  width: 3em;
-  height: 3em;
+  width: 32px;
+  height: 32px;
   background-image: none;
 }
 @media (max-width: 500px) {
