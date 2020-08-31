@@ -1214,12 +1214,13 @@ textarea {
   width: 4em;
 }
 .gt-container .gt-comment-username {
-  font-weight: 400;
-  color: #606060;
-  text-decoration: none;
+  font: 14px Helvetica, Arial, sans-serif;
+      font-weight: bold;
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
       background-image: none;
-      font-size: 12px;
-    line-height: normal;
+    line-height: 20px;
 }
 .gt-container .gt-comment-username:hover {
   text-decoration: none;
