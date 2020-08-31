@@ -733,10 +733,10 @@
     line-height: 20px;
 }
 .gt-container a {
-  color: #606060;
+  color: #385898;
+      background-image: none;
 }
 .gt-container a:hover {
-  color: #606060;
   border-color: #606060;
 }
 .gt-container a.is--active {
