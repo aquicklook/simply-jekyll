@@ -1203,9 +1203,9 @@ textarea {
   width: 2em;
 }
 .gt-container .gt-comment-block-2 {
-  float: right;
-  height: 1.375em;
-  width: 4em;
+  float: left;
+  height: 14px;
+  width: auto;
 }
 .gt-container .gt-comment-username {
   font: 14px Helvetica, Arial, sans-serif;
@@ -1244,8 +1244,7 @@ textarea {
   cursor: pointer;
 }
 .gt-container .gt-comment-like {
-  top: 0;
-  right: 2em;
+
 }
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
