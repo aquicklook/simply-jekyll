@@ -767,7 +767,7 @@
   display: inline-block;
 }
 .gt-container .gt-ico-text {
-  margin-left: 0.68em;
+  margin-left: 4px;
   font-size: 14px;
   font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
   color: #1a73e8;
@@ -1219,14 +1219,14 @@ textarea {
   text-decoration: underline;
 }
 .gt-container .gt-comment-text {
-  margin-left: 0.5em;
+  margin-left: 4px;
     color: #8d949e;
     font: 14px Helvetica, Arial, sans-serif;
   border-bottom: none;
     text-decoration: none;
 }
 .gt-container .gt-comment-date {
-  margin-left: 0.5em;
+  margin-left: 4px;
   color: #606060;
   font-size: 14px;
 }
@@ -1234,7 +1234,7 @@ textarea {
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
   position: absolute;
-  height: 1.375em;
+  height: 14px;
       background-image: none;
   
 }
