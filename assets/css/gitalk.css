@@ -729,8 +729,6 @@
           box-sizing: border-box;
   margin-top: 0px;
   font: 14px 'Helvetica', 'Arial', sans-serif;
-  line-height: inherit;
-  vertical-align: top;
       color: #1c1e21;
     line-height: 20px;
 }
