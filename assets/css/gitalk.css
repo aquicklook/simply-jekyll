@@ -768,9 +768,8 @@
 }
 .gt-container .gt-ico-text {
   margin-left: 0.68em;
-  font-size: 12px;
+  font-size: 14px;
   font-family: 'Helvetica', 'Arial', 'Feed', sans-serif;
-  line-height: normal;
   color: #1a73e8;
 }
 .gt-container .gt-ico-github {
@@ -1223,15 +1222,14 @@ textarea {
 .gt-container .gt-comment-text {
   margin-left: 0.5em;
     color: #8d949e;
-    font: 12px Helvetica, Arial, sans-serif;
+    font: 14px Helvetica, Arial, sans-serif;
   border-bottom: none;
     text-decoration: none;
 }
 .gt-container .gt-comment-date {
   margin-left: 0.5em;
   color: #606060;
-  font-size: 12px;
-  line-height: normal;
+  font-size: 14px;
 }
 .gt-container .gt-comment-like,
 .gt-container .gt-comment-edit,
