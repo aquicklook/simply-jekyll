@@ -1227,9 +1227,10 @@ textarea {
 }
 .gt-container .gt-comment-text {
   margin-left: 0.5em;
-  color: #606060;
-    font-size: 12px;
-    line-height: normal;
+    color: #8d949e;
+    font: 12px Helvetica, Arial, sans-serif;
+  border-bottom: none;
+    text-decoration: none;
 }
 .gt-container .gt-comment-date {
   margin-left: 0.5em;
