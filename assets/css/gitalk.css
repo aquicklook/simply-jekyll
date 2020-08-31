@@ -731,6 +731,7 @@
   font: 14px 'Helvetica', 'Arial', sans-serif;
       color: #1c1e21;
     line-height: 20px;
+      vertical-align: top;
 }
 .gt-container a {
   color: #385898;
