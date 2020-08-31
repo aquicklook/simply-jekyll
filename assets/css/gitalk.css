@@ -1216,7 +1216,6 @@ textarea {
     cursor: pointer;
     text-decoration: none;
       background-image: none;
-    line-height: 20px;
 }
 .gt-container .gt-comment-username:hover {
   text-decoration: none;
