@@ -834,6 +834,7 @@
   display: inline-block;
   width: 32px;
   height: 32px;
+  margin-right: 8px;
 }
 @media (max-width: 500px) {
   .gt-container .gt-avatar {
@@ -1179,7 +1180,6 @@ textarea {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  margin-left: 1.25em;
   padding: 0em 0em;
   background-color: #0000;
   overflow: auto;
@@ -1194,7 +1194,6 @@ textarea {
 }
 @media (max-width: 500px) {
   .gt-container .gt-comment-content {
-    margin-left: 0.875em;
     padding: 0em 0em;
   }
 }
