@@ -874,7 +874,7 @@ display: inline-block;
     font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
     line-height: normal;
     font-size: 14px;
-      color: #fff;
+      color: inherit;
 }
 .gt-container .gt-btn-loading {
   position: relative;
@@ -892,16 +892,22 @@ display: inline-block;
   margin-right: 0;
 }
 .gt-container .gt-btn-preview {
-  background-color: #fff;
-  color: #6190e8;
+    background-color: #fff;
+    color: #0070c9;
+    background: none;
 }
 .gt-container .gt-btn-preview:hover {
-  background-color: #f2f2f2;
-  border-color: #81a6ed;
+  background-color: #e8f0fe;
+  border-color: #0077cc;
+      border-width: 1px;
+    border-style: solid;
 }
 .gt-container .gt-btn-public:hover {
-  background-color: #81a6ed;
-  border-color: #81a6ed;
+    background: linear-gradient(#42a1ec, #0070c9);
+    background-color: #0070c9;
+  border-color: #0077cc;
+        border-width: 1px;
+    border-style: solid;
 }
 .gt-container .gt-error {
   text-align: center;
