@@ -175,6 +175,7 @@
 
 .markdown-body img {
   border-style: none;
+  margin-top: 0;
 }
 
 .markdown-body svg:not(:root) {
