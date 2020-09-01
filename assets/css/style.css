@@ -819,6 +819,13 @@ a {
     initial-letter: 2;
 }
 
+/* DISQUS */
+
+#reactions, #reactions-promotion {
+    margin-bottom: 10px;
+    display: none;
+}
+
 /* BOXIT */
 
 .boxit {
