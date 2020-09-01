@@ -738,18 +738,17 @@
       color: #292929;
 }
 .gt-container a {
-  color: #6190e8;
+  color: #292929;
 }
 .gt-container a:hover {
-  color: #81a6ed;
-  border-color: #81a6ed;
+  color: #292929;
 }
 .gt-container a.is--active {
-  color: #333;
+  color: #0070c9;
   cursor: default !important;
 }
 .gt-container a.is--active:hover {
-  color: #333;
+  color: #292929;
 }
 .gt-container .hide {
   display: none !important;
