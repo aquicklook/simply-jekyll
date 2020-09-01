@@ -927,11 +927,12 @@ display: inline-block;
   text-align: center;
 }
 .gt-container .gt-link {
-  border-bottom: 1px dotted #6190e8;
+  border-bottom: 0px dotted #6190e8;
 }
 .gt-container .gt-link-counts,
 .gt-container .gt-link-project {
   text-decoration: none;
+      background-image: none;
 }
 .gt-container .gt-meta {
   padding: 1em 0;
