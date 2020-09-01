@@ -938,7 +938,7 @@ display: inline-block;
       background-image: none;
 }
 .gt-container .gt-meta {
-  padding: 1em 0;
+  padding: 20px 0;
   position: relative;
   z-index: 10;
 }
