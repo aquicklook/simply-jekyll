@@ -1059,7 +1059,7 @@ display: inline-block;
   transition: all 0.25s ease;
 }
 .gt-container .gt-header-textarea:hover {
-  background-color: #fbfbfb;
+  background-color: #fff;
 }
 .gt-container .gt-header-preview {
   padding: 0.75em;
