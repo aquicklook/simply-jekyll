@@ -740,6 +740,7 @@
 }
 .gt-container a {
   color: #292929;
+      background-image: none;
 }
 .gt-container a:hover {
 
