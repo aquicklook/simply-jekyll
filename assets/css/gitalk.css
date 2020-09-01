@@ -1072,6 +1072,7 @@ position: absolute;
   outline: none;
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
+  border-style: solid;
 }
 .gt-container .gt-header-textarea:hover {
   background-color: #fff;
