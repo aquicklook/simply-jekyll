@@ -954,7 +954,7 @@ display: inline-block;
 }
 .gt-container .gt-counts {
     margin: 0 0.625em 0 0;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid #292929;
     text-transform: uppercase;
     font-weight: 600;
     max-width: 78px !important;
