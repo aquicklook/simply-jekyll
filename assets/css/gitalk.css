@@ -770,7 +770,6 @@
   display: inline-block;
 }
 .gt-container .gt-ico-text {
-  margin-left: 0.3125em;
       display: inline-block;
     margin-left: 8px;
     vertical-align: middle;
@@ -802,7 +801,7 @@
   margin-left: -0.375em;
   border-radius: 50%;
   border: 1px solid #fff;
-  border-top-color: #6190e8;
+  border-top-color: #0077cc;
   -webkit-animation: gt-kf-rotate 0.6s linear infinite;
           animation: gt-kf-rotate 0.6s linear infinite;
 }
