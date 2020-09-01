@@ -789,7 +789,7 @@ display: inline-block;
   height: 100%;
 }
 .gt-container .gt-ico-github svg {
-  fill: inherit;
+      border-radius: 4px;
 }
 .gt-container .gt-spinner {
   position: relative;
