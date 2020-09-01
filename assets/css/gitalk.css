@@ -865,6 +865,10 @@
 }
 .gt-container .gt-btn-text {
   font-weight: 400;
+    font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+    line-height: normal;
+    font-size: 14px;
+  
 }
 .gt-container .gt-btn-loading {
   position: relative;
