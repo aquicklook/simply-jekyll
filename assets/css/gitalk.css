@@ -1143,8 +1143,9 @@ display: inline-block;
   text-align: center;
 }
 .gt-container .gt-comments-controls {
-  margin: 1.25em 0;
-  text-align: center;
+    margin-bottom: 24px;
+    text-align: left;
+    margin-top: 12px;
 }
 .gt-container .gt-comment {
   position: relative;
