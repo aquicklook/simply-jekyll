@@ -1811,8 +1811,9 @@ nav {
 ::placeholder {
     color: #999;
     font-size: 16px;
-    font-family:  monospace, 'Feed', sans-serif !important;
+    font-family:  'Feed', sans-serif;
 }
+
 .searchbar i {
     position: absolute;
     vertical-align: middle;
