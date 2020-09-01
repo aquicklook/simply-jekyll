@@ -905,12 +905,19 @@ display: inline-block;
     background-color: #fff;
     color: #0070c9;
     background: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E3E3E3;
+    background: linear-gradient(#FFFFFF, #E3E3E3);
 }
 .gt-container .gt-btn-preview:hover {
-  background-color: #e8f0fe;
-  border-color: #0077cc;
-      border-width: 1px;
+    background-color: #fff;
+    color: #0070c9;
+    background: none;
+    border-width: 1px;
     border-style: solid;
+    border-color: #E3E3E3;
+    background: linear-gradient(#FFFFFF, #E3E3E3);
 }
 .gt-container .gt-btn-public:hover {
     background: linear-gradient(#42a1ec, #0070c9);
