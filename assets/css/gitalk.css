@@ -345,12 +345,15 @@
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
   font-feature-settings: normal;
+      line-height: normal;
 }
 
 .markdown-body pre {
   margin-top: 0;
   margin-bottom: 0;
   font: 12px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-feature-settings: normal;
+      line-height: normal;
 }
 
 .markdown-body .octicon {
