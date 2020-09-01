@@ -1811,7 +1811,7 @@ nav {
 ::placeholder {
     color: #999;
     font-size: 16px;
-    font-family:  'Feed', sans-serif !important;
+    font-family:  monospace, 'Feed', sans-serif !important;
 }
 .searchbar i {
     position: absolute;
