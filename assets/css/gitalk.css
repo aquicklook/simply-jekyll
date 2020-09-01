@@ -1001,7 +1001,7 @@ display: inline-block;
 .gt-container .gt-popup .gt-action {
     cursor: pointer;
     display: block;
-    margin: 0;
+    margin: 4px 0px;
     padding: 0 16px;
     position: relative;
     text-decoration: none;
