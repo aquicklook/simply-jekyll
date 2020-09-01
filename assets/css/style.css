@@ -1150,10 +1150,6 @@ a, button, input {
     -webkit-tap-highlight-color: transparent;
 }
 
-button, input, optgroup, select, textarea {
-    margin: 0;
-}
-
 button {
     background: transparent;
     overflow: visible;
@@ -1163,10 +1159,6 @@ button {
 
 button, input, optgroup, select, textarea {
     margin: auto;
-}
-
-a, button, input {
-    -webkit-tap-highlight-color: transparent;
 }
 
 .age {
