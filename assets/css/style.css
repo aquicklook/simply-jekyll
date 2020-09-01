@@ -730,8 +730,8 @@ a {
 }
 
 
-.nt {
-    display: contents;
+.ntt {
+    display: flex;
 }
 
 .o {
