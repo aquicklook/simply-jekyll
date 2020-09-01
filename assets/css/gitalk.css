@@ -874,7 +874,7 @@ display: inline-block;
     font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
     line-height: normal;
     font-size: 14px;
-  
+      color: #fff;
 }
 .gt-container .gt-btn-loading {
   position: relative;
