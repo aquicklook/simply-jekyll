@@ -1192,18 +1192,22 @@ display: inline-block;
   color: #666666;
   font-size: 14px;
     line-height: normal;
+    background-image: none;
+  font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 }
 .gt-container .gt-comment-date {
   margin-left: 4px;
   color: #666666;
   font-size: 14px;
     line-height: normal;
+    background-image: none;
+  font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 }
 .gt-container .gt-comment-like,
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
   position: absolute;
-  height: 1.375em;
+  height: 14px;
   background-image: none;
 }
 .gt-container .gt-comment-like:hover,
