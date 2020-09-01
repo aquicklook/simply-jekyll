@@ -1197,6 +1197,7 @@ display: inline-block;
 .gt-container .gt-comment-reply {
   position: absolute;
   height: 1.375em;
+  background-image: none;
 }
 .gt-container .gt-comment-like:hover,
 .gt-container .gt-comment-edit:hover,
@@ -1206,6 +1207,7 @@ display: inline-block;
 .gt-container .gt-comment-like {
   top: 0;
   right: 2em;
+      background-image: none;
 }
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
