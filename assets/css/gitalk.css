@@ -839,7 +839,7 @@
 .gt-container .gt-avatar img {
   width: 100%;
   height: auto;
-  border-radius: 50%;
+  border-radius: 4px;
   margin-top: 0px;
 }
 .gt-container .gt-avatar-github {
