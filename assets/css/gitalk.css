@@ -231,6 +231,15 @@
   text-decoration: none;
 }
 
+.markdown-body .highlight pre, .markdown-body pre {
+      padding: 8px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 14px;
+    background-color: rgba(27,31,35,0.05);
+    border-radius: 0;
+}
+
 .markdown-body a:hover {
   text-decoration: underline;
 }
