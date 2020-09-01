@@ -1186,7 +1186,7 @@ button {
     margin: 0em;
     font: 400 13.3333px Arial;
     padding: 1px 6px;
-    border-width: 2px;
+    border-width: 1px;
     border-style: outset;
     border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
     border-image: initial;
