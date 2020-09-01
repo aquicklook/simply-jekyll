@@ -850,18 +850,24 @@
   }
 }
 .gt-container .gt-btn {
-  padding: 0.75em 1.25em;
-  display: inline-block;
-  line-height: 1;
-  text-decoration: none;
-  white-space: nowrap;
-  cursor: pointer;
-  border: 1px solid #6190e8;
-  border-radius: 5px;
-  background-color: #6190e8;
-  color: #fff;
-  outline: none;
-  font-size: 0.75em;
+display: inline-block;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    white-space: nowrap;
+    border-color: rgb(0, 119, 204);
+    background: linear-gradient(#42a1ec, #0070c9);
+    background-color: #0070c9;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
 }
 .gt-container .gt-btn-text {
   font-weight: 400;
