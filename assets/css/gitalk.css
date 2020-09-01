@@ -774,6 +774,7 @@ display: inline-block;
     margin-left: 8px;
     vertical-align: middle;
     color: rgb(0, 119, 204);
+  font-size: 12px;
 }
 .gt-container .gt-ico-github {
   width: 100%;
