@@ -344,6 +344,7 @@
 .markdown-body code {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
+  font-feature-settings: normal;
 }
 
 .markdown-body pre {
