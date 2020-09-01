@@ -1070,6 +1070,7 @@ display: inline-block;
   color: #6190e8;
   text-decoration: none;
   vertical-align: sub;
+  display: none;
 }
 @media (max-width: 480px) {
   .gt-container .gt-header-controls-tip {
