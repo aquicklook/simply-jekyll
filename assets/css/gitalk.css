@@ -741,14 +741,14 @@
   color: #292929;
 }
 .gt-container a:hover {
-  color: #292929;
+
 }
 .gt-container a.is--active {
-  color: #0070c9;
+
   cursor: default !important;
 }
 .gt-container a.is--active:hover {
-  color: #292929;
+
 }
 .gt-container .hide {
   display: none !important;
