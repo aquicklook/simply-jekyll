@@ -1186,9 +1186,9 @@ display: inline-block;
     width: 4em;
 }
 .gt-container .gt-comment-username {
-    font-weight: 400;
+    font-weight: 600;
     color: #292929;
-    font-size: 14px;
+    font-size: 12px;
     line-height: normal;
   background-image: none;
   font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
@@ -1199,7 +1199,7 @@ display: inline-block;
 .gt-container .gt-comment-text {
   margin-left: 4px;
   color: #666666;
-  font-size: 14px;
+  font-size: 12px;
     line-height: normal;
     background-image: none;
   font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
@@ -1207,7 +1207,7 @@ display: inline-block;
 .gt-container .gt-comment-date {
   margin-left: 4px;
   color: #666666;
-  font-size: 14px;
+  font-size: 12px;
     line-height: normal;
     background-image: none;
   font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
