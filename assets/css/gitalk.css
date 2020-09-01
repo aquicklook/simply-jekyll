@@ -771,6 +771,10 @@
 }
 .gt-container .gt-ico-text {
   margin-left: 0.3125em;
+      display: inline-block;
+    margin-left: 8px;
+    vertical-align: middle;
+    color: rgb(0, 119, 204);
 }
 .gt-container .gt-ico-github {
   width: 100%;
