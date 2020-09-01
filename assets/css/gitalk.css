@@ -989,10 +989,10 @@ display: inline-block;
   fill: inherit;
 }
 .gt-container .gt-user .is--poping .gt-ico svg {
-  fill: #6190e8;
+  fill: #0077cc;
 }
 .gt-container .gt-version {
-  color: #a1a1a1;
+  color: #0077cc;
   margin-left: 0.375em;
 }
 .gt-container .gt-copyright {
@@ -1026,7 +1026,7 @@ position: absolute;
   content: '';
   width: 0.25em;
   height: 0.25em;
-  background: #6190e8;
+  background: #0077cc;
   position: absolute;
   left: 0.5em;
   top: 0.4375em;
