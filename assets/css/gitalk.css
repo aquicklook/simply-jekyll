@@ -951,7 +951,13 @@ display: inline-block;
   clear: both;
 }
 .gt-container .gt-counts {
-  margin: 0 0.625em 0 0;
+    margin: 0 0.625em 0 0;
+    border-bottom: 3px solid black;
+    text-transform: uppercase;
+    font-weight: 600;
+    max-width: 78px !important;
+    margin-bottom: 12px;
+    white-space: nowrap;
 }
 .gt-container .gt-user {
   float: right;
