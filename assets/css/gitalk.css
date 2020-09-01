@@ -877,6 +877,7 @@ display: inline-block;
     background: linear-gradient(#42a1ec, #0070c9);
     background-color: #0070c9;
     border-width: 1px;
+      outline: none;
     border-style: solid;
     border-radius: 4px;
 }
