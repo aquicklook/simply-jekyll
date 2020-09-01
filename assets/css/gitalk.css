@@ -756,15 +756,15 @@
   display: none !important;
 }
 .gt-container .gt-svg {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  vertical-align: sub;
+display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 }
 .gt-container .gt-svg svg {
   width: 100%;
   height: 100%;
-  fill: #6190e8;
+  fill: #0077cc;
 }
 .gt-container .gt-ico {
   display: inline-block;
