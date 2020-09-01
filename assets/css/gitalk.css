@@ -1185,11 +1185,11 @@ display: inline-block;
   text-decoration: underline;
 }
 .gt-container .gt-comment-text {
-  margin-left: 0.5em;
+  margin-left: 4px;
   color: #a1a1a1;
 }
 .gt-container .gt-comment-date {
-  margin-left: 0.5em;
+  margin-left: 4px;
   color: #a1a1a1;
 }
 .gt-container .gt-comment-like,
