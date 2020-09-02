@@ -1237,6 +1237,7 @@ position: absolute;
     line-height: normal;
     background-image: none;
   font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  display: none;
 }
 .gt-container .gt-comment-date {
   margin-left: 4px;
