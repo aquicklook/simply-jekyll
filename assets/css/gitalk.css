@@ -859,8 +859,8 @@ display: inline-block;
 }
 @media (max-width: 480px) {
   .gt-container .gt-avatar {
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
   }
 }
 .gt-container .gt-avatar img {
