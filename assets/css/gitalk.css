@@ -899,7 +899,7 @@ display: inline-block;
 }
 .gt-container .gt-btn-text {
   font-weight: 400;
-    font-family: Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+font-family: 'Feed', "Segoe UI", sans-serif !important;
     line-height: normal;
     font-size: 12px;
       color: inherit;
@@ -985,8 +985,8 @@ display: inline-block;
 }
 .gt-container .gt-counts {
     margin: 0 0.625em 0 0;
-    border-bottom: 3px solid #292929;
-    text-transform: uppercase;
+    border-bottom: 0px solid #292929;
+    text-transform: capitalize;
     font-weight: 600;
     max-width: 78px !important;
     margin-bottom: 12px;
