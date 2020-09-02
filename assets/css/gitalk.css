@@ -1220,12 +1220,12 @@ position: absolute;
     width: 4em;
 }
 .gt-container .gt-comment-username {
-    font-weight: 600;
+    font-weight: 400;
     color: #292929;
-    font-size: 12px;
-    line-height: normal;
+    font-size: 16px;
+    line-height: 20px;
   background-image: none;
-  font-family:   Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
+  font-family: 'Feed', "Segoe UI", sans-serif  !important;
 }
 .gt-container .gt-comment-username:hover {
   text-decoration: none;
