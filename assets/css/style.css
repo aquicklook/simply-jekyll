@@ -175,22 +175,18 @@ width:16px;
 }
 
 ::-webkit-scrollbar-button {
-
-	  background-color: #bbbbbb;
-  display: block;
-  border-style: solid;
-  height: 13px;
-  width: 16px;
+height:0;
+width:0;
 }
 
 ::-webkit-scrollbar-track {
 background-clip:padding-box;
 border:solid transparent;
-border-width:0 0 0 4px;
+border-width:0 0 0 0px;
 }
 
 ::-webkit-scrollbar-track:horizontal {
-border-width: 4px 0 0;
+border-width: 0px 0 0;
 }
 
 ::-webkit-scrollbar-track:hover {
