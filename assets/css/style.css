@@ -182,7 +182,7 @@ width:0;
 ::-webkit-scrollbar-track {
 background-clip:padding-box;
 border:solid transparent;
-border-width:0 0 0 4px;
+border-width:0 0 0 0px;
 }
 
 ::-webkit-scrollbar-track:horizontal {
