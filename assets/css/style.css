@@ -281,8 +281,9 @@ body::-webkit-scrollbar-corner {
     box-shadow: inset 1px 1px 0 rgba(0,0,0,.14);
 }
 
-
-
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(0,0,0,0); 
+}
 
 .box {
     border-left: 0px solid #E6ECF0;
