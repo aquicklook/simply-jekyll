@@ -1,5 +1,5 @@
 ---
-title: Human Interface Guidelines
+title: Guidelines
 tags: guideline
 ---
 
