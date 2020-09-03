@@ -171,9 +171,7 @@ body {
 ::-webkit-scrollbar-thumb {
     border-width: 1px 1px 1px 1px
 }
-::-webkit-scrollbar-track {
-    border-width: 0
-}
+
 ::-webkit-scrollbar {
     height: 16px;
     overflow: visible;
