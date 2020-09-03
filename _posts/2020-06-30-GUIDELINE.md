@@ -1,6 +1,6 @@
 ---
-title: Interface Guidelines
-tags: guideline
+title: User Interface Design Guidelines
+tags: user
 ---
 
 {:.boxit}
