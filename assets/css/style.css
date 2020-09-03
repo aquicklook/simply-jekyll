@@ -214,13 +214,13 @@ border:solid transparent;
 min-height:28px;
 box-shadow:inset 1px 1px 0 rgba(0,0,0,.1),inset 0 -1px 0 rgba(0,0,0,.07);
 border-width:1px 1px 1px 6px;
-padding:0px 0 0;
+padding:100px 0 0;
 }
 
 ::-webkit-scrollbar-thumb:horizontal {
 box-shadow:inset 1px 1px 0 rgba(0,0,0,.1),inset -1px 0 0 rgba(0,0,0,.07);
 border-width:6px 1px 1px;
-padding:0 0 0 0px;
+padding:0 0 0 100px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -279,10 +279,6 @@ body::-webkit-scrollbar-corner {
     border: solid #fff;
     border-width: 3px 0 0 3px;
     box-shadow: inset 1px 1px 0 rgba(0,0,0,.14);
-}
-
-::-webkit-scrollbar-thumb:window-inactive {
-    background: rgba(0,0,0,0); 
 }
 
 .box {
