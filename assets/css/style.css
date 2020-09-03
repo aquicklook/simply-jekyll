@@ -175,8 +175,12 @@ width:16px;
 }
 
 ::-webkit-scrollbar-button {
-height:0;
-width:0;
+
+	  background-color: #bbbbbb;
+  display: block;
+  border-style: solid;
+  height: 13px;
+  width: 16px;
 }
 
 ::-webkit-scrollbar-track {
