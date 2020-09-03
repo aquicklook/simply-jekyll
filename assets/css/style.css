@@ -168,9 +168,7 @@ body {
  
 /* Scrollbar */
 
-::-webkit-scrollbar-thumb {
-    border-width: 1px 1px 1px 1px
-}
+
 
 ::-webkit-scrollbar {
     height: 16px;
