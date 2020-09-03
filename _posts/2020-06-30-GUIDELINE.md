@@ -190,15 +190,6 @@ Quote
 
 <p class="etc"></p>
 
-<div class="makeup-container">
-  <div class="container-content-timeline">
-    <div class="makeup a"><a href="https://quicklook.netlify.app/posts/talk" oncontextmenu="displayEmbedCode(this);return false;">Conference Series</a></div>
-    <div class="makeup p"><p>Conferences Series (Technology, Entertainment, Design) is an Quicklook media organization that posts talks online for free distribution under the slogan "Jeu de survie".</p></div>
-<div class="makeupx p"><p>Read more</p></div>
-  </div>
-<div class="makeup img"><img src="https://raw.githubusercontent.com/aquicklook/simply-jekyll/master/assets/img/profile.png"  alt="Conference Series"></div>
-</div>
-
 <link rel="stylesheet" href="/assets/css/gitalk.css">
 <script src="/assets/js/gitalk.min.js"/></script>
 <div id="gitalk-container"></div>     
