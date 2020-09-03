@@ -271,7 +271,7 @@ body::-webkit-scrollbar-thumb {
     border-width: 0px 0px 0px 3px
 }
 body::-webkit-scrollbar-thumb:horizontal {
-    border-width: 3px 1px 1px
+    border-width: 3px 0px 0px
 }
 body::-webkit-scrollbar-corner {
     background-clip: padding-box;
