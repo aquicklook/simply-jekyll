@@ -1003,7 +1003,7 @@ pre code {
     font-family: 'Courier New', monospace;
     display: block;
     overflow-x: auto !important;
-    white-space: pre-wrap !important; 
+    white-space: pre; 
     word-wrap: normal !important;       
     vertical-align: middle;
     width: auto  !important;
