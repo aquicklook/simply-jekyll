@@ -268,7 +268,7 @@ border-width:3px 0 0;
 }
 
 body::-webkit-scrollbar-thumb {
-    border-width: 1px 1px 1px 3px
+    border-width: 0px 1px 1px 3px
 }
 body::-webkit-scrollbar-thumb:horizontal {
     border-width: 3px 1px 1px
