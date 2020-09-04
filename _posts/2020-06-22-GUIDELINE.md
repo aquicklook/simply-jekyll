@@ -1,5 +1,5 @@
 ---
-title: User Interface Design Guidelines
+title: User Interface Design
 tags: user
 ---
 
