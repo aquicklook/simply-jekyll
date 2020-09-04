@@ -1,43 +1,43 @@
-
-html {
-  box-sizing: border-box;
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
-
 body {
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-
-    width: 90%;
+    --paper-fab-background: #35424b;
 }
 
-h2 {
-  font-weight: 900;
-  font-style: normal;
-  font-size: 80px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  line-height: 80px;
-  margin: 0;
-  outline-color: rgb(21, 21, 21);
-  span {
-    color: #1867c1;
-  }
+#tocToggle {
+    position: absolute;
+    left: 10px;
 }
-h3{
-  font-weight: 500;
-  line-height: 30px;
-  text-transform: uppercase;
+
+pb-drawer {
+    position: absolute;
+    background-color: #d1dae0;
+    height: 100%;
 }
-#toc {
-  .chapterNumber {
-    text-align:center;
-    color: #EAEAEA;
-    font-size: 8em;
-    font-weight: 900;
-  }
+
+#title-view {
+    margin-left: 80px;
+}
+main {
+    margin-left: 80px;
+    margin-right: 80px;
+    overflow: auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+pb-navigation {
+    position: fixed;
+    bottom: 55%;
+}
+
+pb-navigation[direction="backward"] {
+    left: 10px;
+}
+
+pb-navigation[direction="forward"] {
+    right: 10px;
+}
+
+#toc ul {
+    list-style: none;
 }
