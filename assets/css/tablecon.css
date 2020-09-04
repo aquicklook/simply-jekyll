@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-container{
+  
+}
+
+.article{
+  display:none;
+}
+
+#contents{
+width: 100%;
+}
+
+.contents-bottom{
+  width: 100%;
+  background: lightgray;
+  padding: 15px;
+  box-sizing: border-box;
+  position: fixed;
+  bottom:0;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+.article-content{
+  margin: 0 auto;
+  width: 70%;
+  
+}
+
+.article {
+  padding-bottom:70px;
+}
+
+.image {
+  display: inline-block; 
+  margin-right: 2px;
+}
+
+
+.image-container{
+  background: lightgray;
+  border-bottom: 1px solid black;
+  box-sizing: border-box;
+  padding: 5px;
+}
