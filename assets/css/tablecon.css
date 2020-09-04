@@ -1,0 +1,110 @@
+@import "compass/css3";
+
+$clr: white;
+$clr2: #fc7805;
+$grey: #f4f4f4;
+
+@import url(https://fonts.googleapis.com/css?family=Oxygen);
+
+@mixin bg-ripped($color, $width:70px, $size:14px, $spacing:10px) {
+  $height: $spacing + $size;
+  $width: $width * 2;
+  $size: $size / 2;
+  
+  @include background-image(radial-gradient(circle, rgba(255,255,255,1) $size, rgba(255,255,255,0) $size, rgba(255,255,255,0)), linear-gradient(to left, $color 50%, transparent 50%, transparent));
+  background-size: $width $height;
+  background-repeat: repeat-y;
+  background-position: right top;
+}
+
+div.sidebar {
+  position: fixed; right: 0; top: 0;
+  height: 100%;
+  width: 80px;
+  float: right;
+  @include bg-ripped($clr2, 80px);
+}
+
+.index {
+  display: block;
+  position: relative;
+  float: right;
+  margin-top: 25px;
+  margin-right: 25px;
+  background-color: $clr;
+  width: 20px;
+  border: 2px solid $clr;
+  overflow: hidden;
+  transition: width .3s ease-in-out 0s, border 1s, border-width .2s, background-color .3s ease .2s;
+  cursor: default;
+  
+  .title {
+    overflow: hidden;
+    height: 0;
+    line-height: 36px;
+    width: 100%;
+    text-align: center;
+    background-color: $grey;
+    transition: height .1s;
+  }
+  
+  ol {
+    margin: 0; padding: 0;
+    
+    li {
+      overflow: hidden;
+      text-indent: -200%;
+      background-color: $clr2;
+      margin: 3px;
+      margin-right: 6px;
+      height: 3px;
+      border-radius: 2px;
+      font-size: 0;
+      transition: margin-right .2s ease 0s, max-height .2s ease .2s, all .4s;
+      
+      &.active {
+        margin-right: 3px;
+      }
+    }
+  }
+  
+  &:hover {
+    width: 240px;
+    max-height: 90%;
+    border: 3px solid darken($clr2, 5%);
+    border-width: 3px 0px 2px 0px;
+    box-shadow: 0 2px 2px rgba(black, .2);
+    background-color: white;
+    
+    .title {
+      height: 36px;
+    }
+    
+    ol {
+      li {
+        height: auto;
+        min-height: 22px;
+        line-height: 22px;
+        max-height: 400px;
+        background-color: transparent;
+        text-indent: 8px;
+        font-size: 12px;
+      }
+    }
+  }
+}
+
+// Article markup
+
+article { 
+  width: 70%; 
+  float: left; 
+  background: $grey; 
+  box-shadow: 0 2px 2px rgba(black,.2); 
+  padding: 25px; 
+  
+  h3 {
+    font-size: 1em;
+    color: $clr2;
+  }
+}
