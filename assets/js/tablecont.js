@@ -1,82 +1,68 @@
-var currentChapter = $('.current-chapter');
-// var prevChapter = currentChapter.closest();
-var nextChapter = currentChapter.next();
+/* Show the side nav panel by repositioning it to right = 0 */
+function openNav(){
+  $("#sideNavUserGuide").toggleClass("open");
+}
 
-$('.open').on('click', function(e) {
-  e.preventDefault();
-  $('#primary__nav').show().animate({
-    'bottom': '2.95rem'
-  });
-  $('.open').hide();
-  $('.close').show();
-});
 
-$('.close').on('click', function(e) {
-  e.preventDefault();
-  $('#primary__nav').animate({
-    'bottom': '-3rem'
-  });
-  $('.open').show();
-  $('.close').hide();
-});
-
-$('#toc').hide();
-
-$('#table-of-contents').on('click', function() {
-  $('#toc').show().animate({
-    'top': '-78vh'
-  });
-});
-
-$('.toc-link').on('click', function() {
-  var chapterID = $(this).attr('data-tab');
-  $('.chapter').hide();
-  $('#' + chapterID).show();
-  $('.panel').animate({
-    'top': '100%'
-  });
-  $('#primary__nav').animate({
-    'bottom': '-3rem'
-  });
-  $('.open').show();
-  $('.close').hide();
-});
-
-$('.panel-close').on('click', function() {
-  $('.panel').animate({
-    'top': '100%'
-  });
-});
-
-// scrolling controls
-$(window).scroll(function() {
-  // if scroll is greater than 300px, do something
-  if ($(window).scrollTop() > 300) {
-    // attach top bar to the top of the screen
-    $('#top-bar').css({
-      'position' : 'fixed',
-      'top' : '0', 
-      'width' : '100%'
-    });
-    // hides nav menu when scroll is less than 100px
-  } else {
-      $('#top-bar').css({
-        'position' : 'relative'      
-      });
-    } 
+/* Function to animate :
+--> remove of the nav tabs from the side nav view 
+--> and show the tab content in the side nav view  */
+$(".nav.nav-tabs li > a").click(function openTabContent() {
+ // $(this).closest('ul').addClass("inactive"); 
+  $(".nav.nav-tabs").addClass("inactive");
+  $(".user-guide-tabs .tab-content").addClass("active");
 });
 
 
-$('.prev').on('click', function() {
-  currentChapter.prev().show().addClass('current-chapter');
+
+/* Function to animate :
+--> remove the tab content from the side nav view 
+--> and show the nav tabs in the side nav view  */
+function closeTabContent() {
+  $(".user-guide-tabs .tab-pane.active").removeClass("active");
+  $(".user-guide-tabs .nav.nav-tabs li").removeClass( "active");
+  $(".user-guide-tabs .tab-content").removeClass( "active");
+  $(".nav.nav-tabs").removeClass("inactive");
+  
+}
+
+
+/* Function to close the side nav panel */
+$(".user-guide-header button.close").click(function closeNav(){
+  $("#sideNavUserGuide").removeClass("open");
+  closeTabContent();
 });
 
 
-$('.next').on('click', function() {
-  // currentChapter.next().addClass('current-chapter');
-  // // $('article').prev().removeClass('current-chapter');
-  nextChapter.show().addClass('current-chapter');
-  currentChapter.hide().removeClass('current-chapter');
+$("#imageClickToExpand").click(function openImageModal(){
+	var imageSrc = $(this).attr("src");
+	$("#imageExpandedModal").attr("src", imageSrc);
+	$("#imageModal").css("display", "block");
+});
+
+/* When the user clicks on x, close the modal */
+
+$(".image-modal span.close").click(function closeImageModal(){
+  $(".side-nav-ug .image-modal").css("display","none");
 });
 
 
+/* To move between the tabs with content using next and previous buttons */
+$("a.btn-next").click(function(){
+    var $toHighlight = $('.user-guide-tabs .tab-pane.active').next().length > 0 ? $('.user-guide-tabs .tab-pane.active').next() : $('.user-guide-tabs .tab-pane').first();
+    $('.user-guide-tabs .tab-pane.active').removeClass('active');
+    $toHighlight.addClass('active');
+});
+
+/* To move between the tab-pane with content using next and previous buttons */
+$("a.btn-next").click(function(){
+    var $toHighlight = $('.user-guide-tabs .tab-pane.active').next().length > 0 && $('.user-guide-tabs .tab-pane.active').next().hasClass("tab-pane") ? $('.user-guide-tabs .tab-pane.active').next() : $('.user-guide-tabs .tab-pane').first();
+    $('.user-guide-tabs .tab-pane.active').removeClass('active');
+    $toHighlight.addClass('active');
+});
+
+$("a.btn-previous").click(function(){
+    var $toHighlight = $('.user-guide-tabs .tab-pane.active').prev().length > 0 && $('.user-guide-tabs .tab-pane.active').prev().hasClass("tab-pane") ? $('.user-guide-tabs .tab-pane.active').prev() : $('.user-guide-tabs .tab-pane').last();
+    $('.user-guide-tabs .tab-pane.active').removeClass('active');
+    $toHighlight.addClass('active');
+});
