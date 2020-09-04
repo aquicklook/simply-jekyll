@@ -1,0 +1,70 @@
+body
+  position: relative
+  padding-top: 65px
+
+.navbar
+  border-bottom: 2px solid #999
+  
+div.table-of-contents
+  border-bottom: 5px solid #AAA
+  background-color: #E7E7E7
+  
+/* @todo: prevent page scroll when scrolling chapter elements - http://stackoverflow.com/questions/7600454/how-to-prevent-page-scrolling-when-scrolling-a-div-element */  
+div.chapter
+  border-top: 5px solid #CCC
+  border-left: 1px solid #CCC
+  border-right: 1px solid #CCC
+  height: 125px
+  overflow: hidden
+  margin: 0 5px 5px 5px
+  padding: 10px 10px
+
+div.chapter:hover
+  background-color: white
+  
+div.bgimg
+  position: absolute
+  top: -65px
+  width: 100%
+  height: calc(100% + 65px)
+  background: #ffffff url('http://priceofanything.com/wp-content/uploads/2014/09/Franz-Kafka.jpg') no-repeat left top
+  background-size: cover
+  
+div.pages
+  margin-top: 60px
+  font-size: 22px
+  font-family: serif
+
+div.page
+  background-color: #FFFFFF
+  margin-bottom: 50px
+
+div.page-border
+  padding: 70px
+  
+div.pages h1, div.pages h2, div.pages h3, div.pages h4, div.pages h5
+  font-family: "Arial"
+  
+div.pages h1
+  font-weight: bold
+  
+div.pages p.first::first-letter
+  font-size: 36px
+  
+
+div.pages p.first::first-line
+  font-size: 28px
+  
+div.pages table
+  margin: 45px
+  font-family: sans-serif
+
+div.pages img.pull-right
+  margin: 0 0 50px 50px
+  
+div.pages img.pull-left
+  margin: 0 25px 0 0  
+
+p.footer
+  text-align: center
+  font-size: 48px
