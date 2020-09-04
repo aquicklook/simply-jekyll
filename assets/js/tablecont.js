@@ -1,6 +1,6 @@
 if (false) {
     javascript:(function(){
-        var headers = document.querySelectorAll('h1,h2,h3,h4,h5,h6');
+        var headers = document.querySelectorAll('h2,h3,h4');
         if (headers.length) {
             var container = document.createElement('div');
             container.style = 'background-color:white;border:1px solid black;color:black;display:inline-block;font-size:16px;left:0;line-height:1.5;max-height:calc(100% - 1em);margin:0.5em;max-width:calc(100% - 1em);overflow-y:scroll;padding:0.5em 1.6em 0.5em 1em;position:fixed;top:0;z-index:9999;';
