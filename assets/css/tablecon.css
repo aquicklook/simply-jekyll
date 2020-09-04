@@ -96,6 +96,8 @@ div.sidebar {
 
 // Article markup
 
+html, body { height: 100%; margin: 0; font-family: "Oxygen", sans-serif; }
+
 article { 
   width: 70%; 
   float: left; 
