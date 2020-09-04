@@ -1,16 +1,5 @@
-body {
-    font: 1em/1.45 sans-serif;
-}
-
 .panel {
     float: left;
     padding: 0.3em 0.6em;
     width: 40%;
-}
-
-.button {
-    background-color: blue;
-    border-radius: 0.2em;
-    color: white;
-    padding: 0.3em 0.6em;
 }
