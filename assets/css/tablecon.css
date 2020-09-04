@@ -1,65 +1,181 @@
-#wrapper {max-width: 680px;}
+body
+  font-family: 'Padauk', sans-serif
+  // font-family: 'Ek Mukta', sans-serif
+  margin: 0
+  color: #333
+  // height: 100vh
+  position: relative
+  z-index: 1
+  
+p
+  line-height: 1.3
+  
+#top-bar
+  background: black
+  color: white
+  padding: .5rem 0
+  
+.title
+  font-size: .8rem
+  text-transform: uppercase
+  text-align: center
+  margin: 0
+  
+.author
+  display: none
 
-/*FAB*/
-#float {
-  position:fixed;
-  bottom:20px;
-  right:20px;
-  z-index: 9999;
-  font-size: 1.2em;
-  background-color:#61BBE8;
-  color:#FFF;
-  border-radius:100%;
-  text-align:center;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
-}
-#float div{width: 40px;height: 40px;}
-.my-float{margin-top:20px;}
+article
+  padding: 0 .5rem 2rem
+  
+  
+.chapter
+  display: none
+  
+.current-chapter
+  display: block
+  
+.chapter-heading,
+.chapter-subheading
+  text-align: center
+  
+  
+.chapter-heading
+  margin: 3rem 0 0
+  font-size: 1.5rem
+  text-transform: uppercase
+  
+  h3
+    margin: 0
+  
+.chapter-subheading
+  margin: 1rem 0 3rem
+  
+  h4
+    margin: 0
 
-/*Content*/
-#content {
-  position:fixed;
-  bottom:100px;
-  right:20px;
-  z-index: 9999;
-  min-width: 280px;
-  max-height: 80vh;
-  overflow-y: auto;
-  padding: 1.8em;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2); 
-  border-radius: 20px;
-  background-color: #fff;
-}
-.hide{display: none;}
-.show {display: block;}
 
-#content p{margin: 0 0 16px; font-weight: 500;}
-#content li{padding: 0.5em 0}
-#content hr{margin: 16px 0;}
-#float-nav {
-  display: flex;
-  justify-content: space-between;
-} 
-#float-nav a {
-  text-decoration: none;
-  color: rgba(0,0,0,0.76);
-  font-weight: 500;
-}
-@media only screen and (min-width: 560px){
-  #float {
-    bottom: 40px;
-    right: 40px;
-  }
-  #content {
-    bottom: 120px;
-    right: 40px;
-  }
-}
-/*remove hover on mobile devices, for click event*/
-@media only screen and (min-width: 768px){
-  #float:hover{
-    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.3);
-    color: #fff;
-    cursor: pointer;
-  }
-}
+#bottom-bar
+  background: #f9f9f9
+  // padding: .5rem 0
+  display: flex
+  justify-content: space-between // horizontal alignment
+  align-items: center // vertical alignment
+  position: fixed // fixed position to bottom of screen
+  bottom: 0
+  left: 0
+  width: 100% // width covers screen horizontally
+  border-top: 1px solid #ddd
+  z-index: 50
+  
+
+.footer__action-button
+  padding: .5rem // controls space between circle and icon
+  border: 1px solid #aaa
+  border-radius: 50%
+  width: 1rem // express width for uniformity
+  height: 1rem // express height for uniformity
+  display: flex
+  justify-content: center // center the icon 
+  align-items: center // center the icon
+  transition: all 200ms ease // creates a smoother transition on hover
+  flex: 0 1 1rem
+  
+  &:hover
+    background: #ddd // background hover state
+    cursor: pointer // makes it look clickable
+  
+  
+
+  a
+    color: #444
+    text-decoration: none
+    font-size: 1rem
+
+    // include this padding for anchor links so that the link area is the same size as the circle. otherwise, there will be a gap between the circle and link, making it possible to hover over the circle and not change the state of the link. uncomment and then hover to see what happens.
+    padding: 1rem
+  
+    i
+      visibility: hidden
+  
+  
+.close
+  display: none
+
+
+.prev,
+.next
+  text-align: center
+  flex: 0 1 25%
+  padding: 5px
+  
+  &:hover
+    background: #ddd
+    cursor: pointer
+  
+  a
+    font-size: 1.5rem
+    color: #aaa
+    
+    
+.disabled-link
+  a
+    pointer-events: none
+    color: #ddd
+    
+    
+#primary__nav
+  position: fixed
+  bottom: -3rem
+  left: 0
+  background: #444
+  z-index: 25
+  width: 100%
+  
+.nav__wrapper
+  display: flex
+  justify-content: space-around
+  align-items: center
+  width: 100%
+  
+  a
+    padding: 1rem 0 .5rem
+    font-size: 2rem
+    color: white
+    margin: 0  
+    
+#toc
+  position: absolute
+  top: 100%
+  left: 0
+  background: white
+  height: 74vh
+  width: 100%
+  display: flex
+  justify-content: flex-start
+  align-items: center
+  flex-direction: column
+  padding: 4rem 0 12rem
+  overflow-y: auto
+  z-index: 5
+
+  h5
+    font-size: 1.5rem
+    margin: 0
+    padding-bottom: 1rem
+    
+  ul
+    list-style: none
+    padding: 0
+    margin: 0
+    
+    li
+      padding: .5rem 0
+        
+.panel-inner
+  text-align: center
+        
+.panel-close
+  position: absolute
+  top: 1rem
+  right: 1rem
+  font-size: 1.5rem
