@@ -631,8 +631,16 @@ a {
     position: relative;
 }
 
+.eg {
+    pointer-events: none;
+}
+
 .ev {
     margin-left: 8px;
+}
+
+.fa {
+    flex-direction: row;
 }
 
 .fb {
@@ -760,6 +768,10 @@ a {
 
 .gn {
     text-align: right;
+}
+
+.gnn {
+    position: absolute;
 }
 
 .gp {
@@ -918,8 +930,32 @@ a {
     margin: 0 4px;
 }
 
+.iu {
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.it {
+    left: 50%;
+}
+
 .ix {
     margin: 0 7px;
+}
+
+.is {
+    top: 50%;
+}
+
+.ir {
+    height: calc(100% + 24px);
+}
+
+.iq {
+    width: calc(100% + 24px);
+}
+
+.ip {
+    fill: rgba(3, 168, 124, 1);
 }
 
 .iz {
