@@ -106,4 +106,5 @@ details, summary {
 
 .toc-container a:hover {
     color: red;
+	font-weight: 600;
 }
