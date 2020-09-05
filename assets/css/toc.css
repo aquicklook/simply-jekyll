@@ -19,3 +19,64 @@
 .toc_list {
     font-weight: 400; padding: 0; width: auto;
 }
+
+
+
+
+
+
+details, summary {
+	display: block;
+}
+
+.toc-container {
+    padding: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 2px;
+    border: 1px solid #cacaca;
+    display: table;
+    font-size: 95%;
+    overflow: auto;
+  	max-width: 100%;
+}
+
+.toc-title {
+    font-weight: 700;
+    margin-bottom: 5px;
+    display: inline-block;
+    zoom: 1;
+}
+
+/*  hide default arrow */
+.toc-container summary::-webkit-details-marker{
+	display:none;
+}
+
+.toc-container summary {
+  	outline: none;
+}
+
+.toc-container summary:after {
+    content: "[ show ]";
+    color: grey;
+    margin-left: 15px;
+    font-size: 90%;
+    cursor: pointer;
+}
+
+.toc-container details[open] summary:after {
+    content: "[ hide ]";
+}
+
+.toc-list, .toc-list ul {
+    margin: 0;
+    list-style-type: circle;
+  	padding-left: 20px;
+}
+
+.toc-container a {
+	text-decoration: none;
+    color: #3a85c1;
+    word-break: break-all;
+}
