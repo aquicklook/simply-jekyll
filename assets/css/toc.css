@@ -63,7 +63,7 @@ details, summary {
 
 .toc-container summary:after {
     content: "[ show ]";
-    color: grey;
+    color: #5f6368;
     margin-left: 15px;
     font-size: 90%;
     cursor: pointer;
@@ -72,6 +72,7 @@ details, summary {
 
 .toc-container details[open] summary:after {
     content: "[ hide ]";
+    color: #3172dd;
     font-family: 'Quicklook';
 }
 
