@@ -87,5 +87,5 @@ details, summary {
     background-image: none;
     text-decoration: none;
     color: #292929;
-    word-break: break-all;
+    word-break: break-word;
 }
