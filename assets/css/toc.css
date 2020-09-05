@@ -51,6 +51,7 @@ details, summary {
     margin-bottom: 5px;
     display: inline-block;
     zoom: 1;
+    font-family: 'Charter';
 }
 
 /*  hide default arrow */
@@ -68,10 +69,12 @@ details, summary {
     margin-left: 15px;
     font-size: 90%;
     cursor: pointer;
+    font-family: 'Quicklook';
 }
 
 .toc-container details[open] summary:after {
     content: "[ hide ]";
+    font-family: 'Quicklook';
 }
 
 .toc-list, .toc-list ul {
