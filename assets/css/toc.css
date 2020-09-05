@@ -13,6 +13,9 @@
 .Hide {
   display:none;
 }
+.Show {
+  display:block;
+}
 .toc_list {
     font-weight: 400; padding: 0; width: auto;
 }
