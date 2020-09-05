@@ -510,8 +510,16 @@ a {
     padding: 0;
 }
 
+.bcc {
+    padding: 0;
+}
+
 .bd {
     letter-spacing: inherit;
+    margin: 0;
+}
+
+.bdd {
     margin: 0;
 }
 
