@@ -43,6 +43,7 @@ details, summary {
     line-height: normal;
     border-radius: 0px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
+	    line-height: normal !important;
 }
 
 .toc-title {
@@ -71,7 +72,7 @@ details, summary {
     content: "Views";
     color: #292929;
     margin-left: 0px;
-    font-size: 12px;
+    font-size: 16px;
     cursor: pointer;
     font-family: 'Feed' !important;
     line-height: normal;
@@ -86,6 +87,7 @@ details, summary {
     margin: 0;
     list-style-type: disc;
     padding-left: 20px;
+	    line-height: normal !important;
 }
 
 .toc-list {
@@ -99,7 +101,7 @@ details, summary {
     word-break: break-word;
     font-family: 'Feed' !important;
     line-height: normal !important;
-	font-size: 12px !important;
+	font-size: 16px !important;
 }
 
 .toc-container a:hover {
