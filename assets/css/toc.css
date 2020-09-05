@@ -51,6 +51,7 @@ details, summary {
     position: fixed;
     left: 0;
     top: 0;
+    bottom: auto;
     height: 100%
     background: #f2f2f2;
     overflow-x: scroll;
