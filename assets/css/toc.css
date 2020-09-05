@@ -1,11 +1,11 @@
 #toc_container {
     background: #ecebeb none repeat scroll 0 0;
-    border: 1px solid #aaa; font-size: 80%;      
-    position: fixed; left: 0;  top: 320px; padding: 5px 5px;
+    border: 1px solid #aaa; font-size: 100%;      
+    position: fixed; left: 0;  top: 320px; padding: 4px 4px;
     width: auto;
 }
 .toc_title {
-    font-weight: 1000; font-size: 105%;      
+    font-weight: 400; font-size: 100%;      
  }
 #toc {
   display:none;
@@ -14,6 +14,13 @@
   display:none;
 }
 .toc_list {
-    font-weight: 500; padding-top: 2px; padding-right: 5px;
+    font-weight: 400; padding-top: 2px; padding-right: 5px;
     padding-bottom: 2px; padding-left: 2px; width: 170px;
+}
+
+.p-toc {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: 'Feed', "Segoe UI", sans-serif !important;
 }
