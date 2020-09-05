@@ -886,6 +886,18 @@ a {
     fill: rgba(61, 61, 61, 1);
 }
 
+.ix {
+    margin: 0 7px;
+}
+
+.iz {
+    margin-top: -2px;
+}
+
+.ja {
+    padding-left: 4px;
+}
+
 .jb {
     align-items: flex-end;
 }
