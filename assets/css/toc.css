@@ -82,6 +82,9 @@ details, summary {
     margin: 0;
     list-style-type: disc;
     padding-left: 20px;
+}
+
+.toc-list {
     margin-top: 16px;
 }
 
