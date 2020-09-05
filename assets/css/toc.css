@@ -71,6 +71,7 @@ details, summary {
     cursor: pointer;
     font-family: 'Feed' !important;
     line-height: normal;
+    font-weight: 600;
 }
 
 .toc-container details[open] summary:after {
