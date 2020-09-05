@@ -69,7 +69,7 @@ details, summary {
 }
 
 .toc-container summary:after {
-    content: "Views";
+    content: "Views contents";
     color: #292929;
     margin-left: 0px;
     font-size: 16px;
@@ -79,7 +79,7 @@ details, summary {
 }
 
 .toc-container details[open] summary:after {
-    content: "Hide";
+    content: "Hide contents";
     color: #292929;
 }
 
