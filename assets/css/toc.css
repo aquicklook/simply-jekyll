@@ -38,12 +38,22 @@ details, summary {
     position: fixed;
     left: 0;
     bottom: 0;
-    background: #f2f2f2;
+    background: #fff;
     overflow: scroll;
     line-height: normal;
     border-radius: 0px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
-	    line-height: normal !important;
+    line-height: normal !important;
+}
+
+.toc-container:after {
+    max-width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%
+    background: #f2f2f2;
+    overflow-x: scroll;
 }
 
 .toc-title {
