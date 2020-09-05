@@ -72,6 +72,7 @@ details, summary {
 .re-li {
     font-size: 16px;
     line-height: normal;
+    font-family: 'Feed', 'Segoe UI', sans-serif;
 }
 
 .toc-container a {
