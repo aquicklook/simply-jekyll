@@ -36,9 +36,11 @@ details, summary {
     border-radius: 2px;
     border: 1px solid #cacaca;
     display: table;
-    font-size: 95%;
+    font-size: 100%;
     overflow: auto;
-  	max-width: 100%;
+    max-width: 100%;
+    position: fixed;
+    left: 0;
 }
 
 .toc-title {
