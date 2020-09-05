@@ -2,7 +2,7 @@
     background: #ecebeb none repeat scroll 0 0;
     border: 1px solid #aaa; font-size: 18px;      
     position: fixed; top: 25%; right: 0; padding: 4px 4px;
-    width: auto; max-width: 680px; height: 25%; border-radius: 4px; overflow: scroll;
+    width: auto; max-width: 360px; height: 25%; border-radius: 4px; overflow: scroll;
 }
 .toc_title {
     font-weight: 400; font-size: 18px;      
@@ -14,5 +14,5 @@
   display:none;
 }
 .toc_list {
-    font-weight: 400; padding: 0; width: 170px;
+    font-weight: 400; padding: 0; width: auto;
 }
