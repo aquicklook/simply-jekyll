@@ -71,7 +71,7 @@ details, summary {
     content: "Views";
     color: #292929;
     margin-left: 0px;
-    font-size: 18px;
+    font-size: 12px;
     cursor: pointer;
     font-family: 'Feed' !important;
     line-height: normal;
@@ -98,7 +98,8 @@ details, summary {
     color: #292929;
     word-break: break-word;
     font-family: 'Feed' !important;
-    line-height: 24px !important;
+    line-height: normal !important;
+	font-size: 12px !important;
 }
 
 .toc-container a:hover {
