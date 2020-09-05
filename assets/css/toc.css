@@ -64,17 +64,17 @@ details, summary {
 }
 
 .toc-container summary:after {
-    content: "[index]";
+    content: "Index";
     color: #5f6368;
-    margin-left: 16px;
-    font-size: 90%;
+    margin-left: 0px;
+    font-size: 100%;
     cursor: pointer;
     font-family: 'Feed' !important;
     line-height: normal;
 }
 
 .toc-container details[open] summary:after {
-    content: "[hide]";
+    content: "[X]";
     color: #3172dd;
 }
 
