@@ -79,8 +79,8 @@ details, summary {
 
 .toc-list, .toc-list ul {
     margin: 0;
-    list-style-type: revert;
-    padding-left: 20px;
+    list-style-type: none;
+    padding-left: 0px;
 }
 
 .toc-container a {
