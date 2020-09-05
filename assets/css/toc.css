@@ -71,8 +71,8 @@ details, summary {
 }
 
 .re-li {
-	font-size: 16px;
-	line-height: normal;
+    font-size: 16px;
+    line-height: normal;
 }
 
 .toc-container a {
@@ -82,10 +82,9 @@ details, summary {
     word-break: break-word;
     font-family: 'Feed' !important;
     line-height: normal !important;
-	font-size: 16px !important;
+    font-size: 16px !important;
 }
 
 .toc-container a:hover {
     color: red;
-	font-weight: 600;
 }
