@@ -1,8 +1,8 @@
 #toc_container {
     background: #ecebeb none repeat scroll 0 0;
     border: 1px solid #aaa; font-size: 18px;      
-    position: fixed; top: 25%; right: 0; padding: 4px 4px;
-    width: auto; max-width: 360px; height: 25%; border-radius: 4px; overflow: scroll;
+    position: fixed; top: 25%; left: 0; padding: 4px 4px;
+    width: auto; max-width: 360px; height: 25%; border-radius: 4px; overflow: scroll; min-height: 24px;
 }
 .toc_title {
     font-weight: 400; font-size: 18px;      
