@@ -1,11 +1,11 @@
 #toc_container {
     background: #ecebeb none repeat scroll 0 0;
-    border: 1px solid #aaa; font-size: 80%;      
-    position: fixed; left: 0;  top: 320px; padding: 5px 5px;
-    width: auto;
+    border: 1px solid #aaa; font-size: 18px;      
+    position: fixed; bottom: 0; padding: 5px 5px;
+    width: auto; max-width: 680px;
 }
 .toc_title {
-    font-weight: 1000; font-size: 105%;      
+    font-weight: 400; font-size: 18px;      
  }
 #toc {
   display:none;
@@ -14,6 +14,5 @@
   display:none;
 }
 .toc_list {
-    font-weight: 500; padding-top: 2px; padding-right: 5px;
-    padding-bottom: 2px; padding-left: 2px; width: 170px;
+    font-weight: 400; padding: 0; width: 170px;
 }
