@@ -1,8 +1,11 @@
 #toc_container {
-    background: #ecebeb none repeat scroll 0 0;
-    border: 1px solid #aaa; font-size: 100%;      
-    position: fixed; left: 0;  top: 50%; padding: 4px 4px;
+    background: #fff none repeat scroll 0 0;
+    position: fixed;
+    left: 0;
+    top: 50%;
+    padding: 4px 4px;
     width: auto;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
 }
 
 #toc {
