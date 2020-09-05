@@ -46,7 +46,7 @@ details, summary {
     line-height: normal !important;
 }
 
-.toc-container:after {
+.toc-container:hover {
     max-width: 100%;
     position: fixed;
     left: 0;
