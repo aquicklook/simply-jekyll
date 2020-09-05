@@ -64,7 +64,7 @@ details, summary {
 .toc-container summary:after {
     content: "[ show ]";
     color: #5f6368;
-    margin-left: 15px;
+    margin-left: 16px;
     font-size: 90%;
     cursor: pointer;
     font-family: 'Feed' !important;
