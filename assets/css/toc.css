@@ -4,7 +4,7 @@ details, summary {
 
 .toc-container {
     padding: 1em;
-    display: table;
+    display: block;
     font-size: 100%;
     overflow: auto;
     max-width: 20%;
@@ -17,7 +17,7 @@ details, summary {
     overflow-y: scroll;
     line-height: normal;
     border-radius: 0px;
-    box-shadow: 0 0px 1px rgba(0,0,0,0.04), inset 0 0 0 0px rgba(0,0,0,0.09);
+    box-shadow: 0 0px 20px rgba(0,0,0,0.04), inset 0 0 0 0px rgba(0,0,0,0.09);
     line-height: normal !important;
 }
 
