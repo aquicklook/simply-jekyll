@@ -914,6 +914,10 @@ a {
     fill: rgba(61, 61, 61, 1);
 }
 
+.iw {
+    margin: 0 4px;
+}
+
 .ix {
     margin: 0 7px;
 }
