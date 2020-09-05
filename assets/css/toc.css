@@ -31,8 +31,6 @@ details, summary {
 
 .toc-container {
     padding: 1em;
-    border-radius: 2px;
-    border: 1px solid #cacaca;
     display: table;
     font-size: 100%;
     overflow: auto;
@@ -43,6 +41,8 @@ details, summary {
     background: #f2f2f2;
     overflow: scroll;
     line-height: normal;
+    border-radius: 0px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04), inset 0 0 0 1px rgba(0,0,0,0.09);
 }
 
 .toc-title {
