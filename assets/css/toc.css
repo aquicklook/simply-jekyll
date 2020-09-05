@@ -71,11 +71,10 @@ details, summary {
     cursor: pointer;
     font-family: 'Feed' !important;
     line-height: normal;
-    font-weight: 600;
 }
 
 .toc-container details[open] summary:after {
-    content: "-";
+    content: "On this page e";
     color: #3172dd;
 }
 
@@ -89,8 +88,12 @@ details, summary {
 .toc-container a {
     background-image: none;
     text-decoration: none;
-    color: #292929;
+    color: #3172dd;
     word-break: break-word;
     font-family: 'Feed' !important;
     line-height: 24px !important;
+}
+
+.toc-container a:hover {
+    color: #5f6368;
 }
