@@ -51,7 +51,7 @@ details, summary {
     display: inline-block;
     zoom: 1;
     font-family: 'Feed' !important;
-    line-height: normal;
+    line-height: normal !important;
 }
 
 /*  hide default arrow */
