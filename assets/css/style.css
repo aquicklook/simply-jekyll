@@ -445,6 +445,10 @@ a {
     display: block;
 }
 
+.amm {
+    display: block;
+}
+
 .ag {
     flex: 1 0 auto;
 }
