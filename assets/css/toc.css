@@ -64,7 +64,7 @@ details, summary {
 }
 
 .toc-container summary:after {
-    content: "[show]";
+    content: "[index]";
     color: #5f6368;
     margin-left: 16px;
     font-size: 90%;
