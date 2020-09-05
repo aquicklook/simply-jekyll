@@ -268,10 +268,10 @@ border-width:3px 0 0;
 }
 
 body::-webkit-scrollbar-thumb {
-    border-width: 0px 0px 0px 3px
+    border-width: 1px 1px 1px 5px
 }
 body::-webkit-scrollbar-thumb:horizontal {
-    border-width: 3px 0px 0px
+    border-width: 5px 1px 1px
 }
 body::-webkit-scrollbar-corner {
     background-clip: padding-box;
@@ -280,8 +280,6 @@ body::-webkit-scrollbar-corner {
     border-width: 0px 0 0 0px;
     box-shadow: inset 0px 0px 0 rgba(0,0,0,.14);
 }
-
-
 
 .box {
     border-left: 0px solid #E6ECF0;
