@@ -65,7 +65,7 @@ details, summary {
 
 .toc-container summary:after {
     content: "Views";
-    color: #5f6368;
+    color: #292929;
     margin-left: 0px;
     font-size: 18px;
     cursor: pointer;
@@ -75,7 +75,7 @@ details, summary {
 
 .toc-container details[open] summary:after {
     content: "Hide";
-    color: #3172dd;
+    color: #292929;
 }
 
 .toc-list, .toc-list ul {
