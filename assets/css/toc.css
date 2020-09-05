@@ -85,6 +85,10 @@ details, summary {
     margin-top: 16px;
 }
 
+.toc-list {
+    margin-top: 16px;
+}
+
 .toc-container a {
     background-image: none;
     text-decoration: none;
