@@ -41,6 +41,7 @@ details, summary {
     max-width: 100%;
     position: fixed;
     left: 0;
+    background: #fff;
 }
 
 .toc-title {
