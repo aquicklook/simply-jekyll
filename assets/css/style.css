@@ -1213,6 +1213,7 @@ img {
 
 img, svg {
     vertical-align: middle;
+    display: inline-block;
 }
 
 img.scaled {
