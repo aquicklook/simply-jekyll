@@ -2,7 +2,7 @@ details, summary {
     display: block;
 }
 
-.toc-container {
+#toc-container {
     padding: 1em;
     display: block;
     font-size: 100%;
