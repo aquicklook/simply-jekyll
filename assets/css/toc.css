@@ -1,12 +1,10 @@
 #toc_container {
     background: #ecebeb none repeat scroll 0 0;
     border: 1px solid #aaa; font-size: 100%;      
-    position: fixed; left: 0;  top: 320px; padding: 4px 4px;
+    position: fixed; left: 0;  top: 50%; padding: 4px 4px;
     width: auto;
 }
-.toc_title {
-    font-weight: 400; font-size: 100%;      
- }
+
 #toc {
   display:none;
 }
