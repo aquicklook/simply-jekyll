@@ -45,8 +45,8 @@ details, summary {
 }
 
 .toc-title {
-    font-weight: 700;
-    margin-bottom: 5px;
+    font-weight: 600;
+    margin-bottom: 0px;
     display: inline-block;
     zoom: 1;
     font-family: 'Feed' !important;
