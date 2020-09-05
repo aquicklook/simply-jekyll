@@ -63,6 +63,10 @@ details, summary {
   	outline: none;
 }
 
+.toc-container summary:hover {
+    color: #0077cc;
+}
+
 .toc-container summary:after {
     content: "Views";
     color: #292929;
