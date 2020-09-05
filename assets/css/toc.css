@@ -83,6 +83,7 @@ details, summary {
     margin: 0;
     list-style-type: disc;
     padding-left: 20px;
+    margin-top: 16px;
 }
 
 .toc-container a {
