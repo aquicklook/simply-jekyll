@@ -64,7 +64,7 @@ details, summary {
 }
 
 .toc-container summary:after {
-    content: "Index";
+    content: "On this page";
     color: #5f6368;
     margin-left: 0px;
     font-size: 18px;
@@ -75,7 +75,7 @@ details, summary {
 }
 
 .toc-container details[open] summary:after {
-    content: "Close";
+    content: "-";
     color: #3172dd;
 }
 
