@@ -338,7 +338,7 @@ h4 {
 }
 
 h10 {
-    display: block;
+    display: inline-block;
     margin-block-start: 1.33em;
     margin-block-end: 1.33em;
     margin-inline-start: 0px;
