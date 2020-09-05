@@ -24,3 +24,8 @@
     line-height: 20px;
     font-family: 'Feed', "Segoe UI", sans-serif !important;
 }
+
+.ul-toc {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
