@@ -1,124 +1,19 @@
-/* General button style */
-.btn-1 {
-	border: none;
-	font-size: 15px;
-	color: inherit;
-	background: none;
-	cursor: pointer;
-	padding: 10px 20px 10px 65px;
-	display: inline-block;
-	margin: 15px 30px;
-	outline: none;
-	position: relative;
-	-webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	transition: all 0.3s;
-  border-radius:0;
+#toc_container {
+    background: #ecebeb none repeat scroll 0 0;
+    border: 1px solid #aaa; font-size: 80%;      
+    position: fixed; left: 0;  top: 320px; padding: 5px 5px;
+    width: auto;
 }
-
-.btn-1:after {
-	content: '';
-	position: absolute;
-	z-index: -1;
-	-webkit-transition: all 0.3s;
-	-moz-transition: all 0.3s;
-	transition: all 0.3s;
+.toc_title {
+    font-weight: 1000; font-size: 105%;      
+ }
+#toc {
+  display:none;
 }
-
-/* Pseudo elements for icons */
-.btn-1:before {
-	font-family: 'FontAwesome';
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	position: relative;
-	-webkit-font-smoothing: antialiased;
+.Hide {
+  display:none;
 }
-
-
-/* Icon separator */
-/*.btn-sep {
-	padding: 25px 60px 25px 120px;
-}*/
-
-.btn-sep:before {
-	background: rgba(0,0,0,0.15);
-}
-
-/* Button 1 */
-.btn-1 {
-	background: #c0c0c0;
-	color: #fff;
-}
-.btn-1:focus{
-  box-shadow:none;
-  background: #919191;
-}
-.btn-1:focus::after, .btn-1:hover::after{
-  content:none;
-}
-.btn-1:hover {
-	background: #919191;
-}
-
-.btn-1:active {
-	background: #919191;
-}
-
-.btn-1:before {
-	position: absolute;
-	height: 100%;
-	left: 0;
-	top: 0;
-	line-height: 3;
-	font-size: 15px;
-	width: 50px;
-}
-
-/* Icons */
-
-.icon-list:before {
-	content: "\f0ca";
-}
-
-.toc .dropdown-menu{
-  border-radius:0;
-}
-
-.btn-danger{
-  color:white!important;
-  border-color:white;
-}
-.btn-danger:hover,.btn-danger:focus, .btn-danger:active, .btn-danger.active{
-      color: #fff;
-    background-color: #c82333;
-    border-color: #bd2130;
-}
-.btn-outline {
-  color: inherit;
-  transition: all 1.4s;
-  background-color: transparent;
-}
-
-/* btn 2 */
-.btn-2 {
-  display: block;
-  padding: 0.6em 0.88em;
-  background: linear-gradient(to right, #e66465 50%, #fff 50%);
-  background-size: 200% 100.5%;
-  background-position: right bottom;
-  font: 1.25em "Montserrat";
-  color: #020202;
-  border: none;
-  border-left: 0.2em solid #e66465;
-  border-color: none;
-  box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.08);
-  transition: all 0.5s ease-out;
-}
-.btn-2:hover {
-  background-position: left bottom;
-  color: white;
+.toc_list {
+    font-weight: 500; padding-top: 2px; padding-right: 5px;
+    padding-bottom: 2px; padding-left: 2px; width: 170px;
 }
