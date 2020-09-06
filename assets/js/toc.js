@@ -8,13 +8,13 @@ function tocContainer() {
 }
 
 
-var lastScrollTop = 20;
+var lastScrollTop = 0;
 window.addEventListener("scroll", function(){  
    var st = window.pageYOffset || document.documentElement.scrollTop;  
    if (st > lastScrollTop){
        document.getElementById("bottommenu").style.bottom = "-100%";
    } else {
-      document.getElementById("bottommenu").style.bottom = "20";
+      document.getElementById("bottommenu").style.bottom = "0";
    }
    lastScrollTop = st <= 0 ? 0 : st;
 }, false);
