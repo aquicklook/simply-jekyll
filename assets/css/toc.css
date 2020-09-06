@@ -102,6 +102,16 @@ details, summary {
     color: red;
 }
 
+.makedl a {
+    line-height: normal !important;
+    max-height: 40px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+}
+
 #bottommenu {
   position: fixed;
   bottom: 0;
