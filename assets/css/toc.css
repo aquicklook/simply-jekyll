@@ -97,6 +97,7 @@ details, summary {
 #bottommenu {
   position: fixed;
   bottom: 0;
+  left: 0;
   width: 100%;
   -webkit-transition: bottom 2s;
   transition: bottom 2s;
