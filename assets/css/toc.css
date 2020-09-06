@@ -27,8 +27,11 @@ details, summary {
     margin-bottom: 0px;
     display: inline-block;
     zoom: 1;
-    font-family: 'Feed' !important;
+    font-family: 'Feed', 'Segoe UI', sans-serif;
     line-height: normal !important;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 22px;
 }
 
 /*  hide default arrow */
@@ -50,7 +53,7 @@ details, summary {
     margin-left: 0px;
     font-size: 16px;
     cursor: pointer;
-    font-family: 'Feed' !important;
+    font-family: 'Feed', 'Segoe UI', sans-serif;
     line-height: normal;
 }
 
