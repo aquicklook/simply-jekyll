@@ -93,3 +93,14 @@ details, summary {
 .toc-container a:hover {
     color: red;
 }
+
+#bottommenu {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  -webkit-transition: bottom 2s;
+  transition: bottom 2s;
+  background: #1d1d1f; 
+  width: 100%; 
+  padding: 8px 20px;
+}
