@@ -76,6 +76,10 @@ details, summary {
     font-family: 'Feed', 'Segoe UI', sans-serif;
 }
 
+.re-li:hover {
+    color: red;
+}
+
 .toc-container a {
     background-image: none;
     text-decoration: none;
