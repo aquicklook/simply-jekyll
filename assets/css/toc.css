@@ -133,7 +133,6 @@ details, summary {
     background-color: #0070c9;
 }
 
-
 .user-guide-header button.close {
     position: absolute;
     top: 0;
@@ -142,19 +141,17 @@ details, summary {
     min-width: auto;
     width: 30px;
     border: 0;
+    display: contents;
 }
 
 button.close {
     -webkit-appearance: none;
-    padding: 0;
     cursor: pointer;
-    background: 0 0;
-    border: 0;
 }
 
 .close {
     float: right;
-    font-size: 21px;
+    font-size: 22px;
     font-weight: 600;
     line-height: 1;
     color: #000;
