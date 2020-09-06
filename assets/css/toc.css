@@ -434,6 +434,24 @@ side-nav-ug a:hover,
   animation-duration: 0.6s;
 }
 
+.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 600;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    font-family: 'Feed', 'Segoe UI', sans-serif;
+}
+
+.label-info {
+    background-color: #0070c9;
+}
+
 .side-nav-ug .image-modal .close {
   position: absolute;
   top: 0;
