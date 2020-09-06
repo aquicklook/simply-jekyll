@@ -104,3 +104,474 @@ details, summary {
   background: #1d1d1f; 
   padding: 8px 20px;
 }
+
+
+
+.side-nav-ug {
+  opacity: 0;
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 19999;
+  top: 0;
+  right: -500px;
+  background-color: #FaFaFa;
+  border: solid 1px #ddd;
+  overflow: hidden;
+  padding: 25px;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 0.6s;
+  -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  -moz-transition-property: all;
+  -moz-transition-duration: 0.6s;
+  -moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  -ms-transition-property: all;
+  -ms-transition-duration: 0.6s;
+  -ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  transition-property: all;
+  transition-duration: 0.6s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+
+.side-nav-ug h3 {
+  color: #2baae1;
+  line-height: 30px;
+}
+
+side-nav-ug a:hover,
+.offcanvas a:focus {
+  color: #333;
+}
+
+.side-nav-ug .user-guide-wrapper {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.side-nav-ug .user-guide-header {
+  position: relative;
+  height: auto;
+  width: 100%;
+  padding: 0 0 15px 0;
+  border-bottom: solid 1px #ddd;
+}
+
+.side-nav-ug .user-guide-header .label {
+  margin-right: 3px;
+}
+
+.side-nav-ug .user-guide-header p {
+  opacity: 0.8;
+}
+
+.side-nav-ug .user-guide-header i {
+  padding: 0 5px 0 0;
+  font-size: 1.2em;
+  opacity: 0.8;
+}
+
+.side-nav-ug .user-guide-header button.close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-shadow: none;
+  min-width: auto;
+  width: 30px;
+  outline: 0;
+  border: 0;
+}
+
+.side-nav-ug .user-guide-header button.close span {
+  outline: 0;
+  border: 0;
+}
+
+.side-nav-ug .user-guide-tabs .tab-pane h3 {
+  color: #333333;
+  margin: 20px 0;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs {
+  position: absolute;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  width: 100%;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 0.3s;
+  -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  -moz-transition-property: all;
+  -moz-transition-duration: 0.3s;
+  -moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  -ms-transition-property: all;
+  -ms-transition-duration: 0.3s;
+  -ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  opacity: 1;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs > li > ul {
+  padding-left: 15px;
+  margin: 0;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs > li > ul li a {
+  padding: 0 !important;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs li a {
+  padding: 8px 0 0 15px;
+  text-decoration: none;
+  font-size: 1em;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  color: #2BAAE1;
+}
+
+.side-nav-ug .user-guide-tabs .nav-tabs li {
+  list-style: none;
+}
+
+.side-nav-ug .user-guide-tabs .nav-tabs li:not(:first-child) p.nav-tab-title {
+  padding-top: 20px;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs > li > ul li a,
+.side-nav-ug .user-guide-tabs .nav.nav-tabs > li,
+.side-nav-ug .user-guide-tabs .nav.nav-tabs p {
+  font-size: 14px !important;
+}
+
+.side-nav-ug .user-guide-tabs .nav-tabs > li {
+  display: block;
+  float: none;
+  list-style: none;
+  transition: 0.5s;
+}
+
+.side-nav-ug .user-guide-tabs .nav-tabs > li p.nav-tab-title {
+  color: #999;
+  margin-bottom: 0 !important;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs > li {
+  line-height: 1.8em;
+}
+
+.side-nav-ug .user-guide-tabs .nav-pills > li > a {
+  border-radius: 0;
+}
+
+.user-guide-tabs .tab-content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: auto;
+  height: auto;
+  overflow-y: visible;
+  overflow-x: hidden;
+  margin-top: 10px;
+  left: 300px;
+  width: 100%;
+  max-height: 0;
+  background-color: #FaFaFa;
+  opacity: 0;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 0.3s;
+  -webkit-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  -moz-transition-property: all;
+  -moz-transition-duration: 0.3s;
+  -moz-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  -ms-transition-property: all;
+  -ms-transition-duration: 0.3s;
+  -ms-transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+  transition-property: all;
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+}
+
+.side-nav-ug .user-guide-tabs::-webkit-scrollbar {
+  /* This is the magic bit */
+  display: none;
+}
+
+.side-nav-ug .user-guide-tabs .tab-content.active {
+  max-height: 100%;
+  height: 100%;
+  opacity: 1;
+  left: 0;
+  overflow-x: hidden;
+}
+
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane {
+  position: relative;
+  width: 100%;
+  height: auto;
+  bottom auto;
+  overflow-y: visible;
+}
+
+.side-nav-ug .user-guide-tabs {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 70%;
+  overflow-y: scroll;
+  padding-top: 10px;
+}
+
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane p,
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane ol li,
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane ul li {
+  font-size: 14px !important;
+  line-height: 1.5em;
+  color: #333;
+  opacity: 0.9;
+}
+
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane pre {
+  padding: 20px;
+  margin: 35px 0;
+  border-radius: 1px;
+}
+
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane img {
+  max-width: 200px;
+  padding: 20px 0;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+
+.side-nav-ug .user-guide-tabs .tab-content .table-of-contents {
+  font-size: 12px;
+  text-decoration: none;
+  color: #999;
+  margin: 0;
+  padding: 10px 0;
+}
+
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane ul li>ul li,
+.side-nav-ug .user-guide-tabs .tab-content .tab-pane ul li>ol li,
+{
+  list-style: circle;
+  color: #333;
+  opacity: 0.9;
+}
+
+.open {
+  right: 0;
+  opacity: 1;
+}
+
+.side-nav-ug .user-guide-tabs .nav.nav-tabs.inactive {
+  opacity: 0;
+  margin-left: -500px !important;
+}
+
+/* Style the Image Used to Trigger the Modal */
+
+/* The Modal (background) */
+.side-nav-ug .image-modal.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999999;
+  padding: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+/* Modal Content */
+
+.side-nav-ug .image-modal .image-modal-wrapper {
+    position: relative;
+    margin: auto;
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 1px;
+    vertical-align: middle;
+    box-shadow: none;
+    text-align: center;
+}
+
+.side-nav-ug .image-modal .modal-content {
+  width: 100%;
+  height: auto;
+  border-radius: 1px;
+  border: 0;
+  top: 50%;
+  max-width: 600px;
+  transform: translateY(-50%);
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+
+/* Add Animation - Zoom in the Modal */
+
+.side-nav-ug .image-modal .image-modal-wrapper,
+#caption {
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+.side-nav-ug .image-modal .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #FFF;
+  z-index: 99999;
+  padding: 5px 10px;
+  text-shadow: none;
+  opacity: 1;
+  transition: 0.5s ease;
+}
+
+.side-nav-ug .image-modal-wrapper:hover .close {
+  background-color: rgba(100,100,100,0.9);
+  opacity: 1;
+}
+
+.side-nav-ug p.alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    padding: 15px;
+    margin: 15px 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.side-nav-ug p.alert-success {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 15px;
+    margin: 15px 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(0)
+  }
+  to {
+    -webkit-transform: scale(1)
+  }
+}
+
+@keyframes zoom {
+  from {
+    transform: scale(0)
+  }
+  to {
+    transform: scale(1)
+  }
+}
+
+.side-nav-ug .image-modal .close:hover,
+.side-nav-ug .image-modal .close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.side-nav-ug .tab-content .user-guide-bottom-nav {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  padding-top: 20px;
+  background-color: #FaFaFa;
+  margin-top: 15%;
+  margin-bottom: 20px;
+  border-top: solid 1px #eee;
+}
+
+.side-nav-ug .tab-content .user-guide-bottom-nav .btn {
+   display: inline-block;
+    border-radius: 2px;
+    line-height: normal;
+    white-space: nowrap;
+    text-align: center;
+    cursor: pointer;
+    font-size: 100%;
+    padding: 6px 12px 8px 12px;
+    color: #333;
+    border: 1px solid rgba(0,0,0,0.1);
+    background-color: #f3f6f6 !important;
+    text-decoration: none;
+    font-weight: normal;
+    font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+    box-shadow: 0px 1px 2px -1px rgba(255,255,255,0.5) inset, 0px -2px 0px 0px rgba(0,0,0,0.1) inset;
+    outline-none: false;
+    vertical-align: middle;
+    zoom: 1;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+
+.side-nav-ug .tab-content .user-guide-bottom-nav .btn:hover {
+  background-color: #eee !important;
+}
+   
+.side-nav-ug .tab-content .user-guide-bottom-nav .btn:active {
+  
+}
+
+.side-nav-ug .tab-content .user-guide-bottom-nav .btn:focus, 
+.side-nav-ug .tab-content .user-guide-bottom-nav.btn:active,
+.side-nav-ug .tab-content .user-guide-bottom-nav.btn.focus,
+.side-nav-ug .tab-content .user-guide-bottom-nav.btn:active.focus,
+.side-nav-ug .tab-content .user-guide-bottom-nav .btn:blur {
+   outline: 0 !important;
+   border:none !important;
+}
+
+.disabled-nav-tab{
+    pointer-events: none;
+}
+
+/* 100% Image Width on Smaller Screens */
+
+@media only screen and (max-width: 700px) {
+  .side-nav-ug .image-modal .modal-content {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  .modal-content {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+}
+
+
+@media only screen and (min-width : 1400px) {
+  .side-nav-ug .user-guide-tabs {
+    min-height: 90%;
+  }
+}
