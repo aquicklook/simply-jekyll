@@ -804,7 +804,7 @@ a {
 
 .gr {
     fill: #03a87c;
-    fill: #4285f4;
+    fill: #0070c9;
 }
 
 .gs {
@@ -1705,7 +1705,7 @@ nav {
     font-size: 15px;
     overflow: hidden;
     text-overflow: ellipsis;
-    color: #4285f4;
+    color: #0070c9;
     line-height: 20px;
     font-family: 'Feed', sans-serif !important;
     margin-bottom: 0px;
@@ -1812,7 +1812,7 @@ nav {
 }
 
 .link-to-notes a {
-    color: #4285f4;
+    color: #0070c9;
     text-decoration: none;
     font-family: 'Feed', sans-serif;
     font-size: 15px;
@@ -1894,7 +1894,7 @@ nav {
 }
 
 .notes-page-tagline {
-    color: #4285f4;
+    color: #0070c9;
     font-family: 'Feed', sans-serif !important;
     font-size: 15px; 
     font-weight: 400;
