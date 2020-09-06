@@ -133,3 +133,34 @@ details, summary {
 .label-info {
     background-color: #0070c9;
 }
+
+
+.user-guide-header button.close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-shadow: none;
+    min-width: auto;
+    width: 30px;
+    outline: 0;
+    border: 0;
+}
+
+button.close {
+    -webkit-appearance: none;
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+}
+
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: .2;
+}
