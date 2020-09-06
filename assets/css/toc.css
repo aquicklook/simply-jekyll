@@ -19,6 +19,7 @@ details, summary {
     border-radius: 0px;
     border-width: 1px;
     line-height: normal !important;
+    display: none;
 }
 
 .toc-title {
