@@ -104,7 +104,7 @@ details, summary {
 
 .makedl a {
     line-height: 24px !important;
-    max-height: 48px;
+    max-height: 24px;
     text-overflow: ellipsis;
     overflow: hidden;
     -webkit-box-orient: vertical;
