@@ -99,8 +99,8 @@ details, summary {
   bottom: 0;
   left: 0;
   width: 100%;
-  -webkit-transition: bottom 2s;
-  transition: bottom 2s;
+  -webkit-transition: bottom 0s;
+  transition: bottom 0s;
   background: #1d1d1f; 
   padding: 8px 20px;
 }
