@@ -2040,7 +2040,7 @@ nav {
 
 .searchbar input[type="text"] {
     position: relative;
-    padding-left: 50px;
+    padding-left: 20px;
     box-sizing : border-box;
     width: 100%;
     height: 40px;
@@ -2067,6 +2067,7 @@ nav {
     color: #f2f2f2; 
     padding-top: 12.5px;
     z-index: 1;
+    display: none;
 }
   
 .searchbar input[type="text"]:focus {
@@ -2105,7 +2106,7 @@ nav {
 
 #results-container {
     display: none;
-    padding-left: 50px;
+    padding-left: 20px;
     font-size: 16px;
     font-weight: 400;
     font-family:  'Feed', sans-serif !important;
