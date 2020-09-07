@@ -7,8 +7,6 @@
   height: 100%;
 }
 
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
 .vjs-button > .vjs-icon-placeholder:before, .video-js .vjs-big-play-button .vjs-icon-placeholder:before {
   text-align: center;
 }
@@ -1666,15 +1664,4 @@ video::-webkit-media-text-track-display {
 .video-js .vjs-menu *:focus:not(:focus-visible) {
   outline: none;
   background: none;
-}
-
-
-.video-js .vjs-control-bar .vjs-bc-download {
-  cursor: pointer;
-}
-.video-js .vjs-control-bar .vjs-bc-download .vjs-icon-placeholder {
-  font-family: "Material Icons";
-}
-.video-js .vjs-control-bar .vjs-bc-download .vjs-icon-placeholder:before {
-  content: "\e2c4";
 }
