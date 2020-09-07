@@ -1658,8 +1658,8 @@ nav {
 }
 
 .index a:hover {
-    text-decoration: none;
-    color:  #ff2f56 !important;
+    text-decoration: underline;
+    color:  #0070c9 !important;
 	
 }
 
