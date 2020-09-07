@@ -879,11 +879,11 @@ body.vjs-full-window {
 }
 
 .video-js .vjs-load-progress {
-  background: rgba(115, 133, 159, 0.5);
+  background: rgba(255,255,255,.4);
 }
 
 .video-js .vjs-load-progress div {
-  background: rgba(115, 133, 159, 0.75);
+  background: rgba(255,255,255,.5);
 }
 
 .video-js .vjs-time-tooltip {
@@ -967,7 +967,7 @@ body.vjs-full-window {
   /* Non-prefixed version, currently supported by Chrome and Opera */
   user-select: none;
   background-color: #73859f;
-  background-color: rgba(255, 255, 255, 0.33);
+  background-color: rgba(255,255,255,.2);
 }
 
 .video-js .vjs-slider.disabled {
