@@ -867,7 +867,7 @@ body.vjs-full-window {
 }
 
 .video-js .vjs-play-progress {
-  background-color: #fff;
+  background-color: #ff2b06;
 }
 .video-js .vjs-play-progress:before {
   font-size: 0.9em;
