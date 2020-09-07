@@ -1602,11 +1602,9 @@ nav {
     height: auto;
     max-width: 680px;
     margin: 0 auto;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
     margin-top: 24px;      
-    margin-right: auto;
-    margin-left: auto;
     -webkit-tap-highlight-color: transparent;
     align-items: top;
 }
