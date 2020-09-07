@@ -875,6 +875,7 @@ body.vjs-full-window {
   right: -0.5em;
   top: -0.3333333333em;
   z-index: 1;
+  display: none;
 }
 
 .video-js .vjs-load-progress {
