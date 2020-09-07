@@ -479,10 +479,10 @@ body.vjs-full-window {
 }
 
 .video-js .vjs-big-play-button {
-    font-size: 3em;
-    line-height: 2em;
-    height: 60px;
-    width: 60px;
+    font-size: 3.5em;
+    line-height: 1.9em;
+    height: 64px;
+    width: 64px;
     display: block;
     position: absolute;
     top: 10px;
