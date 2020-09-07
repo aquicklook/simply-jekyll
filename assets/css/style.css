@@ -1613,9 +1613,11 @@ nav {
 
 .index-timeline {
     grid-column: 1 / span 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
-.index {
+.index a {
     background-image: none !important;
     color:  rgba(0, 0, 0, 0.9);
     text-decoration: none;
@@ -1631,12 +1633,10 @@ nav {
     word-break: break-word;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
-    max-height: 44px;
-    overflow: hidden;
     text-overflow: ellipsis;
 }
 
-.index:hover {
+.index a:hover {
     text-decoration: none;
 }
 
