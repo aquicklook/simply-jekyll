@@ -1619,9 +1619,8 @@ nav {
 }
 
 .index-title {
-    font-size: 24px !important;
+    font-size: 18px !important;
     font-family: 'Charter', 'Source Serif Pro' !important;
-    line-height: normal !important;
     background-image: none !important;
     text-decoration: none;
     background-size: 1px 1px;
