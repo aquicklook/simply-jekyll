@@ -739,8 +739,8 @@ body.vjs-full-window {
   left: 0;
   right: 0;
   height: 3em;
-  background-color: #2B333F;
-  background-color: rgba(43, 51, 63, 0.7);
+  color: #fff;
+  background-color: transparent;
 }
 
 .vjs-has-started .vjs-control-bar {
@@ -967,7 +967,7 @@ body.vjs-full-window {
   /* Non-prefixed version, currently supported by Chrome and Opera */
   user-select: none;
   background-color: #73859f;
-  background-color: rgba(115, 133, 159, 0.5);
+  background-color: rgba(255, 255, 255, 0.33);
 }
 
 .video-js .vjs-slider.disabled {
