@@ -366,8 +366,9 @@
 .video-js *:after {
   box-sizing: inherit;
  font-size: 100%; 
-line-height: normal; 
-color: #fff;
+ line-height: revert; 
+ color: #fff;
+  font-family: inherit;
 }
 
 .video-js ul {
