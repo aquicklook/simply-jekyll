@@ -1615,7 +1615,7 @@ nav {
     grid-column: 1 / span 1;
 }
 
-.makeup index {
+.index {
     background-image: none !important;
     color:  rgba(0, 0, 0, 0.9);
     text-decoration: none;
@@ -1625,7 +1625,6 @@ nav {
     -webkit-tap-highlight-color: transparent;
     vertical-align: middle;
     background-image: none !important;
-    font-family: 'Feed', sans-serif !important; 
     font-size: 18px !important;
     display: block;
     object-fit: cover;
@@ -1637,7 +1636,7 @@ nav {
     text-overflow: ellipsis;
 }
 
-.makeup index:hover {
+.index:hover {
     text-decoration: none;
 }
 
