@@ -1,6 +1,6 @@
  videojs.autoSetup();
 
-videojs('my_video_1').ready(function(){
+videojs('video').ready(function(){
 console.log(this.options()); //log all of the default videojs options
       
        // Store the video object
