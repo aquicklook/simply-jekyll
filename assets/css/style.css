@@ -1634,10 +1634,13 @@ nav {
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
     text-overflow: ellipsis;
+    font-family: 'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif !important;
 }
 
 .index a:hover {
     text-decoration: none;
+    color:  #ff2f56 !important;
+	
 }
 
 /* MORE READ */
