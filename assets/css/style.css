@@ -1618,6 +1618,12 @@ nav {
     margin-block-end: 0;
 }
 
+.index-title {
+    font-size: 24px !important;
+    font-family: 'Charter', 'Source Serif Pro' !important;
+    line-height: normal !important;
+}
+
 .index a {
     background-image: none !important;
     color:  rgba(0, 0, 0, 0.9);
