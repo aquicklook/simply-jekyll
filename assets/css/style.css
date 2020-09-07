@@ -1622,6 +1622,20 @@ nav {
     font-size: 24px !important;
     font-family: 'Charter', 'Source Serif Pro' !important;
     line-height: normal !important;
+    background-image: none !important;
+    text-decoration: none;
+    background-size: 1px 1px;
+    background-position: 0 calc(1em + 1px);
+    background-repeat: repeat-x;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    background-image: none !important;
+    display: block;
+    object-fit: cover;
+    word-break: break-word;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
 }
 
 .index a {
