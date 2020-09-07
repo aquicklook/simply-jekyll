@@ -1613,8 +1613,6 @@ nav {
 
 .index-timeline {
     grid-column: 1 / span 1;
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 .index a {
