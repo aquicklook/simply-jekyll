@@ -913,6 +913,11 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
   height: 1em;
   vertical-align: top;
 }
+
+.gt-ico .gt-ico-reply {
+  display: none;
+}
+
 .gt-container .gt-btn.is--disable {
   cursor: not-allowed;
   opacity: 0.5;
