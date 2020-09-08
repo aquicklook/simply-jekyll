@@ -1279,6 +1279,7 @@ position: absolute;
 .gt-comment-reply::before {
   content: "Reply";
   color: #0070c9;
+  vertical-align: sub;
 }
 
 .gt-container .gt-comment-body {
