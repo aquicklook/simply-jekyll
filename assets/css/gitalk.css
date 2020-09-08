@@ -1270,12 +1270,19 @@ position: absolute;
 }
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
-  top: 0;
-  right: 0;
+    margin-right: 8px;
+    margin-top: 6px;
+    margin-bottom: 6px;
 }
+
+.gt-comment-reply::before {
+  content: "Reply";
+  color: #0070c9;
+}
+
 .gt-container .gt-comment-body {
-color: #292929 !important;
-    line-height: 24px !important;
+  color: #292929 !important;
+  line-height: 24px !important;
 }
 .gt-container .gt-comment-body .email-hidden-toggle a {
   display: inline-block;
