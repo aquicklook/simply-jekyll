@@ -210,12 +210,29 @@
     border-radius: 50%;
     font-size: 3.5em;
     background-color: #ff2b06;
-    color: #fff;
+    color: #000;
     -webkit-transition: border-color .4s,outline .4s,background-color .4s;
     -moz-transition: border-color .4s,outline .4s,background-color .4s;
     -ms-transition: border-color .4s,outline .4s,background-color .4s;
     -o-transition: border-color .4s,outline .4s,background-color .4s;
     transition: border-color .4s,outline .4s,background-color .4s
+     border-radius: 10rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border: 3px solid hsla(0,0%,100%,0);
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+    -webkit-animation-duration: 3.2s;
+    animation-duration: 3.2s;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation-play-state: running;
+    animation-play-state: running;
 }
 
 .video-js .vjs-menu-button-popup .vjs-menu {
@@ -241,7 +258,7 @@
 }
 
 .video-js .vjs-big-play-button {
-    background-color: #ff2b06;
+    background-color: #fff;
     font-size: 2em;
     border-radius: 50%;
     height: 2em !important;
@@ -250,7 +267,8 @@
 }
 
 .video-js:hover .vjs-big-play-button,.video-js .vjs-big-play-button:focus,.video-js .vjs-big-play-button:active {
-    background-color: #ff2b06
+    background-color: #ff2b06;
+    color: #fff;
 }
 
 .video-js .vjs-loading-spinner {
