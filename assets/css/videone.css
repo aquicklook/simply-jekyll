@@ -241,8 +241,8 @@
 }
 
 .video-js .vjs-big-play-button {
-    background-color: rgba(0,0,0,0.35);
-    font-size: 5.5em;
+    background-color: #ff2b06;
+    font-size: 2em;
     border-radius: 50%;
     height: 2em !important;
     line-height: 2em !important;
