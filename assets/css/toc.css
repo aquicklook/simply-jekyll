@@ -121,6 +121,7 @@ details, summary {
   transition: bottom 0s;
   background: #1d1d1f; 
   padding: 8px 20px;
+  z-index: 999999999;
 }
 
 .user-guide-header {
