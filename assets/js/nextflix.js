@@ -1,4 +1,4 @@
-jwplayer("container").setup({
+jwplayer("nextflix").setup({
 
 		    controls: true,
 		    displaytitle: true,
@@ -521,7 +521,7 @@ jwplayer("container").setup({
 		  }//end of movies
       ]
 		});
-jwplayer("container").setCaptions({
+jwplayer("nextflix").setCaptions({
   "back": true,
   "backgroundOpacity": "32",
   "edgeStyle": "dropshadow",
