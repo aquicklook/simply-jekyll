@@ -9,6 +9,10 @@
 	background: rgba(0, 0, 0, .7);
 }
 
+.jw-icon-rewind {
+	display: none;
+}
+
 .jwplayer.jw-skin-netflix.jw-state-idle .jw-display-controls .jw-display-icon-container {
 	color: var(--bg-red);
 	background: none;
