@@ -11,9 +11,9 @@ jwplayer("container").setup({
 		    	name: 'Netflix',
 		    },
 
-		    //sharing: {
-		    	//sites: ["reddit","facebook","twitter"]
-		    //},
+		    sharing: {
+		    	sites: ["reddit","facebook","twitter"]
+		    },
 		     
 		    captions: {
 		        color: '#FFF',
@@ -517,7 +517,7 @@ jwplayer("container").setup({
 		         kind: "captions",
 		         }
 		    ],
-		    
+	
 		  }//end of movies
       ]
 		});
