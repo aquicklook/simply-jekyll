@@ -112,6 +112,10 @@
 	color: var(--bg-red);;
 }
 
+.jw-text-elapsed {
+	display: none;
+}
+
 .jwplayer.jw-skin-netflix .jw-controlbar .jw-tooltip {
 	bottom: 90%;
 	box-shadow: none!important;
