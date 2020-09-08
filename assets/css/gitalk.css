@@ -1215,12 +1215,12 @@ position: absolute;
 .gt-container .gt-comment-block-1 {
   float: right;
   height: 40px;
-  width: 2em;
+  width: 100%;
 }
 .gt-container .gt-comment-block-2 {
   float: right;
     height: 40px;
-    width: 4em;
+    width: 100%;
 }
 .gt-container .gt-comment-username {
     font-weight: 400;
