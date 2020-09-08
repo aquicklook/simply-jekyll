@@ -209,7 +209,7 @@
     border: none;
     border-radius: 50%;
     font-size: 3.5em;
-    background-color: rgba(0,0,0,.45);
+    background-color: #ff2b06;
     color: #fff;
     -webkit-transition: border-color .4s,outline .4s,background-color .4s;
     -moz-transition: border-color .4s,outline .4s,background-color .4s;
