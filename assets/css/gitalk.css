@@ -914,10 +914,6 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
   vertical-align: top;
 }
 
-.gt-ico-reply {
-  display: none;
-}
-
 .gt-container .gt-btn.is--disable {
   cursor: not-allowed;
   opacity: 0.5;
