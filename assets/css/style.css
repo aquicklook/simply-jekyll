@@ -1886,7 +1886,7 @@ nav {
 }
 
 .link-to-notes a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .link-to-notes a, .link-to-notes svg {
