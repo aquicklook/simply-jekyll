@@ -34,8 +34,8 @@ details, summary {
     padding: 20px;
     font-size: 100%;
     overflow: auto;
-    max-width: 256px!important;
-    min-width: 256px!important;
+    max-width: 400px!important;
+    min-width: 400px!important;
     position: fixed;
     height: 100%;
     right: 0;
