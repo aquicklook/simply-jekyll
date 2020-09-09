@@ -171,7 +171,7 @@ body {
 ::-webkit-scrollbar {
 height:16px;
 overflow:visible;
-width:16px;
+width:0px;
 }
 
 ::-webkit-scrollbar-button {
