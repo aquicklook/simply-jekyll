@@ -755,9 +755,7 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
     font-family: 'Feed', "Segoe UI", sans-serif !important;
     line-height: inherit;
     font-size: 16px;
-      color: #292929;
-  margin-block-start: 1em;
-    margin-block-end: 1em;
+    color: #292929;
 }
 .gt-container a {
   color: #292929;
@@ -964,7 +962,7 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
   font-size: 92%;
 }
 .gt-container .gt-no-init {
-  padding: 0em 0;
+  padding: 1.25em 0;
   text-align: center;
 }
 .gt-container .gt-link {
