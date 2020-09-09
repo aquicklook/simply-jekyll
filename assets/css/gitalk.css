@@ -1214,15 +1214,16 @@ position: absolute;
   margin-top: 2px;
   font-size: 14px;
   position: relative;
+  height: 21px;
 }
 .gt-container .gt-comment-block-1 {
   float: right;
-  height: 40px;
+  height: 32px;
   width: 100%;
 }
 .gt-container .gt-comment-block-2 {
   float: right;
-    height: 40px;
+    height: 32px;
     width: 100%;
 }
 .gt-container .gt-comment-username {
