@@ -995,6 +995,8 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
     max-width: 78px !important;
     margin-bottom: 12px;
     white-space: nowrap;
+      font-size: 22px;
+    line-height: 28px;
 }
 .gt-container .gt-user {
   float: right;
