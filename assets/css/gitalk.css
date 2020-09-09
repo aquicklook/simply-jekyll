@@ -789,13 +789,14 @@ display: inline-flex;
   display: inline-flex;
 }
 .gt-container .gt-ico-text {
-      display: inline-flex;
-  margin-top: 10px;
-    margin-left: 4px;
+  display: flex;
+    margin-top: 2.5px;
+    margin-left: 5px;
     vertical-align: middle;
-    color: rgb(0, 119, 204);
-  font-size: 16px;
-  line-height: 20px;
+    color: #292929;
+    font-size: 16px;
+    line-height: 20px;
+    height: 20px;
 }
 .gt-container .gt-ico-github {
   width: 100%;
@@ -806,7 +807,7 @@ display: inline-flex;
   height: 100%;
 }
 .gt-container .gt-ico-github svg {
-      border-radius: 4px;
+      border-radius: 50%;
 }
 .gt-container .gt-spinner {
   position: relative;
