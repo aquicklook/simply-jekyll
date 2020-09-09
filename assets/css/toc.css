@@ -20,7 +20,7 @@ details, summary {
     border-width: 1px;
     line-height: normal !important;
     display: none;
-	z-index: 9999;
+	z-index: 99999;
 	    -webkit-transform: translateX(0);
     transform: translateX(0);
     visibility: visible;
@@ -47,7 +47,6 @@ details, summary {
     border-radius: 0px;
     border-width: 1px;
     line-height: normal !important;
-    display: none;
 	z-index: 9999;
 	    -webkit-transform: translateX(0);
     transform: translateX(0);
