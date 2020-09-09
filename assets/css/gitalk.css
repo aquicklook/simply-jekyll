@@ -1281,10 +1281,10 @@ position: absolute;
 
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
-    margin-right: 5px;
-    margin-top: 14px;
+    margin-right: 0px;
+    margin-top: 7px;
     margin-bottom: 0px;
-  background-image: none;
+    background-image: none;
 }
 
 .gt-container .gt-comment-edit {
