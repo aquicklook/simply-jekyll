@@ -1289,7 +1289,8 @@ position: absolute;
 }
 
 .gt-container .gt-comment-edit {
-  left: 135px;
+    right: 0;
+    top: 0;
 }
 
 .gt-container .gt-comment-reply {
