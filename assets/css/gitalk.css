@@ -1267,10 +1267,19 @@ position: absolute;
   cursor: pointer;
 }
 .gt-container .gt-comment-like {
-  top: 0;
-  right: 2em;
-      background-image: none;
+  margin-right: 8px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  background-image: none;
 }
+
+.gt-comment-like::before {
+  content: "Like";
+  color: #0070c9;
+  vertical-align: sub;
+}
+  
+
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
     margin-right: 8px;
