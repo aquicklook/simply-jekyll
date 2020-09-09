@@ -1275,13 +1275,6 @@ position: absolute;
   background-image: none;
 }
 
-.gt-comment-like::before {
-  content: "Like";
-  color: #0070c9;
-  vertical-align: sub;
-}
-  
-
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
     margin-right: 8px;
