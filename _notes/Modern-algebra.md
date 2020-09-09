@@ -88,6 +88,7 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 #### Logical equivalence
 <p class="p1">Hai mệnh đề \(p, q\) được gọi là tương đương logic nếu chúng có cùng một chân trị và phép tương đương của \(p\) và \(q\) là một hằng đúng. Đặc biệt, khi \(p \Rightarrow q\) và \(q \Rightarrow p\) thì ta nói mệnh đề \(p\) tương đương mệnh đề \(q\), ký hiệu là \(p \Leftrightarrow q\). Lúc này ta nói \(p, q\) lần lượt là điều kiện cần và đủ để có \(q, p\).</p>
 
+<center>
 | Equivalence laws | Name |
 | ------------- |-------------|
 | $$p \lor T \Leftrightarrow T$$ <br> $$p \land F \Leftrightarrow F$$ | Domination laws |
@@ -101,6 +102,7 @@ Nhìn vào bảng trên ta thấy, nếu $$g$$ là hệ quả của $$f$$ thì k
 | $$\neg{(p\land q)} \Leftrightarrow \neg{p} \lor \neg{q}$$ <br> $$\neg{(p\lor q)} \Leftrightarrow \neg{p} \land \neg{q}$$ | De Morgan’s laws |
 | $$(p\rightarrow q) \Leftrightarrow (\neg{p}\lor q)$$ | Implication laws |
 | $$p\lor (p\land q) \Leftrightarrow p$$ <br> $$p\land (p\lor q) \Leftrightarrow p$$ | Received laws |
+</center>
 
 ##  Inference mathematics
 <p class="p1">Suy luận toán học dựa trên nền tảng của các phép toán mệnh đề, chủ yếu là phép kéo theo. Để chứng minh một vấn đề nào đó, thông thường ta phải xác định giả thiết và kết luận. Quá trình đi từ giả thiết đến kết luận gọi là quá trình chứng minh và quá trình này đươc thực thi bằng cách nào thì gọi đó là phương pháp chứng minh.</p>
