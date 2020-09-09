@@ -1284,8 +1284,15 @@ position: absolute;
     margin-right: 5px;
     margin-top: 14px;
     margin-bottom: 0px;
-    left: 56px;
   background-image: none;
+}
+
+.gt-container .gt-comment-edit {
+  left: 135px;
+}
+
+.gt-container .gt-comment-reply {
+  left: 56px;
 }
 
 .gt-comment-reply::before {
