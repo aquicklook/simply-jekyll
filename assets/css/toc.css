@@ -159,14 +159,14 @@ details, summary {
 }
 
 .user-guide-header button.close {
-    position: absolute;
-    top: 0;
-    right: 0;
+    position: fixed;
+    top: 13px;
+    right: 16px;
     text-shadow: none;
     min-width: auto;
     width: 30px;
     border: 0;
-    display: contents;
+    display: block;
 }
 
 button.close {
