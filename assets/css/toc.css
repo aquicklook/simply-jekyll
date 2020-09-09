@@ -30,6 +30,34 @@ details, summary {
     transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
 }
 
+#comment-container {
+    padding: 20px;
+    font-size: 100%;
+    overflow: auto;
+    max-width: 256px!important;
+    min-width: 256px!important;
+    position: fixed;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    top:0;
+    background: #fff;
+    overflow-y: scroll;
+    line-height: normal;
+    border-radius: 0px;
+    border-width: 1px;
+    line-height: normal !important;
+    display: none;
+	z-index: 9999;
+	    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    visibility: visible;
+    -webkit-box-shadow: 0 0 16px rgba(0,0,0,.28);
+    box-shadow: 0 0 16px rgba(0,0,0,.28);
+    -webkit-transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
+    transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
+}
+
 .toc-title {
     font-weight: 600;
     display: block;
