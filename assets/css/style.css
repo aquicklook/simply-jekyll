@@ -1174,7 +1174,7 @@ hr {
     content:'\2022\2022\2022';
     position:absolute;
     top: 50%;
-    left: 50%;
+    left: 51%;
     transform: translate(-50%, -50%);
     font-family:  'Quicklook', 'Quicklook-VN', 'Source Serif Pro', serif;
     color:#292929;
