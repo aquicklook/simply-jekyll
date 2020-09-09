@@ -1304,6 +1304,7 @@ position: absolute;
 .gt-container .gt-comment-body {
   color: #292929 !important;
   line-height: 24px !important;
+      margin-top: 5px;
 }
 .gt-container .gt-comment-body .email-hidden-toggle a {
   display: inline-block;
