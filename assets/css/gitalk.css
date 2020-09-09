@@ -854,13 +854,13 @@ display: inline-block;
 }
 .gt-container .gt-avatar {
   display: inline-block;
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
 }
 @media (max-width: 480px) {
   .gt-container .gt-avatar {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
   }
 }
 .gt-container .gt-avatar img {
@@ -870,15 +870,15 @@ display: inline-block;
   margin-top: -5px;
 }
 .gt-container .gt-avatar-github {
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
     border-radius: 50%;
   margin-top: 8px;
 }
 @media (max-width: 480px) {
   .gt-container .gt-avatar-github {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
   }
 }
 .gt-container .gt-btn {
