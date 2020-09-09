@@ -978,7 +978,7 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
 .gt-container .gt-meta {
   padding-bottom: 20px;
   padding-top: 0px;
-  position: relative;
+  position: inherit;
   z-index: 10;
 }
 .gt-container .gt-meta:before,
