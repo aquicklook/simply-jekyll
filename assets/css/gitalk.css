@@ -775,9 +775,9 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
   display: none !important;
 }
 .gt-container .gt-svg {
-display: inline-block;
-    width: 20px;
-    height: 20px;
+display: inline-flex;
+    width: 25px;
+    height: 25px;
     vertical-align: middle;
 }
 .gt-container .gt-svg svg {
@@ -786,10 +786,10 @@ display: inline-block;
   fill: #888888;
 }
 .gt-container .gt-ico {
-  display: inline-block;
+  display: inline-flex;
 }
 .gt-container .gt-ico-text {
-      display: inline-block;
+      display: inline-flex;
   margin-top: 10px;
     margin-left: 4px;
     vertical-align: middle;
@@ -1260,7 +1260,7 @@ position: absolute;
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
   position: absolute;
-  height: 14px;
+  height: 25px;
   background-image: none;
 }
 .gt-container .gt-comment-like:hover,
@@ -1269,17 +1269,21 @@ position: absolute;
   cursor: pointer;
 }
 .gt-container .gt-comment-like {
-  margin-right: 8px;
-  margin-top: 6px;
-  margin-bottom: 6px;
+  margin-right: 5px;
+  margin-top: 14px;
+    height: 25px;
+  margin-bottom: 0px;
+  left: 56px;
   background-image: none;
 }
 
 .gt-container .gt-comment-edit,
 .gt-container .gt-comment-reply {
-    margin-right: 8px;
-    margin-top: 6px;
-    margin-bottom: 6px;
+    margin-right: 5px;
+    margin-top: 14px;
+    margin-bottom: 0px;
+    left: 56px;
+  background-image: none;
 }
 
 .gt-comment-reply::before {
