@@ -5,7 +5,7 @@ details, summary {
 #toc-container {
     padding: 20px;
     font-size: 100%;
-    overflow-y: auto:
+    overflow-y: auto;
     max-width: 280px!important;
     min-width: 280px!important;
     position: fixed;
