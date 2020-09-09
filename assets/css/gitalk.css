@@ -855,13 +855,13 @@ display: inline-flex;
 }
 .gt-container .gt-avatar {
   display: inline-block;
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
 }
 @media (max-width: 480px) {
   .gt-container .gt-avatar {
-    width: 40px;
-    height: 40px;
+    width: 32px;
+    height: 32px;
   }
 }
 .gt-container .gt-avatar img {
@@ -871,15 +871,15 @@ display: inline-flex;
   margin-top: 4px;
 }
 .gt-container .gt-avatar-github {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
     border-radius: 50%;
   margin-top: 4px;
 }
 @media (max-width: 480px) {
   .gt-container .gt-avatar-github {
-    width: 40px;
-    height: 40px;
+    width: 32px;
+    height: 32px;
   }
 }
 .gt-container .gt-btn {
@@ -1070,11 +1070,11 @@ position: absolute;
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-  margin-left: 16px;
+  margin-left: 12px;
 }
 @media (max-width: 480px) {
   .gt-container .gt-header-comment {
-    margin-left: 16px;
+    margin-left: 12px;
   }
 }
 .gt-container .gt-header-textarea {
@@ -1196,7 +1196,7 @@ position: absolute;
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
-    margin-left: 16px;
+    margin-left: 12px;
     overflow: auto;
     -webkit-transition: all ease 0.25s;
     transition: all ease 0.25s;
@@ -1207,15 +1207,14 @@ position: absolute;
 }
 @media (max-width: 480px) {
   .gt-container .gt-comment-content {
-    margin-left: 16px;
+    margin-left: 12px;
   }
 }
 .gt-container .gt-comment-header {
-  margin-bottom: 2px;
-  margin-top: 2px;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 20px;
   position: relative;
-  height: 21px;
+  height: 40px;
 }
 .gt-container .gt-comment-block-1 {
   float: right;
