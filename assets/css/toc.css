@@ -151,6 +151,8 @@ details, summary {
   bottom: 0;
   left: 0;
   width: 100%;
+		-webkit-transform: translateX(0);
+    transform: translateX(0);
 	    visibility: visible;
     -webkit-transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
     transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
