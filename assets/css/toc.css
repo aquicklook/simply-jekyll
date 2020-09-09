@@ -192,7 +192,7 @@ details, summary {
 .user-guide-header button.close {
     position: fixed;
     top: 15px;
-    right: 15.5px;
+    right: 10.5px;
     text-shadow: none;
     min-width: auto;
     width: 30px;
