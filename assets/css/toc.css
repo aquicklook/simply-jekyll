@@ -159,8 +159,8 @@ details, summary {
   background: #1d1d1f; 
   padding: 8px 20px;
   z-index: 99999;
-	 -webkit-transition: bottom 1s;
-  transition: bottom 1s;
+	 -webkit-transition: bottom .25s;
+  transition: bottom .25s;
 }
 
 .user-guide-header {
