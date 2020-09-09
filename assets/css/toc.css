@@ -20,6 +20,7 @@ details, summary {
     border-width: 1px;
     line-height: normal !important;
     display: none;
+	z-index: 9999;
 }
 
 .toc-title {
