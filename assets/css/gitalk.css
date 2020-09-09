@@ -972,6 +972,8 @@ font-family: 'Feed', "Segoe UI", sans-serif !important;
 .gt-container .gt-link-project {
   text-decoration: none;
       background-image: none;
+      font-size: 22px;
+    line-height: 28px;
 }
 .gt-container .gt-meta {
   padding-bottom: 24px;
