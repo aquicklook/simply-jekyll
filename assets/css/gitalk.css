@@ -1175,7 +1175,8 @@ position: absolute;
   z-index: 10000;
 }
 .gt-container .gt-comments {
-    padding-top: 25px;
+      padding-top: 25px;
+      padding-bottom: 16px;
 }
 .gt-container .gt-comments-null {
   text-align: center;
@@ -1188,6 +1189,7 @@ position: absolute;
 .gt-container .gt-comment {
   position: relative;
     padding-bottom: 16px;
+  padding-top: 25px;
   border-bottom: 1px solid rgb(230, 230, 230);
   display: -webkit-box;
   display: -ms-flexbox;
