@@ -160,8 +160,8 @@ details, summary {
 
 .user-guide-header button.close {
     position: fixed;
-    top: 13px;
-    right: 15px;
+    top: 15px;
+    right: 15.5px;
     text-shadow: none;
     min-width: auto;
     width: 30px;
