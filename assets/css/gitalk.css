@@ -1304,11 +1304,6 @@ position: absolute;
     margin-bottom: 0px;
 }
 
-.gt-comment-reply::before {
-  content: "Reply";
-  color: #0070c9;
-}
-
 .gt-container .gt-comment-body {
   color: #292929 !important;
   line-height: 24px !important;
