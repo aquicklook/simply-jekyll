@@ -5,7 +5,7 @@ details, summary {
 #toc-container {
     padding: 20px;
     font-size: 100%;
-    overflow: auto;
+    overflow-y: auto:
     max-width: 280px!important;
     min-width: 280px!important;
     position: fixed;
@@ -14,14 +14,13 @@ details, summary {
     bottom: 0;
     top:0;
     background: #fff;
-    overflow-y: scroll;
     line-height: normal;
     border-radius: 0px;
     border-width: 1px;
     line-height: normal !important;
     display: none;
 	z-index: 1000;
-	    -webkit-transform: translateX(0);
+	-webkit-transform: translateX(0);
     transform: translateX(0);
     visibility: visible;
     -webkit-box-shadow: 0 0 16px rgba(0,0,0,.28);
@@ -33,7 +32,6 @@ details, summary {
 #cmt-container {
     padding: 20px;
     font-size: 100%;
-    overflow: auto;
     max-width: 384px!important;
     min-width: 384px!important;
     position: fixed;
@@ -43,7 +41,7 @@ details, summary {
     top:0;
     background: #fff;
 	display: none;
-    overflow-y: scroll;
+    overflow-y: auto;
     line-height: normal;
     border-radius: 0px;
     border-width: 1px;
@@ -153,11 +151,11 @@ details, summary {
   bottom: 0;
   left: 0;
   width: 100%;
-  -webkit-transition: bottom 0s;
-  transition: bottom 0s;
+  -webkit-transition: bottom 1s;
+  transition: bottom 1s;
   background: #1d1d1f; 
   padding: 8px 20px;
-  z-index: 999999999;
+  z-index: 99999;
 }
 
 .user-guide-header {
