@@ -1280,27 +1280,28 @@ position: absolute;
 .gt-container .gt-comment-like {
   margin-right: 5px;
   margin-top: 14px;
-    height: 25px;
+  height: 25px;
   margin-bottom: 0px;
   left: 44px;
   background-image: none;
 }
 
-.gt-container .gt-comment-edit,
-.gt-container .gt-comment-reply {
+.gt-container .gt-comment-edit {
     margin-right: 0px;
     margin-top: 7px;
     margin-bottom: 0px;
     background-image: none;
-}
-
-.gt-container .gt-comment-edit {
     right: 0;
     top: 25px;
 }
 
 .gt-container .gt-comment-reply {
-  left: 100px;
+    left: 15%;
+    background-image: none;
+    margin-right: 5px;
+    margin-top: 14px;
+    height: 25px;
+    margin-bottom: 0px;
 }
 
 .gt-comment-reply::before {
