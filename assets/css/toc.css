@@ -17,14 +17,9 @@ details, summary {
     border-radius: 0px;
     border-width: 1px;
     display: none;
-	z-index: 50;
-	-webkit-transform: translateX(0);
-    transform: translateX(0);
-    visibility: visible;
+    z-index: 50;
     -webkit-box-shadow: 0 0 16px rgba(0,0,0,.28);
     box-shadow: 0 0 16px rgba(0,0,0,.28);
-    -webkit-transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
-    transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
 }
 
 #cmt-container {
@@ -141,13 +136,13 @@ details, summary {
   position: fixed;
   bottom: 0;
   left: 0;
-	right: 0;
+  right: 0;
   width: 100%;
   background: #1d1d1f; 
   padding: 8px 20px;
   z-index: 100;
-  -webkit-transition: bottom .25s;
-  transition: bottom .25s;
+  -webkit-transition: bottom .25s ease;
+  transition: bottom .25s ease;
 }
 
 .user-guide-header {
