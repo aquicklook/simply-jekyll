@@ -39,20 +39,22 @@
 }
 
 .toc-title {
-    font-weight: 600;
     display: block;
+    text-transform: uppercase;
     zoom: 1;
     font-family: 'Feed', 'Segoe UI', sans-serif;
-    line-height: normal !important;
-    margin-top: 1em;
+    margin-top: 0;
     margin-bottom: 0.5em;
-    font-size: 22px;
-    max-height: 52px;
+    font-size: 12px;
+    max-height: 30px;
+    line-height: 15px !important;
     text-overflow: ellipsis;
     overflow: hidden;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 2;
     display: -webkit-box;
+    color: #757575;
+    letter-spacing: 0.05em;
 }
 
 .toc-list, .toc-list ul {
@@ -141,8 +143,8 @@
 
 .user-guide-header button.close {
     position: fixed;
-    top: 15px;
-    right: 10.5px;
+    top: 13px;
+    left: 281px;
     text-shadow: none;
     min-width: auto;
     border: 0;
