@@ -8,7 +8,7 @@ function tocContainer() {
 }
 
 
-var lastScrollTop = 0;
+var lastScrollTop = -100%;
 window.addEventListener("scroll", function(){  
    var st = window.pageYOffset || document.documentElement.scrollTop;  
    if (st > lastScrollTop){
