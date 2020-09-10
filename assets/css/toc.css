@@ -164,3 +164,104 @@ button.close {
     filter: alpha(opacity=20);
     opacity: .6;
 }
+
+.dg {
+    position: relative;
+}
+
+.an {
+    display: block;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+
+.gq {
+    font-size: 16px;
+}
+
+.acc {
+    pointer-events: auto;
+}
+
+.ce {
+    pointer-events: none;
+}
+
+.b {
+    font-weight: 400;
+}
+
+.pm {
+    background: linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+}
+
+.ej {
+    position: absolute;
+}
+
+.bv {
+    top: 0px;
+}
+
+.ac {
+    width: 100%;
+}
+
+.r {
+    height: 35px;
+}
+
+.ps {
+    padding-bottom: 35px;
+}
+
+.pr {
+    height: 150px;
+}
+
+.po {
+    scrollbar-width: none;
+}
+
+.pn {
+    overflow-y: scroll;
+}
+
+.yp {
+    -ms-overflow-style: none;
+}
+
+.ij {
+    margin-top: 16px;
+}
+
+.ic {
+    overflow: hidden;
+}
+
+.an {
+    display: block;
+}
+
+.pu {
+    top: -35px;
+}
+
+.pt {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 1));
+}
+
+.dg {
+    position: relative;
+}
+
+.ac {
+    width: 100%;
+}
+
+.r {
+    height: 35px;
+}
