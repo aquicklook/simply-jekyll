@@ -141,8 +141,8 @@ details, summary {
   background: #1d1d1f; 
   padding: 8px 20px;
   z-index: 100;
-  -webkit-transition: bottom .25s ease;
-  transition: bottom .25s ease;
+  -webkit-transition: bottom .25s;
+  transition: bottom .25s;
 }
 
 .user-guide-header {
@@ -177,7 +177,6 @@ details, summary {
     right: 10.5px;
     text-shadow: none;
     min-width: auto;
-    width: 30px;
     border: 0;
     display: block;
 }
