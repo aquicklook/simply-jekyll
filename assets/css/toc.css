@@ -106,9 +106,7 @@
 
 #bottommenu {
   position: fixed;
-  bottom: 0;
   left: 0;
-  right: 0;
   width: 100%;
   background: #1d1d1f; 
   padding: 8px 20px;
