@@ -165,3 +165,22 @@ button.close {
     opacity: .6;
 }
 
+.pm {
+    background: linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
+}
+
+.ej {
+    position: absolute;
+}
+
+.bv {
+    top: 0px;
+}
+
+.ac {
+    width: 100%;
+}
+
+.r {
+    height: 35px;
+}
