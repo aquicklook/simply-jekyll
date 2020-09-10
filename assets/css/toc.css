@@ -175,4 +175,6 @@ button.close {
     padding: 8px 0px;
     background-image: none;
     line-height: 20px !important;
+    height: 20px !important;
+    max-height: 20px !important;
 }
