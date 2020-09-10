@@ -104,13 +104,13 @@
 
 #bottommenu {
   position: fixed;
-  left: 0;
+  bottom: 0;
   width: 100%;
   background: #1d1d1f; 
   padding: 8px 20px;
   z-index: 100;
-  -webkit-transition: bottom .25s;
-  transition: bottom .25s;
+  -webkit-transition: bottom 2s;
+  transition: bottom 2s;
 }
 
 .user-guide-header {
