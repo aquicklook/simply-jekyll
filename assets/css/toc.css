@@ -14,10 +14,8 @@ details, summary {
     bottom: 0;
     top:0;
     background: #fff;
-    line-height: normal;
     border-radius: 0px;
     border-width: 1px;
-    line-height: normal !important;
     display: none;
 	z-index: 50;
 	-webkit-transform: translateX(0);
@@ -40,20 +38,13 @@ details, summary {
     bottom: 0;
     top:0;
     background: #fff;
-	display: none;
+    display: none;
     overflow-y: auto;
-    line-height: normal;
     border-radius: 0px;
     border-width: 1px;
-    line-height: normal !important;
-	z-index: 50;
-	    -webkit-transform: translateX(0);
-    transform: translateX(0);
-    visibility: visible;
+    z-index: 50;
     -webkit-box-shadow: 0 0 16px rgba(0,0,0,.28);
     box-shadow: 0 0 16px rgba(0,0,0,.28);
-    -webkit-transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
-    transition: transform .25s cubic-bezier(0.4,0.0,0.2,1) ,visibility 0s linear 0s;
 }
 
 .toc-title {
@@ -119,7 +110,7 @@ details, summary {
 }
 
 .re-li:hover {
-    color: #ff2f56;
+    color: #0070c9;
 }
 
 .toc-container a {
