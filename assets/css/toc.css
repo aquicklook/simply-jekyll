@@ -265,3 +265,132 @@ button.close {
 .r {
     height: 35px;
 }
+
+.ij {
+    margin-top: 16px;
+}
+
+.ic {
+    overflow: hidden;
+}
+
+.an {
+    display: block;
+}
+
+.hk {
+    margin-top: 5px;
+}
+
+menu, ol, ul {
+    padding: 0;
+    list-style: none;
+    list-style-image: none;
+}
+
+.ic {
+    overflow: hidden;
+}
+.gr {
+    line-height: 20px;
+}
+
+.gq {
+    font-size: 16px;
+}
+
+.fq {
+    font-weight: 300;
+}
+
+.fp {
+    font-family: 'Feed';
+}
+
+.df {
+    color: rgba(41, 41, 41, 1);
+}
+
+h1, h2, h3, h4, h5, h6, dl, dd, ol, ul, menu, figure, blockquote, p, pre, form {
+    margin: 0;
+}
+
+.dj {
+    fill: inherit;
+}
+
+.bd {
+    margin: 0;
+}
+
+.bc {
+    padding: 0;
+}
+
+.bb {
+    font-weight: inherit;
+}
+
+.ba {
+    letter-spacing: inherit;
+}
+
+.az {
+    font-family: inherit;
+}
+
+.ay {
+    border: inherit;
+}
+
+.ax {
+    font-size: inherit;
+}
+
+.av {
+    color: inherit;
+}
+a, button, input {
+    -webkit-tap-highlight-color: transparent;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nb {
+    width: 131px;
+}
+
+.im {
+    white-space: nowrap;
+}
+
+.il {
+    text-overflow: ellipsis;
+}
+
+.ik {
+    padding: 8px 0;
+}
+
+.ic {
+    overflow: hidden;
+}
+
+a, button, input {
+    -webkit-tap-highlight-color: transparent;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
