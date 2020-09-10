@@ -19,7 +19,7 @@ details, summary {
     border-width: 1px;
     line-height: normal !important;
     display: none;
-	z-index: 1000;
+	z-index: 50;
 	-webkit-transform: translateX(0);
     transform: translateX(0);
     visibility: visible;
@@ -46,7 +46,7 @@ details, summary {
     border-radius: 0px;
     border-width: 1px;
     line-height: normal !important;
-	z-index: 1000;
+	z-index: 50;
 	    -webkit-transform: translateX(0);
     transform: translateX(0);
     visibility: visible;
@@ -133,7 +133,7 @@ details, summary {
 }
 
 .toc-container a:hover {
-    color: #ff2f56;
+    color: #0070c9;
 }
 
 .makedl a {
@@ -154,7 +154,7 @@ details, summary {
   width: 100%;
   background: #1d1d1f; 
   padding: 8px 20px;
-  z-index: 99999;
+  z-index: 100;
   -webkit-transition: bottom .25s;
   transition: bottom .25s;
 }
