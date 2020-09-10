@@ -151,7 +151,7 @@
     display: block;
 }
 
-user-guide-header {
+.user-guide-header {
     position: fixed;
     top: 20px;
     left: 20px;
