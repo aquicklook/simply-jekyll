@@ -171,4 +171,8 @@ button.close {
     background: linear-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
 }
 
-.toc-list
+.plua {
+    padding: 8px 0px;
+    background-image: none;
+    line-height: 20px !important;
+}
