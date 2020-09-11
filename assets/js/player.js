@@ -5,6 +5,3 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelector(selector).addEventListener(type, callback, false);
   }
 });
-
-vid=document.getElementById("vid")
-vid.disablePictureInPicture = true
