@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
   player.volume = 0.5;
   function on(selector, type, callback) {
     document.querySelector(selector).addEventListener(type, callback, false);
-  }
+  },
   controls: [
     'play-large', // The large play button in the center
     'restart', // Restart playback
