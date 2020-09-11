@@ -17,3 +17,11 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 });
 
+var options = {
+  controlBar: {
+    volumePanel: {
+      inline: false,
+      vertical: true
+    }
+  }
+};
