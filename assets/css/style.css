@@ -1089,11 +1089,12 @@ hr {
     height: 100%;
 }
 
-.video-wrap {
+#video-box {
 	position: relative;
 	padding-bottom: 56.25%;
 	height: 0;
 	overflow: hidden;
+	margin: 40px 0 35px 0;
 	box-shadow: 0 1px 4px rgba(0,0,0,.04), inset 0 0 0 1px rgba(0,0,0,.09);
 	top: 0;
 	left: 0;
