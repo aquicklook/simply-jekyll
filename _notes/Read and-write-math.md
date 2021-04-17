@@ -53,7 +53,7 @@ Khi tìm hiểu về [quy luật 80/20](https://sachvui.com/sachvui-686868666888
 Nội dung quan trọng nhất của toán được tìm thấy trong các khái niệm không phải là bài tập ở cuối mỗi phần. Toán học có rất nhiều chủ đề để tìm hiểu, mỗi chủ đề lại được phân ra thành vô số các chuyên đề và trong mỗi chuyên đề lại có vô vàn các dạng khác nhau. Vì vậy không có cách nào để học hết mọi kỹ thuật để giải bài toán đơn lẻ. Toán học là về ý tưởng. Các bài toán mà bạn được giao là biểu hiện của những ý tưởng này. Nếu tập trung vào các khái niệm chính, bạn có thể giải quyết bất kỳ vấn đề nào liên quan đến những khái niệm đó kể cả những vấn đề bạn chưa từng thấy trước đây.
 
 Có một câu chuyện được kể đằng sau mỗi khái niệm toán học. Vì vậy với mỗi khái niệm mà bạn tìm hiểu, bạn nên hình dung ra một bức tranh tổng thể về nó. Bức tranh này là câu trả lời cho các câu hỏi cơ bản sau...
-
+Tips for searching
 - What does it say?
 - What are it’s hypotheses?
 - What implications does it have?
