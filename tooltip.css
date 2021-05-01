@@ -200,7 +200,8 @@
 .tooltipster-sidetip .tooltipster-box {
   background: #fff;
   border: 1px solid #c8ccd1;
-  border-radius: 3px
+  border-radius: 3px;
+  box-shadow: 0 15px 45px -10px rgb(0 0 0 / 30%);
 }
 
 .tooltipster-sidetip.tooltipster-bottom .tooltipster-box {
